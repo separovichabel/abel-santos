@@ -20,3 +20,23 @@ Pelo decreto de Deus, para a manifestação de Sua glória, alguns homens e anjo
 Esses anjos e homens, assim predestinados e previamente ordenados, são particularmente e imutavelmente designados; e seu número é tão certo e definitivo que não pode ser nem aumentado nem diminuído. [a]
 
 [a] João 13:18; 2 Timóteo 2:19.
+
+## 5
+Aqueles da humanidade que são predestinados à vida, Deus, antes da fundação do mundo, de acordo com Seu eterno e imutável propósito, e o conselho secreto e bom prazer de Sua vontade, escolheu em Cristo, para glória eterna, [a] por pura graça e amor, sem qualquer previsão de fé ou boas obras, ou perseverança em ambas, ou qualquer outra coisa na criatura, como condições ou causas que o moviam a isso; [b] e tudo para o louvor de Sua gloriosa graça. [c]
+
+[a] Romanos 8:30; Efésios 1:4, 9, 11; 1 Tessalonicenses 5:9; 2 Timóteo 1:9. [b] Romanos 9:11, 13, 16; Efésios 1:4, 9. [c] Efésios 1:6, 12.
+
+## 6
+Assim como Deus determinou os eleitos para a glória, também, pelo eterno e mais livre propósito de Sua vontade, preordenou todos os meios para isso. Por isso, aqueles que são eleitos, caídos em Adão, são redimidos por Cristo, são chamados efetivamente à fé em Cristo pelo Seu Espírito, que age na estação devida; são justificados, adotados, santificados, e preservados pelo Seu poder, por meio da fé, para a salvação. Nem outros são redimidos por Cristo, chamados efetivamente, justificados, adotados, santificados e salvos, senão os eleitos somente.
+
+a. Efésios 1:4-5; Efésios 2:10; 2 Tessalonicenses 2:13; 1 Pedro 1:2. • b. 1 Tessalonicenses 5:9-10; Tito 2:14. • c. Romanos 8:30; Efésios 1:5; 2 Tessalonicenses 2:13. • d. 1 Pedro 1:5. • e. João 6:64-65; 8:47; 10:26; 17:9; Romanos 8:28-39; 1 João 2:19.
+
+## 7
+Quanto ao restante da humanidade, Deus se agradou, de acordo com o insondável conselho de Sua própria vontade, pelo qual Ele estende ou retém a misericórdia como Lhe apraz, para a glória de Seu poder soberano sobre Suas criaturas, de passar por alto e ordená-las para desonra e ira por seus pecados, para o louvor de Sua gloriosa justiça. [a]
+
+[a] Mateus 11:25-26; Romanos 9:17-18, 21-22; 2 Timóteo 2:19-20; 1 Pedro 2:8; Judas 1:4.
+
+## 8
+A doutrina deste alto mistério da predestinação deve ser tratada com especial prudência e cuidado, [a] a fim de que os homens, atendendo à vontade de Deus revelada em Sua Palavra, e rendendo-lhe obediência, possam, pela certeza de sua vocação eficaz, ter a segurança de sua eleição eterna. [b] Assim, esta doutrina fornecerá matéria de louvor, reverência e admiração a Deus; [c] e de humildade, diligência e abundante consolação para todos os que sinceramente obedecem ao evangelho. [d]
+
+[a] Deuteronômio 29:29; Romanos 9:20. [b] 2 Pedro 1:10. [c] Romanos 11:33; Efésios 1:6. [d] Lucas 10:20; Romanos 8:33; 11:5-6, 20; 2 Pedro 1:10.
