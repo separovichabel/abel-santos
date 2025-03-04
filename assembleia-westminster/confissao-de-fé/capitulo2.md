@@ -1,0 +1,17 @@
+# Capítulo 2: De Deus e da Santíssima Trindade
+A Confissão de Fé de Westminster de 1647
+
+## 1
+Existe apenas um único Deus [a] vivo e verdadeiro, [b] que é infinito em ser e perfeição, [c] um espírito puríssimo, [d] invisível, [e] sem corpo, partes [f] ou paixões, [g] imutável, [h] imenso, [i] eterno, [k] incompreensível, [l] todo-poderoso, [m] sumamente sábio, [n] sumamente santo, [o] sumamente livre, [p] sumamente absoluto, [q] realizando todas as coisas conforme o conselho de sua própria e imutável e mais justa vontade, [r] para sua própria glória; [s] sumamente amoroso, [t] gracioso, misericordioso, longânimo, abundante em bondade e verdade, perdoando a iniquidade, transgressão e pecado; [u] recompensando aqueles que diligentemente o buscam; [w] e, ao mesmo tempo, sumamente justo e terrível em seus juízos, [x] odiando todo pecado, [y] e que de modo nenhum absolvê os culpados. [z]
+
+[a] Deuteronômio 6:4; 1 Coríntios 8:4, 6. [b] Jeremias 10:10; 1 Tessalonicenses 1:9. [c] Jó 11:7-9; 26:14. [d] João 4:24. [e] 1 Timóteo 1:17. [f] Deuteronômio 4:15-16; João 4:24 com Lucas 24:39. [g] Atos 14:11, 15. [h] Malaquias 3:6; Tiago 1:17. [i] 1 Reis 8:27; Jeremias 23:23-24. [j] Salmo 90:2; 1 Timóteo 1:17. [l] Salmo 145:3. [m] Gênesis 17:1; Apocalipse 4:8. [n] Romanos 16:27. [o] Isaías 6:3; Apocalipse 4:8. [p] Salmo 115:3. [q] Êxodo 3:14. [r] Efésios 1:11. [s] Provérbios 16:4; Romanos 11:36. [t] 1 João 4:8, 16. [u] Êxodo 34:6-7. [w] Hebreus 11:6. [x] Neemias 9:32-33. [y] Salmo 5:5-6. [z] Êxodo 34:7; Naum 1:2-3.
+
+## 2
+Deus tem toda a vida, [a] glória, [b] bondade, [c] bem-aventurança, [d] em e de si mesmo; e é, sozinho, em e para si mesmo, totalmente suficiente, não necessitando de nenhuma criatura que tenha criado, [e] nem derivando glória delas, [f] mas apenas manifestando sua própria glória nelas, por meio delas, para elas e sobre elas: ele é a única fonte de todo o ser, de quem, por quem e para quem são todas as coisas; [g] e tem soberana dominação sobre elas, para fazer por elas, para elas ou sobre elas o que lhe agradar. [h] Diante dele todas as coisas estão abertas e manifestas; [i] seu conhecimento é infinito, infalível e independente da criatura; [k] de modo que nada é contingente ou incerto para ele. [l] Ele é sumamente santo em todos os seus conselhos, em todas as suas obras e em todos os seus mandamentos. [m] A ele é devido, de anjos, homens e de toda outra criatura, toda adoração, serviço ou obediência, que ele se agradar de requerer delas. [n]
+
+[a] João 5:26. [b] Atos 7:2. [c] Salmo 119:68. [d] Romanos 9:5; 1 Timóteo 6:15. [e] Atos 17:24-25. [f] Jó 22:2-3. [g] Romanos 11:36. [h] Daniel 4:25, 35; 1 Timóteo 6:15; Apocalipse 4:11. [i] Hebreus 4:13. [k] Salmo 147:5; Romanos 11:33-34. [l] Ezequiel 11:5; Atos 15:18. [m] Salmo 145:17; Romanos 7:12. [n] Apocalipse 5:12-14.
+
+## 3
+Na unidade da Divindade, há três pessoas, de uma substância, poder e eternidade: Deus o Pai, Deus o Filho e Deus o Espírito Santo. [a] O Pai não é de ninguém, nem gerado nem procedente; o Filho é gerado eternamente do Pai; [b] o Espírito Santo procede eternamente do Pai e do Filho. [c]
+
+[a] Mateus 3:16-17; 28:19; 2 Coríntios 13:14; 1 João 5:7. [b] João 1:14, 18. [c] João 15:26; Gálatas 4:6.
