@@ -18,17 +18,17 @@ Essa certeza não é uma mera conjectura ou uma persuasão provável baseada em 
 **[e]** Efésios 1:13-14; Efésios 4:30; 2 Coríntios 1:21-22.
 
 ### **III.**
-Essa certeza infalível não pertence de tal forma à essência da fé, que um verdadeiro crente não possa esperar por longo tempo e lutar com muitas dificuldades antes de ser participante dela [a]; no entanto, sendo capacitado pelo Espírito a conhecer as coisas que lhe são gratuitamente dadas por Deus, ele pode, sem revelação extraordinária, através do uso correto dos meios ordinários, alcançar essa certeza [b]. Portanto, é dever de cada um dar toda sua diligencia para tornar firme sua vocação e eleição [c], para que, assim, seu coração seja alargado em paz e alegria no Espírito Santo, em amor e gratidão a Deus, e em força e ânimo no cumprimento dos deveres da obediência [d], que são os próprios frutos dessa certeza; isso está distante de inclinar os homens à negligência. [e]
+Essa certeza infalível não pertence de tal forma à essência da fé, que um verdadeiro crente não possa esperar por longo tempo e lutar com muitas dificuldades antes de ser participante dela [a]; no entanto, sendo capacitado pelo Espírito a conhecer as coisas que lhe são gratuitamente dadas por Deus, ele pode, sem revelação extraordinária, através do uso correto dos meios ordinários, alcançar essa certeza [b]. Portanto, é dever de cada um dar toda sua diligencia para tornar firme sua vocação e eleição [c], para que, assim, seu coração seja alargado em paz e alegria no Espírito Santo, em amor e gratidão a Deus, e em força e ânimo no cumprimento dos deveres da obediência [d], que são os próprios frutos dessa certeza; isso está distante de inclinar os homens à negligência [e]. 
 
-**[a]** 
-**[b]** 
-**[c]** 
-**[d]** 
-**[e]** 
+**[a]** 1 João 5:13; Isaías 1:10; Marcos 9:24 (veja Salmo 88 e Salmo 77).
+**[b]** 1 Coríntios 2:12; 1 João 4:13; Hebreus 6:11-12; Efésios 3:17-19.
+**[c]** 2 Pedro 1:10
+**[d]** Romanos 5:1-2, 5; Romanos 14:17; Romanos 15:13; Efésios 1:3-4; Salmos 4:6-7; Salmos 119:32.
+**[e]** 1 João 2:1-2; Romanos 6:1-2; Tito 2:11-12, 14; 2 Coríntios 7:1; Romanos 8:1, 12; 1 João 3:2-3; Salmos 130:4; 1 João 1:6-7.
 
 ### **IV.**
 Verdadeiros crentes podem ter a certeza de sua salvação abaladas de diversas maneiras, diminuídas e interrompidas; como, por negligência em preservá-la, por cair em algum pecado em especial que fere a consciência e entristece o Espírito; por alguma tentação súbita ou veemente, por Deus retirar a luz de Seu rosto, permitindo até que aqueles que O temem andem nas trevas e não tenham luz [a]; ainda assim, nunca estão completamente destituídos dessa semente de Deus, dessa vida de fé, do amor de Cristo e dos irmãos, da sinceridade de coração e da consciência do dever, de onde, pela operação do Espírito, essa certeza pode, no tempo devido, ser revivida [b]; e por meio da qual, nesse meio tempo, são sustentados contra o desespero total [c].
 
-**[a]** 1 João 5:13; Isaías 1:10; Marcos 9:24 (ver Salmo 88 e Salmo 77).
-**[b]** 1 João 5:13; Isaías 1:10; Marcos 9:24 (ver Salmo 88 e Salmo 77).
-**[c]** 1 João 5:13; Isaías 1:10; Marcos 9:24 (ver Salmo 88 e Salmo 77).
+**[a]** Cântico dos Cânticos 5:2, 3, 6; Efésios 4:31; Salmos 77:1-10; Mateus 26:69-72; Salmos 31:22; Isaías 50:10; Salmos 51:8, 12, 14.
+**[b]** 1 João 3:9; Lucas 22:32; Jó 13:15; Salmos 73:15; Salmos 51:8, 12; Isaías 50:10.
+**[c]** Miquéias 7:7-9; Jeremias 32:40; Isaías 54:7-10; Salmos 22:1; Salmos 88 completo.
