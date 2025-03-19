@@ -1,4 +1,4 @@
-# Capítulo 17: Da Certeza da Graça e da Salvação
+# Capítulo 18: Da Certeza da Graça e da Salvação
 
 ### **I.**  
 Embora hipócritas e outros homens não regenerados possam enganar a si mesmos em vão com falsas esperanças e presunções carnais de estarem no favor de Deus e em um estado de salvação[a] (o que será destruído [b]), aqueles que verdadeiramente creem no Senhor Jesus e O amam sinceramente, esforçando-se para andar com boa consciência diante Dele, podem, nesta vida, estar certamente assegurados de que estão no estado de graça [c], e podem se alegrar na esperança da glória de Deus, esperança essa que nunca os envergonhará. [d]
