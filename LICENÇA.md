@@ -6,4 +6,4 @@ Este site, **abelsantos.com.br** ([abelsantos.com.br](https://abelsantos.com.br)
 
 2. **Licença do Site**: A **estrutura e design do site** são licenciados sob **CC BY-ND**. Isso significa que você pode usar o conteúdo do site, mas **não pode modificar** o design ou a estrutura dele.
 
-Para mais detalhes, consulte nossa página de **[termos e condições](https://www.abelsantos.com.br/termos)**.
+Para mais detalhes, consulte nossa página de **[termos e condições](TERMOS.md)**.
