@@ -1,0 +1,36 @@
+# Confissão de Fé de Westminster
+
+## Capítulos
+1. [**Da Escritura Sagrada**](capitulo1.md)
+2. [**De Deus e da Santíssima Trindade**](capitulo2.md)
+3. [**Do Decreto Eterno de Deus**](capitulo3.md)
+4. [**Da Criação**](capitulo4.md)
+5. [**Da Providência**](capitulo5.md)
+6. [**Da Queda do Homem, do Pecado e da Sua Punição**](capitulo6.md)
+7. [**Da Aliança de Deus com o Homem**](capitulo7.md)
+8. [**Do Cristo Mediador**](capitulo8.md)
+9. [**Do Livre Arbítrio**](capitulo9.md)
+10. [**Do Chamado Eficaz**](capitulo10.md)
+11. [**Da Justificação**](capitulo11.md)
+12. [**Da Adoção**](capitulo12.md)
+13. [**Da Santificação**](capitulo13.md)
+14. [**Da Fé Salvadora**](capitulo14.md)
+15. [**Do Arrependimento para a Vida**](capitulo15.md)
+16. [**Das Boas Obras**](capitulo16.md)
+17. [**Da Perseverança dos Santos**](capitulo17.md)
+18. [**Da Certeza da Graça e da Salvação**](capitulo18.md)
+19. [**Da Lei de Deus**](capitulo19.md)
+20. [**Da Liberdade Cristã e da Liberdade de Consciência**](capitulo20.md)
+21. **Do Culto Religioso e do Dia de Sábado**
+22. **Dos Juramentos e Votos Lícitos**
+23. **Do Magistrado Civil**
+24. **Do Casamento e do Divórcio**
+25. **Da Igreja**
+26. **Da Comunhão dos Santos**
+27. **Dos Sacramentos**
+28. **Do Batismo**
+29. **Da Ceia do Senhor**
+30. **Das Censuras Eclesiásticas**
+31. **Dos Sínodos e Concílios**
+32. **Do Estado dos Homens Após a Morte e da Ressurreição dos Mortos**
+33. **Do Juízo Final**
