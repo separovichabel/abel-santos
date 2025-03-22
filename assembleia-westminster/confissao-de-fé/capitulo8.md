@@ -1,4 +1,4 @@
-# Capítulo 8: Da Cristo Mediador
+# Capítulo 8: Do Cristo Mediador
 
 ## **1**  
 Aprouve a Deus, em seu eterno propósito, escolher e ordenar o Senhor Jesus, seu Filho unigênito, para ser o Mediador entre Deus e os homens [a], o Profeta [b], Sacerdote [c] e Rei [d]; o Cabeça e Salvador de sua Igreja [e], o Herdeiro de todas as coisas [f] e Juiz do mundo [g]; ao qual ele deu, desde toda a eternidade, um povo para ser sua semente [h], e para ser por ele, no tempo, redimido, chamado, justificado, santificado e glorificado [i].  

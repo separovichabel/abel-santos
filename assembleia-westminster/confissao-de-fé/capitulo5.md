@@ -1,4 +1,4 @@
-# Capítulo 4: Da Providência
+# Capítulo 5: Da Providência
 A Confissão de Fé de Westminster de 1647
 
 ## 1
