@@ -34,13 +34,40 @@ A oração deve ser feita por coisas lícitas [a] e por todas as pessoas vivas, 
 **[d]** 1 João 5:16
 
 ### **V.** 
-A leitura das Escrituras com temor piedoso [a], a pregação sólida e a audição conscienciosa da Palavra, em obediência a Deus, com entendimento, fé e reverência, o canto de salmos com graça no coração; assim como a devida administração e recepção digna dos sacramentos instituídos por Cristo, são todas partes da adoração religiosa ordinária a Deus: além de juramentos religiosos, votos, jejum solenes e ações de graças em ocasiões especiais, que, nos seus devidos tempos e estações, devem ser usados de maneira santa e religiosa.
+A leitura das Escrituras com temor piedoso [a], a pregação sólida [b] e a audição conscienciosa da Palavra, em obediência a Deus, com entendimento, fé e reverência [c], o canto de salmos com graça no coração [d]; assim como a devida administração e recepção digna dos sacramentos instituídos por Cristo, são todas partes da adoração religiosa ordinária a Deus [e]: além de juramentos religiosos [f], votos [g], jejum solenes [h] e ações de graças em ocasiões especiais [i], que, nos seus devidos tempos e estações, devem ser usados de maneira santa e religiosa [j].
+
+**[a]** Atos 15:21; Apocalipse 1:3.
+**[b]** 2 Timóteo 4:2
+**[c]** Tiago 1:22; Atos 10:33; Mateus 13:19; Hebreus 4:2; Isaías 66:2
+**[d]** Colossenses 3:16; Efésios 5:19; Tiago 5:13
+**[e]** Mateus 28:19; 1 Coríntios 11:23-28; Atos 2:42
+**[f]** Deuteronômio 6:13; Neemias 10:29
+**[g]** Isaías 19:21; Eclesiastes 5:4-5
+**[h]** Joel 2:12; Ester 4:16; Mateus 9:15; 1 Coríntios 7:5
+**[i]** (Salmos 107 inteiro); Ester 9:22
+**[j]** Hebreus 12:28
 
 ### **VI.** 
-Nem a oração, nem qualquer outra parte da adoração religiosa, está agora, sob o Evangelho, ligada a, ou se torna mais aceitável por, qualquer lugar em que é realizada, ou para o qual é dirigida: mas Deus deve ser adorado em todo lugar, em espírito e em verdade; como, nas famílias privadas diariamente, e em secreto, cada um por si mesmo; assim como, mais solenemente, nas assembleias públicas, as quais não devem ser negligenciadas ou abandonadas de forma descuidada ou voluntária, quando Deus, por Sua Palavra ou providência, chamar para elas.
+Nem a oração, nem qualquer outra parte da adoração religiosa, está agora, sob o Evangelho, ligada a, ou se torna mais aceitável por, qualquer lugar em que é realizada, ou para o qual é dirigida [a]: mas Deus deve ser adorado em todo lugar [b], em espírito e em verdade [c]; como, nas famílias em privado [d] diariamente [e], e em secreto, cada um por si mesmo [f]; assim como, mais solenemente, nas assembleias públicas, as quais não devem ser negligenciadas ou abandonadas de forma descuidada ou voluntária, quando Deus, por Sua Palavra ou providência, chamar para elas [g].
+
+**[a]** João 4:21
+**[b]** Malaquias 1:11; 1 Timóteo 2:8
+**[c]** João 4:23-24
+**[d]** Jeremias 10:25; Deuteronômio 6:6-7; Jó 1:5; 2 Samuel 6:18-20; 1 Pedro 3:7; Atos 10:2
+**[e]** Mateus 6:11
+**[f]** Mateus 6:6; Efésios 6:18
+**[g]** Isaías 56:6-7; Hebreus 10:25; Provérbios 1:20-24; Provérbios 8:34; Atos 13:42; Lucas 4:16; Atos 2:42
 
 ### **VII.** 
-Assim como é lei da natureza, que, de maneira geral, uma devida proporção de tempo seja separada para a adoração de Deus; assim, em Sua Palavra, por um mandamento positivo, moral e perpétuo, vinculante a todos os homens em todas as épocas, Ele designou particularmente um dia em sete, para um Sábado, a ser guardado santo para Ele; o qual, desde o princípio do mundo até a ressurreição de Cristo, era o último dia da semana: e, desde a ressurreição de Cristo, foi alterado para o primeiro dia da semana, o qual, nas Escrituras, é chamado o Dia do Senhor, e deve ser continuado até o fim do mundo, como o Sábado Cristão.
+Assim como é lei da natureza, que, de maneira geral, uma devida proporção de tempo seja separada para a adoração de Deus; assim, em Sua Palavra, por um mandamento positivo, moral e perpétuo, vinculante a todos os homens em todas as épocas, Ele designou particularmente um dia em sete, para um Sábado, a ser guardado santo para Ele [a]; o qual, desde o princípio do mundo até a ressurreição de Cristo, era o último dia da semana: e, desde a ressurreição de Cristo, foi alterado para o primeiro dia da semana [b], o qual, nas Escrituras, é chamado o Dia do Senhor [c], e deve ser continuado até o fim do mundo, como o Sábado Cristão [d].
+
+**[a]** Êxodo 20:8-11; Isaías 56:2, 4-7
+**[b]** Gênesis 2:2-3; 1 Coríntios 16:1-2; Atos 20:7
+**[c]** Apocalipse 1:10
+**[d]** Êxodo 20:8, 10; Mateus 5:17-18
 
 ### **VIII.** 
-Este Sábado é então guardado santo para o Senhor, quando os homens, após uma devida preparação de seus corações e organização de seus assuntos cotidianos com antecedência, não apenas observam um descanso santo durante todo o dia, de seus próprios trabalhos, palavras e pensamentos sobre seus empreguices e recreações mundanas, mas também se dedicam, durante todo o tempo, aos exercícios públicos e privados de Sua adoração, e aos deveres de necessidade e misericórdia.
+Este Sábado é então guardado santo para o Senhor, quando os homens, após uma devida preparação de seus corações e organização de seus assuntos cotidianos com antecedência, não apenas observam um descanso santo durante todo o dia, de seus próprios trabalhos, palavras e pensamentos sobre seus empreguices e recreações mundanas [a], mas também se dedicam, durante todo o tempo, aos exercícios públicos e privados de Sua adoração, e aos deveres de necessidade e misericórdia [b].
+
+**[a]** Êxodo 20:8; 16:23-30; 31:15-17; Isaías 58:13; Neemias 13:15-22
+**[b]** Isaías 58:13
