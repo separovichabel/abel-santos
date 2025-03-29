@@ -24,7 +24,7 @@
 21. [**Do Culto Religioso e do Dia de Sábado**](capitulo21.md)
 22. [**Dos Juramentos e Votos Lícitos**](capitulo22.md)
 23. [**Do Magistrado Civil**](capitulo23.md)
-24. **Do Casamento e do Divórcio**
+24. [**Do Casamento e do Divórcio**](capitulo24.md)
 25. **Da Igreja**
 26. **Da Comunhão dos Santos**
 27. **Dos Sacramentos**
