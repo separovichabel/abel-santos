@@ -23,7 +23,7 @@
 20. [**Da Liberdade Cristã e da Liberdade de Consciência**](capitulo20.md)
 21. [**Do Culto Religioso e do Dia de Sábado**](capitulo21.md)
 22. [**Dos Juramentos e Votos Lícitos**](capitulo22.md)
-23. **Do Magistrado Civil**
+23. [**Do Magistrado Civil**](capitulo23.md)
 24. **Do Casamento e do Divórcio**
 25. **Da Igreja**
 26. **Da Comunhão dos Santos**
