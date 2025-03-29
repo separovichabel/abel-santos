@@ -25,7 +25,7 @@
 22. [**Dos Juramentos e Votos Lícitos**](capitulo22.md)
 23. [**Do Magistrado Civil**](capitulo23.md)
 24. [**Do Casamento e do Divórcio**](capitulo24.md)
-25. **Da Igreja**
+25. [**Da Igreja**](capitulo25.md)
 26. **Da Comunhão dos Santos**
 27. **Dos Sacramentos**
 28. **Do Batismo**
