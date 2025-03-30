@@ -3,25 +3,19 @@
 
 ## Seção I, II e III
 
-**Seção I** — O casamento deve ser entre um homem e uma mulher; não é lícito que qualquer homem tenha mais de uma esposa, nem que qualquer mulher tenha mais de um marido ao mesmo tempo **(a)**.
-
-**Seção II** — O casamento foi ordenado para a ajuda mútua do marido e da esposa **(b)**, para o aumento da humanidade com uma descendência legítima e da Igreja com uma semente santa **(c)**, e para a prevenção da impureza **(d)**.
-
-**Seção III** — É lícito que todas as pessoas se casem, desde que sejam capazes de dar seu consentimento com discernimento **(e)**; contudo, é dever dos cristãos casar somente no Senhor **(f)**. Portanto, aqueles que professam a verdadeira religião reformada não devem se casar com infiéis, papistas ou outros idólatras; nem devem os piedosos se prender a um jugo desigual, casando-se com aqueles que são notoriamente ímpios em sua vida ou sustentam heresias condenáveis **(g)**.
-
-**(a)** Gênesis 2:24; Mateus 19:6, 7; Provérbios 2:17
-
-**(b)** Gênesis 2:18
-
-**(c)** Malaquias 2:15
-
-**(d)** 1 Coríntios 7:2, 9
-
-**(e)** Hebreus 13:4; 1 Timóteo 4:3; 1 Coríntios 7:36-38; Gênesis 24:57-58
-
-**(f)** 1 Coríntios 7:30
-
-**(g)** Gênesis 34:14; Êxodo 34:16; Deuteronômio 7:3-4; 1 Reis 11:4; Neemias 13:25-27; Malaquias 2:11, 12; 2 Coríntios 6:14
+> **Seção I** — O casamento deve ser entre um homem e uma mulher; não é lícito que qualquer homem tenha mais de uma esposa, nem que qualquer mulher tenha mais de um marido ao mesmo tempo **(a)**.
+> 
+> **Seção II** — O casamento foi ordenado para a ajuda mútua do marido e da esposa **(b)**, para o aumento da humanidade com uma descendência legítima e da Igreja com uma semente santa **(c)**, e para a prevenção da impureza **(d)**.
+> 
+> **Seção III** — É lícito que todas as pessoas se casem, desde que sejam capazes de dar seu consentimento com discernimento **(e)**; contudo, é dever dos cristãos casar somente no Senhor **(f)**. Portanto, aqueles que professam a verdadeira religião reformada não devem se casar com infiéis, papistas ou outros idólatras; nem devem os piedosos se prender a um jugo desigual, casando-se com aqueles que são notoriamente ímpios em sua vida ou sustentam heresias condenáveis **(g)**.
+> 
+> **(a)** Gênesis 2:24; Mateus 19:6, 7; Provérbios 2:17
+> **(b)** Gênesis 2:18
+> **(c)** Malaquias 2:15
+> **(d)** 1 Coríntios 7:2, 9
+> **(e)** Hebreus 13:4; 1 Timóteo 4:3; 1 Coríntios 7:36-38; Gênesis 24:57-58
+> **(f)** 1 Coríntios 7:30
+> **(g)** Gênesis 34:14; Êxodo 34:16; Deuteronômio 7:3-4; 1 Reis 11:4; Neemias 13:25-27; Malaquias 2:11, 12; 2 Coríntios 6:14
 
 ### Ensinos dessas seções  
 
@@ -103,27 +97,20 @@ Se tal união for formada, apenas duas possibilidades podem ocorrer: ou a sagrad
 
 ## Seção IV, V e VI
 
-**Seção IV.** — O casamento não deve ocorrer dentro dos graus de consanguinidade ou afinidade proibidos pela Palavra **(a)**; nem tais casamentos incestuosos podem jamais ser tornados lícitos por qualquer lei humana ou consentimento das partes, de modo que essas pessoas possam viver juntas como marido e mulher **(b)**. O homem não pode casar-se com nenhum parente de sua esposa mais próximo em grau de sangue do que poderia de sua própria família **(c)**; nem a mulher com nenhum parente de seu marido mais próximo em grau de sangue do que de sua própria família.  
-
-**Seção V.** — O adultério ou a fornicação cometidos após um contrato de casamento, se descobertos antes do casamento, dão justa causa para que a parte inocente dissolva esse contrato **(d)**. No caso de adultério após o casamento, é lícito que a parte inocente solicite o divórcio e, após o divórcio **(e)**, case-se com outra pessoa, como se a parte culpada estivesse morta **(f)**.  
-
-**Seção VI.** — Embora a corrupção humana seja tal que inclina as pessoas a buscar argumentos para separar indevidamente aqueles a quem Deus uniu em casamento, nada além do adultério ou de um abandono voluntário e irreversível, que não possa de forma alguma ser remediado pela Igreja ou pelo magistrado civil, é causa suficiente para dissolver o vínculo matrimonial **(g)**. Em tais casos, um processo público e ordenado deve ser seguido, e os envolvidos não devem ser deixados à sua própria vontade e critério na resolução de sua situação **(h)**.
-
-**(a)** Levítico 18; 1 Coríntios 5:1; Amós 2:7
-
-**(b)** Marcos 6:18; Levítico 18:24-28
-
-**(c)** Levítico 20:19-21
-
-**(d)** Mateus 1:18-20
-
-**(e)** Mateus 5:31-32 
-
-**(f)** Mateus 19:9; Romanos 7:2-3
-
-**(g)** Mateus 19:8-9; 1 Coríntios 7:15; Mateus 19:6
-
-**(h)** Deuteronômio 24:1-4
+> **Seção IV.** — O casamento não deve ocorrer dentro dos graus de consanguinidade ou afinidade proibidos pela Palavra **(a)**; nem tais casamentos incestuosos podem jamais ser tornados lícitos por qualquer lei humana ou consentimento das partes, de modo que essas pessoas possam viver juntas como marido e mulher **(b)**. O homem não pode casar-se com nenhum parente de sua esposa mais próximo em grau de sangue do que poderia de sua própria família **(c)**; nem a mulher com nenhum parente de seu marido mais próximo em grau de sangue do que de sua própria família.  
+> 
+> **Seção V.** — O adultério ou a fornicação cometidos após um contrato de casamento, se descobertos antes do casamento, dão justa causa para que a parte inocente dissolva esse contrato **(d)**. No caso de adultério após o casamento, é lícito que a parte inocente solicite o divórcio e, após o divórcio **(e)**, case-se com outra pessoa, como se a parte culpada estivesse morta **(f)**.  
+> 
+> **Seção VI.** — Embora a corrupção humana seja tal que inclina as pessoas a buscar argumentos para separar indevidamente aqueles a quem Deus uniu em casamento, nada além do adultério ou de um abandono voluntário e irreversível, que não possa de forma alguma ser remediado pela Igreja ou pelo magistrado civil, é causa suficiente para dissolver o vínculo matrimonial **(g)**. Em tais casos, um processo público e ordenado deve ser seguido, e os envolvidos não devem ser deixados à sua própria vontade e critério na resolução de sua situação **(h)**.
+> 
+> **(a)** Levítico 18; 1 Coríntios 5:1; Amós 2:7
+> **(b)** Marcos 6:18; Levítico 18:24-28
+> **(c)** Levítico 20:19-21
+> **(d)** Mateus 1:18-20
+> **(e)** Mateus 5:31-32 
+> **(f)** Mateus 19:9; Romanos 7:2-3
+> **(g)** Mateus 19:8-9; 1 Coríntios 7:15; Mateus 19:6
+> **(h)** Deuteronômio 24:1-4
 
 
 ### Seções Sobre o Incesto e o Divórcio
