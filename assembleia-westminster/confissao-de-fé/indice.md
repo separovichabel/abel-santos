@@ -26,9 +26,9 @@
 23. [**Do Magistrado Civil**](capitulo23.md)
 24. [**Do Casamento e do Divórcio**](capitulo24.md)
 25. [**Da Igreja**](capitulo25.md)
-26. **Da Comunhão dos Santos**
-27. **Dos Sacramentos**
-28. **Do Batismo**
+26. [**Da Comunhão dos Santos**](capitulo26.md)
+27. [**Dos Sacramentos**](capitulo27.md)
+28. [**Do Batismo**](capitulo28.md)
 29. **Da Ceia do Senhor**
 30. **Das Censuras Eclesiásticas**
 31. **Dos Sínodos e Concílios**
