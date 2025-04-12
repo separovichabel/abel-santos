@@ -112,7 +112,7 @@ Under the name of Holy Scripture, or the Word of God wrien, are now contained al
 | 2 Corinthians | Titus           | Jude      |
 | Galaans       | Philemon        | Revelaon  |
 
-All of which are given by the inspiraon of God, to be the rule of faith and life. 5
+All of which are given by the inspiraon of God, to be the rule of faith and life. **[5]**
 
 **[5]** 2 Tim. 3:16
 
@@ -143,9 +143,7 @@ All things in Scripture are not alike plain in themselves, nor alike clear unto 
 
 **[12]** 2 Pet. 3:16
 
-13
-
-Ps. 19:7; Psalm 119:130
+**[13]** Ps. 19:7; Psalm 119:130
 
 ### Paragraph 8
 The Old Testament in Hebrew (which was the nave language of the people of God of old), **[14]** and the New Testament in Greek (which at the me of the wring of it was most generally known to the naons), being immediately inspired by God, and by His singular care and providence kept pure in all ages, are therefore authenc; so as in all controversies of religion, the church is finally to appeal to them. **[15]** But because these original tongues are not known to all the people of God, who have a right unto, and interest in the Scriptures, and are commanded in the fear of God to read, **[16]** and search them, **[17]** therefore they are to be translated into the vulgar language of every naon unto which they come, **[18]** that the Word of God dwelling plenfully in all, they may worship Him in an acceptable manner, and through paence and comfort of the Scriptures may have hope. **[19]** 
@@ -175,7 +173,7 @@ The supreme judge, by which all controversies of religion are to be determined, 
 ## CHAPTER 2 - OF GOD AND OF THE HOLY TRINITY <a id="2"></a>
 
 ### Paragraph 1
-The Lord our God is but one only living and true God; 1 whose subsistence is in and of Himself, 2 infinite in being and perfecon; whose essence cannot be comprehended by any but Himself; 3 a most pure spirit, **[4]** invisible, without body, parts, or passions, who only hath immortality, dwelling in the light which no man can approach unto; **[5]** who is immutable, **[6]** immense, **[7]** eternal, **[8]** incomprehensible, almighty, **[9]** every way infinite, most holy, **[10]** most wise, most free, most absolute; working all things according to the counsel of His own immutable and most righteous will, **[11]** for His own glory; **[12]** most loving, gracious, merciful, long-suffering, abundant in goodness and truth, forgiving iniquity, transgression, and sin; the rewarder of them that diligently seek Him, **[13]** and withal most just and terrible in His judgments, **[14]** hang all sin, **[15]** and who will by no means clear the guilty. 16
+The Lord our God is but one only living and true God; 1 whose subsistence is in and of Himself, 2 infinite in being and perfecon; whose essence cannot be comprehended by any but Himself; 3 a most pure spirit, **[4]** invisible, without body, parts, or passions, who only hath immortality, dwelling in the light which no man can approach unto; **[5]** who is immutable, **[6]** immense, **[7]** eternal, **[8]** incomprehensible, almighty, **[9]** every way infinite, most holy, **[10]** most wise, most free, most absolute; working all things according to the counsel of His own immutable and most righteous will, **[11]** for His own glory; **[12]** most loving, gracious, merciful, long-suffering, abundant in goodness and truth, forgiving iniquity, transgression, and sin; the rewarder of them that diligently seek Him, **[13]** and withal most just and terrible in His judgments, **[14]** hang all sin, **[15]** and who will by no means clear the guilty. **[16]**
 
 **[1]** 1 Cor. 8:4,6; Deut. 6:4
 
@@ -235,9 +233,7 @@ God, having all life, **[17]** glory, **[18]** goodness, **[19]** blessedness, i
 ### Paragraph 3
 In this divine and infinite Being there are three subsistences, the Father, the Word or Son, and Holy Spirit, **[27]** of one substance, power, and eternity, each having the whole divine essence, yet the essence undivided: **[28]** the Father is of none, neither begoen nor proceeding; the Son is eternally begoen of the Father; **[29]** the Holy Spirit proceeding from the Father and the Son; **[30]** all infinite, without beginning, therefore but one God, who is not to be divided in nature and being, but disnguished by several peculiar relave properes and personal relaons; which doctrine of the Trinity is the foundaon of all our communion with God, and comfortable dependence on Him.
 
-27
-
-**[1]** John 5:7; Ma. 28:19; 2 Cor. 13:14
+**[27]** 1 John 5:7; Ma. 28:19; 2 Cor. 13:14
 
 **[28]** Exod. 3:14; John 14:11; I Cor. 8:6
 
@@ -248,7 +244,7 @@ In this divine and infinite Being there are three subsistences, the Father, the 
 ## CHAPTER 3 - OF GOD'S DECREE <a id="3"></a>
 
 ### Paragraph 1
-God hath decreed in himself, from all eternity, by the most wise and holy counsel of His own will, freely and unchangeably, all things, whatsoever comes to pass; 1 yet so as thereby is God neither the author of sin nor hath fellowship with any therein; 2 nor is violence offered to the will of the creature, nor yet is the liberty or conngency of second causes taken away, but rather established; 3 in which appears His wisdom in disposing all things, and power and faithfulness in accomplishing His decree. 4
+God hath decreed in himself, from all eternity, by the most wise and holy counsel of His own will, freely and unchangeably, all things, whatsoever comes to pass; **[1]** yet so as thereby is God neither the author of sin nor hath fellowship with any therein; **[2]** nor is violence offered to the will of the creature, nor yet is the liberty or conngency of second causes taken away, but rather established; **[3]** in which appears His wisdom in disposing all things, and power and faithfulness in accomplishing His decree. **[4]**
 
 **[1]** Isa. 46:10; Eph. 1:11; Heb. 6:17; Rom. 9:15,18
 
@@ -259,14 +255,14 @@ God hath decreed in himself, from all eternity, by the most wise and holy counse
 **[4]** Num. 23:19; Eph. 1:3-5
 
 ### Paragraph 2
-Although God knoweth whatsoever may or can come to pass, upon all supposed condions, **[5]** yet hath He not decreed anything, because He foresaw it as future, or as that which would come to pass upon such condions. 6
+Although God knoweth whatsoever may or can come to pass, upon all supposed condions, **[5]** yet hath He not decreed anything, because He foresaw it as future, or as that which would come to pass upon such condions. **[6]**
 
 **[5]** Acts 15:18
 
 **[6]** Rom. 9:11,13,16,18
 
 ### Paragraph 3
-By the decree of God, for the manifestaon of His glory, some men and angels are predesnated, or foreordained to eternal life through Jesus Christ, **[7]** to the praise of His glorious grace; **[8]** others being le to act in their sin to their just condemnaon, to the praise of His glorious jusce. 9
+By the decree of God, for the manifestaon of His glory, some men and angels are predesnated, or foreordained to eternal life through Jesus Christ, **[7]** to the praise of His glorious grace; **[8]** others being le to act in their sin to their just condemnaon, to the praise of His glorious jusce. **[9]**
 
 **[7]** I Tim. 5:21; Ma. 25:34
 
@@ -278,14 +274,14 @@ By the decree of God, for the manifestaon of His glory, some men and angels are 
 These angels and men thus predesnated and foreordained, are parcularly and unchangeably designed, and their number so certain and definite, that it cannot be either increased or diminished. **[10]** 10 2 Tim. 2:19; John 13:18
 
 ### Paragraph 5
-Those of mankind that are predesnated to life, God, before the foundaon of the world was laid, according to His eternal and immutable purpose, and the secret counsel and good pleasure of His will, hath chosen in Christ unto everlasng glory, out of His mere free grace and love, **[11]** without any other thing in the creature as a condion or cause moving Him thereunto. 12
+Those of mankind that are predesnated to life, God, before the foundaon of the world was laid, according to His eternal and immutable purpose, and the secret counsel and good pleasure of His will, hath chosen in Christ unto everlasng glory, out of His mere free grace and love, **[11]** without any other thing in the creature as a condion or cause moving Him thereunto. **[12]**
 
 **[11]** Eph. 1:4, 9, 11; Rom. 8:30; 2 Tim. 1:9; I Thess. 5:9
 
 **[12]** Rom. 9:13,16; Eph. 2:5,12
 
 ### Paragraph 6
-As God hath appointed the elect unto glory, so He hath, by the eternal and most free purpose of His will, foreordained all the means thereunto; **[13]** wherefore they who are elected, being fallen in Adam, are redeemed by Christ, **[14]** are effectually called unto faith in Christ, by His Spirit working in due season, are jusfied, adopted, sancfied, **[15]** and kept by His power through faith unto salvaon; **[16]** neither are any other redeemed by Christ, or effectually called, jusfied, adopted, sancfied, and saved, but the elect only. 17
+As God hath appointed the elect unto glory, so He hath, by the eternal and most free purpose of His will, foreordained all the means thereunto; **[13]** wherefore they who are elected, being fallen in Adam, are redeemed by Christ, **[14]** are effectually called unto faith in Christ, by His Spirit working in due season, are jusfied, adopted, sancfied, **[15]** and kept by His power through faith unto salvaon; **[16]** neither are any other redeemed by Christ, or effectually called, jusfied, adopted, sancfied, and saved, but the elect only. **[17]**
 
 **[13]** 1 Pet. 1:2; 2; Thess. 2:13
 
@@ -298,24 +294,20 @@ As God hath appointed the elect unto glory, so He hath, by the eternal and most 
 **[17]** John 10:26, 17:9, 6:64
 
 ### Paragraph 7
-The doctrine of the high mystery of predesnaon is to be handled with special prudence and care, that men aending the will of God revealed in His Word, and yielding obedience thereunto, may, from the certainty of their effectual vocaon, be assured of their eternal elecon; **[18]** so shall this doctrine afford maer of praise, **[19]** reverence, and admiraon of God, and of humility, **[20]** diligence, and abundant consolaon to all that sincerely obey the gospel. 21
+The doctrine of the high mystery of predesnaon is to be handled with special prudence and care, that men aending the will of God revealed in His Word, and yielding obedience thereunto, may, from the certainty of their effectual vocaon, be assured of their eternal elecon; **[18]** so shall this doctrine afford maer of praise, **[19]** reverence, and admiraon of God, and of humility, **[20]** diligence, and abundant consolaon to all that sincerely obey the gospel. **[21]**
 
 **[18]** 1 Thess. 1:4,5; 2 Pet. 1:10
 
-19
+**[19]** Eph. 1:6; Rom. 11:33
 
-Eph. 1:6; Rom. 11:33
-
-20
-
-Rom. 11:5,6,20
+**[20]** Rom. 11:5,6,20
 
 **[21]** Luke 10:20
 
 ## CHAPTER 4 - OF CREATION <a id="4"></a>
 
 ### Paragraph 1
-In the beginning it pleased God the Father, Son, and Holy Spirit, 1 for the manifestaon of the glory of His eternal power, 2 wisdom, and goodness, to create or make the world, and all things therein, whether visible or invisible, in the space of six days, and all very good. **[3]** 
+In the beginning it pleased God the Father, Son, and Holy Spirit, **[1]** for the manifestaon of the glory of His eternal power, **[2]** wisdom, and goodness, to create or make the world, and all things therein, whether visible or invisible, in the space of six days, and all very good. **[3]** 
 
 **[1]** John 1:2,3; Heb. 1:2; Job 26:13
 
@@ -346,7 +338,7 @@ Besides the law wrien in their hearts, they received a command not to eat of the
 ## CHAPTER 5 - OF DIVINE PROVIDENCE <a id="5"></a>
 
 ### Paragraph 1
-God the good Creator of all things, in His infinite power and wisdom does uphold, direct, dispose, and govern all creatures and things, 1 from the greatest even to the least, 2 by His most wise and holy providence, to the end for the which they were created, according unto His infallible foreknowledge, and the free and immutable counsel of His own will; to the praise of the glory of His wisdom, power, jusce, infinite goodness, and mercy. **[3]** 
+God the good Creator of all things, in His infinite power and wisdom does uphold, direct, dispose, and govern all creatures and things, **[1]** from the greatest even to the least, **[2]** by His most wise and holy providence, to the end for the which they were created, according unto His infallible foreknowledge, and the free and immutable counsel of His own will; to the praise of the glory of His wisdom, power, jusce, infinite goodness, and mercy. **[3]** 
 
 **[1]** Heb. 1:3; Job 38:11; Isa. 46:10,11; Ps. 135:6 
 
@@ -377,17 +369,25 @@ Rom. 4:19-21
 **[10]** Dan. 3:27
 
 ### Paragraph 4
-The almighty power, unsearchable wisdom, and infinite goodness of God, so far manifest themselves in His providence, that His determinate counsel extends itself even to the first fall, and all other sinful acons both of angels and men; **[11]** and that not by a bare permission, which also He most wisely and powerfully binds, and otherwise orders and governs, **[12]** in a manifold dispensaon to His most holy ends; **[13]** yet so, as the sinfulness of their acts proceeds only from the creatures, and not from God, who, being most holy and righteous, neither is nor can be the author or approver of sin. **[14]** **[11]** Rom. 11:32-34; 2 Sam. 24:1; 1 Chron. 21:1 **[12]** 2 Kings 19:28; Ps. 76:10 **[13]** Gen. 1:20; Isa. 10:6,7,12
+The almighty power, unsearchable wisdom, and infinite goodness of God, so far manifest themselves in His providence, that His determinate counsel extends itself even to the first fall, and all other sinful acons both of angels and men; **[11]** and that not by a bare permission, which also He most wisely and powerfully binds, and otherwise orders and governs, **[12]** in a manifold dispensaon to His most holy ends; **[13]** yet so, as the sinfulness of their acts proceeds only from the creatures, and not from God, who, being most holy and righteous, neither is nor can be the author or approver of sin. **[14]** 
+
+**[11]** Rom. 11:32-34; 2 Sam. 24:1; 1 Chron. 21:1
+
+**[12]** 2 Kings 19:28; Ps. 76:10
+
+**[13]** Gen. 1:20; Isa. 10:6,7,12
 
 **[14]** Ps. 1;21; 1 John 2:16
 
 ### Paragraph 5
-The most wise, righteous, and gracious God does oen mes leave for a season His own children to manifold temptaons and the corrupons of their own hearts, to chasse them for their former sins, or to discover unto them the hidden strength of corrupon and deceiulness of their hearts, that they may be humbled; and to raise them to a more close and constant dependence for their support upon Himself; and to make them more watchful against all future occasions of sin, and for other just and holy ends. **[15]** So that whatsoever befalls any of His elect is by His appointment, for His glory, and their good. **[16]** **[15]** 2 Chron. 32:25,26,31; 2 Cor. 12:7-9
+The most wise, righteous, and gracious God does oen mes leave for a season His own children to manifold temptaons and the corrupons of their own hearts, to chasse them for their former sins, or to discover unto them the hidden strength of corrupon and deceiulness of their hearts, that they may be humbled; and to raise them to a more close and constant dependence for their support upon Himself; and to make them more watchful against all future occasions of sin, and for other just and holy ends. **[15]** So that whatsoever befalls any of His elect is by His appointment, for His glory, and their good. **[16]**
+
+**[15]** 2 Chron. 32:25,26,31; 2 Cor. 12:7-9
 
 **[16]** Rom. 8:28
 
 ### Paragraph 6
-As for those wicked and ungodly men whom God, as the righteous judge, for former sin does blind and harden; **[17]** from them He not only withholds His grace, whereby they might have been enlightened in their understanding, and wrought upon their hearts; **[18]** but somemes also withdraws the gis which they had, **[19]** and exposes them to such objects as their corrupon makes occasion of sin; **[20]** and withal, gives them over to their own lusts, the temptaons of the world, and the power of Satan, **[21]** whereby it comes to pass that they harden themselves, under those means which God uses for the soening of others. 22
+As for those wicked and ungodly men whom God, as the righteous judge, for former sin does blind and harden; **[17]** from them He not only withholds His grace, whereby they might have been enlightened in their understanding, and wrought upon their hearts; **[18]** but somemes also withdraws the gis which they had, **[19]** and exposes them to such objects as their corrupon makes occasion of sin; **[20]** and withal, gives them over to their own lusts, the temptaons of the world, and the power of Satan, **[21]** whereby it comes to pass that they harden themselves, under those means which God uses for the soening of others. **[22]**
 
 **[17]** Rom. 1;24-26,28, 11:7,8
 
@@ -402,23 +402,21 @@ As for those wicked and ungodly men whom God, as the righteous judge, for former
 **[22]** Exod. 8:15,32; Isa. 6:9,10; 1 Pet. 2:7,8
 
 ### Paragraph 7
-As the providence of God does in general reach to all creatures, so aer a more special manner it takes care of His church, and disposes of all things to the good thereof. 23
+As the providence of God does in general reach to all creatures, so aer a more special manner it takes care of His church, and disposes of all things to the good thereof. **[23]**
 
 **[23]** 1 Tim. 4:10; Amos 9:8,9; Isa. 43:3-5
 
-CHAPTER 6; OF THE FALL OF MAN, OF SIN, AND OF THE PUNISHMENT THEREOF
+## CHAPTER 6 - OF THE FALL OF MAN, OF SIN, AND OF THE PUNISHMENT THEREOF
 
 ### Paragraph 1
-Although God created man upright and perfect, and gave him a righteous law, which had been unto life had he kept it, and threatened death upon the breach thereof, 1 yet he did not long abide in this honor; Satan using the subtlety of the serpent to subdue Eve, then by her seducing Adam, who, without any compulsion, did willfully transgress the law of their creaon, and the command given to them, in eang the forbidden fruit, 2 which God was pleased, according to His wise and holy counsel to permit, having purposed to order it to His own glory.
+Although God created man upright and perfect, and gave him a righteous law, which had been unto life had he kept it, and threatened death upon the breach thereof, **[1]** yet he did not long abide in this honor; Satan using the subtlety of the serpent to subdue Eve, then by her seducing Adam, who, without any compulsion, did willfully transgress the law of their creaon, and the command given to them, in eang the forbidden fruit, **[2]** which God was pleased, according to His wise and holy counsel to permit, having purposed to order it to His own glory.
 
 **[1]** Gen. 2:16,17
 
-2
-
-Gen. 3:12,13; 2 Cor. 11:3
+**[2]** Gen. 3:12,13; 2 Cor. 11:3
 
 ### Paragraph 2
-Our first parents, by this sin, fell from their original righteousness and communion with God, and we in them whereby death came upon all: **[3]** all becoming dead in sin, **[4]** and wholly defiled in all the facules and parts of soul and body. 5
+Our first parents, by this sin, fell from their original righteousness and communion with God, and we in them whereby death came upon all: **[3]** all becoming dead in sin, **[4]** and wholly defiled in all the facules and parts of soul and body. **[5]**
 
 **[3]** Rom. 3:23
 
@@ -427,7 +425,7 @@ Our first parents, by this sin, fell from their original righteousness and commu
 **[5]** Titus 1:15; Gen. 6:5; Jer. 17:9; Rom. 3:10-19
 
 ### Paragraph 3
-They being the root, and by God's appointment, standing in the room and stead of all mankind, the guilt of the sin was imputed, and corrupted nature conveyed, to all their posterity descending from them by ordinary generaon, **[6]** being now conceived in sin, **[7]** and by nature children of wrath, **[8]** the servants of sin, the subjects of death, **[9]** and all other miseries, spiritual, temporal, and eternal, unless the Lord Jesus set them free. 10
+They being the root, and by God's appointment, standing in the room and stead of all mankind, the guilt of the sin was imputed, and corrupted nature conveyed, to all their posterity descending from them by ordinary generaon, **[6]** being now conceived in sin, **[7]** and by nature children of wrath, **[8]** the servants of sin, the subjects of death, **[9]** and all other miseries, spiritual, temporal, and eternal, unless the Lord Jesus set them free. **[10]**
 
 **[6]** Rom. 5:12-19; 1 Cor. 15:21,22,45,49
 
@@ -440,30 +438,28 @@ They being the root, and by God's appointment, standing in the room and stead of
 **[10]** Heb. 2:14,15; 1 Thess. 1:10
 
 ### Paragraph 4
-From this original corrupon, whereby we are uerly indisposed, disabled, and made opposite to all good, and wholly inclined to all evil, **[11]** do proceed all actual transgressions. **[12]** **[11]** Rom. 8:7; Col. 1:21
+From this original corrupon, whereby we are uerly indisposed, disabled, and made opposite to all good, and wholly inclined to all evil, **[11]** do proceed all actual transgressions. **[12]** 
+
+**[11]** Rom. 8:7; Col. 1:21
 
 **[12]** James 1:14,15; Ma. 15:19
 
 ### Paragraph 5
-The corrupon of nature, during this life, does remain in those that are regenerated; **[13]** and although it be through Christ pardoned and morfied, yet both itself, and the first moons thereof, are truly and properly sin. 14
+The corrupon of nature, during this life, does remain in those that are regenerated; **[13]** and although it be through Christ pardoned and morfied, yet both itself, and the first moons thereof, are truly and properly sin. **[14]**
 
-13
+**[13]** Rom. 7:18,23; Eccles. 7:20; 1 John 1:8
 
-Rom. 7:18,23; Eccles. 7:20; 1 John 1:8
+**[14]** Rom. 7:23-25; Gal. 5:17
 
-14
-
-Rom. 7:23-25; Gal. 5:17
-
-## CHAPTER **[7]** - OF GOD'S COVENANT <a id="7"></a>
+## CHAPTER 7 - OF GOD'S COVENANT <a id="7"></a>
 
 ### Paragraph 1
-The distance between God and the creature is so great, that although reasonable creatures do owe obedience to Him as their creator, yet they could never have aained the reward of life but by some voluntary condescension on God's part, which He hath been pleased to express by way of covenant. 1
+The distance between God and the creature is so great, that although reasonable creatures do owe obedience to Him as their creator, yet they could never have aained the reward of life but by some voluntary condescension on God's part, which He hath been pleased to express by way of covenant. **[1]**
 
 **[1]** Luke 17:10; Job 35:7,8
 
 ### Paragraph 2
-Moreover, man having brought himself under the curse of the law by his fall, it pleased the Lord to make a covenant of grace, 2 wherein He freely offers unto sinners life and salvaon by Jesus Christ, requiring of them faith in Him, that they may be saved; **[3]** and promising to give unto all those that are ordained unto eternal life, His Holy Spirit, to make them willing and able to believe. 4
+Moreover, man having brought himself under the curse of the law by his fall, it pleased the Lord to make a covenant of grace, **[2]** wherein He freely offers unto sinners life and salvaon by Jesus Christ, requiring of them faith in Him, that they may be saved; **[3]** and promising to give unto all those that are ordained unto eternal life, His Holy Spirit, to make them willing and able to believe. **[4]**
 
 **[2]** Gen. 2:17; Gal. 3:10; Rom. 3:20,21
 
@@ -472,7 +468,7 @@ Moreover, man having brought himself under the curse of the law by his fall, it 
 **[4]** Ezek. 36:26,27; John 6:44,45; Ps. 110:3
 
 ### Paragraph 3
-This covenant is revealed in the gospel; first of all to Adam in the promise of salvaon by the seed of the woman, **[5]** and aerwards by farther steps, unl the full discovery thereof was completed in the New Testament; **[6]** and it is founded in that eternal covenant transacon that was between the Father and the Son about the redempon of the elect; **[7]** and it is alone by the grace of this covenant that all the posterity of fallen Adam that ever were saved did obtain life and blessed immortality, man being now uerly incapable of acceptance with God upon those terms on which Adam stood in his state of innocency. 8
+This covenant is revealed in the gospel; first of all to Adam in the promise of salvaon by the seed of the woman, **[5]** and aerwards by farther steps, unl the full discovery thereof was completed in the New Testament; **[6]** and it is founded in that eternal covenant transacon that was between the Father and the Son about the redempon of the elect; **[7]** and it is alone by the grace of this covenant that all the posterity of fallen Adam that ever were saved did obtain life and blessed immortality, man being now uerly incapable of acceptance with God upon those terms on which Adam stood in his state of innocency. **[8]**
 
 **[5]** Gen. 3:15
 
@@ -482,10 +478,10 @@ This covenant is revealed in the gospel; first of all to Adam in the promise of 
 
 **[8]** Heb. 11;6,13; Rom. 4:1,2, &amp;c.; Acts 4:12; John 8:56
 
-## CHAPTER **[8]** - OF CHRIST THE MEDIATOR <a id="8"></a>
+## CHAPTER 8 - OF CHRIST THE MEDIATOR <a id="8"></a>
 
 ### Paragraph 1
-It pleased God, in His eternal purpose, to choose and ordain the Lord Jesus, His only begoen Son, according to the covenant made between them both, to be the mediator between God and man; 1 the prophet, 2 priest, **[3]** and king; **[4]** head and savior of the church, **[5]** the heir of all things, **[6]** and judge of the world; **[7]** unto whom He did from all eternity give a people to be His seed and to be by Him in me redeemed, called, jusfied, sancfied, and glorified. 8
+It pleased God, in His eternal purpose, to choose and ordain the Lord Jesus, His only begoen Son, according to the covenant made between them both, to be the mediator between God and man; **[1]** the prophet, **[2]** priest, **[3]** and king; **[4]** head and savior of the church, **[5]** the heir of all things, **[6]** and judge of the world; **[7]** unto whom He did from all eternity give a people to be His seed and to be by Him in me redeemed, called, jusfied, sancfied, and glorified. **[8]**
 
 **[1]** Isa. 42:1; 1 Pet. 1:19,20
 
@@ -504,17 +500,13 @@ It pleased God, in His eternal purpose, to choose and ordain the Lord Jesus, His
 **[8]** Isa. 53:10; John 17:6; Rom. 8:30
 
 ### Paragraph 2
-The Son of God, the second person in the Holy Trinity, being very and eternal God, the brightness of the Father's glory, of one substance and equal with Him who made the world, who upholds and governs all things He has made, did, when the fullness of me was complete, take upon Him man's nature, with all the essenal properes and common infirmies of it, **[9]** yet without sin; **[10]** being conceived by the Holy Spirit in the womb of the Virgin Mary, the Holy Spirit coming down upon her: and the power of the Most High overshadowing her; and so was made of a woman of the tribe of Judah, of the seed of Abraham and David according to the Scriptures; **[11]** so that two whole, perfect, and disnct natures were inseparably joined together in one person, without conversion, composion, or confusion; which person is very God and very man, yet one Christ, the only mediator between God and man. 12
+The Son of God, the second person in the Holy Trinity, being very and eternal God, the brightness of the Father's glory, of one substance and equal with Him who made the world, who upholds and governs all things He has made, did, when the fullness of me was complete, take upon Him man's nature, with all the essenal properes and common infirmies of it, **[9]** yet without sin; **[10]** being conceived by the Holy Spirit in the womb of the Virgin Mary, the Holy Spirit coming down upon her: and the power of the Most High overshadowing her; and so was made of a woman of the tribe of Judah, of the seed of Abraham and David according to the Scriptures; **[11]** so that two whole, perfect, and disnct natures were inseparably joined together in one person, without conversion, composion, or confusion; which person is very God and very man, yet one Christ, the only mediator between God and man. **[12]**
 
 **[9]** John 1:14; Gal. 4;4
 
-10
+**[10]** Rom. 8:3; Heb. 2:14,16,17, 4:15
 
-Rom. 8:3; Heb. 2:14,16,17, 4:15
-
-11
-
-Ma. 1:22, 23
+**[11]** Ma. 1:22, 23
 
 **[12]** Luke 1:27,31,35; Rom. 9:5; 1 Tim. 2:5
 
@@ -538,11 +530,9 @@ The Lord Jesus, in His human nature thus united to the divine, in the person of 
 **[20]** John 5:22,27; Ma. 28:18; Acts 2;36
 
 ### Paragraph 4
-This office the Lord Jesus did most willingly undertake, **[21]** which that He might discharge He was made under the law, **[22]** and did perfectly fulfill it, and underwent the punishment due to us, which we should have born and suffered, **[23]** being made sin and a curse for us; **[24]** enduring most grievous sorrows in His soul, and most painful sufferings in His body; **[25]** was crucified, and died, and remained in the state of the dead, yet saw no corrupon: **[26]** on the third day He arose from the dead **[27]** with the same body in which He suffered, **[28]** with which He also ascended into heaven, **[29]** and there sits at the right hand of His Father making intercession, **[30]** and shall return to judge men and angels at the end of the world. 31
+This office the Lord Jesus did most willingly undertake, **[21]** which that He might discharge He was made under the law, **[22]** and did perfectly fulfill it, and underwent the punishment due to us, which we should have born and suffered, **[23]** being made sin and a curse for us; **[24]** enduring most grievous sorrows in His soul, and most painful sufferings in His body; **[25]** was crucified, and died, and remained in the state of the dead, yet saw no corrupon: **[26]** on the third day He arose from the dead **[27]** with the same body in which He suffered, **[28]** with which He also ascended into heaven, **[29]** and there sits at the right hand of His Father making intercession, **[30]** and shall return to judge men and angels at the end of the world. **[31]**
 
-21
-
-Ps. 40:7,8; Heb. 10:5-10; John 10:18
+**[21]** Ps. 40:7,8; Heb. 10:5-10; John 10:18
 
 **[22]** Gal 4:4; Ma. 3:15
 
@@ -572,58 +562,62 @@ The Lord Jesus, by His perfect obedience and sacrifice of Himself, which He thro
 **[33]** John 17:2; Heb. 9:15
 
 ### Paragraph 6
-Although the price of redempon was not actually paid by Christ unl aer His incarnaon, yet the virtue, efficacy, and benefit thereof were communicated to the elect in all ages, successively from the beginning of the world, in and by those promises, types, and sacrifices wherein He was revealed, and signified to be the seed which should bruise the serpent's head; 34 and the Lamb slain from the foundaon of the world, 35 being the same yesterday, and today and for ever. 36 
+Although the price of redempon was not actually paid by Christ unl aer His incarnaon, yet the virtue, efficacy, and benefit thereof were communicated to the elect in all ages, successively from the beginning of the world, in and by those promises, types, and sacrifices wherein He was revealed, and signified to be the seed which should bruise the serpent's head; **[34]** and the Lamb slain from the foundaon of the world, **[35]** being the same yesterday, and today and for ever. **[36]** 
 
-34 1 Cor. 4:10; Heb. 4:2; 1 Pet. 1:10, 11
+**[34]** 1 Cor. 4:10; Heb. 4:2; 1 Pet. 1:10, 11
 
-35 Rev. 13:8
+**[35]** Rev. 13:8
 
-36 Heb. 13:8
+**[36]** Heb. 13:8
 
 ### Paragraph 7
-Christ, in the work of mediaon, acts according to both natures, by each nature doing that which is proper to itself; yet by reason of the unity of the person, that which is proper to one nature is somemes in Scripture, aributed to the person denominated by the other nature. 37 37 John 3:13; Acts 20:28
+Christ, in the work of mediaon, acts according to both natures, by each nature doing that which is proper to itself; yet by reason of the unity of the person, that which is proper to one nature is somemes in Scripture, aributed to the person denominated by the other nature. **[37]**
+
+**[37]** John 3:13; Acts 20:28
 
 ### Paragraph 8
-To all those for whom Christ has obtained eternal redempon, He does certainly and effectually apply and communicate the same, making intercession for them; 38 uning them to Himself by His Spirit, revealing to them, in and by His Word, the mystery of salvaon, persuading them to believe and obey, 39 governing their hearts by His Word and Spirit, 40 and overcoming all their enemies by His almighty power and wisdom, 41 in such manner and ways as are most consonant to His wonderful and unsearchable dispensaon; and all of free and absolute grace, without any condion foreseen in them to procure it. 42
+To all those for whom Christ has obtained eternal redempon, He does certainly and effectually apply and communicate the same, making intercession for them; **[38]** uning them to Himself by His Spirit, revealing to them, in and by His Word, the mystery of salvaon, persuading them to believe and obey, **[39]** governing their hearts by His Word and Spirit, **[40]** and overcoming all their enemies by His almighty power and wisdom, **[41]** in such manner and ways as are most consonant to His wonderful and unsearchable dispensaon; and all of free and absolute grace, without any condion foreseen in them to procure it. **[42]**
 
-38 John 6:37, 10:15,16, 17:9; Rom. 5:10
+**[38]** John 6:37, 10:15,16, 17:9; Rom. 5:10
 
-39 John 17:6; Eph. 1:9; 1 John 5:20
+**[39]** John 17:6; Eph. 1:9; 1 John 5:20
 
-40 Rom. 8:9,14
+**[40]** Rom. 8:9,14
 
-41 Ps. 110:1; 1 Cor. 15:25,26
+**[41]** Ps. 110:1; 1 Cor. 15:25,26
 
-42 John 3:8; Eph. 1:8
+**[42]** John 3:8; Eph. 1:8
 
 ### Paragraph 9
-This office of mediator between God and man is proper only to Christ, who is the prophet, priest, and king of the church of God; and may not be either in whole, or any part thereof, transferred from Him to any other. 43
+This office of mediator between God and man is proper only to Christ, who is the prophet, priest, and king of the church of God; and may not be either in whole, or any part thereof, transferred from Him to any other. **[43]**
 
-43 Tim. 2:5
+**[43]** Tim. 2:5
 
 ### Paragraph 10
-This number and order of offices is necessary; for in respect of our ignorance, we stand in need of His prophecal office; 44 and in respect of our alienaon from God, and imperfecon of the best of our services, we need His priestly office to reconcile us and present us acceptable unto God; 45 and in respect to our averseness and uer inability to return to God, and for our rescue and security from our spiritual adversaries, we need His kingly office to convince, subdue, draw, uphold, deliver, and preserve us to His heavenly kingdom. 46
+This number and order of offices is necessary; for in respect of our ignorance, we stand in need of His prophecal office; **[44]** and in respect of our alienaon from God, and imperfecon of the best of our services, we need His priestly office to reconcile us and present us acceptable unto God; **[45]** and in respect to our averseness and uer inability to return to God, and for our rescue and security from our spiritual adversaries, we need His kingly office to convince, subdue, draw, uphold, deliver, and preserve us to His heavenly kingdom. **[46]**
 
-44 John 1:18
+**[44]** John 1:18
 
-45 Col. 1:21; Gal. 5:17
+**[45]** Col. 1:21; Gal. 5:17
 
-46 John 16:8; Ps. 110:3; Luke 1:74,75
+**[46]** John 16:8; Ps. 110:3; Luke 1:74,75
 
-## CHAPTER **[9]** - OF FREE WILL <a id="9"></a>
+## CHAPTER 9 - OF FREE WILL <a id="9"></a>
 
 ### Paragraph 1
-God has endued the will of man with that natural liberty and power of acng upon choice, that it is neither forced, nor by any necessity of nature determined to do good or evil. 1 1 Ma. 17:12; James 1:14; Deut. 30:19
+God has endued the will of man with that natural liberty and power of acng upon choice, that it is neither forced, nor by any necessity of nature determined to do good or evil. **[1]**
+
+**[1]** Ma. 17:12; James 1:14; Deut. 30:19
 
 ### Paragraph 2
-Man, in his state of innocency, had freedom and power to will and to do that which was good and well-pleasing to God, 2 but yet was unstable, so that he might fall from it. 3
+Man, in his state of innocency, had freedom and power to will and to do that which was good and well-pleasing to God, **[2]** but yet was unstable, so that he might fall from it. **[3]**
 
 **[2]** Eccles. 7:29
 
 **[3]** Gen. 3:6
 
 ### Paragraph 3
-Man, by his fall into a state of sin, has wholly lost all ability of will to any spiritual good accompanying salvaon; **[4]** so as a natural man, being altogether averse from that good, and dead in sin, **[5]** is not able by his own strength to convert himself, or to prepare himself thereunto. 6
+Man, by his fall into a state of sin, has wholly lost all ability of will to any spiritual good accompanying salvaon; **[4]** so as a natural man, being altogether averse from that good, and dead in sin, **[5]** is not able by his own strength to convert himself, or to prepare himself thereunto. **[6]**
 
 **[4]** Rom. 5:6, 8:7
 
@@ -632,7 +626,7 @@ Man, by his fall into a state of sin, has wholly lost all ability of will to any
 **[6]** Titus 3:3-5; John 6:44
 
 ### Paragraph 4
-When God converts a sinner, and translates him into the state of grace, He frees him from his natural bondage under sin, **[7]** and by His grace alone enables him freely to will and to do that which is spiritually good; **[8]** yet so as that by reason of his remaining corrupons, he does not perfectly, nor only will, that which is good, but does also will that which is evil. 9
+When God converts a sinner, and translates him into the state of grace, He frees him from his natural bondage under sin, **[7]** and by His grace alone enables him freely to will and to do that which is spiritually good; **[8]** yet so as that by reason of his remaining corrupons, he does not perfectly, nor only will, that which is good, but does also will that which is evil. **[9]**
 
 **[7]** Col. 1:13; John 8:36
 
@@ -641,15 +635,11 @@ When God converts a sinner, and translates him into the state of grace, He frees
 **[9]** Rom. 7:15,18,19,21,23
 
 ### Paragraph 5
-This will of man is made perfectly and immutably free to good
-
-alone in
-
-the state of glory only. 10
+This will of man is made perfectly and immutably free to good alone in the state of glory only. **[10]**
 
 **[10]** Eph. 4:13
 
-## CHAPTER **[10]** - OF EFFECTUAL CALLING <a id="10"></a>
+## CHAPTER 10 - OF EFFECTUAL CALLING <a id="10"></a>
 
 ### Paragraph 1
 Those whom God hath predesnated unto life, He is pleased in His appointed, and accepted me, effectually to call, 1 by His Word and Spirit, out of that state of sin and death in which they are by nature, to grace and salvaon by Jesus Christ; 2 enlightening their minds spiritually and savingly to understand the things of God; **[3]** taking away their heart of stone, and giving to them a heart of flesh; **[4]** renewing their wills, and by His almighty power determining them to that which is good, and effectually drawing them to Jesus Christ; **[5]** yet so as they come most freely, being made willing by His grace. 6
@@ -691,7 +681,7 @@ Others not elected, although they may be called by the ministry of the Word, and
 
 **[14]** Acts 4:12; John 4:22, 17:3
 
-## CHAPTER **[11]** - OF JUSTIFICATION <a id="11"></a>
+## CHAPTER 11 - OF JUSTIFICATION <a id="11"></a>
 
 ### Paragraph 1
 Those whom God effectually calls, he also freely jusfies, 1 not by infusing righteousness into them, but by pardoning their sins, and by accounng and accepng their persons as righteous; 2 not for anything wrought in them, or done by them, but for Christ's sake alone; **[3]** not by impung faith itself, the act of believing, or any other evangelical obedience to them, as their righteousness; but by impung Christ's acve obedience unto the whole law, and passive obedience in his death for their whole and sole righteousness by faith, **[4]** which faith they have not of themselves; it is the gi of God. 5
@@ -757,7 +747,7 @@ The jusficaon of believers under the Old Testament was, in all these respects, o
 
 **[18]** Gal. 3:9; Rom. 4:22-24
 
-## CHAPTER **[12]** - OF ADOPTION <a id="12"></a>
+## CHAPTER 12 - OF ADOPTION <a id="12"></a>
 
 ### Paragraph 1
 All those that are jusfied, God conferred, in and for the sake of his only Son Jesus Christ, to make partakers of the grace of adopon, 1
@@ -788,7 +778,7 @@ by which they are taken into the number, and enjoy the liberes and privileges of
 
 **[12]** Heb. 1:14, 6:12
 
-## CHAPTER **[13]** - OF SANCTIFICATION <a id="13"></a>
+## CHAPTER 13 - OF SANCTIFICATION <a id="13"></a>
 
 ### Paragraph 1
 They who are united to Christ, effectually called, and regenerated, having a new heart and a new spirit created in them through the virtue of Christ's death and resurrecon, are also farther sancfied, really and personally, 1 through the same virtue, by his Word and Spirit dwelling in them; 2 the dominion of the whole body of sin is destroyed, **[3]** and the several lusts of it are more and more weakened and morfied, **[4]** and they more and more quickened and strengthened in all saving graces, **[5]** to the pracce of all true holiness, without which no man shall see the Lord. 6
@@ -823,7 +813,7 @@ In which war, although the remaining corrupon for a me may much prevail, **[10]*
 
 **[12]** Eph. 4:15,16; 2 Cor. 3:18, 7:1
 
-## CHAPTER **[14]** - OF SAVING FAITH <a id="14"></a>
+## CHAPTER 14 - OF SAVING FAITH <a id="14"></a>
 
 ### Paragraph 1
 The grace of faith, whereby the elect are enabled to believe to the saving of their souls, is the work of the Spirit of Christ in their hearts, 1 and is ordinarily wrought by the ministry of the Word; 2 by which also, and by the administraon of bapsm and the Lord's supper, prayer, and other means appointed of God, it is increased and strengthened. **[3]** 1 2 Cor. 4:13; Eph. 2:8
@@ -862,7 +852,7 @@ This faith, although it be in different stages, and may be weak or strong, **[11
 
 **[15]** Heb. 12:2
 
-## CHAPTER **[15]** - OF REPENTANCE UNTO LIFE AND SALVATION <a id="15"></a>
+## CHAPTER 15 - OF REPENTANCE UNTO LIFE AND SALVATION <a id="15"></a>
 
 ### Paragraph 1
 Such of the elect that are converted at riper years, having someme lived in the state of nature, and therein served divers pleasures, God in their effectual calling gives them repentance to life. 1 1 Titus 3:2-5
@@ -895,7 +885,7 @@ Such is the provision which God has made through Christ in the covenant of grace
 
 **[9]** Isa. 1:16-18, 55:7
 
-## CHAPTER **[16]** - OF GOOD WORKS <a id="16"></a>
+## CHAPTER 16 - OF GOOD WORKS <a id="16"></a>
 
 ### Paragraph 1
 Good works are only such as God has commanded in his Holy Word, 1 and not such as without the warrant thereof are devised by men out of blind zeal, or upon any pretense of good intenons. 2 1 Mic. 6:8; Heb. 13:21
@@ -970,7 +960,7 @@ Works done by unregenerate men, although for the maer of them they may things wh
 
 **[24]** Job 21:14,15; Ma. 25:41-43
 
-## CHAPTER **[17]** - OF THE PERSEVERANCE OF THE SAINTS <a id="17"></a>
+## CHAPTER 17 - OF THE PERSEVERANCE OF THE SAINTS <a id="17"></a>
 
 ### Paragraph 1
 Those whom God has accepted in the beloved, effectually called and sancfied by his Spirit, and given the precious faith of his elect unto, can neither totally nor finally fall from the state of grace, but shall certainly persevere therein to the end, and be eternally saved, seeing the gis and callings of God are without repentance, from which source he sll begets and nourishes in them faith, repentance, love, joy, hope, and all the graces of the Spirit unto immortality; 1 and though many storms and floods arise and beat against them, yet they shall never be able to take them off that foundaon and rock which by faith they are fastened upon; notwithstanding, through unbelief and the temptaons of Satan, the sensible sight of the light and love of God may for a me be clouded and obscured from them, 2 yet he is sll the same, and they shall be sure to be kept by the power of God unto salvaon, where they shall enjoy their purchased possession, they being engraved upon the palm of his hands, and their names having been wrien in the book of life from all eternity. **[3]** 1 John 10:28,29; Phil. 1:6; 2 Tim. 2:19; 1 John 2:19 2 Ps. 89:31,32; 1 Cor. 11:32
@@ -1011,7 +1001,7 @@ Jesus to the end. 14
 
 **[14]** Luke 22:32,61,62
 
-## CHAPTER **[18]** - OF THE ASSURANCE OF GRACE AND SALVATION <a id="18"></a>
+## CHAPTER 18 - OF THE ASSURANCE OF GRACE AND SALVATION <a id="18"></a>
 
 ### Paragraph 1
 Although temporary believers and other unregenerate men, may vainly deceive themselves with false hopes and carnal presumpons of being in the favor of God and in a state of salvaon, which hope of theirs shall perish; 1 yet such as truly believe in the Lord Jesus, and love him in sincerity, endeavouring to walk in all good conscience before him, may in this life be certainly assured that they are in the state of grace, and may rejoice in the hope of the glory of God, 2 which hope shall never make them ashamed. 3
@@ -1069,7 +1059,7 @@ True believers may have the assurance of their salvaon divers ways shaken, dimin
 
 **[20]** Lam. 3:26-31
 
-## CHAPTER **[19]** - OF THE LAW OF GOD <a id="19"></a>
+## CHAPTER 19 - OF THE LAW OF GOD <a id="19"></a>
 
 ### Paragraph 1
 God gave to Adam a law of universal obedience wrien in his heart, and a parcular precept of not eang the fruit of the tree of knowledge of good and evil; 1 by which he bound him and all his posterity to personal, enre, exact, and perpetual obedience; 2 promised life upon the fulfilling, and threatened death upon the breach of it, and endued him with power and ability to keep it. 3
@@ -1128,7 +1118,7 @@ Neither are the aforemenoned uses of the law contrary to the grace of the Gospel
 
 **[17]** Ezek. 36:27
 
-## CHAPTER **[20]** - OF THE GOSPEL AND OF THE EXTENT OF THE GRACE THEREOF <a id="20"></a>
+## CHAPTER 20 - OF THE GOSPEL AND OF THE EXTENT OF THE GRACE THEREOF <a id="20"></a>
 
 ### Paragraph 1
 The covenant of works being broken by sin, and made unprofitable unto life, God was pleased to give forth the promise of Christ, the seed of the woman, as the means of calling the elect, and begeng in them faith and repentance; 1 in this promise the gospel, as to the substance of it, was revealed, and [is] therein effectual for the conversion and salvaon of sinners. 2
@@ -1160,7 +1150,7 @@ Although the gospel be the only outward means of revealing Christ and saving gra
 
 **[9]** John 6:44; 2 Cor. 4:4,6
 
-## CHAPTER **[21]** - OF CHRISTIAN LIBERTY AND LIBERTY OF CONSCIENCE <a id="21"></a>
+## CHAPTER 21 - OF CHRISTIAN LIBERTY AND LIBERTY OF CONSCIENCE <a id="21"></a>
 
 ### Paragraph 1
 The liberty which Christ has purchased for believers under the gospel, consists in their freedom from the guilt of sin, the condemning wrath of God, the severity and curse of the law, 1 and in their being delivered from this present evil world, 2 bondage to Satan, **[3]** and dominion of sin, **[4]** from the evil of afflicons, **[5]** the fear and sng of death, the victory of the grave, **[6]** and everlasng damnaon: **[7]** as also in their free access to God, and their yielding obedience unto Him, not out of slavish fear, **[8]** but a child-like love and willing mind. **[9]** All which were common also to believers under the law for the substance of them; **[10]** but under the New Testament the liberty of Chrisans is further enlarged, in their freedom from the yoke of a ceremonial law, to which the Jewish church was subjected, and in greater boldness of access to the throne of grace, and in fuller communicaons of the free Spirit of God, than believers under the law did ordinarily partake of. 11
@@ -1291,7 +1281,7 @@ The sabbath is then kept holy unto the Lord, when men, aer a due preparing of th
 
 **[31]** Ma. 12:1-13
 
-## CHAPTER **[23]** - OF LAWFUL OATHS AND VOWS <a id="23"></a>
+## CHAPTER 23 - OF LAWFUL OATHS AND VOWS <a id="23"></a>
 
 ### Paragraph 1
 A lawful oath is a part of religious worship, wherein the person swearing in truth, righteousness, and judgment, solemnly calls God to witness what he swears, 1 and to judge him according to the truth or falseness thereof. 2
@@ -1328,7 +1318,7 @@ A vow, which is not to be made to any creature, but to God alone, is to be made 
 
 **[11]** Ma. 19:1
 
-## CHAPTER **[24]** - OF THE CIVIL MAGISTRATE <a id="24"></a>
+## CHAPTER 24 - OF THE CIVIL MAGISTRATE <a id="24"></a>
 
 ### Paragraph 1
 God, the supreme Lord and King of all the world, has ordained civil magistrates to be under him, over the people, for his own glory and the public good; and to this end has armed them with the power of the sword, for defence and encouragement of them that do good, and for the punishment of evil doers. 1
@@ -1349,7 +1339,7 @@ Civil magistrates being set up by God for the ends aforesaid; subjecon, in all l
 
 **[5]** 1 Tim. 2:1,2
 
-## CHAPTER **[25]** - OF MARRIAGE <a id="25"></a>
+## CHAPTER 25 - OF MARRIAGE <a id="25"></a>
 
 ### Paragraph 1
 Marriage is to be between one man and one woman; neither is it lawful for any man to have more than one wife, nor for any woman to have more than one husband at the same me. 1 1 Gen. 2:24; Mal. 2:15; Ma. 19:5,6
@@ -1480,7 +1470,7 @@ In cases of difficules or differences, either in point of doctrine or administra
 
 **[30]** 2 Cor. 1:24; 1 John 4:1
 
-## CHAPTER **[27]** - OF THE COMMUNION OF THE SAINTS <a id="27"></a>
+## CHAPTER 27 - OF THE COMMUNION OF THE SAINTS <a id="27"></a>
 
 ### Paragraph 1
 All saints that are united to Jesus Christ, their head, by his Spirit, and faith, although they are not made thereby one person with him, have fellowship in his graces, sufferings, death, resurrecon, and glory; 1 and, being united to one another in love, they have communion in each others gis and graces, 2 and are obliged to the performance of such dues, public and private, in an orderly way, as do conduce to their mutual good, both in the inward and outward man. 3
@@ -1504,7 +1494,7 @@ Saints by profession are bound to maintain a holy fellowship and communion in th
 
 **[8]** Acts 5:4; Eph. 4:28
 
-## CHAPTER **[28]** - OF BAPTISM AND THE LORD'S SUPPER <a id="28"></a>
+## CHAPTER 28 - OF BAPTISM AND THE LORD'S SUPPER <a id="28"></a>
 
 ### Paragraph 1
 Bapsm and the Lord's Supper are ordinances of posive and sovereign instuon, appointed by the Lord Jesus, the only lawgiver, to be connued in his church to the end of the world. 1
@@ -1516,7 +1506,7 @@ These holy appointments are to be administered by those only who are qualified a
 
 **[2]** Ma. 28:19; 1 Cor. 4:1
 
-## CHAPTER **[29]** - OF BAPTISM <a id="29"></a>
+## CHAPTER 29 - OF BAPTISM <a id="29"></a>
 
 ### Paragraph 1
 Bapsm is an ordinance of the New Testament, ordained by Jesus Christ, to be unto the party bapzed, a sign of his fellowship with him, in his death and resurrecon; of his being engraed into him; **[3]** of remission of sins; **[4]** and of giving up into God, through Jesus Christ, to live and walk in newness of life. 5
@@ -1538,7 +1528,7 @@ The outward element to be used in this ordinance is water, wherein the party is 
 ### Paragraph 4
 Immersion, or dipping of the person in water, is necessary to the due administraon of this ordinance. **[8]**Ma. 3:16; John 3:23
 
-## CHAPTER **[30]** - OF THE LORD'S SUPPER <a id="30"></a>
+## CHAPTER 30 - OF THE LORD'S SUPPER <a id="30"></a>
 
 ### Paragraph 1
 The supper of the Lord Jesus was instuted by him the same night wherein he was betrayed, to be observed in his churches, unto the end of the world, for the perpetual remembrance, and showing to all the world the sacrifice of himself in his death, 1 confirmaon of the faith of believers in all the benefits thereof, their spiritual nourishment, and growth in him, their further engagement in, and to all dues which they owe to him; and to be a bond and pledge of their communion with him, and with each other. 2
@@ -1611,7 +1601,7 @@ At the last day, such of the saints as are found alive, shall not sleep, but be 
 ### Paragraph 3
 The bodies of the unjust shall, by the power of Christ, be raised to dishonour; the bodies of the just, by his Spirit, unto honour, and be made conformable to his own glorious body. **[8]**Acts 24:15; John 5:28,29; Phil. 3:21
 
-## CHAPTER **[32]** - OF THE LAST JUDGMENT <a id="32"></a>
+## CHAPTER 32 - OF THE LAST JUDGMENT <a id="32"></a>
 
 ### Paragraph 1
 God has appointed a day wherein he will judge the world in righteousness, by Jesus Christ; 1 to whom all power and judgment is given of the Father; in which day, not only the apostate angels shall be judged, 2 but likewise all persons that have lived upon the earth shall appear before the tribunal of Christ, to give an account of their thoughts, words, and deeds, and to receive according to what they have done in the body, whether good or evil. 3
