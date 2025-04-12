@@ -642,7 +642,7 @@ This will of man is made perfectly and immutably free to good alone in the state
 ## CHAPTER 10 - OF EFFECTUAL CALLING <a id="10"></a>
 
 ### Paragraph 1
-Those whom God hath predesnated unto life, He is pleased in His appointed, and accepted me, effectually to call, 1 by His Word and Spirit, out of that state of sin and death in which they are by nature, to grace and salvaon by Jesus Christ; 2 enlightening their minds spiritually and savingly to understand the things of God; **[3]** taking away their heart of stone, and giving to them a heart of flesh; **[4]** renewing their wills, and by His almighty power determining them to that which is good, and effectually drawing them to Jesus Christ; **[5]** yet so as they come most freely, being made willing by His grace. 6
+Those whom God hath predesnated unto life, He is pleased in His appointed, and accepted me, effectually to call, **[1]** by His Word and Spirit, out of that state of sin and death in which they are by nature, to grace and salvaon by Jesus Christ; **[2]** enlightening their minds spiritually and savingly to understand the things of God; **[3]** taking away their heart of stone, and giving to them a heart of flesh; **[4]** renewing their wills, and by His almighty power determining them to that which is good, and effectually drawing them to Jesus Christ; **[5]** yet so as they come most freely, being made willing by His grace. **[6]**
 
 **[1]** Rom. 8:30, 11:7; Eph. 1:10,11; 2 Thess. 2:13,14
 
@@ -657,7 +657,7 @@ Those whom God hath predesnated unto life, He is pleased in His appointed, and a
 **[6]** Ps. 110:3; Cant. 1:4
 
 ### Paragraph 2
-This effectual call is of God's free and special grace alone, not from anything at all foreseen in man, nor from any power or agency in the creature, **[7]** being wholly passive therein, being dead in sins and trespasses, unl being quickened and renewed by the Holy Spirit; **[8]** he is thereby enabled to answer this call, and to embrace the grace offered and conveyed in it, and that by no less power than that which raised up Christ from the dead. 9
+This effectual call is of God's free and special grace alone, not from anything at all foreseen in man, nor from any power or agency in the creature, **[7]** being wholly passive therein, being dead in sins and trespasses, unl being quickened and renewed by the Holy Spirit; **[8]** he is thereby enabled to answer this call, and to embrace the grace offered and conveyed in it, and that by no less power than that which raised up Christ from the dead. **[9]**
 
 **[7]** 2 Tim. 1:9; Eph. 2:8
 
@@ -673,7 +673,7 @@ Elect infants dying in infancy are regenerated and saved by Christ through the S
 **[11]** John 3:8
 
 ### Paragraph 4
-Others not elected, although they may be called by the ministry of the Word, and may have some common operaons of the Spirit, **[12]** yet not being effectually drawn by the Father, they neither will nor can truly come to Christ, and therefore cannot be saved: **[13]** much less can men that do not receive the Chrisan religion be saved; be they never so diligent to frame their lives according to the light of nature and the law of that religion they do profess. 14
+Others not elected, although they may be called by the ministry of the Word, and may have some common operaons of the Spirit, **[12]** yet not being effectually drawn by the Father, they neither will nor can truly come to Christ, and therefore cannot be saved: **[13]** much less can men that do not receive the Chrisan religion be saved; be they never so diligent to frame their lives according to the light of nature and the law of that religion they do profess. **[14]**
 
 **[12]** Ma. 22:14, 13:20,21; Heb 6:4,5
 
@@ -684,7 +684,7 @@ Others not elected, although they may be called by the ministry of the Word, and
 ## CHAPTER 11 - OF JUSTIFICATION <a id="11"></a>
 
 ### Paragraph 1
-Those whom God effectually calls, he also freely jusfies, 1 not by infusing righteousness into them, but by pardoning their sins, and by accounng and accepng their persons as righteous; 2 not for anything wrought in them, or done by them, but for Christ's sake alone; **[3]** not by impung faith itself, the act of believing, or any other evangelical obedience to them, as their righteousness; but by impung Christ's acve obedience unto the whole law, and passive obedience in his death for their whole and sole righteousness by faith, **[4]** which faith they have not of themselves; it is the gi of God. 5
+Those whom God effectually calls, he also freely jusfies, **[1]** not by infusing righteousness into them, but by pardoning their sins, and by accounng and accepng their persons as righteous; **[2]** not for anything wrought in them, or done by them, but for Christ's sake alone; **[3]** not by impung faith itself, the act of believing, or any other evangelical obedience to them, as their righteousness; but by impung Christ's acve obedience unto the whole law, and passive obedience in his death for their whole and sole righteousness by faith, **[4]** which faith they have not of themselves; it is the gi of God. **[5]**
 
 **[1]** Rom. 3:24, 8:30
 
@@ -697,40 +697,32 @@ Those whom God effectually calls, he also freely jusfies, 1 not by infusing righ
 **[5]** John 1:12, Rom. 5:17
 
 ### Paragraph 2
-Faith thus receiving and resng on Christ and his righteousness, is the alone instrument of jusficaon; **[6]** yet is not alone in the person jusfied, but is ever accompanied with all other saving graces, and is no dead faith, but works by love. **[7]** **[6]** Rom. 3:28
+Faith thus receiving and resng on Christ and his righteousness, is the alone instrument of jusficaon; **[6]** yet is not alone in the person jusfied, but is ever accompanied with all other saving graces, and is no dead faith, but works by love. **[7]**
+
+**[6]** Rom. 3:28
 
 **[7]** Gal.5:6, James 2:17,22,26
 
 ### Paragraph 3
-Christ, by his obedience and death, did fully discharge the debt of all those who are jusfied; and did, by the sacrifice of himself in the blood of his cross, undergoing in their stead the penalty due to them, make a proper, real, and full sasfacon to God's jusce in their behalf; 8
-
-yet, in as much as he was given by the Father for them, and his obedience and sasfacon accepted in their stead, and both freely, not for anything in them, **[9]** their jusficaon is only of free grace, that both the exact jusce and rich grace of God might be glorified in the jusficaon of sinners. 10
+Christ, by his obedience and death, did fully discharge the debt of all those who are jusfied; and did, by the sacrifice of himself in the blood of his cross, undergoing in their stead the penalty due to them, make a proper, real, and full sasfacon to God's jusce in their behalf; **[8]** yet, in as much as he was given by the Father for them, and his obedience and sasfacon accepted in their stead, and both freely, not for anything in them, **[9]** their jusficaon is only of free grace, that both the exact jusce and rich grace of God might be glorified in the jusficaon of sinners. **[10]**
 
 **[8]** Heb. 10:14; 1 Pet. 1:18,19; Isa. 53:5,6
 
-9
+**[9]** Rom. 8:32; 2 Cor. 5:21
 
-Rom. 8:32; 2 Cor. 5:21
-
-10
-
-Rom. 3:26; Eph. 1:6,7, 2:7
+**[10]** Rom. 3:26; Eph. 1:6,7, 2:7
 
 ### Paragraph 4
-God did from all eternity decree to jusfy all the elect, **[11]** and Christ did in the fullness of me die for their sins, and rise again for their jusficaon; **[12]** nevertheless, they are not jusfied personally, unl the Holy Spirit in me does actually apply Christ to them. 13
+God did from all eternity decree to jusfy all the elect, **[11]** and Christ did in the fullness of me die for their sins, and rise again for their jusficaon; **[12]** nevertheless, they are not jusfied personally, unl the Holy Spirit in me does actually apply Christ to them. **[13]**
 
-11
-
-Gal. 3:8, 1 Pet. 1:2, 1 Tim. 2:6
+**[11]** Gal. 3:8, 1 Pet. 1:2, 1 Tim. 2:6
 
 **[12]** Rom. 4:25
 
-13
-
-Col. 1:21,22, Titus 3:4-7
+**[13]** Col. 1:21,22, Titus 3:4-7
 
 ### Paragraph 5
-God connues to forgive the sins of those that are jusfied, **[14]** and although they can never fall from the state of jusficaon, **[15]** yet they may, by their sins, fall under God's fatherly displeasure; **[16]** and in that condion they usually do not have the light of his countenance restored to them, unl  they humble themselves, beg pardon, and renew their faith and repentance. 17
+God connues to forgive the sins of those that are jusfied, **[14]** and although they can never fall from the state of jusficaon, **[15]** yet they may, by their sins, fall under God's fatherly displeasure; **[16]** and in that condion they usually do not have the light of his countenance restored to them, unl  they humble themselves, beg pardon, and renew their faith and repentance. **[17]**
 
 **[14]** Ma. 6:12, 1 John 1:7,9
 
@@ -738,21 +730,18 @@ God connues to forgive the sins of those that are jusfied, **[14]** and although
 
 **[16]** Ps. 89:31-33
 
-17
-
-Ps. 32:5, Ps. 51, Ma. 26:75
+**[17]** Ps. 32:5, Ps. 51, Ma. 26:75
 
 ### Paragraph 6
-The jusficaon of believers under the Old Testament was, in all these respects, one and the same with the jusficaon of believers under the New Testament. 18
+The jusficaon of believers under the Old Testament was, in all these respects, one and the same with the jusficaon of believers under the New Testament. **[18]**
 
 **[18]** Gal. 3:9; Rom. 4:22-24
+
 
 ## CHAPTER 12 - OF ADOPTION <a id="12"></a>
 
 ### Paragraph 1
-All those that are jusfied, God conferred, in and for the sake of his only Son Jesus Christ, to make partakers of the grace of adopon, 1
-
-by which they are taken into the number, and enjoy the liberes and privileges of the children of God, 2 have his name put on them, **[3]** receive the spirit of adopon, **[4]** have access to the throne of grace with boldness, are enabled to cry Abba, Father, **[5]** are pied, **[6]** protected, **[7]** provided for, **[8]** and chastened by him as by a Father, **[9]** yet never cast off, **[10]** but sealed to the day of redempon, **[11]** and inherit the promises as heirs of everlasng salvaon. 12
+All those that are jusfied, God conferred, in and for the sake of his only Son Jesus Christ, to make partakers of the grace of adopon, **[1]** by which they are taken into the number, and enjoy the liberes and privileges of the children of God, **[2]** have his name put on them, **[3]** receive the spirit of adopon, **[4]** have access to the throne of grace with boldness, are enabled to cry Abba, Father, **[5]** are pied, **[6]** protected, **[7]** provided for, **[8]** and chastened by him as by a Father, **[9]** yet never cast off, **[10]** but sealed to the day of redempon, **[11]** and inherit the promises as heirs of everlasng salvaon. **[12]**
 
 **[1]** Eph. 1:5; Gal. 4:4,5
 
@@ -781,7 +770,7 @@ by which they are taken into the number, and enjoy the liberes and privileges of
 ## CHAPTER 13 - OF SANCTIFICATION <a id="13"></a>
 
 ### Paragraph 1
-They who are united to Christ, effectually called, and regenerated, having a new heart and a new spirit created in them through the virtue of Christ's death and resurrecon, are also farther sancfied, really and personally, 1 through the same virtue, by his Word and Spirit dwelling in them; 2 the dominion of the whole body of sin is destroyed, **[3]** and the several lusts of it are more and more weakened and morfied, **[4]** and they more and more quickened and strengthened in all saving graces, **[5]** to the pracce of all true holiness, without which no man shall see the Lord. 6
+They who are united to Christ, effectually called, and regenerated, having a new heart and a new spirit created in them through the virtue of Christ's death and resurrecon, are also farther sancfied, really and personally, **[1]** through the same virtue, by his Word and Spirit dwelling in them; **[2]** the dominion of the whole body of sin is destroyed, **[3]** and the several lusts of it are more and more weakened and morfied, **[4]** and they more and more quickened and strengthened in all saving graces, **[5]** to the pracce of all true holiness, without which no man shall see the Lord. **[6]**
 
 **[1]** Acts 20:32; Rom. 6:5,6
 
@@ -796,7 +785,7 @@ They who are united to Christ, effectually called, and regenerated, having a new
 **[6]** 2 Cor. 7:1; Heb. 12:14
 
 ### Paragraph 2
-This sancficaon is throughout the whole man, **[7]** yet imperfect in this life; there abides sll some remnants of corrupon in every part, **[8]** wherefrom arises a connual and irreconcilable war; the flesh lusng against the Spirit, and the Spirit against the flesh. 9
+This sancficaon is throughout the whole man, **[7]** yet imperfect in this life; there abides sll some remnants of corrupon in every part, **[8]** wherefrom arises a connual and irreconcilable war; the flesh lusng against the Spirit, and the Spirit against the flesh. **[9]**
 
 **[7]** 1 Thess. 5:23
 
@@ -805,7 +794,7 @@ This sancficaon is throughout the whole man, **[7]** yet imperfect in this life;
 **[9]** Gal. 5:17; 1 Pet. 2:11
 
 ### Paragraph 3
-In which war, although the remaining corrupon for a me may much prevail, **[10]** yet, through the connual supply of strength from the sancfying Spirit of Christ, the regenerate part does overcome; **[11]** and so the saints grow in grace, perfecng holiness in the fear of God, pressing aer an heavenly life, in evangelical obedience to all the commands which Christ as Head and King, in his Word has prescribed to them. 12
+In which war, although the remaining corrupon for a me may much prevail, **[10]** yet, through the connual supply of strength from the sancfying Spirit of Christ, the regenerate part does overcome; **[11]** and so the saints grow in grace, perfecng holiness in the fear of God, pressing aer an heavenly life, in evangelical obedience to all the commands which Christ as Head and King, in his Word has prescribed to them. **[12]**
 
 **[10]** Rom. 7:23
 
@@ -816,14 +805,16 @@ In which war, although the remaining corrupon for a me may much prevail, **[10]*
 ## CHAPTER 14 - OF SAVING FAITH <a id="14"></a>
 
 ### Paragraph 1
-The grace of faith, whereby the elect are enabled to believe to the saving of their souls, is the work of the Spirit of Christ in their hearts, 1 and is ordinarily wrought by the ministry of the Word; 2 by which also, and by the administraon of bapsm and the Lord's supper, prayer, and other means appointed of God, it is increased and strengthened. **[3]** 1 2 Cor. 4:13; Eph. 2:8
+The grace of faith, whereby the elect are enabled to believe to the saving of their souls, is the work of the Spirit of Christ in their hearts, **[1]** and is ordinarily wrought by the ministry of the Word; **[2]** by which also, and by the administraon of bapsm and the Lord's supper, prayer, and other means appointed of God, it is increased and strengthened. **[3]** 
+
+**[1]** 2 Cor. 4:13; Eph. 2:8
 
 **[2]** Rom. 10:14,17
 
 **[3]** Luke 17:5; 1 Pet. 2:2; Acts 20:32
 
 ### Paragraph 2
-By this faith a Chrisan believes to be true whatsoever is revealed in the Word for the authority of God himself, **[4]** and also apprehends an excellency therein above all other wrings and all things in the world, **[5]** as it bears forth the glory of God in his aributes, the excellency of Christ in his nature and offices, and the power and fullness of the Holy Spirit in his workings and operaons: and so is enabled to cast his soul upon the truth consequently believed; **[6]** and also acts differently upon that which each parcular passage thereof contains; yielding obedience to the commands, **[7]** trembling at the threatenings, **[8]** and embracing the promises of God for this life and that which is to come; **[9]** but the principle acts of saving faith have immediate relaon to Christ, accepng, receiving, and resng upon him alone for jusficaon, sancficaon, and eternal life, by virtue of the covenant of grace. 10
+By this faith a Chrisan believes to be true whatsoever is revealed in the Word for the authority of God himself, **[4]** and also apprehends an excellency therein above all other wrings and all things in the world, **[5]** as it bears forth the glory of God in his aributes, the excellency of Christ in his nature and offices, and the power and fullness of the Holy Spirit in his workings and operaons: and so is enabled to cast his soul upon the truth consequently believed; **[6]** and also acts differently upon that which each parcular passage thereof contains; yielding obedience to the commands, **[7]** trembling at the threatenings, **[8]** and embracing the promises of God for this life and that which is to come; **[9]** but the principle acts of saving faith have immediate relaon to Christ, accepng, receiving, and resng upon him alone for jusficaon, sancficaon, and eternal life, by virtue of the covenant of grace. **[10]**
 
 **[4]** Acts 24:14
 
@@ -840,7 +831,7 @@ By this faith a Chrisan believes to be true whatsoever is revealed in the Word f
 **[10]** John 1:12; Acts 16:31; Gal:20; Acts 15:11
 
 ### Paragraph 3
-This faith, although it be in different stages, and may be weak or strong, **[11]** yet it is in the least degree of it different in the kind or nature of it, as is all other saving grace, from the faith and common grace of temporary believers; **[12]** and therefore, though it may be many mes assailed and weakened, yet it gets the victory, **[13]** growing up in many to the aainment of a full assurance through Christ, **[14]** who is both the author and finisher of our faith. 15
+This faith, although it be in different stages, and may be weak or strong, **[11]** yet it is in the least degree of it different in the kind or nature of it, as is all other saving grace, from the faith and common grace of temporary believers; **[12]** and therefore, though it may be many mes assailed and weakened, yet it gets the victory, **[13]** growing up in many to the aainment of a full assurance through Christ, **[14]** who is both the author and finisher of our faith. **[15]**
 
 **[11]** Heb. 5:13,14; Ma. 6:30; Rom. 4:19,20
 
@@ -855,28 +846,30 @@ This faith, although it be in different stages, and may be weak or strong, **[11
 ## CHAPTER 15 - OF REPENTANCE UNTO LIFE AND SALVATION <a id="15"></a>
 
 ### Paragraph 1
-Such of the elect that are converted at riper years, having someme lived in the state of nature, and therein served divers pleasures, God in their effectual calling gives them repentance to life. 1 1 Titus 3:2-5
+Such of the elect that are converted at riper years, having someme lived in the state of nature, and therein served divers pleasures, God in their effectual calling gives them repentance to life. **[1]**
+
+**[1]** Titus 3:2-5
 
 ### Paragraph 2
-Whereas there is none that does good and does not sin, 2 and the best of men may, through the power and deceiulness of their corrupon dwelling in them, with the prevalency of temptaon, fall in to great sins and provocaons; God has, in the covenant of grace, mercifully provided that believers so sinning and falling be renewed through repentance unto salvaon. 3
+Whereas there is none that does good and does not sin, **[2]** and the best of men may, through the power and deceiulness of their corrupon dwelling in them, with the prevalency of temptaon, fall in to great sins and provocaons; God has, in the covenant of grace, mercifully provided that believers so sinning and falling be renewed through repentance unto salvaon. **[3]**
 
 **[2]** Eccles. 7:20
 
 **[3]** Luke 22:31,32
 
 ### Paragraph 3
-This saving repentance is an evangelical grace, **[4]** whereby a person, being by the Holy Spirit made sensible of the manifold evils of his sin, does, by faith in Christ, humble himself for it with godly sorrow, detestaon of it, and self-abhorrancy, **[5]** praying for pardon and strength of grace, with a purpose and endeavor, by supplies of the Spirit, to walk before God unto all well-pleasing in all things. 6
+This saving repentance is an evangelical grace, **[4]** whereby a person, being by the Holy Spirit made sensible of the manifold evils of his sin, does, by faith in Christ, humble himself for it with godly sorrow, detestaon of it, and self-abhorrancy, **[5]** praying for pardon and strength of grace, with a purpose and endeavor, by supplies of the Spirit, to walk before God unto all well-pleasing in all things. **[6]**
 
 **[4]** Zech. 12:10; Acts 11:18
 
-5
-
-Ezek. 36:31; 2 Cor. 7:11
+**[5]** Ezek. 36:31; 2 Cor. 7:11
 
 **[6]** Ps. 119:6,128
 
 ### Paragraph 4
-As repentance is to be connued through the whole course of our lives, upon the account of the body of death, and the moons thereof, so it is every man's duty to repent of his parcular known sins parcularly. **[7]**Luke 19:8; 1 Tim. 1:13,15
+As repentance is to be connued through the whole course of our lives, upon the account of the body of death, and the moons thereof, so it is every man's duty to repent of his parcular known sins parcularly. **[7]**
+
+**[7]** Luke 19:8; 1 Tim. 1:13,15
 
 ### Paragraph 5
 Such is the provision which God has made through Christ in the covenant of grace for the preservaon of believers unto salvaon, that although there is no sin so small but it deserves damnaon, **[8]** yet there is no sin so great that it shall bring damnaon to them that repent, **[9]** which makes the constant preaching of repentance necessary.
@@ -885,15 +878,18 @@ Such is the provision which God has made through Christ in the covenant of grace
 
 **[9]** Isa. 1:16-18, 55:7
 
+
 ## CHAPTER 16 - OF GOOD WORKS <a id="16"></a>
 
 ### Paragraph 1
-Good works are only such as God has commanded in his Holy Word, 1 and not such as without the warrant thereof are devised by men out of blind zeal, or upon any pretense of good intenons. 2 1 Mic. 6:8; Heb. 13:21
+Good works are only such as God has commanded in his Holy Word, **[1]** and not such as without the warrant thereof are devised by men out of blind zeal, or upon any pretense of good intenons. **[2]**
+
+**[1]** Mic. 6:8; Heb. 13:21
 
 **[2]** Ma. 15:9; Isa. 29:13
 
 ### Paragraph 2
-These good works, done in obedience to God's commandments, are the fruits and evidences of a true and lively faith; **[3]** and by them believers manifest their thankfulness, **[4]** strengthen their assurance, **[5]** edify their brethren, adorn the profession of the gospel, **[6]** stop the mouths of the adversaries, and glory God, **[7]** whose workmanship they are, created in Christ Jesus thereunto, **[8]** that having their fruit unto holiness they may have the end eternal life. 9
+These good works, done in obedience to God's commandments, are the fruits and evidences of a true and lively faith; **[3]** and by them believers manifest their thankfulness, **[4]** strengthen their assurance, **[5]** edify their brethren, adorn the profession of the gospel, **[6]** stop the mouths of the adversaries, and glory God, **[7]** whose workmanship they are, created in Christ Jesus thereunto, **[8]** that having their fruit unto holiness they may have the end eternal life. **[9]**
 
 **[3]** James 2:18,22
 
@@ -910,7 +906,7 @@ These good works, done in obedience to God's commandments, are the fruits and ev
 **[9]** Rom 6:22
 
 ### Paragraph 3
-Their ability to do good works is not all of themselves, but wholly from the Spirit of Christ; **[10]** and that they may be enabled thereunto, besides the graces they have already received, there is necessary an actual influence of the same Holy Spirit, to work in them and to will and to do of his good pleasure; **[11]** yet they are not bound to perform any duty, unless upon a special moon of the Spirit, but they ought to be diligent in srring up the grace of God that is in them. 12
+Their ability to do good works is not all of themselves, but wholly from the Spirit of Christ; **[10]** and that they may be enabled thereunto, besides the graces they have already received, there is necessary an actual influence of the same Holy Spirit, to work in them and to will and to do of his good pleasure; **[11]** yet they are not bound to perform any duty, unless upon a special moon of the Spirit, but they ought to be diligent in srring up the grace of God that is in them. **[12]**
 
 **[10]** John 15:4,5
 
@@ -919,34 +915,28 @@ Their ability to do good works is not all of themselves, but wholly from the Spi
 **[12]** Phil. 2:12; Heb. 6:11,12; Isa. 64:7
 
 ### Paragraph 4
-They who in their obedience aain to the greatest height which is possible in this life, are so far from being able to supererogate, and to do more than God requires, as that they fall short of much which in
-
-duty they are bound to do. 13
+They who in their obedience aain to the greatest height which is possible in this life, are so far from being able to supererogate, and to do more than God requires, as that they fall short of much which in duty they are bound to do. **[13]**
 
 **[13]** Job 9:2, 3; Gal. 5:17; Luke 17:10
 
 ### Paragraph 5
-We cannot by our best works merit pardon of sin or eternal life at the hand of God, by reason of the great disproporon that is between them and the glory to come, and the infinite distance that is between us and God, whom by them we can neither profit nor sasfy for the debt of our former sins; **[14]** but when we have done all we can, we have done but our duty, and are unprofitable servants; and because they are good they proceed from his Spirit, **[15]** and as they are wrought by us they are defiled and mixed with so much weekness and imperfecon, that they cannot endure the severity of God's punishment. 16
+We cannot by our best works merit pardon of sin or eternal life at the hand of God, by reason of the great disproporon that is between them and the glory to come, and the infinite distance that is between us and God, whom by them we can neither profit nor sasfy for the debt of our former sins; **[14]** but when we have done all we can, we have done but our duty, and are unprofitable servants; and because they are good they proceed from his Spirit, **[15]** and as they are wrought by us they are defiled and mixed with so much weekness and imperfecon, that they cannot endure the severity of God's punishment. **[16]**
 
-14
+**[14]** Rom. 3:20; Eph. 2:8,9; Rom. 4:6
 
-Rom. 3:20; Eph. 2:8,9; Rom. 4:6
-
-15
-
-Gal. 5:22,23
+**[15]** Gal. 5:22,23
 
 **[16]** Isa. 64:6; Ps. 43:2
 
 ### Paragraph 6
-Yet notwithstanding the persons of believers being accepted through Christ, their good works also are accepted in him; **[17]** not as thought they were in this life wholly unblamable and unreprovable in God's sight, but that he, looking upon them in his Son, is pleased to accept and reward that which is sincere, although accompanied with many weaknesses and imperfecon. 18
+Yet notwithstanding the persons of believers being accepted through Christ, their good works also are accepted in him; **[17]** not as thought they were in this life wholly unblamable and unreprovable in God's sight, but that he, looking upon them in his Son, is pleased to accept and reward that which is sincere, although accompanied with many weaknesses and imperfecon. **[18]**
 
 **[17]** Eph. 1:5; 1 Pet. 1:5
 
 **[18]** Ma. 25:21,23; Heb. 6:10
 
 ### Paragraph 7
-Works done by unregenerate men, although for the maer of them they may things which God commands, and of good use both to themselves and to others; **[19]** yet because they proceed not from a heart purified by faith, **[20]** nor are done in a right manner according to the Word, **[21]** nor to a right end, the glory of God, **[22]** they are therfore sinful, and cannot please God, nor make a man meet to receive the grace from God, **[23]** and yet their neglect fo them is more sinful and displeasing to God. 24
+Works done by unregenerate men, although for the maer of them they may things which God commands, and of good use both to themselves and to others; **[19]** yet because they proceed not from a heart purified by faith, **[20]** nor are done in a right manner according to the Word, **[21]** nor to a right end, the glory of God, **[22]** they are therfore sinful, and cannot please God, nor make a man meet to receive the grace from God, **[23]** and yet their neglect fo them is more sinful and displeasing to God. **[24]**
 
 **[19]** 2 Kings 10:30; 1 Kings 21:27,29
 
@@ -963,20 +953,20 @@ Works done by unregenerate men, although for the maer of them they may things wh
 ## CHAPTER 17 - OF THE PERSEVERANCE OF THE SAINTS <a id="17"></a>
 
 ### Paragraph 1
-Those whom God has accepted in the beloved, effectually called and sancfied by his Spirit, and given the precious faith of his elect unto, can neither totally nor finally fall from the state of grace, but shall certainly persevere therein to the end, and be eternally saved, seeing the gis and callings of God are without repentance, from which source he sll begets and nourishes in them faith, repentance, love, joy, hope, and all the graces of the Spirit unto immortality; 1 and though many storms and floods arise and beat against them, yet they shall never be able to take them off that foundaon and rock which by faith they are fastened upon; notwithstanding, through unbelief and the temptaons of Satan, the sensible sight of the light and love of God may for a me be clouded and obscured from them, 2 yet he is sll the same, and they shall be sure to be kept by the power of God unto salvaon, where they shall enjoy their purchased possession, they being engraved upon the palm of his hands, and their names having been wrien in the book of life from all eternity. **[3]** 1 John 10:28,29; Phil. 1:6; 2 Tim. 2:19; 1 John 2:19 2 Ps. 89:31,32; 1 Cor. 11:32
+Those whom God has accepted in the beloved, effectually called and sancfied by his Spirit, and given the precious faith of his elect unto, can neither totally nor finally fall from the state of grace, but shall certainly persevere therein to the end, and be eternally saved, seeing the gis and callings of God are without repentance, from which source he sll begets and nourishes in them faith, repentance, love, joy, hope, and all the graces of the Spirit unto immortality; **[1]** and though many storms and floods arise and beat against them, yet they shall never be able to take them off that foundaon and rock which by faith they are fastened upon; notwithstanding, through unbelief and the temptaons of Satan, the sensible sight of the light and love of God may for a me be clouded and obscured from them, **[2]** yet he is sll the same, and they shall be sure to be kept by the power of God unto salvaon, where they shall enjoy their purchased possession, they being engraved upon the palm of his hands, and their names having been wrien in the book of life from all eternity. **[3]** 
+
+**[1]** John 10:28,29; Phil. 1:6; 2 Tim. 2:19; 1 John 2:19
+
+**[2]** Ps. 89:31,32; 1 Cor. 11:32
 
 **[3]** Mal. 3:6
 
 ### Paragraph 2
 This perseverance of the saints depends not upon their own free will, but upon the immutability of the decree of elecon, **[4]** flowing from the free and unchangeable love of God the Father, upon the efficacy of the merit and intercession of Jesus Christ and union with him, **[5]** the oath of God, **[6]** the abiding of his Spirit, and the seed of God within them, **[7]** and the nature of the covenant of grace; **[8]** from all which ariseth also the certainty and infallibility thereof.
 
-4
+**[4]** Rom. 8:30, 9:11,16
 
-Rom. 8:30, 9:11,16
-
-5
-
-Rom. 5:9, 10; John 14:19
+**[5]** Rom. 5:9, 10; John 14:19
 
 **[6]** Heb. 6:17,18
 
@@ -985,9 +975,7 @@ Rom. 5:9, 10; John 14:19
 **[8]** Jer. 32:40
 
 ### Paragraph 3
-And though they may, through the temptaon of Satan and of the world, the prevalency of corrupon remaining in them, and the neglect of means of their preservaon, fall into grievous sins, and for a me connue therein, **[9]** whereby they incur God's displeasure and grieve his Holy Spirit, **[10]** come to have their graces and comforts impaired, **[11]** have their hearts hardened, and their consciences wounded, **[12]** hurt and scandalize others, and bring temporal judgments upon themselves, **[13]** yet shall they renew their repentance and be preserved through faith in Christ
-
-Jesus to the end. 14
+And though they may, through the temptaon of Satan and of the world, the prevalency of corrupon remaining in them, and the neglect of means of their preservaon, fall into grievous sins, and for a me connue therein, **[9]** whereby they incur God's displeasure and grieve his Holy Spirit, **[10]** come to have their graces and comforts impaired, **[11]** have their hearts hardened, and their consciences wounded, **[12]** hurt and scandalize others, and bring temporal judgments upon themselves, **[13]** yet shall they renew their repentance and be preserved through faith in Christ Jesus to the end. **[14]**
 
 **[9]** Ma. 26:70,72,74
 
@@ -1004,11 +992,9 @@ Jesus to the end. 14
 ## CHAPTER 18 - OF THE ASSURANCE OF GRACE AND SALVATION <a id="18"></a>
 
 ### Paragraph 1
-Although temporary believers and other unregenerate men, may vainly deceive themselves with false hopes and carnal presumpons of being in the favor of God and in a state of salvaon, which hope of theirs shall perish; 1 yet such as truly believe in the Lord Jesus, and love him in sincerity, endeavouring to walk in all good conscience before him, may in this life be certainly assured that they are in the state of grace, and may rejoice in the hope of the glory of God, 2 which hope shall never make them ashamed. 3
+Although temporary believers and other unregenerate men, may vainly deceive themselves with false hopes and carnal presumpons of being in the favor of God and in a state of salvaon, which hope of theirs shall perish; **[1]** yet such as truly believe in the Lord Jesus, and love him in sincerity, endeavouring to walk in all good conscience before him, may in this life be certainly assured that they are in the state of grace, and may rejoice in the hope of the glory of God, **[2]** which hope shall never make them ashamed. **[3]**
 
-1
-
-Job 8:13,14; Ma. 7:22,23
+**[1]** Job 8:13,14; Ma. 7:22,23
 
 **[2]** 1 John 2:3, 3:14,18,19,21,24, 5:13
 
@@ -1017,7 +1003,7 @@ Job 8:13,14; Ma. 7:22,23
 ### Paragraph 2
 This certainty is not a bare conjectural and probable persuasion grounded upon a fallible hope, but an infallible assurance of faith, **[4]** founded on the blood and righteousness of Christ revealed in the
 
-Gospel; **[5]** and also upon the inward evidence of those graces of the Spirit unto which promises are made, **[6]** and on the tesmony of the Spirit of adopon, witnessing with our spirits that we are the children of God; **[7]** and, as a fruit thereof, keeping the heart both humble and holy. 8
+Gospel; **[5]** and also upon the inward evidence of those graces of the Spirit unto which promises are made, **[6]** and on the tesmony of the Spirit of adopon, witnessing with our spirits that we are the children of God; **[7]** and, as a fruit thereof, keeping the heart both humble and holy. **[8]**
 
 **[4]** Heb. 6:11,19
 
@@ -1030,7 +1016,7 @@ Gospel; **[5]** and also upon the inward evidence of those graces of the Spirit 
 **[8]** 1 John 3:1-3
 
 ### Paragraph 3
-This infallible assurance does not so belong to the essence of faith, but that a true believer may wait long, and struggle with many difficules before he be partaker of it; **[9]** yet being enabled by the Spirit to know the things which are freely given him of God, he may, without extraordinary revelaon, in the right use of means, aain thereunto: **[10]** and therefore it is the duty of every one to give all diligence to make his calling and elecon sure, that thereby his heart may be enlarged in peace and joy in the Holy Spirit, in love and thankfulness to God, and in strength and cheerfulness in the dues of obedience, the proper fruits of this assurance; **[11]** -so far is it from inclining men to looseness. 12
+This infallible assurance does not so belong to the essence of faith, but that a true believer may wait long, and struggle with many difficules before he be partaker of it; **[9]** yet being enabled by the Spirit to know the things which are freely given him of God, he may, without extraordinary revelaon, in the right use of means, aain thereunto: **[10]** and therefore it is the duty of every one to give all diligence to make his calling and elecon sure, that thereby his heart may be enlarged in peace and joy in the Holy Spirit, in love and thankfulness to God, and in strength and cheerfulness in the dues of obedience, the proper fruits of this assurance; **[11]** -so far is it from inclining men to looseness. **[12]**
 
 **[9]** Isa. 50:10; Ps. 88; Ps. 77:1-12
 
@@ -1041,7 +1027,7 @@ This infallible assurance does not so belong to the essence of faith, but that a
 **[12]** Rom. 6:1,2; Titus 2:11,12,14
 
 ### Paragraph 4
-True believers may have the assurance of their salvaon divers ways shaken, diminished, and intermied; as by negligence in preserving of it, **[13]** by falling into some special sin which wounds the conscience and grieves the Spirit; **[14]** by some sudden or vehement temptaon, **[15]** by God's withdrawing the light of his countenance, and suffering even such as fear him to walk in darkness and to have no light, **[16]** yet are they never destute of the seed of God **[17]** and life of faith, **[18]** that love of Christ and the brethren, that sincerity of heart and conscience of duty out of which, by the operaon of the Spirit, this assurance may in due me be revived, **[19]** and by the which, in the meanme, they are preserved from uer despair. 20
+True believers may have the assurance of their salvaon divers ways shaken, diminished, and intermied; as by negligence in preserving of it, **[13]** by falling into some special sin which wounds the conscience and grieves the Spirit; **[14]** by some sudden or vehement temptaon, **[15]** by God's withdrawing the light of his countenance, and suffering even such as fear him to walk in darkness and to have no light, **[16]** yet are they never destute of the seed of God **[17]** and life of faith, **[18]** that love of Christ and the brethren, that sincerity of heart and conscience of duty out of which, by the operaon of the Spirit, this assurance may in due me be revived, **[19]** and by the which, in the meanme, they are preserved from uer despair. **[20]**
 
 **[13]** Cant. 5:2,3,6
 
