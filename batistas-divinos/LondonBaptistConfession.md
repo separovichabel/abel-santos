@@ -10,40 +10,39 @@ Put forth by the Elders and Brethren of many Congregaons of Chrisans (bapzed upo
 
 CHAPTER TITLES FOREWORD THE BAPTIST CONFESSION OF FAITH ENDING STATEMENT AND SIGNATORIES AN APPENDIX
 
-## CHAPTER TITLES
-
-01. [Of the Holy Scriptures](#01)
-02. Of God and the Holy Trinity
-03. Of God's Decree
-04. Of Creaon
-05. Of Divine Providence
-06. Of the Fall of Man, of Sin, and of the Punishment Thereof
-07. Of God's Covenant
-08. Of Christ the Mediator
-09. Of Free Will
-10. Of Effectual Calling
-11. Of Jusficaon
-12. Of Adopon
-13. Of Sancficaon
-14. Of Saving Faith
-15. Of Repentance unto Life and Salvaon
-16. Of Good Works
-17. Of the Perseverance of the Saints
-18. Of the Assurance of Grace and Salvaon
-19. Of the Law of God
-20. Of the Gospel and the Extent of Grace Thereof
-21. Of Chrisan Liberty and Liberty of Conscience
-22. Of Religious Worship and the Sabbath Day
-23. Of Lawful Oaths and Vows
-24. Of the Civil Magistrate
-25. Of Marriage
-26. Of the Church
-27. Of the Communion of Saints
-28. Of Bapsm and the Lord's Supper
-29. Of Bapsm
-30. Of the Lord's Supper
-31. Of the State of Man aer Death, and of the Resurrecon of the Dead
-32. Of the Last Judgment
+## CHAPTER TITLES <a id="TITLES"></a>
+01. [Of the Holy Scriptures](#1)
+02. [Of God and the Holy Trinity](#2)
+03. [Of God's Decree](#3)
+04. [Of Creaon](#4)
+05. [Of Divine Providence](#5)
+06. [Of the Fall of Man, of Sin, and of the Punishment Thereof](#6)
+07. [Of God's Covenant](#7)
+08. [Of Christ the Mediator](#8)
+09. [Of Free Will](#9)
+10. [Of Effectual Calling](#10)
+11. [Of Jusficaon](#11)
+12. [Of Adopon](#12)
+13. [Of Sancficaon](#13)
+14. [Of Saving Faith](#14)
+15. [Of Repentance unto Life and Salvaon](#15)
+16. [Of Good Works](#16)
+17. [Of the Perseverance of the Saints](#17)
+18. [Of the Assurance of Grace and Salvaon](#18)
+19. [Of the Law of God](#19)
+20. [Of the Gospel and the Extent of Grace Thereof](#20)
+21. [Of Chrisan Liberty and Liberty of Conscience](#21)
+22. [Of Religious Worship and the Sabbath Day](#22)
+23. [Of Lawful Oaths and Vows](#23)
+24. [Of the Civil Magistrate](#24)
+25. [Of Marriage](#25)
+26. [Of the Church](#26)
+27. [Of the Communion of Saints](#27)
+28. [Of Bapsm and the Lord's Supper](#28)
+29. [Of Bapsm](#29)
+30. [Of the Lord's Supper](#30)
+31. [Of the State of Man aer Death, and of the Resurrecon of the Dead](#31)
+32. [Of the Last Judgment](#32)
 
 ## FOREWORD
 
@@ -68,7 +67,7 @@ A preface to the original publicaon of 1677 says in part: '. . . It is now many 
 'Forasmuch as this confession is not now commonly to be had; and also that many others have since embraced the same truth which is owned therein; it was judged necessary by us to join together in giving a tesmony to the world of our firm adhering to those wholesome principles . . .'
 
 
-## CHAPTER 1 - OF THE HOLY SCRIPTURES  <a id="01"></a>
+## CHAPTER 1 - OF THE HOLY SCRIPTURES  <a id="1"></a>
 
 ### Paragraph 
 The Holy Scripture is the only sufficient, certain, and infallible rule of all saving knowledge, faith, and obedience, **[1]** although the light of nature, and the works of creaon and providence do so far manifest the goodness, wisdom, and power of God, as to leave men inexcusable; yet they are not sufficient to give that knowledge of God and His will which is necessary unto salvaon. **[2]** Therefore it pleased the Lord at sundry mes and in diversified manners to reveal Himself, and to declare (that) His will unto His church; **[3]** and aerward for the beer preserving and propagang of the truth, and for the more sure establishment and comfort of the church against the corrupon of the flesh, and the malice of Satan, and of the world, to commit the same wholly unto wring; which makes the Holy Scriptures to be most necessary, those former ways of God's revealing His will unto His people being now completed. **[4]**
@@ -175,7 +174,7 @@ The supreme judge, by which all controversies of religion are to be determined, 
 
 21 Ma. 22:29, 31, 32; Eph. 2:20; Acts 28:23
 
-## CHAPTER 2; OF GOD AND OF THE HOLY TRINITY
+## CHAPTER 2 - OF GOD AND OF THE HOLY TRINITY <a id="2"></a>
 
 ### Paragraph 1
 The Lord our God is but one only living and true God; 1 whose subsistence is in and of Himself, 2 infinite in being and perfecon; whose essence cannot be comprehended by any but Himself; 3 a most pure spirit, 4 invisible, without body, parts, or passions, who only hath immortality, dwelling in the light which no man can approach unto; 5 who is immutable, 6 immense, 7 eternal, 8 incomprehensible, almighty, 9 every way infinite, most holy, 10 most wise, most free, most absolute; working all things according to the counsel of His own immutable and most righteous will, 11 for His own glory; 12 most loving, gracious, merciful, long-suffering, abundant in goodness and truth, forgiving iniquity, transgression, and sin; the rewarder of them that diligently seek Him, 13 and withal most just and terrible in His judgments, 14 hang all sin, 15 and who will by no means clear the guilty. 16
@@ -248,7 +247,7 @@ In this divine and infinite Being there are three subsistences, the Father, the 
 
 30 John 15:26; Gal. 4:6
 
-## CHAPTER 3; OF GOD'S DECREE
+## CHAPTER 3 - OF GOD'S DECREE <a id="3"></a>
 
 ### Paragraph 1
 God hath decreed in himself, from all eternity, by the most wise and holy counsel of His own will, freely and unchangeably, all things, whatsoever comes to pass; 1 yet so as thereby is God neither the author of sin nor hath fellowship with any therein; 2 nor is violence offered to the will of the creature, nor yet is the liberty or conngency of second causes taken away, but rather established; 3 in which appears His wisdom in disposing all things, and power and faithfulness in accomplishing His decree. 4
@@ -315,7 +314,7 @@ Rom. 11:5,6,20
 
 21 Luke 10:20
 
-## CHAPTER 4; OF CREATION
+## CHAPTER 4 - OF CREATION <a id="4"></a>
 
 ### Paragraph 1
 In the beginning it pleased God the Father, Son, and Holy Spirit, 1 for the manifestaon of the glory of His eternal power, 2 wisdom, and goodness, to create or make the world, and all things therein, whether visible or invisible, in the space of six days, and all very good. 3 1 John 1:2,3; Heb. 1:2; Job 26:13
@@ -344,7 +343,7 @@ Besides the law wrien in their hearts, they received a command not to eat of the
 
 10 Gen. 1:26,28
 
-## CHAPTER 5; OF DIVINE PROVIDENCE
+## CHAPTER 5 - OF DIVINE PROVIDENCE <a id="5"></a>
 
 ### Paragraph 1
 God the good Creator of all things, in His infinite power and wisdom does uphold, direct, dispose, and govern all creatures and things, 1 from the greatest even to the least, 2 by His most wise and holy providence, to the end for the which they were created, according unto His infallible foreknowledge, and the free and immutable counsel of His own will; to the praise of the glory of His wisdom, power, jusce, infinite goodness, and mercy. 3 1 Heb. 1:3; Job 38:11; Isa. 46:10,11; Ps. 135:6 2 Ma. 10:29-31
@@ -454,7 +453,7 @@ Rom. 7:18,23; Eccles. 7:20; 1 John 1:8
 
 Rom. 7:23-25; Gal. 5:17
 
-## CHAPTER 7; OF GOD'S COVENANT
+## CHAPTER 7 - OF GOD'S COVENANT <a id="7"></a>
 
 ### Paragraph 1
 The distance between God and the creature is so great, that although reasonable creatures do owe obedience to Him as their creator, yet they could never have aained the reward of life but by some voluntary condescension on God's part, which He hath been pleased to express by way of covenant. 1
@@ -481,7 +480,7 @@ This covenant is revealed in the gospel; first of all to Adam in the promise of 
 
 8 Heb. 11;6,13; Rom. 4:1,2, &amp;c.; Acts 4:12; John 8:56
 
-## CHAPTER 8; OF CHRIST THE MEDIATOR
+## CHAPTER 8 - OF CHRIST THE MEDIATOR <a id="8"></a>
 
 ### Paragraph 1
 It pleased God, in His eternal purpose, to choose and ordain the Lord Jesus, His only begoen Son, according to the covenant made between them both, to be the mediator between God and man; 1 the prophet, 2 priest, 3 and king; 4 head and savior of the church, 5 the heir of all things, 6 and judge of the world; 7 unto whom He did from all eternity give a people to be His seed and to be by Him in me redeemed, called, jusfied, sancfied, and glorified. 8
@@ -605,7 +604,7 @@ This number and order of offices is necessary; for in respect of our ignorance, 
 
 46 John 16:8; Ps. 110:3; Luke 1:74,75
 
-CHAPTER 9; OF FREE WILL
+## CHAPTER 9 - OF FREE WILL <a id="9"></a>
 
 ### Paragraph 1
 God has endued the will of man with that natural liberty and power of acng upon choice, that it is neither forced, nor by any necessity of nature determined to do good or evil. 1 1 Ma. 17:12; James 1:14; Deut. 30:19
@@ -644,7 +643,7 @@ the state of glory only. 10
 
 10 Eph. 4:13
 
-## CHAPTER 10; OF EFFECTUAL CALLING
+## CHAPTER 10 - OF EFFECTUAL CALLING <a id="10"></a>
 
 ### Paragraph 1
 Those whom God hath predesnated unto life, He is pleased in His appointed, and accepted me, effectually to call, 1 by His Word and Spirit, out of that state of sin and death in which they are by nature, to grace and salvaon by Jesus Christ; 2 enlightening their minds spiritually and savingly to understand the things of God; 3 taking away their heart of stone, and giving to them a heart of flesh; 4 renewing their wills, and by His almighty power determining them to that which is good, and effectually drawing them to Jesus Christ; 5 yet so as they come most freely, being made willing by His grace. 6
@@ -686,7 +685,7 @@ Others not elected, although they may be called by the ministry of the Word, and
 
 14 Acts 4:12; John 4:22, 17:3
 
-## CHAPTER 11; OF JUSTIFICATION
+## CHAPTER 11 - OF JUSTIFICATION <a id="11"></a>
 
 ### Paragraph 1
 Those whom God effectually calls, he also freely jusfies, 1 not by infusing righteousness into them, but by pardoning their sins, and by accounng and accepng their persons as righteous; 2 not for anything wrought in them, or done by them, but for Christ's sake alone; 3 not by impung faith itself, the act of believing, or any other evangelical obedience to them, as their righteousness; but by impung Christ's acve obedience unto the whole law, and passive obedience in his death for their whole and sole righteousness by faith, 4 which faith they have not of themselves; it is the gi of God. 5
@@ -752,7 +751,7 @@ The jusficaon of believers under the Old Testament was, in all these respects, o
 
 18 Gal. 3:9; Rom. 4:22-24
 
-## CHAPTER 12; OF ADOPTION
+## CHAPTER 12 - OF ADOPTION <a id="12"></a>
 
 ### Paragraph 1
 All those that are jusfied, God conferred, in and for the sake of his only Son Jesus Christ, to make partakers of the grace of adopon, 1
@@ -783,7 +782,7 @@ by which they are taken into the number, and enjoy the liberes and privileges of
 
 12 Heb. 1:14, 6:12
 
-## CHAPTER 13; OF SANCTIFICATION
+## CHAPTER 13 - OF SANCTIFICATION <a id="13"></a>
 
 ### Paragraph 1
 They who are united to Christ, effectually called, and regenerated, having a new heart and a new spirit created in them through the virtue of Christ's death and resurrecon, are also farther sancfied, really and personally, 1 through the same virtue, by his Word and Spirit dwelling in them; 2 the dominion of the whole body of sin is destroyed, 3 and the several lusts of it are more and more weakened and morfied, 4 and they more and more quickened and strengthened in all saving graces, 5 to the pracce of all true holiness, without which no man shall see the Lord. 6
@@ -818,7 +817,7 @@ In which war, although the remaining corrupon for a me may much prevail, 10 yet,
 
 12 Eph. 4:15,16; 2 Cor. 3:18, 7:1
 
-## CHAPTER 14; OF SAVING FAITH
+## CHAPTER 14 - OF SAVING FAITH <a id="14"></a>
 
 ### Paragraph 1
 The grace of faith, whereby the elect are enabled to believe to the saving of their souls, is the work of the Spirit of Christ in their hearts, 1 and is ordinarily wrought by the ministry of the Word; 2 by which also, and by the administraon of bapsm and the Lord's supper, prayer, and other means appointed of God, it is increased and strengthened. 3 1 2 Cor. 4:13; Eph. 2:8
@@ -857,7 +856,7 @@ This faith, although it be in different stages, and may be weak or strong, 11 ye
 
 15 Heb. 12:2
 
-CHAPTER 15; OF REPENTANCE UNTO LIFE AND SALVATION
+## CHAPTER 15 - OF REPENTANCE UNTO LIFE AND SALVATION <a id="15"></a>
 
 ### Paragraph 1
 Such of the elect that are converted at riper years, having someme lived in the state of nature, and therein served divers pleasures, God in their effectual calling gives them repentance to life. 1 1 Titus 3:2-5
@@ -890,7 +889,7 @@ Such is the provision which God has made through Christ in the covenant of grace
 
 9 Isa. 1:16-18, 55:7
 
-## CHAPTER 16; OF GOOD WORKS
+## CHAPTER 16 - OF GOOD WORKS <a id="16"></a>
 
 ### Paragraph 1
 Good works are only such as God has commanded in his Holy Word, 1 and not such as without the warrant thereof are devised by men out of blind zeal, or upon any pretense of good intenons. 2 1 Mic. 6:8; Heb. 13:21
@@ -969,7 +968,7 @@ Amos 5:21,22; Rom. 9:16; Titus 3:5
 
 Job 21:14,15; Ma. 25:41-43
 
-## CHAPTER 17; OF THE PERSEVERANCE OF THE  SAINTS
+## CHAPTER 17 - OF THE PERSEVERANCE OF THE SAINTS <a id="17"></a>
 
 ### Paragraph 1
 Those whom God has accepted in the beloved, effectually called and sancfied by his Spirit, and given the precious faith of his elect unto, can neither totally nor finally fall from the state of grace, but shall certainly persevere therein to the end, and be eternally saved, seeing the gis and callings of God are without repentance, from which source he sll begets and nourishes in them faith, repentance, love, joy, hope, and all the graces of the Spirit unto immortality; 1 and though many storms and floods arise and beat against them, yet they shall never be able to take them off that foundaon and rock which by faith they are fastened upon; notwithstanding, through unbelief and the temptaons of Satan, the sensible sight of the light and love of God may for a me be clouded and obscured from them, 2 yet he is sll the same, and they shall be sure to be kept by the power of God unto salvaon, where they shall enjoy their purchased possession, they being engraved upon the palm of his hands, and their names having been wrien in the book of life from all eternity. 3 1 John 10:28,29; Phil. 1:6; 2 Tim. 2:19; 1 John 2:19 2 Ps. 89:31,32; 1 Cor. 11:32
@@ -1010,7 +1009,7 @@ Jesus to the end. 14
 
 14 Luke 22:32,61,62
 
-## CHAPTER 18; OF THE ASSURANCE OF GRACE AND SALVATION
+## CHAPTER 18 - OF THE ASSURANCE OF GRACE AND SALVATION <a id="18"></a>
 
 ### Paragraph 1
 Although temporary believers and other unregenerate men, may vainly deceive themselves with false hopes and carnal presumpons of being in the favor of God and in a state of salvaon, which hope of theirs shall perish; 1 yet such as truly believe in the Lord Jesus, and love him in sincerity, endeavouring to walk in all good conscience before him, may in this life be certainly assured that they are in the state of grace, and may rejoice in the hope of the glory of God, 2 which hope shall never make them ashamed. 3
@@ -1068,7 +1067,7 @@ True believers may have the assurance of their salvaon divers ways shaken, dimin
 
 20 Lam. 3:26-31
 
-## CHAPTER 19; OF THE LAW OF GOD
+## CHAPTER 19 - OF THE LAW OF GOD <a id="19"></a>
 
 ### Paragraph 1
 God gave to Adam a law of universal obedience wrien in his heart, and a parcular precept of not eang the fruit of the tree of knowledge of good and evil; 1 by which he bound him and all his posterity to personal, enre, exact, and perpetual obedience; 2 promised life upon the fulfilling, and threatened death upon the breach of it, and endued him with power and ability to keep it. 3
@@ -1127,7 +1126,7 @@ Neither are the aforemenoned uses of the law contrary to the grace of the Gospel
 
 17 Ezek. 36:27
 
-## CHAPTER 20; OF THE GOSPEL AND OF THE EXTENT OF THE GRACE THEREOF
+## CHAPTER 20 - OF THE GOSPEL AND OF THE EXTENT OF THE GRACE THEREOF <a id="20"></a>
 
 ### Paragraph 1
 The covenant of works being broken by sin, and made unprofitable unto life, God was pleased to give forth the promise of Christ, the seed of the woman, as the means of calling the elect, and begeng in them faith and repentance; 1 in this promise the gospel, as to the substance of it, was revealed, and [is] therein effectual for the conversion and salvaon of sinners. 2
@@ -1148,13 +1147,9 @@ This promise of Christ, and salvaon by him, is revealed only by the Word of God;
 ### Paragraph 3
 The revelaon of the gospel to sinners, made in divers mes and by sundry parts, with the addion of promises and precepts for the obedience required therein, as to the naons and persons to whom it is granted, is merely of the sovereign will and good pleasure of God; 6 not being annexed by virtue of any promise to the due improvement of men's natural abilies, by virtue of common light received without it, which none ever made, or can do so; 7 and therefore in all ages, the preaching of the gospel has been granted unto persons and naons, as to the extent or straitening of it, in great variety, according to the counsel of the will of God.
 
-6
+6 Ps. 147:20; Acts 16:7
 
-Ps. 147:20; Acts 16:7
-
-7
-
-Rom. 1:18-32
+7 Rom. 1:18-32
 
 ### Paragraph 4
 Although the gospel be the only outward means of revealing Christ and saving grace, and is, as such, abundantly sufficient thereunto; yet that men who are dead in trespasses may be born again, quickened or regenerated, there is moreover necessary an effectual insuperable work of the Holy Spirit upon the whole soul, for the producing in them a new spiritual life; 8 without which no other means will effect their conversion unto God. 9
@@ -1163,7 +1158,7 @@ Although the gospel be the only outward means of revealing Christ and saving gra
 
 9 John 6:44; 2 Cor. 4:4,6
 
-## CHAPTER 21; OF CHRISTIAN LIBERTY AND LIBERTY OF CONSCIENCE
+## CHAPTER 21 - OF CHRISTIAN LIBERTY AND LIBERTY OF CONSCIENCE <a id="21"></a>
 
 ### Paragraph 1
 The liberty which Christ has purchased for believers under the gospel, consists in their freedom from the guilt of sin, the condemning wrath of God, the severity and curse of the law, 1 and in their being delivered from this present evil world, 2 bondage to Satan, 3 and dominion of sin, 4 from the evil of afflicons, 5 the fear and sng of death, the victory of the grave, 6 and everlasng damnaon: 7 as also in their free access to God, and their yielding obedience unto Him, not out of slavish fear, 8 but a child-like love and willing mind. 9 All which were common also to believers under the law for the substance of them; 10 but under the New Testament the liberty of Chrisans is further enlarged, in their freedom from the yoke of a ceremonial law, to which the Jewish church was subjected, and in greater boldness of access to the throne of grace, and in fuller communicaons of the free Spirit of God, than believers under the law did ordinarily partake of. 11
@@ -1290,11 +1285,9 @@ As it is the law of nature, that in general a proporon of me, by God's appointme
 ### Paragraph 8
 The sabbath is then kept holy unto the Lord, when men, aer a due preparing of their hearts, and ordering their common affairs aforehand, do not only observe a holy rest all day, from their own works, words and thoughts, about their worldly employment and recreaons, 30 but are also taken up the whole me in the public and private exercises of his worship, and in the dues of necessity and mercy. 31 30 Isa. 58:13; Neh. 13:15-22
 
-31
+31 Ma. 12:1-13
 
-Ma. 12:1-13
-
-## CHAPTER 23; OF LAWFUL OATHS AND VOWS
+## CHAPTER 23 - OF LAWFUL OATHS AND VOWS <a id="23"></a>
 
 ### Paragraph 1
 A lawful oath is a part of religious worship, wherein the person swearing in truth, righteousness, and judgment, solemnly calls God to witness what he swears, 1 and to judge him according to the truth or falseness thereof. 2
@@ -1331,7 +1324,7 @@ A vow, which is not to be made to any creature, but to God alone, is to be made 
 
 11 Ma. 19:1
 
-## CHAPTER 24; OF THE CIVIL MAGISTRATE
+## CHAPTER 24 - OF THE CIVIL MAGISTRATE <a id="24"></a>
 
 ### Paragraph 1
 God, the supreme Lord and King of all the world, has ordained civil magistrates to be under him, over the people, for his own glory and the public good; and to this end has armed them with the power of the sword, for defence and encouragement of them that do good, and for the punishment of evil doers. 1
@@ -1352,7 +1345,7 @@ Civil magistrates being set up by God for the ends aforesaid; subjecon, in all l
 
 5 1 Tim. 2:1,2
 
-## CHAPTER 25; OF MARRIAGE
+## CHAPTER 25 - OF MARRIAGE <a id="25"></a>
 
 ### Paragraph 1
 Marriage is to be between one man and one woman; neither is it lawful for any man to have more than one wife, nor for any woman to have more than one husband at the same me. 1 1 Gen. 2:24; Mal. 2:15; Ma. 19:5,6
@@ -1392,24 +1385,16 @@ The catholic or universal church, which (with respect to the internal work of th
 ### Paragraph 2
 All persons throughout the world, professing the faith of the gospel, and obedience unto God by Christ according unto it, not destroying their own profession by any errors everng the foundaon, or unholiness of conversaon, are and may be called visible saints; 2 and of such ought all parcular congregaons to be constuted. 3
 
-2
+2 1 Cor. 1:2; Acts 11:26
 
-1 Cor. 1:2; Acts 11:26
-
-3
-
-Rom. 1:7; Eph. 1:20-22
+3 Rom. 1:7; Eph. 1:20-22
 
 ### Paragraph 3
 The purest churches under heaven are subject to mixture and error; 4 and some have so degenerated as to become no churches of Christ, but synagogues of Satan; 5 nevertheless Christ always has had, and ever shall have a kingdom in this world, to the end thereof, of such as believe in him, and make profession of his name. 6
 
-4
+4 1 Cor. 5; Rev. 2,3
 
-1 Cor. 5; Rev. 2,3
-
-5
-
-Rev. 18:2; 2 Thess. 2:11,12
+5 Rev. 18:2; 2 Thess. 2:11,12
 
 6 Ma. 16:18; Ps. 72:17, 102:28; Rev. 12:17
 
@@ -1425,16 +1410,12 @@ In the execuon of this power wherewith he is so intrusted, the Lord Jesus calls 
 
 10 Ma. 28:20
 
-11
-
-Ma. 18:15-20
+11 Ma. 18:15-20
 
 ### Paragraph 6
 The members of these churches are saints by calling, visibly manifesng and evidencing (in and by their profession and walking) their obedience unto that call of Christ; 12 and do willingly consent to walk together, according to the appointment of Christ; giving up themselves to the Lord, and one to another, by the will of God, in professed subjecon to the ordinances of the Gospel. 13
 
-12
-
-Rom. 1:7; 1 Cor. 1:2
+12 Rom. 1:7; 1 Cor. 1:2
 
 13 Acts 2:41,42, 5:13,14; 2 Cor. 9:13
 
@@ -1495,7 +1476,7 @@ In cases of difficules or differences, either in point of doctrine or administra
 
 30 2 Cor. 1:24; 1 John 4:1
 
-CHAPTER 27; OF THE COMMUNION OF THE SAINTS
+## CHAPTER 27 - OF THE COMMUNION OF THE SAINTS <a id="27"></a>
 
 ### Paragraph 1
 All saints that are united to Jesus Christ, their head, by his Spirit, and faith, although they are not made thereby one person with him, have fellowship in his graces, sufferings, death, resurrecon, and glory; 1 and, being united to one another in love, they have communion in each others gis and graces, 2 and are obliged to the performance of such dues, public and private, in an orderly way, as do conduce to their mutual good, both in the inward and outward man. 3
@@ -1515,7 +1496,7 @@ Saints by profession are bound to maintain a holy fellowship and communion in th
 
 8 Acts 5:4; Eph. 4:28
 
-## CHAPTER 28; OF BAPTISM AND THE LORD'S SUPPER
+## CHAPTER 28 - OF BAPTISM AND THE LORD'S SUPPER <a id="28"></a>
 
 ### Paragraph 1
 Bapsm and the Lord's Supper are ordinances of posive and sovereign instuon, appointed by the Lord Jesus, the only lawgiver, to be connued in his church to the end of the world. 1
@@ -1525,11 +1506,9 @@ Bapsm and the Lord's Supper are ordinances of posive and sovereign instuon, appo
 ### Paragraph 2
 These holy appointments are to be administered by those only who are qualified and thereunto called, according to the commission of Christ. 2
 
-2
+2 Ma. 28:19; 1 Cor. 4:1
 
-Ma. 28:19; 1 Cor. 4:1
-
-## CHAPTER 29; OF BAPTISM
+## CHAPTER 29 - OF BAPTISM <a id="29"></a>
 
 ### Paragraph 1
 Bapsm is an ordinance of the New Testament, ordained by Jesus Christ, to be unto the party bapzed, a sign of his fellowship with him, in his death and resurrecon; of his being engraed into him; 3 of remission of sins; 4 and of giving up into God, through Jesus Christ, to live and walk in newness of life. 5
@@ -1551,27 +1530,21 @@ The outward element to be used in this ordinance is water, wherein the party is 
 ### Paragraph 4
 Immersion, or dipping of the person in water, is necessary to the due administraon of this ordinance. 8 8 Ma. 3:16; John 3:23
 
-## CHAPTER 30; OF THE LORD'S SUPPER
+## CHAPTER 30 - OF THE LORD'S SUPPER <a id="30"></a>
 
 ### Paragraph 1
 The supper of the Lord Jesus was instuted by him the same night wherein he was betrayed, to be observed in his churches, unto the end of the world, for the perpetual remembrance, and showing to all the world the sacrifice of himself in his death, 1 confirmaon of the faith of believers in all the benefits thereof, their spiritual nourishment, and growth in him, their further engagement in, and to all dues which they owe to him; and to be a bond and pledge of their communion with him, and with each other. 2
 
-1
-
-1 Cor. 11:23-26
+1 1 Cor. 11:23-26
 
 2 1 Cor. 10:16,17,21
 
 ### Paragraph 2
 In this ordinance Christ is not offered up to his Father, nor any real sacrifice made at all for remission of sin of the quick or dead, but only a memorial of that one offering up of himself by himself upon the cross, once for all; 3 and a spiritual oblaon of all possible praise unto God for the same. 4 So that the popish sacrifice of the mass, as they call it, is most abominable, injurious to Christ's own sacrifice the alone propiaon for all the sins of the elect.
 
-3
+3 Heb. 9:25,26,28
 
-Heb. 9:25,26,28
-
-4
-
-1 Cor. 11:24; Ma. 26:26,27
+4 1 Cor. 11:24; Ma. 26:26,27
 
 ### Paragraph 3
 The Lord Jesus hath, in this ordinance, appointed his ministers to pray, and bless the elements of bread and wine, and thereby to set them apart from a common to a holy use, and to take and break the bread; to take the cup, and, they communicang also themselves, to give both to the communicants. 5
@@ -1596,22 +1569,16 @@ That doctrine which maintains a change of the substance of bread and wine, into 
 ### Paragraph 7
 Worthy receivers, outwardly partaking of the visible elements in this ordinance, do then also inwardly by faith, really and indeed, yet not carnally and corporally, but spiritually receive, and feed upon Christ crucified, and all the benefits of his death; the body and blood of Christ being then not corporally or carnally, but spiritually present to the faith of believers in that ordinance, as the elements themselves are to their outward senses. 11
 
-11
-
-1 Cor. 10:16, 11:23-26
+11 1 Cor. 10:16, 11:23-26
 
 ### Paragraph 8
 All ignorant and ungodly persons, as they are unfit to enjoy communion with Christ, so are they unworthy of the Lord's table, and cannot, without great sin against him, while they remain such, partake of these holy mysteries, or be admied thereunto; 12 yea, whosoever shall receive unworthily, are guilty of the body and blood of the Lord, eang and drinking judgment to themselves. 13
 
-12
+12 2 Cor. 6:14,15
 
-2 Cor. 6:14,15
+13 1 Cor. 11:29; Ma. 7:6
 
-13
-
-1 Cor. 11:29; Ma. 7:6
-
-## CHAPTER 31; OF THE STATE OF MAN AFTER DEATH, AND OF THE RESURRECTION OF THE DEAD
+## CHAPTER 31 - OF THE STATE OF MAN AFTER DEATH, AND OF THE RESURRECTION OF THE DEAD <a id="31"></a>
 
 ### Paragraph 1
 The bodies of men aer death return to dust, and see corrupon;  but their souls, which neither die nor sleep, having an 1 immortal subsistence, immediately return to God who gave them. 2 The souls of the righteous being then made perfect in holiness, are received into paradise, where they are with Christ, and behold the face of God in light and glory, waing for the full redempon of their bodies; 3 and the souls of the wicked are cast into hell; where they remain in torment and uer darkness, reserved to the judgment of the great day; 4 besides these two places, for souls separated from their bodies, the Scripture acknowledgeth none.
@@ -1620,9 +1587,7 @@ The bodies of men aer death return to dust, and see corrupon;  but their souls, 
 
 2 Eccles. 12:7
 
-3
-
-Luke 23:43; 2 Cor. 5:1,6,8; Phil. 1:23; Heb. 12:23
+3 Luke 23:43; 2 Cor. 5:1,6,8; Phil. 1:23; Heb. 12:23
 
 4 Jude 6, 7; 1 Peter 3:19; Luke 16:23,24
 
@@ -1638,7 +1603,7 @@ At the last day, such of the saints as are found alive, shall not sleep, but be 
 ### Paragraph 3
 The bodies of the unjust shall, by the power of Christ, be raised to dishonour; the bodies of the just, by his Spirit, unto honour, and be made conformable to his own glorious body. 8 8 Acts 24:15; John 5:28,29; Phil. 3:21
 
-## CHAPTER 32; OF THE LAST JUDGMENT
+## CHAPTER 32 - OF THE LAST JUDGMENT <a id="32"></a>
 
 ### Paragraph 1
 God has appointed a day wherein he will judge the world in righteousness, by Jesus Christ; 1 to whom all power and judgment is given of the Father; in which day, not only the apostate angels shall be judged, 2 but likewise all persons that have lived upon the earth shall appear before the tribunal of Christ, to give an account of their thoughts, words, and deeds, and to receive according to what they have done in the body, whether good or evil. 3
@@ -1654,9 +1619,7 @@ The end of God's appoinng this day, is for the manifestaon of the glory of his m
 
 4 Rom. 9:22,23
 
-5
-
-Ma. 25:21,34; 2 Tim. 4:8
+5 Ma. 25:21,34; 2 Tim. 4:8
 
 6 Ma. 25:46; Mark 9:48; 2 Thess. 1:7-10
 
