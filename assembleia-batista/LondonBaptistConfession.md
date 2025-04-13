@@ -1048,7 +1048,7 @@ True believers may have the assurance of their salvaon divers ways shaken, dimin
 ## CHAPTER 19 - OF THE LAW OF GOD <a id="19"></a>
 
 ### Paragraph 1
-God gave to Adam a law of universal obedience wrien in his heart, and a parcular precept of not eang the fruit of the tree of knowledge of good and evil; 1 by which he bound him and all his posterity to personal, enre, exact, and perpetual obedience; 2 promised life upon the fulfilling, and threatened death upon the breach of it, and endued him with power and ability to keep it. 3
+God gave to Adam a law of universal obedience wrien in his heart, and a parcular precept of not eang the fruit of the tree of knowledge of good and evil; **[1]** by which he bound him and all his posterity to personal, enre, exact, and perpetual obedience; **[2]** promised life upon the fulfilling, and threatened death upon the breach of it, and endued him with power and ability to keep it. **[3]**
 
 **[1]** Gen. 1:27; Eccles. 7:29
 
@@ -1057,16 +1057,14 @@ God gave to Adam a law of universal obedience wrien in his heart, and a parcular
 **[3]** Gal. 3:10,12
 
 ### Paragraph 2
-The same law that was first wrien in the heart of man connued to be a perfect rule of righteousness aer the fall, **[4]** and was delivered by God upon Mount Sinai, in ten commandments, and wrien in two tables, the four first containing our duty towards God, and the other six, our duty to man. 5
+The same law that was first wrien in the heart of man connued to be a perfect rule of righteousness aer the fall, **[4]** and was delivered by God upon Mount Sinai, in ten commandments, and wrien in two tables, the four first containing our duty towards God, and the other six, our duty to man. **[5]**
 
 **[4]** Rom. 2:14,15
 
 **[5]** Deut. 10:4
 
 ### Paragraph 3
-Besides this law, commonly called moral, God was pleased to give to the people of Israel ceremonial laws, containing several typical ordinances, partly of worship, prefiguring Christ, his graces, acons, sufferings, and benefits; **[6]** and partly holding forth divers instrucons of moral dues, **[7]** all which ceremonial laws being appointed only to the me of reformaon, are, by Jesus Christ the true Messiah and only law-giver, who was furnished with power from the Father for that end abrogated and
-
-taken away. 8
+Besides this law, commonly called moral, God was pleased to give to the people of Israel ceremonial laws, containing several typical ordinances, partly of worship, prefiguring Christ, his graces, acons, sufferings, and benefits; **[6]** and partly holding forth divers instrucons of moral dues, **[7]** all which ceremonial laws being appointed only to the me of reformaon, are, by Jesus Christ the true Messiah and only law-giver, who was furnished with power from the Father for that end abrogated and taken away. **[8]**
 
 **[6]** Heb. 10:1; Col. 2:17
 
@@ -1075,10 +1073,12 @@ taken away. 8
 **[8]** Col. 2:14,16,17; Eph. 2:14,16
 
 ### Paragraph 4
-To them also he gave sundry judicial laws, which expired together with the state of that people, not obliging any now by virtue of that instuon; their general equity only being of modern use. **[9]** 9 1 Cor. 9:8-10
+To them also he gave sundry judicial laws, which expired together with the state of that people, not obliging any now by virtue of that instuon; their general equity only being of modern use. **[9]** 
+
+**[9]** 1 Cor. 9:8-10
 
 ### Paragraph 5
-The moral law does for ever bind all, as well jusfied persons as others, to the obedience thereof, **[10]** and that not only in regard of the maer contained in it, but also in respect of the authority of God the Creator, who gave it; **[11]** neither does Christ in the Gospel any way dissolve, but much strengthen this obligaon. 12
+The moral law does for ever bind all, as well jusfied persons as others, to the obedience thereof, **[10]** and that not only in regard of the maer contained in it, but also in respect of the authority of God the Creator, who gave it; **[11]** neither does Christ in the Gospel any way dissolve, but much strengthen this obligaon. **[12]**
 
 **[10]** Rom. 13:8-10; James 2:8,10-12
 
@@ -1087,18 +1087,16 @@ The moral law does for ever bind all, as well jusfied persons as others, to the 
 **[12]** Ma. 5:17-19; Rom. 3:31
 
 ### Paragraph 6
-Although true believers are not under the law as a covenant of works, to be thereby jusfied or condemned, **[13]** yet it is of great use to them as well as to others, in that as a rule of life, informing them of the will of God and their duty, it directs and binds them to walk accordingly; discovering also the sinful polluons of their natures, hearts, and lives, so as examining themselves thereby, they may come to further convicon of, humiliaon for, and hatred against, sin; **[14]** together with a clearer sight of the need they have of Christ and the perfecon of his obedience; it is likewise of use to the regenerate to restrain their corrupons, in that it forbids sin; and the threatenings of it serve to show what even their sins deserve, and what afflicons in this life they may expect for them, although freed from the curse and unallayed rigour thereof.  The promises of it likewise show them God's approbaon of obedience, and what blessings they may expect upon the performance thereof, though not as due to them by the law as a covenant of works; so as man's doing good and refraining from evil, because the law encourages to the one and deters from the other, is no evidence of his being under the law and not under grace. 15
+Although true believers are not under the law as a covenant of works, to be thereby jusfied or condemned, **[13]** yet it is of great use to them as well as to others, in that as a rule of life, informing them of the will of God and their duty, it directs and binds them to walk accordingly; discovering also the sinful polluons of their natures, hearts, and lives, so as examining themselves thereby, they may come to further convicon of, humiliaon for, and hatred against, sin; **[14]** together with a clearer sight of the need they have of Christ and the perfecon of his obedience; it is likewise of use to the regenerate to restrain their corrupons, in that it forbids sin; and the threatenings of it serve to show what even their sins deserve, and what afflicons in this life they may expect for them, although freed from the curse and unallayed rigour thereof.  The promises of it likewise show them God's approbaon of obedience, and what blessings they may expect upon the performance thereof, though not as due to them by the law as a covenant of works; so as man's doing good and refraining from evil, because the law encourages to the one and deters from the other, is no evidence of his being under the law and not under grace. **[15]**
 
 **[13]** Rom. 6:14; Gal. 2:16; Rom. 8:1, 10:4
 
-14
-
-Rom. 3:20, 7:7, etc.
+**[14]** Rom. 3:20, 7:7, etc.
 
 **[15]** Rom. 6:12-14; 1 Pet. 3:8-13
 
 ### Paragraph 7
-Neither are the aforemenoned uses of the law contrary to the grace of the Gospel, but do sweetly comply with it, **[16]** the Spirit of Christ subduing and enabling the will of man to do that freely and cheerfully which the will of God, revealed in the law, requires to be done. 17
+Neither are the aforemenoned uses of the law contrary to the grace of the Gospel, but do sweetly comply with it, **[16]** the Spirit of Christ subduing and enabling the will of man to do that freely and cheerfully which the will of God, revealed in the law, requires to be done. **[17]**
 
 **[16]** Gal. 3:21
 
@@ -1107,14 +1105,14 @@ Neither are the aforemenoned uses of the law contrary to the grace of the Gospel
 ## CHAPTER 20 - OF THE GOSPEL AND OF THE EXTENT OF THE GRACE THEREOF <a id="20"></a>
 
 ### Paragraph 1
-The covenant of works being broken by sin, and made unprofitable unto life, God was pleased to give forth the promise of Christ, the seed of the woman, as the means of calling the elect, and begeng in them faith and repentance; 1 in this promise the gospel, as to the substance of it, was revealed, and [is] therein effectual for the conversion and salvaon of sinners. 2
+The covenant of works being broken by sin, and made unprofitable unto life, God was pleased to give forth the promise of Christ, the seed of the woman, as the means of calling the elect, and begeng in them faith and repentance; **[1]** in this promise the gospel, as to the substance of it, was revealed, and [is] therein effectual for the conversion and salvaon of sinners. **[2]**
 
 **[1]** Gen. 3:15
 
 **[2]** Rev. 13:8
 
 ### Paragraph 2
-This promise of Christ, and salvaon by him, is revealed only by the Word of God; **[3]** neither do the works of creaon or providence, with the light of nature, make discovery of Christ, or of grace by him, so much as in a general or obscure way; **[4]** much less that men destute of the revelaon of Him by the promise or gospel, should be enabled thereby to aain saving faith or repentance. 5
+This promise of Christ, and salvaon by him, is revealed only by the Word of God; **[3]** neither do the works of creaon or providence, with the light of nature, make discovery of Christ, or of grace by him, so much as in a general or obscure way; **[4]** much less that men destute of the revelaon of Him by the promise or gospel, should be enabled thereby to aain saving faith or repentance. **[5]**
 
 **[3]** Rom. 1;17
 
@@ -1130,7 +1128,7 @@ The revelaon of the gospel to sinners, made in divers mes and by sundry parts, w
 **[7]** Rom. 1:18-32
 
 ### Paragraph 4
-Although the gospel be the only outward means of revealing Christ and saving grace, and is, as such, abundantly sufficient thereunto; yet that men who are dead in trespasses may be born again, quickened or regenerated, there is moreover necessary an effectual insuperable work of the Holy Spirit upon the whole soul, for the producing in them a new spiritual life; **[8]** without which no other means will effect their conversion unto God. 9
+Although the gospel be the only outward means of revealing Christ and saving grace, and is, as such, abundantly sufficient thereunto; yet that men who are dead in trespasses may be born again, quickened or regenerated, there is moreover necessary an effectual insuperable work of the Holy Spirit upon the whole soul, for the producing in them a new spiritual life; **[8]** without which no other means will effect their conversion unto God. **[9]**
 
 **[8]** Ps. 110:3; 1 Cor. 2:14; Eph. 1:19,20
 
@@ -1139,7 +1137,7 @@ Although the gospel be the only outward means of revealing Christ and saving gra
 ## CHAPTER 21 - OF CHRISTIAN LIBERTY AND LIBERTY OF CONSCIENCE <a id="21"></a>
 
 ### Paragraph 1
-The liberty which Christ has purchased for believers under the gospel, consists in their freedom from the guilt of sin, the condemning wrath of God, the severity and curse of the law, 1 and in their being delivered from this present evil world, 2 bondage to Satan, **[3]** and dominion of sin, **[4]** from the evil of afflicons, **[5]** the fear and sng of death, the victory of the grave, **[6]** and everlasng damnaon: **[7]** as also in their free access to God, and their yielding obedience unto Him, not out of slavish fear, **[8]** but a child-like love and willing mind. **[9]** All which were common also to believers under the law for the substance of them; **[10]** but under the New Testament the liberty of Chrisans is further enlarged, in their freedom from the yoke of a ceremonial law, to which the Jewish church was subjected, and in greater boldness of access to the throne of grace, and in fuller communicaons of the free Spirit of God, than believers under the law did ordinarily partake of. 11
+The liberty which Christ has purchased for believers under the gospel, consists in their freedom from the guilt of sin, the condemning wrath of God, the severity and curse of the law, 1 and in their being delivered from this present evil world, 2 bondage to Satan, **[3]** and dominion of sin, **[4]** from the evil of afflicons, **[5]** the fear and sng of death, the victory of the grave, **[6]** and everlasng damnaon: **[7]** as also in their free access to God, and their yielding obedience unto Him, not out of slavish fear, **[8]** but a child-like love and willing mind. **[9]** All which were common also to believers under the law for the substance of them; **[10]** but under the New Testament the liberty of Chrisans is further enlarged, in their freedom from the yoke of a ceremonial law, to which the Jewish church was subjected, and in greater boldness of access to the throne of grace, and in fuller communicaons of the free Spirit of God, than believers under the law did ordinarily partake of. **[11]**
 
 **[1]** Gal. 3:13
 
@@ -1164,7 +1162,7 @@ The liberty which Christ has purchased for believers under the gospel, consists 
 **[11]** John 7:38,39; Heb. 10:19-21
 
 ### Paragraph 2
-God alone is Lord of the conscience, **[12]** and has le it free from the doctrines and commandments of men which are in any thing contrary to his word, or not contained in it. **[13]** So that to believe such doctrines, or obey such commands out of conscience, is to betray true liberty of conscience; **[14]** and the requiring of an implicit faith, an absolute and blind obedience, is to destroy liberty of conscience and reason also. 15
+God alone is Lord of the conscience, **[12]** and has le it free from the doctrines and commandments of men which are in any thing contrary to his word, or not contained in it. **[13]** So that to believe such doctrines, or obey such commands out of conscience, is to betray true liberty of conscience; **[14]** and the requiring of an implicit faith, an absolute and blind obedience, is to destroy liberty of conscience and reason also. **[15]**
 
 **[12]** James 4:12; Rom. 14:4
 
@@ -1175,27 +1173,25 @@ God alone is Lord of the conscience, **[12]** and has le it free from the doctri
 **[15]** 1 Cor. 3:5; 2 Cor. 1:24
 
 ### Paragraph 3
-They who upon pretence of Chrisan liberty do pracce any sin, or cherish any sinful lust, as they do thereby pervert the main design of the grace of the gospel to their own destrucon, **[16]** so they wholly destroy the end of Chrisan liberty, which is, that being delivered out of the hands of all our enemies, we might serve the Lord without fear, in holiness and righeousness before Him, all the days of our lives. 17
+They who upon pretence of Chrisan liberty do pracce any sin, or cherish any sinful lust, as they do thereby pervert the main design of the grace of the gospel to their own destrucon, **[16]** so they wholly destroy the end of Chrisan liberty, which is, that being delivered out of the hands of all our enemies, we might serve the Lord without fear, in holiness and righeousness before Him, all the days of our lives. **[17]**
 
 **[16]** Rom. 6:1,2
 
 **[17]** Gal. 5:13; 2 Pet. 2:18,21
 
-CHAPTER 22; OF RELIGIOUS WORSHIP AND THE SABBATH DAY
+## CHAPTER 22 - OF RELIGIOUS WORSHIP AND THE SABBATH DAY <a id="22"></a>
 
 ### Paragraph 1
-The light of nature shows that there is a God, who has lordship and sovereignty over all; is just, good and does good to all; and is therefore to be feared, loved, praised, called upon, trusted in, and served, with all the heart and all the soul, and with all the might. 1 But the acceptable way of worshipping the true God, is instuted by himself, 2 and so limited by his own revealed will, that he may not be worshipped according to the imaginaon and devices of men, nor the suggesons of Satan, under any visible representaons, or any other way not prescribed in the Holy Scriptures. 3
+The light of nature shows that there is a God, who has lordship and sovereignty over all; is just, good and does good to all; and is therefore to be feared, loved, praised, called upon, trusted in, and served, with all the heart and all the soul, and with all the might. **[1]** But the acceptable way of worshipping the true God, is instuted by himself, **[2]** and so limited by his own revealed will, that he may not be worshipped according to the imaginaon and devices of men, nor the suggesons of Satan, under any visible representaons, or any other way not prescribed in the Holy Scriptures. **[3]**
 
-1
-
-Jer. 10:7; Mark 12:33
+**[1]** Jer. 10:7; Mark 12:33
 
 **[2]** Deut. 12:32
 
 **[3]** Exod. 20:4-6
 
 ### Paragraph 2
-Religious worship is to be given to God the Father, Son, and Holy Spirit, and to him alone; **[4]** not to angels, saints, or any other creatures; **[5]** and since the fall, not without a mediator, **[6]** nor in the mediaon of any other but Christ alone. 7
+Religious worship is to be given to God the Father, Son, and Holy Spirit, and to him alone; **[4]** not to angels, saints, or any other creatures; **[5]** and since the fall, not without a mediator, **[6]** nor in the mediaon of any other but Christ alone. **[7]**
 
 **[4]** Ma. 4:9,10; John 6:23; Ma. 28:19
 
@@ -1206,7 +1202,7 @@ Religious worship is to be given to God the Father, Son, and Holy Spirit, and to
 **[7]** 1 Tim. 2:5
 
 ### Paragraph 3
-Prayer, with thanksgiving, being one part of natural worship, is by God required of all men. **[8]** But that it may be accepted, it is to be made in the name of the Son,9 by the help of the Spirit, **[10]** according to his will; **[11]** with understanding, reverence, humility, fervency, faith, love, and perseverance; and when with others, in a known tongue. 12
+Prayer, with thanksgiving, being one part of natural worship, is by God required of all men. **[8]** But that it may be accepted, it is to be made in the name of the Son,9 by the help of the Spirit, **[10]** according to his will; **[11]** with understanding, reverence, humility, fervency, faith, love, and perseverance; and when with others, in a known tongue. **[12]**
 
 **[8]** Ps. 95:1-7, 65:2
 
@@ -1219,14 +1215,16 @@ Prayer, with thanksgiving, being one part of natural worship, is by God required
 **[12]** 1 Cor. 14:16,17
 
 ### Paragraph 4
-Prayer is to be made for things lawful, and for all sorts of men living, or that shall live hereaer; **[13]** but not for the dead, **[14]** nor for those of whom it may be known that they have sinned the sin unto death. **[15]** **[13]** 1 Tim. 2:1,2; 2 Sam. 7:29
+Prayer is to be made for things lawful, and for all sorts of men living, or that shall live hereaer; **[13]** but not for the dead, **[14]** nor for those of whom it may be known that they have sinned the sin unto death. **[15]** 
+
+**[13]** 1 Tim. 2:1,2; 2 Sam. 7:29
 
 **[14]** 2 Sam. 12:21-23
 
 **[15]** 1 John 5:16
 
 ### Paragraph 5
-The reading of the Scriptures, **[16]** preaching, and hearing the Word of God, **[17]** teaching and admonishing one another in psalms, hymns, and spiritual songs, singing with grace in our hearts to the Lord; **[18]** as also the administraon of bapsm, **[19]** and the Lord's supper, **[20]** are all parts of religious worship of God, to be performed in obedience to him, with understanding, faith, reverence, and godly fear; moreover, solemn humiliaon, with fasngs, **[21]** and thanksgivings, upon special occasions, ought to be used in an holy and religious manner. 22
+The reading of the Scriptures, **[16]** preaching, and hearing the Word of God, **[17]** teaching and admonishing one another in psalms, hymns, and spiritual songs, singing with grace in our hearts to the Lord; **[18]** as also the administraon of bapsm, **[19]** and the Lord's supper, **[20]** are all parts of religious worship of God, to be performed in obedience to him, with understanding, faith, reverence, and godly fear; moreover, solemn humiliaon, with fasngs, **[21]** and thanksgivings, upon special occasions, ought to be used in an holy and religious manner. **[22]**
 
 **[16]** 1 Tim. 4:13
 
@@ -1243,7 +1241,9 @@ The reading of the Scriptures, **[16]** preaching, and hearing the Word of God, 
 **[22]** Exod. 15:1-19, Ps. 107
 
 ### Paragraph 6
-Neither prayer nor any other part of religious worship, is now under the gospel, ed unto, or made more acceptable by any place in which it is performed, or towards which it is directed; but God is to be worshipped everywhere in spirit and in truth; **[23]** as in private families **[24]** daily, **[25]** and in secret each one by himself; **[26]** so more solemnly in the public assemblies, which are not carelessly nor wilfully to be neglected or forsaken, when God by his word or providence calls thereunto. **[27]** **[23]** John 4:21; Mal. 1:11; 1 Tim. 2:8
+Neither prayer nor any other part of religious worship, is now under the gospel, ed unto, or made more acceptable by any place in which it is performed, or towards which it is directed; but God is to be worshipped everywhere in spirit and in truth; **[23]** as in private families **[24]** daily, **[25]** and in secret each one by himself; **[26]** so more solemnly in the public assemblies, which are not carelessly nor wilfully to be neglected or forsaken, when God by his word or providence calls thereunto. **[27]** 
+
+**[23]** John 4:21; Mal. 1:11; 1 Tim. 2:8
 
 **[24]** Acts 10:2
 
@@ -1270,14 +1270,14 @@ The sabbath is then kept holy unto the Lord, when men, aer a due preparing of th
 ## CHAPTER 23 - OF LAWFUL OATHS AND VOWS <a id="23"></a>
 
 ### Paragraph 1
-A lawful oath is a part of religious worship, wherein the person swearing in truth, righteousness, and judgment, solemnly calls God to witness what he swears, 1 and to judge him according to the truth or falseness thereof. 2
+A lawful oath is a part of religious worship, wherein the person swearing in truth, righteousness, and judgment, solemnly calls God to witness what he swears, **[1]** and to judge him according to the truth or falseness thereof. **[2]**
 
 **[1]** Exod. 20:7; Deut. 10:20; Jer. 4:2
 
 **[2]** 2 Chron. 6:22, 23
 
 ### Paragraph 2
-The name of God only is that by which men ought to swear; and therein it is to be used, with all holy fear and reverence; therefore to swear vainly or rashly by that glorious and dreadful name, or to swear at all by any other thing, is sinful, and to be abhorred; **[3]** yet as in maer of weight and moment, for confirmaon of truth, and ending all strife, an oath is warranted by the word of God; **[4]** so a lawful oath being imposed by lawful authority in such maers, ought to be taken. 5
+The name of God only is that by which men ought to swear; and therein it is to be used, with all holy fear and reverence; therefore to swear vainly or rashly by that glorious and dreadful name, or to swear at all by any other thing, is sinful, and to be abhorred; **[3]** yet as in maer of weight and moment, for confirmaon of truth, and ending all strife, an oath is warranted by the word of God; **[4]** so a lawful oath being imposed by lawful authority in such maers, ought to be taken. **[5]**
 
 **[3]** Ma. 5:34,37; James 5:12
 
@@ -1286,15 +1286,17 @@ The name of God only is that by which men ought to swear; and therein it is to b
 **[5]** Neh. 13:25
 
 ### Paragraph 3
-Whosoever takes an oath warranted by the word of God, ought duly to consider the weighness of so solemn an act, and therein to avouch nothing but what he knows to be truth; for that by rash, false, and vain oaths, the Lord is provoked, and for them this land mourns. **[6]** Lev. 19:12; Jer. 23:10
+Whosoever takes an oath warranted by the word of God, ought duly to consider the weighness of so solemn an act, and therein to avouch nothing but what he knows to be truth; for that by rash, false, and vain oaths, the Lord is provoked, and for them this land mourns. **[6]** 
+
+**[6]** Lev. 19:12; Jer. 23:10
 
 ### Paragraph 4
-An oath is to be taken in the plain and common sense of the words, without equivocaon or mental reservaon. 7
+An oath is to be taken in the plain and common sense of the words, without equivocaon or mental reservaon. **[7]**
 
 **[7]** Ps. 24:4
 
 ### Paragraph 5
-A vow, which is not to be made to any creature, but to God alone, is to be made and performed with all religious care and faithfulness; **[8]** but popish monascal vows of perpetual single life, **[9]** professed poverty, **[10]** and regular obedience, are so far from being degrees of higher perfecon, that they are supersous and sinful snares, in which no Chrisan may entangle himself. 11
+A vow, which is not to be made to any creature, but to God alone, is to be made and performed with all religious care and faithfulness; **[8]** but popish monascal vows of perpetual single life, **[9]** professed poverty, **[10]** and regular obedience, are so far from being degrees of higher perfecon, that they are supersous and sinful snares, in which no Chrisan may entangle himself. **[11]**
 
 **[8]** Ps. 76:11; Gen. 28:20-22
 
@@ -1304,34 +1306,38 @@ A vow, which is not to be made to any creature, but to God alone, is to be made 
 
 **[11]** Ma. 19:1
 
+
 ## CHAPTER 24 - OF THE CIVIL MAGISTRATE <a id="24"></a>
 
 ### Paragraph 1
-God, the supreme Lord and King of all the world, has ordained civil magistrates to be under him, over the people, for his own glory and the public good; and to this end has armed them with the power of the sword, for defence and encouragement of them that do good, and for the punishment of evil doers. 1
+God, the supreme Lord and King of all the world, has ordained civil magistrates to be under him, over the people, for his own glory and the public good; and to this end has armed them with the power of the sword, for defence and encouragement of them that do good, and for the punishment of evil doers. **[1]**
 
 **[1]** Rom. 13:1-4
 
 ### Paragraph 2
-It is lawful for Chrisans to accept and execute the office of a magistrate when called thereunto; in the management whereof, as they ought especially to maintain jusce and peace, 2 according to the wholesome laws of each kingdom and commonwealth, so for that end they may lawfully now, under the New Testament, wage war upon just and necessary occasions. 3
+It is lawful for Chrisans to accept and execute the office of a magistrate when called thereunto; in the management whereof, as they ought especially to maintain jusce and peace, **[2]** according to the wholesome laws of each kingdom and commonwealth, so for that end they may lawfully now, under the New Testament, wage war upon just and necessary occasions. **[3]**
 
 **[2]** 2 Sam. 23:3; Ps. 82:3,4
 
 **[3]** Luke 3:14
 
 ### Paragraph 3
-Civil magistrates being set up by God for the ends aforesaid; subjecon, in all lawful things commanded by them, ought to be yielded by us in the Lord, not only for wrath, but for conscience' sake; **[4]** and we ought to make supplicaons and prayers for kings and all that are in authority, that under them we may live a quiet and peaceable life, in all godliness and honesty. 5
+Civil magistrates being set up by God for the ends aforesaid; subjecon, in all lawful things commanded by them, ought to be yielded by us in the Lord, not only for wrath, but for conscience' sake; **[4]** and we ought to make supplicaons and prayers for kings and all that are in authority, that under them we may live a quiet and peaceable life, in all godliness and honesty. **[5]**
 
 **[4]** Rom. 13:5-7; 1 Pet. 2:17
 
 **[5]** 1 Tim. 2:1,2
 
+
 ## CHAPTER 25 - OF MARRIAGE <a id="25"></a>
 
 ### Paragraph 1
-Marriage is to be between one man and one woman; neither is it lawful for any man to have more than one wife, nor for any woman to have more than one husband at the same me. 1 1 Gen. 2:24; Mal. 2:15; Ma. 19:5,6
+Marriage is to be between one man and one woman; neither is it lawful for any man to have more than one wife, nor for any woman to have more than one husband at the same me. **[1]** 
+
+**[1]** Gen. 2:24; Mal. 2:15; Ma. 19:5,6
 
 ### Paragraph 2
-Marriage was ordained for the mutual help of husband and wife, 2 for the increase of mankind with a legimate issue, **[3]** and the prevenng of uncleanness. 4
+Marriage was ordained for the mutual help of husband and wife, **[2]** for the increase of mankind with a legimate issue, **[3]** and the prevenng of uncleanness. **[4]**
 
 **[2]** Gen. 2:18
 
@@ -1340,7 +1346,7 @@ Marriage was ordained for the mutual help of husband and wife, 2 for the increas
 **[4]** 1 Cor. 7:2,9
 
 ### Paragraph 3
-It is lawful for all sorts of people to marry, who are able with judgment to give their consent; **[5]** yet it is the duty of Chrisans to marry in the Lord; **[6]** and therefore such as profess the true religion, should not marry with infidels, or idolaters; neither should such as are godly, be unequally yoked, by marrying with such as are wicked in their life, or maintain damnable heresy. 7
+It is lawful for all sorts of people to marry, who are able with judgment to give their consent; **[5]** yet it is the duty of Chrisans to marry in the Lord; **[6]** and therefore such as profess the true religion, should not marry with infidels, or idolaters; neither should such as are godly, be unequally yoked, by marrying with such as are wicked in their life, or maintain damnable heresy. **[7]**
 
 **[5]** Heb. 13:4; 1 Tim. 4:3
 
@@ -1349,28 +1355,28 @@ It is lawful for all sorts of people to marry, who are able with judgment to giv
 **[7]** Neh. 13:25-27
 
 ### Paragraph 4
-Marriage ought not to be within the degrees of consanguinity or affinity, forbidden in the Word; **[8]** nor can such incestuous marriages ever be made lawful, by any law of man or consent of pares, so as those persons may live together as man and wife. 9
+Marriage ought not to be within the degrees of consanguinity or affinity, forbidden in the Word; **[8]** nor can such incestuous marriages ever be made lawful, by any law of man or consent of pares, so as those persons may live together as man and wife. **[9]**
 
 **[8]** Lev. 18
 
 **[9]** Mark 6:18; 1 Cor. 5:1
 
-CHAPTER 26; OF THE CHURCH
+## CHAPTER 26 - OF THE CHURCH <a id="26"></a>
 
 ### Paragraph 1
-The catholic or universal church, which (with respect to the internal work of the Spirit and truth of grace) may be called invisible, consists of the whole number of the elect, that have been, are, or shall be gathered into one, under Christ, the head thereof; and is the spouse, the body, the fulness of him that fills all in all. 1
+The catholic or universal church, which (with respect to the internal work of the Spirit and truth of grace) may be called invisible, consists of the whole number of the elect, that have been, are, or shall be gathered into one, under Christ, the head thereof; and is the spouse, the body, the fulness of him that fills all in all. **[1]**
 
 **[1]** Heb. 12:23; Col. 1:18; Eph. 1:10,22,23, 5:23,27,32
 
 ### Paragraph 2
-All persons throughout the world, professing the faith of the gospel, and obedience unto God by Christ according unto it, not destroying their own profession by any errors everng the foundaon, or unholiness of conversaon, are and may be called visible saints; 2 and of such ought all parcular congregaons to be constuted. 3
+All persons throughout the world, professing the faith of the gospel, and obedience unto God by Christ according unto it, not destroying their own profession by any errors everng the foundaon, or unholiness of conversaon, are and may be called visible saints; **[2]** and of such ought all parcular congregaons to be constuted. **[3]**
 
 **[2]** 1 Cor. 1:2; Acts 11:26
 
 **[3]** Rom. 1:7; Eph. 1:20-22
 
 ### Paragraph 3
-The purest churches under heaven are subject to mixture and error; **[4]** and some have so degenerated as to become no churches of Christ, but synagogues of Satan; **[5]** nevertheless Christ always has had, and ever shall have a kingdom in this world, to the end thereof, of such as believe in him, and make profession of his name. 6
+The purest churches under heaven are subject to mixture and error; **[4]** and some have so degenerated as to become no churches of Christ, but synagogues of Satan; **[5]** nevertheless Christ always has had, and ever shall have a kingdom in this world, to the end thereof, of such as believe in him, and make profession of his name. **[6]**
 
 **[4]** 1 Cor. 5; Rev. 2,3
 
@@ -1379,12 +1385,14 @@ The purest churches under heaven are subject to mixture and error; **[4]** and s
 **[6]** Ma. 16:18; Ps. 72:17, 102:28; Rev. 12:17
 
 ### Paragraph 4
-The Lord Jesus Christ is the Head of the church, in whom, by the appointment of the Father, all power for the calling, instuon, order or government of the church, is invested in a supreme and sovereign manner; **[7]** neither can the Pope of Rome in any sense be head thereof, but is that anchrist, that man of sin, and son of perdion, that exalts himself in the church against Christ, and all that is called God; whom the Lord shall destroy with the brightness of his coming. **[8]** **[7]** Col. 1:18; Ma. 28:18-20; Eph. 4:11,12
+The Lord Jesus Christ is the Head of the church, in whom, by the appointment of the Father, all power for the calling, instuon, order or government of the church, is invested in a supreme and sovereign manner; **[7]** neither can the Pope of Rome in any sense be head thereof, but is that anchrist, that man of sin, and son of perdion, that exalts himself in the church against Christ, and all that is called God; whom the Lord shall destroy with the brightness of his coming. **[8]** 
+
+**[7]** Col. 1:18; Ma. 28:18-20; Eph. 4:11,12
 
 **[8]** 2 Thess. 2:2-9
 
 ### Paragraph 5
-In the execuon of this power wherewith he is so intrusted, the Lord Jesus calls out of the world unto himself, through the ministry of his word, by his Spirit, those that are given unto him by his Father, **[9]** that they may walk before him in all the ways of obedience, which he prescribes to them in his word. **[10]** Those thus called, he commands to walk together in parcular sociees, or churches, for their mutual edificaon, and the due performance of that public worship, which he requires of them in the world. 11
+In the execuon of this power wherewith he is so intrusted, the Lord Jesus calls out of the world unto himself, through the ministry of his word, by his Spirit, those that are given unto him by his Father, **[9]** that they may walk before him in all the ways of obedience, which he prescribes to them in his word. **[10]** Those thus called, he commands to walk together in parcular sociees, or churches, for their mutual edificaon, and the due performance of that public worship, which he requires of them in the world. **[11]**
 
 **[9]** John 10:16; John 12:32
 
@@ -1393,22 +1401,24 @@ In the execuon of this power wherewith he is so intrusted, the Lord Jesus calls 
 **[11]** Ma. 18:15-20
 
 ### Paragraph 6
-The members of these churches are saints by calling, visibly manifesng and evidencing (in and by their profession and walking) their obedience unto that call of Christ; **[12]** and do willingly consent to walk together, according to the appointment of Christ; giving up themselves to the Lord, and one to another, by the will of God, in professed subjecon to the ordinances of the Gospel. 13
+The members of these churches are saints by calling, visibly manifesng and evidencing (in and by their profession and walking) their obedience unto that call of Christ; **[12]** and do willingly consent to walk together, according to the appointment of Christ; giving up themselves to the Lord, and one to another, by the will of God, in professed subjecon to the ordinances of the Gospel. **[13]**
 
 **[12]** Rom. 1:7; 1 Cor. 1:2
 
 **[13]** Acts 2:41,42, 5:13,14; 2 Cor. 9:13
 
 ### Paragraph 7
-To each of these churches therefore gathered, according to his mind declared in his word, he has given all that power and authority, which is in any way needful for their carrying on that order in worship and discipline, which he has instuted for them to observe; with commands and rules for the due and right exerng, and execung of that power. **[14]** 14 Ma. 18:17, 18; 1 Cor. 5:4, 5, 5:13, 2 Cor. 2:6-8
+To each of these churches therefore gathered, according to his mind declared in his word, he has given all that power and authority, which is in any way needful for their carrying on that order in worship and discipline, which he has instuted for them to observe; with commands and rules for the due and right exerng, and execung of that power. **[14]** 
+
+**[14]** Ma. 18:17, 18; 1 Cor. 5:4, 5, 5:13, 2 Cor. 2:6-8
 
 ### Paragraph 8
-A parcular church, gathered and completely organized according to the mind of Christ, consists of officers and members; and the officers appointed by Christ to be chosen and set apart by the church (so called and gathered), for the peculiar administraon of ordinances, and execuon of power or duty, which he intrusts them with, or calls them to, to be connued to the end of the world, are bishops or elders, and deacons. 15
+A parcular church, gathered and completely organized according to the mind of Christ, consists of officers and members; and the officers appointed by Christ to be chosen and set apart by the church (so called and gathered), for the peculiar administraon of ordinances, and execuon of power or duty, which he intrusts them with, or calls them to, to be connued to the end of the world, are bishops or elders, and deacons. **[15]**
 
 **[15]** Acts 20:17, 28; Phil. 1:1
 
 ### Paragraph 9
-The way appointed by Christ for the calling of any person, fied and gied by the Holy Spirit, unto the office of bishop or elder in a church, is, that he be chosen thereunto by the common suffrage of the church itself; **[16]** and solemnly set apart by fasng and prayer, with imposion of hands of the eldership of the church, if there be any before constuted therein; **[17]** and of a deacon that he be chosen by the like suffrage, and set apart by prayer, and the like imposion of hands. 18
+The way appointed by Christ for the calling of any person, fied and gied by the Holy Spirit, unto the office of bishop or elder in a church, is, that he be chosen thereunto by the common suffrage of the church itself; **[16]** and solemnly set apart by fasng and prayer, with imposion of hands of the eldership of the church, if there be any before constuted therein; **[17]** and of a deacon that he be chosen by the like suffrage, and set apart by prayer, and the like imposion of hands. **[18]**
 
 **[16]** Acts 14:23
 
@@ -1417,7 +1427,7 @@ The way appointed by Christ for the calling of any person, fied and gied by the 
 **[18]** Acts 6:3,5,6
 
 ### Paragraph 10
-The work of pastors being constantly to aend the service of Christ, in his churches, in the ministry of the word and prayer, with watching for their souls, as they that must give an account to Him; **[19]** it is incumbent on the churches to whom they minister, not only to give them all due respect, but also to communicate to them of all their good things according to their ability, **[20]** so as they may have a comfortable supply, without being themselves entangled in secular affairs; **[21]** and may also be capable of exercising hospitality towards others; **[22]** and this is required by the law of nature, and by the express order of our Lord Jesus, who has ordained that they that preach the Gospel should live of the Gospel. 23
+The work of pastors being constantly to aend the service of Christ, in his churches, in the ministry of the word and prayer, with watching for their souls, as they that must give an account to Him; **[19]** it is incumbent on the churches to whom they minister, not only to give them all due respect, but also to communicate to them of all their good things according to their ability, **[20]** so as they may have a comfortable supply, without being themselves entangled in secular affairs; **[21]** and may also be capable of exercising hospitality towards others; **[22]** and this is required by the law of nature, and by the express order of our Lord Jesus, who has ordained that they that preach the Gospel should live of the Gospel. **[23]**
 
 **[19]** Acts 6:4; Heb. 13:17
 
@@ -1430,36 +1440,39 @@ The work of pastors being constantly to aend the service of Christ, in his churc
 **[23]** 1 Cor. 9:6-14
 
 ### Paragraph 11
-Although it be incumbent on the bishops or pastors of the churches, to be instant in preaching the word, by way of office, yet the work of preaching the word is not so peculiarly confined to them but that others also gied and fied by the Holy Spirit for it, and approved and called by the church, may and ought to perform it. 24
+Although it be incumbent on the bishops or pastors of the churches, to be instant in preaching the word, by way of office, yet the work of preaching the word is not so peculiarly confined to them but that others also gied and fied by the Holy Spirit for it, and approved and called by the church, may and ought to perform it. **[24]**
 
 **[24]** Acts 11:19-21; 1 Pet. 4:10,11
 
 ### Paragraph 12
-As all believers are bound to join themselves to parcular churches, when and where they have opportunity so to do; so all that are admied unto the privileges of a church, are also under the censures and government thereof, according to the rule of Christ. 25
+As all believers are bound to join themselves to parcular churches, when and where they have opportunity so to do; so all that are admied unto the privileges of a church, are also under the censures and government thereof, according to the rule of Christ. **[25]**
 
 **[25]** 1 Thess. 5:14; 2 Thess. 3:6,14,15
 
 ### Paragraph 13
-No church members, upon any offence taken by them, having performed their duty required of them towards the person they are offended at, ought to disturb any church-order, or absent themselves from the assemblies of the church, or administraon of any ordinances, upon the account of such offence at any of their fellow members, but to wait upon Christ, in the further proceeding of the church. 26
+No church members, upon any offence taken by them, having performed their duty required of them towards the person they are offended at, ought to disturb any church-order, or absent themselves from the assemblies of the church, or administraon of any ordinances, upon the account of such offence at any of their fellow members, but to wait upon Christ, in the further proceeding of the church. **[26]**
 
 **[26]** Ma. 18:15-17; Eph. 4:2,3
 
 ### Paragraph 14
-As each church, and all the members of it, are bound to pray connually for the good and prosperity of all the churches of Christ, **[27]** in all places, and upon all occasions to further every one within the bounds of their places and callings, in the exercise of their gis and graces, so the churches, when planted by the providence of God, so as they may enjoy opportunity and advantage for it, ought to hold communion among themselves, for their peace, increase of love, and mutual edificaon. **[28]** **[27]** Eph. 6:18; Ps. 122:6
+As each church, and all the members of it, are bound to pray connually for the good and prosperity of all the churches of Christ, **[27]** in all places, and upon all occasions to further every one within the bounds of their places and callings, in the exercise of their gis and graces, so the churches, when planted by the providence of God, so as they may enjoy opportunity and advantage for it, ought to hold communion among themselves, for their peace, increase of love, and mutual edificaon. **[28]** 
 
-**[28]** Rom. 16:1,2; 3 John ~~8~~-10
+**[27]** Eph. 6:18; Ps. 122:6
+
+**[28]** Rom. 16:1,2; 3 John 8-10
 
 ### Paragraph 15
-In cases of difficules or differences, either in point of doctrine or administraon, wherein either the churches in general are concerned, or any one church, in their peace, union, and edificaon; or any member or members of any church are injured, in or by any proceedings in censures not agreeable to truth and order: it is according to the mind of Christ, that many churches holding communion together, do, by their messengers, meet to consider, and give their advice in or about that maer in difference, to be reported to all the churches concerned; **[29]** howbeit these messengers assembled, are not intrusted with any church-power properly so called; or with any jurisdicon over the churches themselves, to exercise any censures either over any churches or persons; or to impose their determinaon on the churches or officers. 30
+In cases of difficules or differences, either in point of doctrine or administraon, wherein either the churches in general are concerned, or any one church, in their peace, union, and edificaon; or any member or members of any church are injured, in or by any proceedings in censures not agreeable to truth and order: it is according to the mind of Christ, that many churches holding communion together, do, by their messengers, meet to consider, and give their advice in or about that maer in difference, to be reported to all the churches concerned; **[29]** howbeit these messengers assembled, are not intrusted with any church-power properly so called; or with any jurisdicon over the churches themselves, to exercise any censures either over any churches or persons; or to impose their determinaon on the churches or officers. **[30]**
 
 **[29]** Acts 15:2,4,6,22,23,25
 
 **[30]** 2 Cor. 1:24; 1 John 4:1
 
+
 ## CHAPTER 27 - OF THE COMMUNION OF THE SAINTS <a id="27"></a>
 
 ### Paragraph 1
-All saints that are united to Jesus Christ, their head, by his Spirit, and faith, although they are not made thereby one person with him, have fellowship in his graces, sufferings, death, resurrecon, and glory; 1 and, being united to one another in love, they have communion in each others gis and graces, 2 and are obliged to the performance of such dues, public and private, in an orderly way, as do conduce to their mutual good, both in the inward and outward man. 3
+All saints that are united to Jesus Christ, their head, by his Spirit, and faith, although they are not made thereby one person with him, have fellowship in his graces, sufferings, death, resurrecon, and glory; **[1]** and, being united to one another in love, they have communion in each others gis and graces, **[2]** and are obliged to the performance of such dues, public and private, in an orderly way, as do conduce to their mutual good, both in the inward and outward man. **[3]**
 
 **[1]** 1 John 1:3; John 1:16; Phil. 3:10; Rom. 6:5,6 
 
@@ -1468,7 +1481,7 @@ All saints that are united to Jesus Christ, their head, by his Spirit, and faith
 **[3]** 1 Thess. 5:11,14; Rom. 1:12; 1 John 3:17,18; Gal. 6:10
 
 ### Paragraph 2
-Saints by profession are bound to maintain a holy fellowship and communion in the worship of God, and in performing such other spiritual services as tend to their mutual edificaon; **[4]** as also in relieving each other in outward things according to their several abilies, and necessies; **[5]** which communion, according to the rule of the gospel, though especially to be exercised by them, in the relaon wherein they stand, whether in families, **[6]** or churches, **[7]** yet, as God offers opportunity, is to be extended to all the household of faith, even all those who in every place call upon the name of the Lord Jesus; nevertheless their communion one with another as saints, does not take away or infringe the tle or propriety which each man has in his goods and possessions. 8
+Saints by profession are bound to maintain a holy fellowship and communion in the worship of God, and in performing such other spiritual services as tend to their mutual edificaon; **[4]** as also in relieving each other in outward things according to their several abilies, and necessies; **[5]** which communion, according to the rule of the gospel, though especially to be exercised by them, in the relaon wherein they stand, whether in families, **[6]** or churches, **[7]** yet, as God offers opportunity, is to be extended to all the household of faith, even all those who in every place call upon the name of the Lord Jesus; nevertheless their communion one with another as saints, does not take away or infringe the tle or propriety which each man has in his goods and possessions. **[8]**
 
 **[4]** Heb. 10:24,25, 3:12,13
 
@@ -1483,19 +1496,19 @@ Saints by profession are bound to maintain a holy fellowship and communion in th
 ## CHAPTER 28 - OF BAPTISM AND THE LORD'S SUPPER <a id="28"></a>
 
 ### Paragraph 1
-Bapsm and the Lord's Supper are ordinances of posive and sovereign instuon, appointed by the Lord Jesus, the only lawgiver, to be connued in his church to the end of the world. 1
+Bapsm and the Lord's Supper are ordinances of posive and sovereign instuon, appointed by the Lord Jesus, the only lawgiver, to be connued in his church to the end of the world. **[1]**
 
 **[1]** Ma. 28:19,20; 1 Cor. 11:26
 
 ### Paragraph 2
-These holy appointments are to be administered by those only who are qualified and thereunto called, according to the commission of Christ. 2
+These holy appointments are to be administered by those only who are qualified and thereunto called, according to the commission of Christ. **[2]**
 
 **[2]** Ma. 28:19; 1 Cor. 4:1
 
 ## CHAPTER 29 - OF BAPTISM <a id="29"></a>
 
 ### Paragraph 1
-Bapsm is an ordinance of the New Testament, ordained by Jesus Christ, to be unto the party bapzed, a sign of his fellowship with him, in his death and resurrecon; of his being engraed into him; **[3]** of remission of sins; **[4]** and of giving up into God, through Jesus Christ, to live and walk in newness of life. 5
+Bapsm is an ordinance of the New Testament, ordained by Jesus Christ, to be unto the party bapzed, a sign of his fellowship with him, in his death and resurrecon; of his being engraed into him; **[3]** of remission of sins; **[4]** and of giving up into God, through Jesus Christ, to live and walk in newness of life. **[5]**
 
 **[3]** Rom. 6:3-5; Col. 2:12; Gal. 3:27
 
@@ -1504,20 +1517,24 @@ Bapsm is an ordinance of the New Testament, ordained by Jesus Christ, to be unto
 **[5]** Rom. 6:4
 
 ### Paragraph 2
-Those who do actually profess repentance towards God, faith in, and obedience to, our Lord Jesus Christ, are the only proper subjects of this ordinance. 6
+Those who do actually profess repentance towards God, faith in, and obedience to, our Lord Jesus Christ, are the only proper subjects of this ordinance. **[6]**
 
 **[6]** Mark 16:16; Acts 8:36,37, 2:41, 8:12, 18:8
 
 ### Paragraph 3
-The outward element to be used in this ordinance is water, wherein the party is to be bapzed, in the name of the Father, and of the Son, and of the Holy Spirit. **[7]**Ma. 28:19, 20; Acts 8:38
+The outward element to be used in this ordinance is water, wherein the party is to be bapzed, in the name of the Father, and of the Son, and of the Holy Spirit. **[7]** 
+
+**[7]** Ma. 28:19, 20; Acts 8:38
 
 ### Paragraph 4
-Immersion, or dipping of the person in water, is necessary to the due administraon of this ordinance. **[8]**Ma. 3:16; John 3:23
+Immersion, or dipping of the person in water, is necessary to the due administraon of this ordinance. **[8]**
+
+**[8]** Ma. 3:16; John 3:23
 
 ## CHAPTER 30 - OF THE LORD'S SUPPER <a id="30"></a>
 
 ### Paragraph 1
-The supper of the Lord Jesus was instuted by him the same night wherein he was betrayed, to be observed in his churches, unto the end of the world, for the perpetual remembrance, and showing to all the world the sacrifice of himself in his death, 1 confirmaon of the faith of believers in all the benefits thereof, their spiritual nourishment, and growth in him, their further engagement in, and to all dues which they owe to him; and to be a bond and pledge of their communion with him, and with each other. 2
+The supper of the Lord Jesus was instuted by him the same night wherein he was betrayed, to be observed in his churches, unto the end of the world, for the perpetual remembrance, and showing to all the world the sacrifice of himself in his death, **[1]** confirmaon of the faith of believers in all the benefits thereof, their spiritual nourishment, and growth in him, their further engagement in, and to all dues which they owe to him; and to be a bond and pledge of their communion with him, and with each other. **[2]**
 
 **[1]** 1 Cor. 11:23-26
 
@@ -1531,32 +1548,36 @@ In this ordinance Christ is not offered up to his Father, nor any real sacrifice
 **[4]** 1 Cor. 11:24; Ma. 26:26,27
 
 ### Paragraph 3
-The Lord Jesus hath, in this ordinance, appointed his ministers to pray, and bless the elements of bread and wine, and thereby to set them apart from a common to a holy use, and to take and break the bread; to take the cup, and, they communicang also themselves, to give both to the communicants. 5
+The Lord Jesus hath, in this ordinance, appointed his ministers to pray, and bless the elements of bread and wine, and thereby to set them apart from a common to a holy use, and to take and break the bread; to take the cup, and, they communicang also themselves, to give both to the communicants. **[5]**
 
 **[5]** 1 Cor. 11:23-26, etc.
 
 ### Paragraph 4
-The denial of the cup to the people, worshipping the elements, the liing them up, or carrying them about for adoraon, and reserving them for any pretended religious use, are all contrary to the nature of this ordinance, and to the instuon of Christ. **[6]** Ma. 26:26-28, 15:9, Exod. 20:4,5
+The denial of the cup to the people, worshipping the elements, the liing them up, or carrying them about for adoraon, and reserving them for any pretended religious use, are all contrary to the nature of this ordinance, and to the instuon of Christ. **[6]**
+
+**[6]** Ma. 26:26-28, 15:9, Exod. 20:4,5
 
 ### Paragraph 5
-The outward elements in this ordinance, duly set apart to the use ordained by Christ, have such relaon to him crucified, as that truly, although in terms used figuravely, they are somemes called by the names of the things they represent, in other words, the body and blood of Christ, **[7]** albeit, in substance and nature, they sll remain truly and only bread and wine, as they were before. 8
+The outward elements in this ordinance, duly set apart to the use ordained by Christ, have such relaon to him crucified, as that truly, although in terms used figuravely, they are somemes called by the names of the things they represent, in other words, the body and blood of Christ, **[7]** albeit, in substance and nature, they sll remain truly and only bread and wine, as they were before. **[8]**
 
 **[7]** 1 Cor. 11:27
 
 **[8]** 1 Cor. 11:26-28
 
 ### Paragraph 6
-That doctrine which maintains a change of the substance of bread and wine, into the substance of Christ's body and blood, commonly called transubstanaon, by consecraon of a priest, or by any other way, is repugnant not to Scripture alone, **[9]** but even to common sense and reason, overthrows the nature of the ordinance, and has been, and is, the cause of manifold supersons, yea, of gross idolatries. **[10]** **[9]** Acts 3:21; Luke 14:6,39
+That doctrine which maintains a change of the substance of bread and wine, into the substance of Christ's body and blood, commonly called transubstanaon, by consecraon of a priest, or by any other way, is repugnant not to Scripture alone, **[9]** but even to common sense and reason, overthrows the nature of the ordinance, and has been, and is, the cause of manifold supersons, yea, of gross idolatries. **[10]** 
+
+**[9]** Acts 3:21; Luke 14:6,39
 
 **[10]** 1 Cor. 11:24,25
 
 ### Paragraph 7
-Worthy receivers, outwardly partaking of the visible elements in this ordinance, do then also inwardly by faith, really and indeed, yet not carnally and corporally, but spiritually receive, and feed upon Christ crucified, and all the benefits of his death; the body and blood of Christ being then not corporally or carnally, but spiritually present to the faith of believers in that ordinance, as the elements themselves are to their outward senses. 11
+Worthy receivers, outwardly partaking of the visible elements in this ordinance, do then also inwardly by faith, really and indeed, yet not carnally and corporally, but spiritually receive, and feed upon Christ crucified, and all the benefits of his death; the body and blood of Christ being then not corporally or carnally, but spiritually present to the faith of believers in that ordinance, as the elements themselves are to their outward senses. **[11]**
 
 **[11]** 1 Cor. 10:16, 11:23-26
 
 ### Paragraph 8
-All ignorant and ungodly persons, as they are unfit to enjoy communion with Christ, so are they unworthy of the Lord's table, and cannot, without great sin against him, while they remain such, partake of these holy mysteries, or be admied thereunto; **[12]** yea, whosoever shall receive unworthily, are guilty of the body and blood of the Lord, eang and drinking judgment to themselves. 13
+All ignorant and ungodly persons, as they are unfit to enjoy communion with Christ, so are they unworthy of the Lord's table, and cannot, without great sin against him, while they remain such, partake of these holy mysteries, or be admied thereunto; **[12]** yea, whosoever shall receive unworthily, are guilty of the body and blood of the Lord, eang and drinking judgment to themselves. **[13]**
 
 **[12]** 2 Cor. 6:14,15
 
@@ -1565,7 +1586,7 @@ All ignorant and ungodly persons, as they are unfit to enjoy communion with Chri
 ## CHAPTER 31 - OF THE STATE OF MAN AFTER DEATH, AND OF THE RESURRECTION OF THE DEAD <a id="31"></a>
 
 ### Paragraph 1
-The bodies of men aer death return to dust, and see corrupon;  but their souls, which neither die nor sleep, having an 1 immortal subsistence, immediately return to God who gave them. 2 The souls of the righteous being then made perfect in holiness, are received into paradise, where they are with Christ, and behold the face of God in light and glory, waing for the full redempon of their bodies; **[3]** and the souls of the wicked are cast into hell; where they remain in torment and uer darkness, reserved to the judgment of the great day; **[4]** besides these two places, for souls separated from their bodies, the Scripture acknowledgeth none.
+The bodies of men aer death return to dust, and see corrupon;  but their souls, which neither die nor sleep, having an **[1]** immortal subsistence, immediately return to God who gave them. **[2]** The souls of the righteous being then made perfect in holiness, are received into paradise, where they are with Christ, and behold the face of God in light and glory, waing for the full redempon of their bodies; **[3]** and the souls of the wicked are cast into hell; where they remain in torment and uer darkness, reserved to the judgment of the great day; **[4]** besides these two places, for souls separated from their bodies, the Scripture acknowledgeth none.
 
 **[1]** Gen. 3:19; Acts 13:36
 
@@ -1576,7 +1597,7 @@ The bodies of men aer death return to dust, and see corrupon;  but their souls, 
 **[4]** Jude 6, 7; 1 Peter 3:19; Luke 16:23,24
 
 ### Paragraph 2
-At the last day, such of the saints as are found alive, shall not sleep, but be changed; **[5]** and all the dead shall be raised up with the selfsame bodies, and none other; **[6]** although with different qualies, which shall be united again to their souls forever. 7
+At the last day, such of the saints as are found alive, shall not sleep, but be changed; **[5]** and all the dead shall be raised up with the selfsame bodies, and none other; **[6]** although with different qualies, which shall be united again to their souls forever. **[7]**
 
 **[5]** 1 Cor. 15:51,52; 1 Thess. 4:17
 
@@ -1585,12 +1606,14 @@ At the last day, such of the saints as are found alive, shall not sleep, but be 
 **[7]** 1 Cor. 15:42,43
 
 ### Paragraph 3
-The bodies of the unjust shall, by the power of Christ, be raised to dishonour; the bodies of the just, by his Spirit, unto honour, and be made conformable to his own glorious body. **[8]**Acts 24:15; John 5:28,29; Phil. 3:21
+The bodies of the unjust shall, by the power of Christ, be raised to dishonour; the bodies of the just, by his Spirit, unto honour, and be made conformable to his own glorious body. **[8]**
+
+**[8]**Acts 24:15; John 5:28,29; Phil. 3:21
 
 ## CHAPTER 32 - OF THE LAST JUDGMENT <a id="32"></a>
 
 ### Paragraph 1
-God has appointed a day wherein he will judge the world in righteousness, by Jesus Christ; 1 to whom all power and judgment is given of the Father; in which day, not only the apostate angels shall be judged, 2 but likewise all persons that have lived upon the earth shall appear before the tribunal of Christ, to give an account of their thoughts, words, and deeds, and to receive according to what they have done in the body, whether good or evil. 3
+God has appointed a day wherein he will judge the world in righteousness, by Jesus Christ; **[1]** to whom all power and judgment is given of the Father; in which day, not only the apostate angels shall be judged, **[2]** but likewise all persons that have lived upon the earth shall appear before the tribunal of Christ, to give an account of their thoughts, words, and deeds, and to receive according to what they have done in the body, whether good or evil. **[3]**
 
 **[1]** Acts 17:31; John 5:22,27
 
@@ -1599,7 +1622,7 @@ God has appointed a day wherein he will judge the world in righteousness, by Jes
 **[3]** 2 Cor. 5:10; Eccles. 12:14; Ma. 12:36; Rom. 14:10,12; Ma. 25:32-46
 
 ### Paragraph 2
-The end of God's appoinng this day, is for the manifestaon of the glory of his mercy, in the eternal salvaon of the elect; and of his jusce, in the eternal damnaon of the reprobate, who are wicked and disobedient; **[4]** for then shall the righteous go into everlasng life, and receive that fulness of joy and glory with everlasng rewards, in the presence of the Lord; but the wicked, who do not know God, and do not obey the gospel of Jesus Christ, shall be cast aside into everlasng torments, **[5]** and punished with everlasng destrucon, from the presence of the Lord, and from the glory of his power. 6
+The end of God's appoinng this day, is for the manifestaon of the glory of his mercy, in the eternal salvaon of the elect; and of his jusce, in the eternal damnaon of the reprobate, who are wicked and disobedient; **[4]** for then shall the righteous go into everlasng life, and receive that fulness of joy and glory with everlasng rewards, in the presence of the Lord; but the wicked, who do not know God, and do not obey the gospel of Jesus Christ, shall be cast aside into everlasng torments, **[5]** and punished with everlasng destrucon, from the presence of the Lord, and from the glory of his power. **[6]**
 
 **[4]** Rom. 9:22,23
 
@@ -1726,5 +1749,3 @@ If the ten commands exhibited in the popish Idolatrous service books had been re
 If Ezra and Nehemiah had not made a diligent search into the parcular parts of Gods law, and his worship; the Feast of Tabernacles (which for many centuries of years, had not been duly observed, according to the instuon, though it was retained in the general noon) would not have been kept in due order.
 
 So may it be now as to many things relang to the service of God, which do retain the names proper to them in their first instuon, but yet through inadvertency (where there is no sinister design) may vary in their circumstances, from their first instuon. And if by means of any anent defecon, or of that general corrupon of the service of God, and interrupon of his true worship, and persecuon of his servants by the Anchrisan Bishop of Rome, for many generaons; those who do consult the Word of God, cannot yet arrive at a full and mutual sasfacon among themselves, what was the pracse of the primive Chrisan Church, in some points relang to the Worship of God: yet inasmuch as these things are not of the essence of Chrisanity, but that we agree in the fundamental doctrines thereof, we do apprehend, there is sufficient ground to lay aside all bierness and prejudice, and in the spirit of love and meekness to imbrace and own each other therein; leaving each other at liberty to perform such other services, (wherein we cannot concur) apart unto God, according to the best of our understanding.
-
-FINIS
