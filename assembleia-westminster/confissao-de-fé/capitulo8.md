@@ -3,7 +3,7 @@
 ## **1**  
 Aprouve a Deus, em seu eterno propósito, escolher e ordenar o Senhor Jesus, seu Filho unigênito, para ser o Mediador entre Deus e os homens [a], o Profeta [b], Sacerdote [c] e Rei [d]; o Cabeça e Salvador de sua Igreja [e], o Herdeiro de todas as coisas [f] e Juiz do mundo [g]; ao qual ele deu, desde toda a eternidade, um povo para ser sua semente [h], e para ser por ele, no tempo, redimido, chamado, justificado, santificado e glorificado [i].  
 
-**[a]** Isaías 42:1; João 3:16; 2 Timóteo 2:5; 1 Pedro 1:19-20.  
+**[a]** Isaías 42:1; João 3:16; 1 Timóteo 2:5; 1 Pedro 1:19-20.  
 **[b]** Atos 3:22.  
 **[c]** Hebreus 5:5-6.  
 **[d]** Salmos 2:6; Lucas 1:33.  
