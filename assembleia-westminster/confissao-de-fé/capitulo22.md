@@ -7,7 +7,7 @@ Um juramento lícito é parte do culto religioso [a], no qual, em uma ocasião j
 **[a]** Êxodo 20:7; Levítico 19:12; 2 Coríntios 1:23; 2 Crônicas 6:22-23
 
 ### **II.**
-O nome de Deus é o único pelo qual os homens devem jurar, e deve ser usado com todo o santo temor e reverência [a]. Portanto, jurar de maneira vã ou precipitada por esse glorioso e terrível Nome; ou jurar por qualquer outra coisa, é pecaminoso e deve ser abominado [b]. Contudo, assim como em questões de grande importância, o juramento é respaldado pela Palavra de Deus, tanto no Novo Testamento quanto no Antigo [c]; assim, um juramento legítimo, imposto por autoridade legítima, em tais questões, deve ser aceito [d].
+O nome de Deus é o único pelo qual os homens devem jurar, e deve ser usado com todo o santo temor e reverência [a]. Portanto, jurar de maneira vã ou precipitada por esse glorioso e terrível Nome, ou jurar por qualquer outra coisa, é pecaminoso e deve ser abominado [b]. Contudo, assim como em questões de grande importância, o juramento é respaldado pela Palavra de Deus, tanto no Novo Testamento quanto no Antigo [c]; assim, um juramento legítimo, imposto por autoridade legítima, em tais questões, deve ser aceito [d].
 
 **[a]** Deuteronômio 6:13
 **[a]** Exôdo 20:7; Jeremias 5:7; Mateus 5:34, 37; Tiago 5:12
