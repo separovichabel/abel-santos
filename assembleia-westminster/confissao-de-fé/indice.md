@@ -1,4 +1,5 @@
 # Confissão de Fé de Westminster
+Traduzida de acordo com a versão original em ingles.
 
 ## Capítulos
 1. [**Da Escritura Sagrada**](capitulo1.md)
@@ -29,8 +30,8 @@
 26. [**Da Comunhão dos Santos**](capitulo26.md)
 27. [**Dos Sacramentos**](capitulo27.md)
 28. [**Do Batismo**](capitulo28.md)
-29. **Da Ceia do Senhor**
-30. **Das Censuras Eclesiásticas**
-31. **Dos Sínodos e Concílios**
-32. **Do Estado dos Homens Após a Morte e da Ressurreição dos Mortos**
-33. **Do Juízo Final**
+29. [**Da Ceia do Senhor**](capitulo29.md)
+30. [**Das Censuras Eclesiásticas**](capitulo30.md)
+31. [**Dos Sínodos e Concílios**](capitulo31.md)
+32. [**Do Estado dos Homens Após a Morte e da Ressurreição dos Mortos**](capitulo32.md)
+33. [**Do Juízo Final**](capitulo33.md)
