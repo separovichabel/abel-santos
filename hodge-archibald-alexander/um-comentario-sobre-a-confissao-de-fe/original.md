@@ -290,12 +290,13 @@ WCF 20.4, of certain  offenders  it  is  said:  "They  may  be  proceeded agains
 - 22. Of what churches is the Westminster Confession the Constitutional Standard of Doctrine?
 - 23. When and with what exceptions was this Confession adopted by the Presbyterian Church in America?
 - 24. When and why and in what sections was it amended?
-- [1] Hetherington's "History of the Westminster Assembly," p. 88.
-- [2] Hetherington's "History of the Church of Scotland," p. 187.
-- [3] Hetherington's "History of the Westminster Assembly," p. 99.
-- [4] Hetherington's "History Westminster Assembly," p. 243.
 
-[5] See "The Westminster Assembly, its History and Standards," by Alex. F. Mitchell, D.D., for the most full and authoritative account of the sources and genesis of the Westminster Confession and Catechism.
+
+**[1]** Hetherington's "History of the Westminster Assembly," p. 88.
+**[2]** Hetherington's "History of the Church of Scotland," p. 187.
+**[3]** Hetherington's "History of the Westminster Assembly," p. 99.
+**[4]** Hetherington's "History Westminster Assembly," p. 243.
+**[5]** See "The Westminster Assembly, its History and Standards," by Alex. F. Mitchell, D.D., for the most full and authoritative account of the sources and genesis of the Westminster Confession and Catechism.
 
 ## Chapter One Of the Holy Scripture
 
