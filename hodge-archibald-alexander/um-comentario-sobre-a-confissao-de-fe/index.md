@@ -4,8 +4,8 @@ Por **Archibald Alexander Hodge** 1823-1886
 ## Índice
 | Conteúdo |
 |-------------------------------------------------------------------------|
-| Uma Breve História dos Credos e Confissões                              |
-| Um Relato sobre a Origem da Confissão e dos Catecismos de Westminster   |
+| [**Introdução 1: Uma Breve História dos Credos e Confissões**](Introducao1.md)|
+| Introdução 2: Um Relato sobre a Origem da Confissão e dos Catecismos de Westminster   |
 | Capítulo 1: Das Sagradas Escrituras                                     |
 | Capítulo 2: De Deus e da Santíssima Trindade                            |
 | Capítulo 3: Do Decreto Eterno de Deus                                   |
