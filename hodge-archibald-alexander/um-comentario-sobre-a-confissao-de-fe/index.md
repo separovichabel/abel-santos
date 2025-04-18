@@ -2,6 +2,7 @@
 Por **Archibald Alexander Hodge** 1823-1886
 
 ## Índice
+
 | Conteúdo |
 |-------------------------------------------------------------------------|
 | [**Introdução 1: Uma Breve História dos Credos e Confissões**](Introducao1.md)|
