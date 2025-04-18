@@ -27,7 +27,7 @@ O que se segue é uma história muito breve e geral dos principais Credos e Conf
 Os Credos formados antes da Reforma são muito poucos, relacionam-se com os princípios fundamentais do Cristianismo, especialmente a Trindade e a Pessoa do Deus-homem, e são a herança comum de toda a Igreja.
 
 ### 1º. O Credo dos Apóstolos
-Este não foi escrito pelos apóstolos, mas foi gradualmente formado, por consenso comum, a partir das Confissões adotadas individualmente por igrejas particulares, e usadas na recepção de seus membros. Ele alcançou sua forma atual e uso universal entre todas as igrejas, cerca do final do segundo século. Este Credo foi anexado ao Catecismo Menor, juntamente com a Oração do Senhor e os Dez Mandamentos, na primeira edição publicada por ordem do Parlamento, "não como se fosse composto pelos apóstolos, ou devesse ser considerado Escritura canônica, ... mas porque é um breve resumo da fé cristã, conforme a Palavra de Deus, e antigamente recebido nas igrejas de Cristo." Foi retido pelos elaboradores de nossa Constituição como parte do Catecismo. É o seguinte:
+Este não foi escrito pelos apóstolos, mas foi gradualmente formado, por consenso comum, a partir das Confissões adotadas individualmente por igrejas particulares, e usadas na recepção de seus membros. Ele alcançou sua forma atual e uso universal entre todas as igrejas, cerca do final do segundo século. Este Credo foi anexado ao Catecismo Menor, juntamente com a Oração do Senhor e os Dez Mandamentos, na primeira edição publicada por ordem do Parlamento, "não como se fosse composto pelos apóstolos, ou devesse ser considerado Escritura canônica, ... mas porque é um breve resumo da fé cristã, conforme a Palavra de Deus, e antigamente recebido nas igrejas de Cristo." Foi retido pelos elaboradores de nossa Constituição como parte do Catecismo. [^1] É o seguinte:
 
 > Eu creio em Deus, Pai Todo-Poderoso, Criador do céu e da terra; e em Jesus Cristo, seu único Filho, nosso Senhor; que foi concebido pelo Espírito Santo, nasceu da Virgem Maria, padeceu sob Pôncio Pilatos, foi crucificado, morto e sepultado; desceu ao inferno (Hades); no terceiro dia ressurgiu dentre os mortos, subiu ao céu, e está à direita de Deus, Pai Todo-Poderoso; de onde virá para julgar os vivos e os mortos. Eu creio no Espírito Santo; a Santa Igreja Católica; a comunhão dos santos, o perdão dos pecados; a ressurreição do corpo; e a vida eterna. Amém.
 
@@ -102,63 +102,64 @@ As Confissões Reformadas são muito numerosas, embora todas elas concordem subs
 
 5. A Confissão e os Catecismos da Assembleia de Westminster. Um breve relato da origem e constituição desta Assembleia, e da produção e recepção de suas deliberações doutrinárias, é apresentado no próximo capítulo. Este é o padrão doutrinário comum de todas as igrejas presbiterianas do mundo de origem inglesa e escocesa. Também é o Credo mais amplamente aprovado por todos os corpos de Congregacionalistas na Inglaterra e na América. A Convenção Congregacional convocada por Cromwell para se reunir em Savoy, em Londres, no ano 1658, declarou sua aprovação da parte doutrinária da Confissão e dos Catecismos da Assembleia de Westminster, e conformou sua própria deliberação, a Confissão de Savoy, muito próxima a ela. De fato, "a diferença entre estas duas Confissões é tão pequena, que os modernos Independentes de certa forma abandonaram o uso dela (Confissão de Savoy) em suas famílias, e concordaram com os presbiterianos no uso dos Catecismos da Assembleia." [^3] Todas as Assembleias convocadas na Nova Inglaterra com o propósito de estabelecer a base doutrinária de suas igrejas têm endossado ou adotado explicitamente esta Confissão e estes Catecismos como exposições precisas de sua própria fé. Isso foi feito pela Sinédo que se reuniu em Cambridge, Massachusetts, em junho de 1647, e novamente em agosto de 1648, e preparou a Plataforma de Cambridge. E novamente pela Sinédo que se reuniu em Boston, em setembro de 1679, e maio de 1680, e produziu a Confissão de Boston. E novamente pela Sinédo que se reuniu em Saybrook, Connecticut, em 1708, e produziu a Plataforma de Saybrook. [^4]
 
+## PERGUNTAS
+
+1. Qual é o único padrão absoluto e essencialmente autoritativo de fé?
+2. De onde deriva a autoridade de todos os Credos humanos?
+3. Sobre quem repousa a necessidade e a obrigação de reunir tudo o que as Escrituras ensinam sobre qualquer assunto e de ajustar seu ensinamento em um assunto com todos os outros elementos do sistema de verdade?
+4. É melhor para um homem formar essas opiniões sem ou com a assistência do grande corpo de seus companheiros cristãos?
+5. Em que forma têm sido expressas e preservadas as opiniões da grande massa da Igreja Cristã sobre estes assuntos?
+6. Qual, então, é o primeiro grande propósito para o qual os Credos e Confissões são úteis?
+7. Qual é o segundo grande objetivo?
+8. Qual é o terceiro?
+9. Qual é o quarto?
+10. Com que fundamento, e até que ponto, a matéria dessas Confissões vincula as consciências dos homens?
+11. A quem e com que fundamento a forma dessas Confissões vincula?
+12. Quais são os termos sob os quais membros privados são admitidos à Igreja?
+13. Quais são os termos sob os quais pregadores e governantes são admitidos a ofício na Igreja?
+14. Por que os termos devem ser tão diferentes nos dois casos?
+15. Quando e por qual corpo representativo de nossa Igreja foram a Confissão de Westminster e os Catecismos adotados pela primeira vez como nosso padrão de fé?
+16. Leia o ato de adoção.
+17. Leia a ação do Sinédo Geral, aprovada em 1788.
+18. A que classe de tópicos se referem todos os Credos anteriores à Reforma?
+19. Qual é a origem do que comumente é chamado o Credo dos Apóstolos?
+20. Sempre teve um lugar em nosso Catecismo?
+21. Leia-o.
+22. Quando e por quais Concílios foi produzido o Credo Niceno?
+23. Leia-o.
+24. Quais tendências heréticas opostas, a respeito da Pessoa de Cristo, surgiram posteriormente na Igreja?
+25. Qual foi a data e o objetivo do Credo do Concílio de Éfeso?
+26. Qual foi a data e o objetivo do Credo do Concílio de Calcedônia?
+27. Qual foi a origem do Credo falsamente atribuído ao grande Atanásio?
+28. Leia essa parte que se relaciona à Pessoa de Cristo.
+29. Quais são os padrões doutrinários da Igreja de Roma?
+30. Qual é o caráter da teologia que eles ensinam?
+31. Quando, por que e em que divisões a Igreja da Idade Média se separou?
+32. Quais países estão incluídos nos limites da Igreja Grega?
+33. Quais são os padrões doutrinários da Igreja Grega?
+34. Em que duas grandes divisões as igrejas da Reforma se separaram?
+35. Qual é a característica comum das igrejas luteranas?
+36. Qual é a característica comum das igrejas reformadas?
+37. Quais igrejas pertencem à família luterana?
+38. Qual é o nome, data e origem de seu padrão principal e universalmente aceito de fé?
+39. Quais são seus outros livros simbólicos?
+40. Qual é a origem, propósito e caráter da Forma de Concordia, e em que estima é mantida?
+41. Quais igrejas estão incluídas na família reformada ou calvinista?
+42. Que relato é aqui dado da Segunda Confissão Helvética?
+43. Que relato é aqui dado do Catecismo de Heidelberg?
+44. De quais igrejas é o padrão acreditado?
+45. O que é dito aqui sobre os Trinta e Nove Artigos da Igreja da Inglaterra?
+46. Por quem, onde, quando e para que propósito foi convocado o Sinédo de Dort?
+47. De quais partidos era composto?
+48. Em que estima têm sido considerados seus "Cânones" e de quais igrejas são eles o padrão?
+49. De quais igrejas a Confissão de Westminster e os Catecismos são o padrão de fé?
+50. Até que ponto foram adotados pelos Congregacionalistas da Inglaterra?
+51. Em que ocasiões e até que extensão foram adotados pelos Congregacionalistas da Nova Inglaterra?
+
+
 [^1]: Digest do Assembleia, p. 11.
 [^2]: Hist. de Doutrinas Cristãs de Shedd.
 [^3]: Neal, Puritanos, II. 178
 [^4]: Hist. de Doutrinas Cristãs de Shedd.
-
-## PERGUNTAS
-
-- 1. Qual é o único padrão absoluto e essencialmente autoritativo de fé?
-- 2. De onde deriva a autoridade de todos os Credos humanos?
-- 3. Sobre quem repousa a necessidade e a obrigação de reunir tudo o que as Escrituras ensinam sobre qualquer assunto e de ajustar seu ensinamento em um assunto com todos os outros elementos do sistema de verdade?
-- 4. É melhor para um homem formar essas opiniões sem ou com a assistência do grande corpo de seus companheiros cristãos?
-- 5. Em que forma têm sido expressas e preservadas as opiniões da grande massa da Igreja Cristã sobre estes assuntos?
-- 6. Qual, então, é o primeiro grande propósito para o qual os Credos e Confissões são úteis?
-- 7. Qual é o segundo grande objetivo?
-- 8. Qual é o terceiro?
-- 9. Qual é o quarto?
-- 10. Com que fundamento, e até que ponto, a matéria dessas Confissões vincula as consciências dos homens?
-- 11. A quem e com que fundamento a forma dessas Confissões vincula?
-- 12. Quais são os termos sob os quais membros privados são admitidos à Igreja?
-- 13. Quais são os termos sob os quais pregadores e governantes são admitidos a ofício na Igreja?
-- 14. Por que os termos devem ser tão diferentes nos dois casos?
-- 15. Quando e por qual corpo representativo de nossa Igreja foram a Confissão de Westminster e os Catecismos adotados pela primeira vez como nosso padrão de fé?
-- 16. Leia o ato de adoção.
-- 17. Leia a ação do Sinédo Geral, aprovada em 1788.
-- 18. A que classe de tópicos se referem todos os Credos anteriores à Reforma?
-- 19. Qual é a origem do que comumente é chamado o Credo dos Apóstolos?
-- 20. Sempre teve um lugar em nosso Catecismo?
-- 21. Leia-o.
-- 22. Quando e por quais Concílios foi produzido o Credo Niceno?
-- 23. Leia-o.
-- 24. Quais tendências heréticas opostas, a respeito da Pessoa de Cristo, surgiram posteriormente na Igreja?
-- 25. Qual foi a data e o objetivo do Credo do Concílio de Éfeso?
-- 26. Qual foi a data e o objetivo do Credo do Concílio de Calcedônia?
-- 27. Qual foi a origem do Credo falsamente atribuído ao grande Atanásio?
-- 28. Leia essa parte que se relaciona à Pessoa de Cristo.
-- 29. Quais são os padrões doutrinários da Igreja de Roma?
-- 30. Qual é o caráter da teologia que eles ensinam?
-- 31. Quando, por que e em que divisões a Igreja da Idade Média se separou?
-- 32. Quais países estão incluídos nos limites da Igreja Grega?
-- 33. Quais são os padrões doutrinários da Igreja Grega?
-- 34. Em que duas grandes divisões as igrejas da Reforma se separaram?
-- 35. Qual é a característica comum das igrejas luteranas?
-- 36. Qual é a característica comum das igrejas reformadas?
-- 37. Quais igrejas pertencem à família luterana?
-- 38. Qual é o nome, data e origem de seu padrão principal e universalmente aceito de fé?
-- 39. Quais são seus outros livros simbólicos?
-- 40. Qual é a origem, propósito e caráter da Forma de Concordia, e em que estima é mantida?
-- 41. Quais igrejas estão incluídas na família reformada ou calvinista?
-- 42. Que relato é aqui dado da Segunda Confissão Helvética?
-- 43. Que relato é aqui dado do Catecismo de Heidelberg?
-- 44. De quais igrejas é o padrão acreditado?
-- 45. O que é dito aqui sobre os Trinta e Nove Artigos da Igreja da Inglaterra?
-- 46. Por quem, onde, quando e para que propósito foi convocado o Sinédo de Dort?
-- 47. De quais partidos era composto?
-- 48. Em que estima têm sido considerados seus "Cânones" e de quais igrejas são eles o padrão?
-- 49. De quais igrejas a Confissão de Westminster e os Catecismos são o padrão de fé?
-- 50. Até que ponto foram adotados pelos Congregacionalistas da Inglaterra?
-- 51. Em que ocasiões e até que extensão foram adotados pelos Congregacionalistas da Nova Inglaterra?
 
 [^a]: Título adicionado pelo editor.
