@@ -1,12 +1,4 @@
-Monergism
-
-## THE SECOND HELVETIC CONFESSION
-
-HEINRICH BULLINGER
-
-<!-- image -->
-
-## THE SECOND HELVETIC CONFESSION
+# THE SECOND HELVETIC CONFESSION
 
 Chapter I - Of The Holy Scripture Being The True Word of God
 
@@ -813,13 +805,3 @@ THE DUTY OF SUBJECTS. For as God wants to effect the safety of his people by the
 SECTS AND SEDITIONS. We, therefore, condemn all who are contemptuous of the magistrate - rebels, enemies of the state, seditious villains, finally, all who openly or craftily refuse to perform whatever duties they owe.
 
 We beseech God, our most merciful Father in heaven, that he will bless the rulers of the people, and us, and his whole people, through Jesus Christ, our only Lord and Savior; to whom be praise and glory and thanksgiving,for all ages. Amen .
-
------
-
-## MONERGISM BOOKS
-
-The Second Helvetic Confession, by HEINRICH BULLINGER, Copyright © 2020
-
-All rights reserved under International and Pan-American  Copyright Conventions. By payment of the required fees, you have been granted the non-exclusive, non-transferable right to access and read the text of this ebook  on-screen.  No  part  of  this  text  may  be  reproduced,  transmitted, downloaded,  decompiled,  reverse  engineered,  or  stored  in  or  introduced into  any  information  storage  and  retrieval  system,  in  any  form  or  by  any means,  whether  electronic or mechanical,  now  known  or  hereinafter invented, without the express written permission of Monergism Books.
-
-ePub, .mobi &amp; .pdf Editions April 2020 Requests for information should be addressed to: Monergism Books, PO Box 491, West Linn, OR 97068
