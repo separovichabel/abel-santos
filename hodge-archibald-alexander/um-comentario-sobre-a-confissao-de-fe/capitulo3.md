@@ -178,56 +178,55 @@ O princípio da soberania divina na distribuição da graça é certamente revel
 Enquanto o princípio da eleição soberana como fundamento de toda graça é assim claramente revelado, a eleição ou a não-eleição de pessoas específicas não é revelada nas Escrituras. A vontade preceptiva e não a decretiva de Deus é a regra do dever humano. A eleição é primeiro com Deus, e a graça que se segue a ela. Mas com o homem, o dever e a graça são primeiro, e a inferência da eleição pessoal é apenas consequência da posse da graça. O comando para arrepender-se e crer é dirigido a todos os homens indiscriminadamente, e a obrigação recai igualmente sobre todos. A preocupação do inquiridor é simplesmente com o fato de que a graça é oferecida, e assegurada a ele sob condição de aceitação, e com seu dever de aceitá-la e aproveitá-la. Depois disso, é o grande privilégio do crente tornar o fato de seu chamado e eleição eterna certos, ao adicionar à fé a virtude, e à virtude, o conhecimento, etc.; pois, se ele fizer essas coisas, nunca cairá (2 Ped. 1:5-10).
 
 ## QUESTÕES
-
-- 1. Qual é a primeira proposição ensinada nas primeiras e segundas seções?
-- 2. Qual é a segunda proposição ensinada ali?
-- 3. Qual é a terceira?
-- 4. Qual é a quarta?
-- 5. Qual é a quinta?
-- 6. Qual é a sexta?
-- 7. Como pode ser demonstrado que Deus deve ter tido, desde a eternidade, um plano definido em suas obras?
-- 8. Quais devem ter sido as características gerais desse plano?
-- 9. O que se quer dizer quando afirmamos que os decretos de Deus são um propósito?
-- 10. Mostre pela relação na qual todas as coisas se encontram entre si que os propósitos de Deus devem se relacionar a e determinar todos os eventos de toda natureza.
-- 11. Prove o mesmo pelas Escrituras.
-- 12. Que relação o propósito eterno de Deus mantém em relação aos atos pecaminosos dos homens?
-- 13. Qual é a diferença entre um evento ser condicional e o decreto de Deus a respeito dele ser condicional?
-- 14. O que é um decreto incondicional e o que é um decreto condicional?
-- 15. Com referência a que classe de eventos os arminianos argumentam que os decretos de Deus são condicionais?
-- 16. Prove que nenhum dos propósitos de Deus é condicional.
-- 17. O que você quer dizer ao afirmar que todos os decretos de Deus são certamente eficazes?
-- 18. Prove que são assim.
-- 19. Prove que todos os propósitos de Deus devem ser consistentes com suas próprias perfeições.
-- 20. Prove que Deus não pode ser a causa do pecado.
-- 21. Prove que os decretos de Deus não são inconsistentes com a liberdade de agentes livres.
-- 22. Mostre que a certeza de um ato livre não é inconsistente com a liberdade do agente no ato.
-- 23. Qual é a primeira proposição ensinada nas terceira, quarta e quinta seções?
-- 24. Qual é a segunda proposição ensinada ali?
-- 25. Qual é a terceira?
-- 26. Qual é a quarta?
-- 27. Declare respectivamente as doutrinas sociniana, arminiana e calvinista quanto à eleição de indivíduos para a salvação.
-- 28. Mostre pelas Escrituras que Deus escolheu indivíduos, não classes, para a vida eterna.
-- 29. Mostre pelas Escrituras que essa eleição não é condicionada à fé e ao arrependimento previstos da pessoa eleita.
-- 30. Mostre que ela se baseia apenas na boa vontade de Deus.
-- 31. Qual é o fim último de Deus na eleição?
-- 32. Qual é a primeira proposição afirmada na sexta seção?
-- 33. Qual é a segunda proposição?
-- 34. Qual é a terceira?
-- 35. Como você pode provar que Deus propõe uma coisa a fim de alcançar outra coisa?
-- 36. Qual é a relação que o propósito de Deus ao dar Cristo sustenta ao seu propósito de garantir a salvação dos eleitos, segundo esta seção?
-- 37. Declare as duas diferentes visões que foram entretidas sobre este assunto.
-- 38. Como esta questão é afirmada nesta seção, (1) negativamente, (2) positivamente?
-- 39. Mostre que a ordem dos propósitos de Deus apresentada nesta seção é tanto a natural quanto a verdadeira.
-- 40. Qual é a primeira proposição ensinada na sétima seção?
-- 41. Qual é a segunda proposição ensinada ali?
-- 42. Declare o elemento negativo envolvido na reprovação de Deus sobre os ímpios.
-- 43. Declare o elemento positivo envolvido.
-- 44. Mostre que a Confissão e o Catecismo Maior marcam cuidadosamente a distinção.
-- 45. Mostre que esta doutrina é eminentemente justa.
-- 46. Mostre que é verdadeira.
-- 47. O que se ensina na oitava seção?
-- 48. Por que esta doutrina deve ser tratada com cuidado?
-- 49. Quais são os usos práticos dela?
-- 50. Qual é a regra do dever humano?
-- 51. Qual é a grande preocupação do inquiridor religioso?
-- 52. Como deve ser determinado o fato da eleição pessoal de um homem?
+1. Qual é a primeira proposição ensinada nas primeiras e segundas seções?
+2. Qual é a segunda proposição ensinada ali?
+3. Qual é a terceira?
+4. Qual é a quarta?
+5. Qual é a quinta?
+6. Qual é a sexta?
+7. Como pode ser demonstrado que Deus deve ter tido, desde a eternidade, um plano definido em suas obras?
+8. Quais devem ter sido as características gerais desse plano?
+9. O que se quer dizer quando afirmamos que os decretos de Deus são um propósito?
+10. Mostre pela relação na qual todas as coisas se encontram entre si que os propósitos de Deus devem se relacionar a e determinar todos os eventos de toda natureza.
+11. Prove o mesmo pelas Escrituras.
+12. Que relação o propósito eterno de Deus mantém em relação aos atos pecaminosos dos homens?
+13. Qual é a diferença entre um evento ser condicional e o decreto de Deus a respeito dele ser condicional?
+14. O que é um decreto incondicional e o que é um decreto condicional?
+15. Com referência a que classe de eventos os arminianos argumentam que os decretos de Deus são condicionais?
+16. Prove que nenhum dos propósitos de Deus é condicional.
+17. O que você quer dizer ao afirmar que todos os decretos de Deus são certamente eficazes?
+18. Prove que são assim.
+19. Prove que todos os propósitos de Deus devem ser consistentes com suas próprias perfeições.
+20. Prove que Deus não pode ser a causa do pecado.
+21. Prove que os decretos de Deus não são inconsistentes com a liberdade de agentes livres.
+22. Mostre que a certeza de um ato livre não é inconsistente com a liberdade do agente no ato.
+23. Qual é a primeira proposição ensinada nas terceira, quarta e quinta seções?
+24. Qual é a segunda proposição ensinada ali?
+25. Qual é a terceira?
+26. Qual é a quarta?
+27. Declare respectivamente as doutrinas sociniana, arminiana e calvinista quanto à eleição de indivíduos para a salvação.
+28. Mostre pelas Escrituras que Deus escolheu indivíduos, não classes, para a vida eterna.
+29. Mostre pelas Escrituras que essa eleição não é condicionada à fé e ao arrependimento previstos da pessoa eleita.
+30. Mostre que ela se baseia apenas na boa vontade de Deus.
+31. Qual é o fim último de Deus na eleição?
+32. Qual é a primeira proposição afirmada na sexta seção?
+33. Qual é a segunda proposição?
+34. Qual é a terceira?
+35. Como você pode provar que Deus propõe uma coisa a fim de alcançar outra coisa?
+36. Qual é a relação que o propósito de Deus ao dar Cristo sustenta ao seu propósito de garantir a salvação dos eleitos, segundo esta seção?
+37. Declare as duas diferentes visões que foram entretidas sobre este assunto.
+38. Como esta questão é afirmada nesta seção, (1) negativamente, (2) positivamente?
+39. Mostre que a ordem dos propósitos de Deus apresentada nesta seção é tanto a natural quanto a verdadeira.
+40. Qual é a primeira proposição ensinada na sétima seção?
+41. Qual é a segunda proposição ensinada ali?
+42. Declare o elemento negativo envolvido na reprovação de Deus sobre os ímpios.
+43. Declare o elemento positivo envolvido.
+44. Mostre que a Confissão e o Catecismo Maior marcam cuidadosamente a distinção.
+45. Mostre que esta doutrina é eminentemente justa.
+46. Mostre que é verdadeira.
+47. O que se ensina na oitava seção?
+48. Por que esta doutrina deve ser tratada com cuidado?
+49. Quais são os usos práticos dela?
+50. Qual é a regra do dever humano?
+51. Qual é a grande preocupação do inquiridor religioso?
+52. Como deve ser determinado o fato da eleição pessoal de um homem?
