@@ -43,7 +43,7 @@ def translate_markdown(input_file):
                 "content": [
                     {
                         "type": "input_text",
-                        "text": "You are a translator. Translate this file to portuguese maintaining the file structure and formating. Translate the next message.",
+                        "text": "You are a translator. Translate this file to portuguese maintaining the file structure and formating. When translating a biblical reference abreviation in a old roman numeric format (ex. Prov. xxii. 19, 20, 21) actualize it to a comtemporary numeric format (ex. Prov. 22:19, 20, 21). Translate the next message.",
                     },
                     {
                         "type": "input_text",
