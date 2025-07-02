@@ -1,0 +1,29 @@
+site_name: Abel Santos
+site_description: Site de conteudos traduzidos por Abel Santos.
+site_author: Abel S. C. Santos
+site_url: https://www.abelsantos.com.br
+
+theme:
+  name: mkdocs
+  # ou use outro tema como 'material' se quiser um visual moderno
+  # name: material
+
+nav:
+  - Conteúdo: index.md
+  - Termos: TERMOS.md
+
+use_directory_urls: false
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - tables
+  - admonition
+  - codehilite
+  - footnotes
+
+# Diretório com os arquivos markdown
+docs_dir: content
+
+# Diretório onde o site gerado será salvo (padrão: site/)
+site_dir: site
