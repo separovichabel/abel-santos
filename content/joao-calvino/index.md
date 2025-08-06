@@ -1,8 +1,8 @@
 # João Calvino
 (10/07/1509 - 27/05/1564)
 
-## Institutas da Religião Cristã
-- [Institutas da Religião Cristã](as-institutas/index.md)
+<!-- ## Institutas da Religião Cristã
+- [Institutas da Religião Cristã](as-institutas/index.md) -->
 
 ## Salmos
 - [Salmos 134](salmo/134.md)

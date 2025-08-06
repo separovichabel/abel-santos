@@ -10,8 +10,8 @@ Por **Archibald Alexander Hodge** 1823-1886
 | [**Capítulo 1: Das Sagradas Escrituras**](capitulo1.md)                                                     |
 | [**Capítulo 2: De Deus e da Santíssima Trindade**](capitulo2.md)                            |
 | [**Capítulo 3: Do Decreto Eterno de Deus**](capitulo3.md)                                   |
-| Capítulo 4: Da Criação                                                  |
-| Capítulo 5: Da Providência                                              |
+| [**Capítulo 4: Da Criação**](capitulo4.md)                                                  |
+| [**Capítulo 5: Da Providência**](capitulo5.md)                                              |
 | Capítulo 6: Da Queda do Homem, do Pecado e da Punição Dele              |
 | Capítulo 7: Da Aliança de Deus com o Homem                              |
 | Capítulo 8: De Cristo, o Mediador                                       |
