@@ -4,8 +4,6 @@
 ## SEÇÃO I.
 > Embora a luz da natureza e as obras da criação e da providência manifestem tão claramente a bondade, sabedoria e poder de Deus, a ponto de deixar os homens sem desculpa, ainda assim não são suficientes para dar o conhecimento de Deus e de Sua vontade que é necessário para a salvação. Portanto, aprazia ao Senhor, em diferentes tempos e de diversas maneiras, revelar-Se, e declarar Sua vontade à Sua Igreja; e, posteriormente, para preservar e propagar melhor a verdade, e para o estabelecimentos e conforto mais seguros da Igreja contra a corrupção da carne, e a malícia de Satanás e do mundo, confiar o mesmo completamente à escrita: o que torna as Sagradas Escrituras absolutamente necessárias, sendo que aquelas maneiras anteriores de Deus revelar Sua vontade ao Seu povo agora cessaram.
 >
-> Textos de Prova das Escrituras
->
 > Rom. 2:14, 15; Rom. 1:19, 20; Sal. 19:1, 2, 3; Rom. 1:32, com cap. 2:1; 1 Cor. 1:21; 1 Cor. 2:13, 14; Heb. 1:1; Prov. 22:19, 20, 21; Lucas 1:3, 4; Rom. 15:4; Mat. 4:4, 7, 10; Isa. 8:19, 20; 2 Tim. 3:15; 2 Pedro 1:19; Heb. 1:1, 2.
 
 Esta seção afirma as seguintes proposições:
@@ -83,7 +81,6 @@ Para as questões concerning as Sagradas Escrituras como contendo toda essa reve
 ## SEÇÃO III.
 > Os livros comumente chamados de Apócrifos, não sendo de inspiração divina, não fazem parte do cânon das Escrituras, e, portanto, não têm autoridade na Igreja de Deus, nem devem ser aprovados ou utilizados de qualquer outra maneira além de outros escritos humanos.
 >
-> Textos de Prova das Escrituras:
 > Lucas 16:29, 31; Efésios 2:20; Apocalipse 22:18, 19; 2 Tim. 3:16. Lucas 24:27, 44; Rom. 3:2; 2 Pedro 1:21.
 
 Essas seções afirmam as seguintes proposições:
@@ -137,8 +134,6 @@ O fato de que as Escrituras são assim inspiradas é provado porque elas o afirm
 
 ## SEÇÃO V.
 > Podemos ser movidos e induzidos pelo testemunho da Igreja a uma alta e reverente estima das Sagradas Escrituras. E a celestialidade da matéria, a eficácia da doutrina, a majestade do estilo, o consenso de todas as partes, o escopo do todo (que é, dar toda a glória a Deus), a descoberta plena que faz do único caminho da salvação do homem, as muitas outras incomparáveis excelências, e a perfeição total delas, são argumentos pelos quais se evidencia abundantemente que é a Palavra de Deus: no entanto, nossa plena persuasão e certeza da verdade infalível e da autoridade divina delas provém do trabalho interno do Espírito Santo dando testemunho com e pela Palavra em nossos corações.
->
-> Textos de Prova das Escrituras
 >
 > [9] 2 Pedro 1:19, 21; 2 Tim. 3:16; 1 João 5:9; 1 Tess. 2:13. [10] 1 Tim. 3:15; [11] 1 João 2:20, 27; João 16:13, 14; 1 Cor. 2:10, 11, 12; Isa. 59:21.
 

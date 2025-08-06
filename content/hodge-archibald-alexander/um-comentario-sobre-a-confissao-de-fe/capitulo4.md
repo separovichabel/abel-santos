@@ -1,9 +1,9 @@
 # Capítulo 4: Da Criação
 
 ## SEÇÃO 1: 
-> Agradou a Deus o Pai, o Filho e o Espírito Santo, para a manifestação da glória de seu poder eterno, sabedoria e bondade, no princípio, criar ou fazer do nada, o mundo e todas as coisas nele, visíveis ou invisíveis, no espaço de seis dias, e tudo muito bom.
+> Agradou a Deus o Pai, o Filho e o Espírito Santo (1), para a manifestação da glória de seu poder eterno, sabedoria e bondade, (2) no princípio, criar ou fazer do nada, o mundo e todas as coisas nele, visíveis ou invisíveis, no espaço de seis dias, e tudo muito bom (3).
 >
-> - (1) Heb. 1:2; João 1:2,3; Gên. 1:2; Jó 26:13; 33:4. (2) Rom. 1:20; Jer. 10:12; Sal. 104:24; 33:5,6. (3) Gên. 1:1-31; Heb. 11:3; Col. 1:16; Atos 17:24.
+> (1) Heb. 1:2; João 1:2,3; Gên. 1:2; Jó 26:13; 33:4. (2) Rom. 1:20; Jer. 10:12; Sal. 104:24; 33:5,6. (3) Gên. 1:1-31; Heb. 11:3; Col. 1:16; Atos 17:24.
 
 Esta seção ensina que a matéria não é autoexistente; que Deus criou o universo visível ex nihilo (do nada) em seis dias, tudo o qual era muito bom, para a manifestação de Sua própria glória.
 
