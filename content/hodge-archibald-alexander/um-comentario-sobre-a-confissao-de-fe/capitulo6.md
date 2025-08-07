@@ -107,6 +107,7 @@ O que a Confissão ensina sobre a incapacidade pecaminosa do homem de fazer o be
 Essas seções falam da corrupção que permanece nos regenerados e da culpa ou justa responsabilidade pela punição que se atribui a todo pecado, e das punições que Deus inflige sobre ela.
 
 **I.** Do primeiro, é ensinado -
+
 1. O pecado original, ou corrupção moral inata, permanece nos regenerados enquanto viverem.
 2. Que é perdoada pelos méritos de Cristo.
 3. Que é gradualmente trazida para a sujeição e mortificada pela obra do Espírito Santo na santificação.
@@ -115,20 +116,21 @@ Essas seções falam da corrupção que permanece nos regenerados e da culpa ou 
 Todos esses pontos serão tratados mais apropriadamente sob os títulos de Justificação, Conf. Fé, cap. 11.; e de Santificação, Conf. Fé, cap. 13.
 
 **II.** Do segundo, é ensinado -
-1. O pecado original - isto é, as tendências e afeições corruptas da natureza - é realmente uma violação da lei de Deus como transgressão atual.
+
+**(1.)** O pecado original - isto é, as tendências e afeições corruptas da natureza - é realmente uma violação da lei de Deus como transgressão atual.
 
 Os Catecismos. (Cat. Maior, pergunta 24; Cat. Menor, pergunta 14) definem pecado como "qualquer falta de conformidade a, ou transgressão da, lei de Deus."
 
 Isso corresponde exatamente ao que o apóstolo ensina (1 João 3:4): "O pecado é anomia" - qualquer discrepância da criatura ou seus atos com a lei de Deus. Isso é evidente -
 
-- **(1)** Porque, por sua própria essência, a lei moral exige absoluta perfeição de caráter e disposição, assim como de ação. O que é certo é essencialmente obrigatório; o que é errado é essencialmente digno de condenação. Deus exige que sejamos santos assim como atuemos de forma correta. Deus se proclama como "aquele que sonda os rins e os corações." (Ap. 2:23.)
-- **(2)** As tendências corruptas nativas que constituem o pecado original são chamadas de pecado na Escritura. O pecado e suas concupiscências são ditas "reinar" em nossos corpos mortais; o pecado é dito ter "domínio"; os não regenerados são chamados "servidores do pecado." (Rom. 6:12-17; 7:5-17; Gal. 5:17,24; Ef. 4:18,19.)
-- **(3)** Deus condena os homens por suas disposições naturais corruptas, por sua dureza de coração, cegueira espiritual da mente. (Mar. 16:14; Ef. 2:3.)
-- **(4)** Em toda genuína convicção de pecado, o grande fardo de poluição e culpa é sentido como consistindo não no que fizemos, mas no que somos - nossa condição moral permanente, em vez de nossas transgressões atuais. O grande clamor é para ser perdoado e libertado do "coração ímpio de incredulidade", "mortificação em relação a coisas divinas, alienação de Deus como um hábito permanente da alma." "Ó homem miserável que sou! Quem me livrará do corpo desta morte?" (Rom. 7:24; Sal. 51:5,6.)
+- **(A)** Porque, por sua própria essência, a lei moral exige absoluta perfeição de caráter e disposição, assim como de ação. O que é certo é essencialmente obrigatório; o que é errado é essencialmente digno de condenação. Deus exige que sejamos santos assim como atuemos de forma correta. Deus se proclama como "aquele que sonda os rins e os corações." (Ap. 2:23.)
+- **(B)** As tendências corruptas nativas que constituem o pecado original são chamadas de pecado na Escritura. O pecado e suas concupiscências são ditas "reinar" em nossos corpos mortais; o pecado é dito ter "domínio"; os não regenerados são chamados "servidores do pecado." (Rom. 6:12-17; 7:5-17; Gal. 5:17,24; Ef. 4:18,19.)
+- **(C)** Deus condena os homens por suas disposições naturais corruptas, por sua dureza de coração, cegueira espiritual da mente. (Mar. 16:14; Ef. 2:3.)
+- **(D)** Em toda genuína convicção de pecado, o grande fardo de poluição e culpa é sentido como consistindo não no que fizemos, mas no que somos - nossa condição moral permanente, em vez de nossas transgressões atuais. O grande clamor é para ser perdoado e libertado do "coração ímpio de incredulidade", "mortificação em relação a coisas divinas, alienação de Deus como um hábito permanente da alma." "Ó homem miserável que sou! Quem me livrará do corpo desta morte?" (Rom. 7:24; Sal. 51:5,6.)
 
-2. Portanto, segue-se necessariamente que o pecado original, assim como as transgressões atuais, merece a maldição da lei. Tudo que é condenado pela lei está sob sua maldição. Isso é evidente (1) do que aprendemos sobre a justiça de Deus em cap. 2., ss. 1, 2. (2) Do fato de que é o juízo universal dos homens que o pecado é intrinsecamente digno de condenação - que tudo o que não deve ser é digno de condenação. (3) Do fato de que o Espírito Santo, ao convencer os homens de pecado, sempre também os convence de um juízo. (João 16:8.) (4) Os homens são "por natureza filhos da ira." (Ef. 2:3.) (5) Mesmo os bebês são redimidos por Cristo. E em seu caso, assim como em todos os outros, ele os redimiu da maldição da lei, sendo feito uma maldição por eles. (Gal. 3:13.)
+**(2.)** Portanto, segue-se necessariamente que o pecado original, assim como as transgressões atuais, merece a maldição da lei. Tudo que é condenado pela lei está sob sua maldição. Isso é evidente (1) do que aprendemos sobre a justiça de Deus em cap. 2., ss. 1, 2. (2) Do fato de que é o juízo universal dos homens que o pecado é intrinsecamente digno de condenação - que tudo o que não deve ser é digno de condenação. (3) Do fato de que o Espírito Santo, ao convencer os homens de pecado, sempre também os convence de um juízo. (João 16:8.) (4) Os homens são "por natureza filhos da ira." (Ef. 2:3.) (5) Mesmo os bebês são redimidos por Cristo. E em seu caso, assim como em todos os outros, ele os redimiu da maldição da lei, sendo feito uma maldição por eles. (Gal. 3:13.)
 
-3. Consequentemente, o pecador que é culpado de pecados originais e atuais é, a menos que a graça intervenha, feito sujeito à morte, incluindo misérias temporais, espirituais e eternas.
+**(3.)** Consequentemente, o pecador que é culpado de pecados originais e atuais é, a menos que a graça intervenha, feito sujeito à morte, incluindo misérias temporais, espirituais e eternas.
 
 As misérias temporais impostas sobre os homens, na justa desagrada de Deus por seu pecado, são sumariamente apresentadas no Catecismo Maior, pergunta 28, como "a maldição de Deus sobre as criaturas por nossas causas, e todos os outros males que nos acometem em nossos corpos, nomes, propriedades, relações e ocupações; juntamente com a própria morte." Isso, claro, se aplica apenas ao pecador ainda incrédulo e não justificado; pois todas as tribulações que são sofridas pelo crente justificado nesta vida são disciplinações, destinadas ao seu benefício, e expressivas do amor de seu Pai celestial - não males penais, expressivos de sua ira e justiça insatisfeita.
 
