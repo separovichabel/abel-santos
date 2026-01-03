@@ -151,12 +151,13 @@ What the Confession teaches of man's sinful inability to do right, in consequenc
 
 ## SECTION 5
 > THIS corruption of nature, during this life, remain in those that are regenerated;(11) and although it be through Christ pardoned and mortified, yet both itself, and all the motions thereof, are truly and properly sin.(12)
+>
+> - (11) 1 John 1:8,10; Rom. 7:14,17,18,23; James 3:2; Prov. 20:9; Eccl. 7:20.
+> - (12) Rom. 7:5,7,8, 25; Gal. 5:17.
 
 ## SECTION 6
 > EVERY sin, both original and actual. being a transgression of the righteous law of God, and contrary thereunto,(13) doth, in its own nature, bring guilt upon the sinner,(14) whereby he is bound over to the wrath of God,(15) and curse of the law,(16) and so made subject to death,(17) with all miseries spiritual,(18) temporal,(19) and eternal.(20)
 >
-> - (11) 1 John 1:8,10; Rom. 7:14,17,18,23; James 3:2; Prov. 20:9; Eccl. 7:20.
-> - (12) Rom. 7:5,7,8, 25; Gal. 5:17.
 > - (13) 1 John 3:4.
 > - (14) Rom. 2:15; 3:9,19.
 > - (15) Eph. 2:3.

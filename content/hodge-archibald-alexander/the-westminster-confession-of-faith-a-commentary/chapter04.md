@@ -37,7 +37,7 @@ This section, using the precise words of Scripture (Ex. 20:11), declares that Go
 1. The record in Genesis has been given by divine revelation, and therefore is infallibly true.
 2. The book of revelation and the book of nature are both from God, and will be found, when both are adequately interpreted, to coincide perfectly.
 3. The facts upon which the science of geology is based are as yet very imperfectly collected and much more imperfectly understood. The time has not come yet in which a profitable comparison and adjustment of the two records can be attempted.
-4. The record in Genesis, brief and general as it is, was designed and is [sufficient to teach] that God created all things, and that man was the last and crowning work of his hands.
+4. The record in Genesis, brief and general as it is, was designed and is admirably adapted to lay the foundation of an intelligent faith in Jehovah as the absolute creator and the immediate former and providential ruler of all things. But it was not designed either to prevent or to take the place of a scientific interpretation of all existing phenomena, and of all traces of the past history of the world which God allows men to discover. Apparent discrepancies in established truths can have their ground only in imperfect knowledge. God requires us both to believe and to learn. He imposes upon us at present the necessity of humility and patience.
 
 ### 3.
 God himself pronounced all the works of his hands, when completed, very good (Gen. 1:31).

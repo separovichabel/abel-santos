@@ -13,21 +13,13 @@
 
 Since the eternal and immutable purpose of God has certainly predetermined whatsoever comes to pass, it follows that he must execute his own purpose not only in his works of creation, but likewise in his continual control of all his creatures and all their actions. This section therefore teaches:
 
-### 1.
-That God having created the substances of which all things are composed out of nothing, having endued these substances with their respective properties and powers, and having out of them formed all things organic and inorganic, and endowed them severally with their respective properties and faculties, he continues to sustain them in being and in the possession and exercise of those properties during the entire period of their existence.
+1. That God having created the substances of which all things are composed out of nothing, having endued these substances with their respective properties and powers, and having out of them formed all things organic and inorganic, and endowed them severally with their respective properties and faculties, he continues to sustain them in being and in the possession and exercise of those properties during the entire period of their existence.
+2. That God directs all the actions of his creatures according to their respective properties and relations.
+3. That his providential control extends to all his creatures and all their actions of every kind.
+4. That his providential control is in all respects the consistent execution of his eternal, immutable, and sovereign purpose.
+5. That the final end of his providence is the manifestation of his own glory.
 
-### 2.
-That God directs all the actions of his creatures according to their respective properties and relations.
-
-### 3.
-That his providential control extends to all his creatures and all their actions of every kind.
-
-### 4.
-That his providential control is in all respects the consistent execution of his eternal, immutable, and sovereign purpose.
-
-### 5.
-That the final end of his providence is the manifestation of his own glory.
-
+### 1
 With regard to the question how God is concerned in upholding and preserving the things he has made, three different classes of opinion have prevailed:
 
 1. Deists and Rationalists generally regard God as sustaining no other relation to his works than that of the first of a series of causes and effects. He is supposed to touch the creation only at its commencement, and having given to things a permanent independent being exterior to himself, he leaves them to the unmodified exercise of their own faculties.
@@ -46,6 +38,7 @@ That God always continues to exert his almighty power in upholding in being and 
 3. A sense of absolute dependence for continued being, power, and blessedness, is involved in the religious consciousness of all men.
 4. It is explicitly taught in Scripture: "By him all things consist" (Col. 1:17). "He upholdeth all things by the word of his power" (Heb. 1:3). "In him we live and move and have our being." (Acts 17:28). "O bless our God...which holdeth our soul in life" (Ps. 66:8,9; 63:8; 36:6).
 
+### 2 and 3
 That God governs the actions of his creatures; and-
 That his government extends to all his creatures and all their actions, is proved-
 
@@ -65,11 +58,14 @@ That his government extends to all his creatures and all their actions, is prove
     - **g.** Over the sinful actions of men (2 Sam. 16:10; Ps. 76:10; Acts 4:27,28).
     - **h.** Especially all that is good in man, in principle or action, is attributed to God's constant gracious control (Phil. 2:13; 4:13; 2 Cor. 12:9,10; Eph. 2:10; Ps. 119:36; Gal. 5:22,25).
 
+### 4
 That the providential control of all things by God is the consistent execution in time of his eternal and immutable purpose is evident-
 
 1. From the statement of the case. Since God's eternal purpose relates to and determines all that comes to pass, and since it is immutable, his providential control of all things must be in execution of his purpose. And since his purpose is infinitely wise, righteous, and benevolent, and absolutely sovereign (as shown above), his providential execution of the decree must possess the same characteristics.
 2. The same is explicitly declared in Scripture: "He worketh all things after the counsel of his own will." (Eph. 1:11; Isa. 28:29; Acts 15:18.)
 
+
+### 5
 It is evident that the chief design of God in his eternal purpose and in his works of creation must also be his chief end in all his providential dispensations. This has been shown above to be the manifestation of his own glory. It is also directly asserted as the final end of his providence. (Rom. 9:17; 11:36.)
 
 ## SECTION 2
@@ -139,21 +135,23 @@ The providence of God, instead of causing sin or approving it, is constantly con
 
 ## SECTION 5
 > THE most wise, righteous, and gracious God, oftentimes leaves for a season his own children to manifold temptations, and the corruption of their own hearts, to chastise them for their former sins, or to make known them the hidden strength of corruption, and deceitfulness of their hearts, that they may be humbled;(19) and to raise them to a more close and constant dependence for their support upon himself, and to make them more watchful against all future occasions of sin, and for various other just and holy ends.(20)
-
-## SECTION 6
-> AS for those wicked and ungodly men, whom God, as a righteous judge, for former sins, blinds and hardens,(21) from them he not only withholds his grace, whereby they might have been enlightened in their understandings and wrought upon in their hearts;(22) but sometimes also withdraws the gifts which they had,(23) and exposes them to such objects as their corruption makes occasion of sin;(24) and withal, gives them over to their own lusts, the temptations of the world, and the power of Satan:(25) whereby it comes to pass, that they harden themselves, even under those means which God uses for the softening of others.(26)
-
-## SECTION 7
-> AS the providence of God does, in general, reach to all creatures; so, after a most special manner, it takes care of his Church, and disposes all things to the good thereof.(27)
 >
 > - (19) 2 Chron. 32:25,26,31; 2 Sam. 24:1.
 > - (20) 2 Cor. 12:7-9; Ps. 73; 77:1,10,12; Mark 14:66, to end; John 21:15-17.
+
+## SECTION 6
+> AS for those wicked and ungodly men, whom God, as a righteous judge, for former sins, blinds and hardens,(21) from them he not only withholds his grace, whereby they might have been enlightened in their understandings and wrought upon in their hearts;(22) but sometimes also withdraws the gifts which they had,(23) and exposes them to such objects as their corruption makes occasion of sin;(24) and withal, gives them over to their own lusts, the temptations of the world, and the power of Satan:(25) whereby it comes to pass, that they harden themselves, even under those means which God uses for the softening of others.(26)
+>
 > - (21) Rom. 1:24,26,28; 11:7,8.
 > - (22) Deut. 29:4.
 > - (23) Matt. 13:12; 25:29.
 > - (24) Deut. 2:30; 2 Kings 8:12,13.
 > - (25) Ps. 81:11,12; 2 Thess. 2:10-12.
 > - (26) Ex. 7:3; 8:15,32; 2 Cor. 2:15,16; Isa. 8:14; 1 Pet. 2:7,8; Isa. 6:9,10; Acts 28:26,27.
+
+## SECTION 7
+> AS the providence of God does, in general, reach to all creatures; so, after a most special manner, it takes care of his Church, and disposes all things to the good thereof.(27)
+>
 > - (27) 1 Tim. 4:10; Amos 9:8,9; Rom. 8:28; Isa. 43:3-5,14.
 
 We have seen that the providential government of God, as the execution through time of his eternal and immutable purpose, forms one connected system, and comprehends all created things and all their actions. In perfect consistency with this, these sections proceed to teach:
@@ -228,6 +226,3 @@ And hence it comes to pass that the truths of the gospel and the ordinances of t
 43. What is the fourth?
 44. What is the fifth?
 
--------------
-
-- [1] "Reign of Law," by Duke of Argyle, chapter ii.
