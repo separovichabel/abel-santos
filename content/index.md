@@ -11,7 +11,7 @@ Meu nome é Abel Santos, e esse site é o meu catalog de conteudos traduzidos.
 ### Ingles
 - [The Baptist Confession of Faith of 1689](assembleia-batista/LondonBaptistConfession.md)
 - [THE SECOND HELVETIC CONFESSION](heinrich-bullinger/second-helvetic-confession.md)
-- [The Westminster Confession of Faith: A Commentary](hodge-archibald-alexander/um-comentario-sobre-a-confissao-de-fe/original.md)
+- [ Commentary on The Confession of Faith - A. A. Hodge](hodge-archibald-alexander/the-westminster-confession-of-faith-a-commentary/index.md)
 
 ## licença
 Consulte nossa pagina [Licença](LICENÇA.md).
