@@ -9,8 +9,6 @@ Finally, this edition is enriched by appendices dealing with vital issues for Pr
 # Summary
 - [Intro 1 - A Short History of the Creeds and Confessions](intro1.md)
 - [Intro 2 - Some Account of the Origin of the Westminster Confession and Catechisms](intro2.md)
-
-**Commentaries**
 - [Chapter 01 - Of the Holy Scripture](chapter01.md)
 - [Chapter 02 - Of God and the Holy Trinity](chapter02.md)
 - [Chapter 03 - Of God's Eternal Decree](chapter03.md)
@@ -44,8 +42,6 @@ Finally, this edition is enriched by appendices dealing with vital issues for Pr
 - [Chapter 31 - Of Synods and Councils](chapter31.md)
 - [Chapter 32 - Of the State of Men after Death, and of the Resurrection of the Dead](chapter32.md)
 - [Chapter 33 - Of the Last Judgment](chapter33.md)
-
-**Appendices**
 - [Appendix 1 - The Meaning of 'System of Doctrine': Old School vs. New School](appendix1.md)
 - [Appendix 2 - The Auburn Declaration and The Declaratory Act](appendix2.md)
 - [Appendix 3 - What is Presbyterianism? by Charles Hodge](appendix3.md)
