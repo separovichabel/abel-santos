@@ -17,6 +17,7 @@ Para mais detalhes, consulte:
 
 ---
 
+
 ### **Exemplo de crédito**  
 Quando citar ou distribuir esta tradução, inclua o seguinte crédito:  
 > Tradução de Abel S. C. Santos, disponível em [abelsantos.com.br](https://abelsantos.com.br). Licenciado sob **CC BY-NC-SA 4.0**.
