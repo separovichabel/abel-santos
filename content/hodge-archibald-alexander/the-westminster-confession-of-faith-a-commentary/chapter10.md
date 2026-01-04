@@ -153,4 +153,4 @@ This section, taken in connection with the parallel passage in L. Cat., q. 60, t
 30. Prove that they will infallibly do so.
 31. Prove that the honest and diligent profession of natural religion or of any other than the Christian religion cannot avail to save men.
 32. Prove that in the case of all intelligent adults a knowledge and voluntary acceptance of Christ is essential to salvation.
-- [1] The scriptural word is "predestination." See this interpretation confirmed and historically illustrated, "The Westminster Assembly," Dr. A. F. Mitchell, pp. 398-399.
+[^1] The scriptural word is "predestination." See this interpretation confirmed and historically illustrated, "The Westminster Assembly," Dr. A. F. Mitchell, pp. 398-399.

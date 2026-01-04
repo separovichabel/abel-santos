@@ -124,5 +124,3 @@ When the matter of the vow is not unlawful, but morally indifferent, the vow is 
 24. When does a vow fail, and when does it cease to bind?
 25. What is the lesson experience teaches as to the wisdom of multiplying vows?
 26. Show, that as a general thing, our vows should relate to things indifferent, or to duties antecedently binding; i.e., to matters imposed upon us by the will of God, and not by our own will.
-
------
