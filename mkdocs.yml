@@ -4,13 +4,44 @@ site_author: Abel S. C. Santos
 site_url: https://www.abelsantos.com.br
 
 theme:
-  name: mkdocs
-  # ou use outro tema como 'material' se quiser um visual moderno
-  # name: material
+  name: material
+  language: pt-BR
+  logo: icon-sm.png
+  favicon: icon-sm.png
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+  palette:
+    scheme: default
+    primary: indigo
+    accent: indigo
 
-nav:
-  - Conteúdo: index.md
-  - Termos: TERMOS.md
+plugins:
+  - search
+  - i18n:
+      docs_structure: folder
+      languages:
+        - locale: pt
+          default: true
+          name: Português
+          build: true
+        - locale: en
+          name: English
+          build: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/abel-santos
+  alternate:
+    - name: Português
+      link: ./
+      lang: pt
+    - name: English
+      link: en/
+      lang: en
 
 use_directory_urls: false
 
@@ -21,6 +52,14 @@ markdown_extensions:
   - admonition
   - codehilite
   - footnotes
+  - pymdownx.superfences
+  - pymdownx.details
+  - attr_list
+  - md_in_html
+
+nav:
+  - Conteúdo: index.md
+  - Termos: TERMOS.md
 
 # Diretório com os arquivos markdown
 docs_dir: content
