@@ -13,14 +13,14 @@ Por **Archibald Alexander Hodge** 1823-1886
 | [**Capítulo 4: Da Criação**](capitulo4.md)                                                  |
 | [**Capítulo 5: Da Providência**](capitulo5.md)                                              |
 | [**Capítulo 6: Da Queda do Homem, do Pecado e da Punição Dele**](capitulo6.md)              |
-| Capítulo 7: Da Aliança de Deus com o Homem                              |
-| Capítulo 8: De Cristo, o Mediador                                       |
-| Capítulo 9: Do Livre-Arbítrio                                           |
-| Capítulo 10: Da Vocação Eficaz                                          |
-| Capítulo 11: Da Justificação                                            |
-| Capítulo 12: Da Adoção                                                  |
-| Capítulo 13: Da Santificação                                            |
-| Capítulo 14: Da Fé Salvadora                                            |
+| [**Capítulo 7: Da Aliança de Deus com o Homem**](capitulo7.md)                              |
+| [**Capítulo 8: De Cristo, o Mediador**](capitulo8.md)                                       |
+| [**Capítulo 9: Do Livre-Arbítrio**](capitulo9.md)                                           |
+| [**Capítulo 10: Da Vocação Eficaz**](capitulo10.md)                                          |
+| [**Capítulo 11: Da Justificação**](capitulo11.md)                                            |
+| [**Capítulo 12: Da Adoção**](capitulo12.md)                                                  |
+| [**Capítulo 13: Da Santificação**](capitulo13.md)                                            |
+| [**Capítulo 14: Da Fé Salvadora**](capitulo14.md)                                            |
 | Capítulo 15: Do Arrependimento para a Vida                              |
 | Capítulo 16: Das Boas Obras                                             |
 | Capítulo 17: Da Perseverança dos Santos                                 |
@@ -32,7 +32,7 @@ Por **Archibald Alexander Hodge** 1823-1886
 | Capítulo 23: Do Magistrado Civil                                        |
 | [**Capítulo 24: Do Casamento e do Divórcio**](capitulo24.md)            |
 | Capítulo 25: Da Igreja                                                  |
-| Capítulo 26: Da Comunhão dos Santos                                     |
+| [**Capítulo 26: Da Comunhão dos Santos**](capitulo26.md)                                     |
 | Capítulo 27: Dos Sacramentos                                            |
 | Capítulo 28: Do Batismo                                                 |
 | Capítulo 29: Da Ceia do Senhor                                          |
