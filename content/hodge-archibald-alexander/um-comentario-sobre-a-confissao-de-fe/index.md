@@ -21,25 +21,25 @@ Por **Archibald Alexander Hodge** 1823-1886
 | [**Capítulo 12: Da Adoção**](capitulo12.md)                                                  |
 | [**Capítulo 13: Da Santificação**](capitulo13.md)                                            |
 | [**Capítulo 14: Da Fé Salvadora**](capitulo14.md)                                            |
-| Capítulo 15: Do Arrependimento para a Vida                              |
-| Capítulo 16: Das Boas Obras                                             |
-| Capítulo 17: Da Perseverança dos Santos                                 |
-| Capítulo 18: Da Certeza da Graça e da Salvação                          |
-| Capítulo 19: Da Lei de Deus                                             |
-| Capítulo 20: Da Liberdade Cristã e da Liberdade de Consciência          |
-| Capítulo 21: Do Culto Religioso e do Dia do Senhor                      |
-| Capítulo 22: Dos Juramentos e Votos Lícitos                             |
-| Capítulo 23: Do Magistrado Civil                                        |
+| [**Capítulo 15: Do Arrependimento para a Vida**](capitulo15.md)                              |
+| [**Capítulo 16: Das Boas Obras**](capitulo16.md)                                             |
+| [**Capítulo 17: Da Perseverança dos Santos**](capitulo17.md)                                 |
+| [**Capítulo 18: Da Certeza da Graça e da Salvação**](capitulo18.md)                          |
+| [**Capítulo 19: Da Lei de Deus**](capitulo19.md)                                             |
+| [**Capítulo 20: Da Liberdade Cristã e da Liberdade de Consciência**](capitulo20.md)          |
+| [**Capítulo 21: Do Culto Religioso e do Dia do Senhor**](capitulo21.md)                      |
+| [**Capítulo 22: Dos Juramentos e Votos Lícitos**](capitulo22.md)                             |
+| [**Capítulo 23: Do Magistrado Civil**](capitulo23.md)                                        |
 | [**Capítulo 24: Do Casamento e do Divórcio**](capitulo24.md)            |
-| Capítulo 25: Da Igreja                                                  |
+| [**Capítulo 25: Da Igreja**](capitulo25.md)                                                  |
 | [**Capítulo 26: Da Comunhão dos Santos**](capitulo26.md)                                     |
-| Capítulo 27: Dos Sacramentos                                            |
-| Capítulo 28: Do Batismo                                                 |
-| Capítulo 29: Da Ceia do Senhor                                          |
-| Capítulo 30: Das Censuras da Igreja                                     |
-| Capítulo 31: Dos Sínodos e Concílios                                    |
-| Capítulo 32: Do Estado dos Homens após a Morte, e da Ressurreição dos Mortos |
-| Capítulo 33: Do Juízo Final                                             |
+| [**Capítulo 27: Dos Sacramentos**](capitulo27.md)                                            |
+| [**Capítulo 28: Do Batismo**](capitulo28.md)                                                 |
+| [**Capítulo 29: Da Ceia do Senhor**](capitulo29.md)                                          |
+| [**Capítulo 30: Das Censuras da Igreja**](capitulo30.md)                                     |
+| [**Capítulo 31: Dos Sínodos e Concílios**](capitulo31.md)                                    |
+| [**Capítulo 32: Do Estado dos Homens após a Morte, e da Ressurreição dos Mortos**](capitulo32.md) |
+| [**Capítulo 33: Do Juízo Final**](capitulo33.md)                                             |
 | Apêndice 1: O Significado de “Sistema de Doutrina”: Escola Antiga vs. Escola Nova |
 | Apêndice 2: A Declaração de Auburn e o Ato Declaratório                 |
 | Apêndice 3: O Que É o Presbiterianismo? por Charles Hodge               |
