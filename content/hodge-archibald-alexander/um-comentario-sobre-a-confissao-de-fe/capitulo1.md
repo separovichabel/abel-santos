@@ -1,4 +1,4 @@
-# Capítulo 1: Da Criação
+# Capítulo 1: Das Sagradas Escrituras
 
 ## SEÇÃO 1
 > Ainda que a luz da natureza e as obras da criação e da providência manifestem de tal modo a bondade, a sabedoria e o poder de Deus, que tornam os homens inescusáveis, todavia não são suficientes para dar aquele conhecimento de Deus e da sua vontade, que é necessário para a salvação. Por isso, aprouve ao Senhor, em diversos tempos e de diferentes modos, revelar-se e declarar à sua Igreja aquela sua vontade; e depois, para melhor preservação e propagação da verdade, e para o estabelecimento e conforto mais seguro da Igreja contra a corrupção da carne e a malícia de Satanás e do mundo, foi igualmente servido fazê-la escrever toda. Isto torna a Escritura Sagrada indispensável, tendo cessado aqueles antigos modos de Deus revelar a sua vontade ao seu povo.
