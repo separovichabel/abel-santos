@@ -32,9 +32,10 @@ plugins:
           build: true
 
 extra:
+  generator: false
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/abel-santos
+      link: https://github.com/separovichabel/abel-santos
   alternate:
     - name: Português
       link: ./
