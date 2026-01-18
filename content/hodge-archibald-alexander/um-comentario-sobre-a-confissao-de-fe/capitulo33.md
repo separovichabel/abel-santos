@@ -3,15 +3,15 @@
 ## SEÇÃO 1:
 > Deus designou um dia em que há de julgar o mundo com justiça, por meio de Jesus Cristo (1), a quem todo o poder e juízo foram dados pelo Pai (2). Nesse dia, não apenas os anjos apóstatas serão julgados (3), mas também todas as pessoas que viveram sobre a terra comparecerão diante do tribunal de Cristo, para prestar contas de seus pensamentos, palavras e obras; e para receber segundo o que tiverem feito por meio do corpo, seja o bem ou o mal (4).
 >
-> - (1) Atos 17:31
-> - (2) João 5:22, 27
-> - (3) Judas 1:6; 2Pe 2:4
-> - (4) 2Co 5:10; Ec 12:14; Rm 2:16; 14:10, 12; Mt 12:36-37
+> (1) Atos 17:31
+> (2) João 5:22, 27
+> (3) Judas 1:6; 2Pe 2:4
+> (4) 2Co 5:10; Ec 12:14; Rm 2:16; 14:10, 12; Mt 12:36-37
 
 ## SEÇÃO 2:
 > O fim da designação deste dia por Deus é para a manifestação da glória de sua misericórdia, na salvação eterna dos eleitos; e de sua justiça, na condenação dos réprobos, que são ímpios e desobedientes. Pois então os justos entrarão na vida eterna e receberão aquela plenitude de gozo e refrigério que virá da presença do Senhor; mas os ímpios, que não conhecem a Deus e não obedecem ao evangelho de Jesus Cristo, serão lançados nos tormentos eternos e punidos com a destruição perpétua, banidos da presença do Senhor e da glória do seu poder (5).
 >
-> - (5) Mt 25:21, 31-46; Rm 2:5-6; 9:22-23; Atos 3:19; 2Tess 1:7-10; Mc 9:48
+> (5) Mt 25:21, 31-46; Rm 2:5-6; 9:22-23; Atos 3:19; 2Tess 1:7-10; Mc 9:48
 
 Estas seções ensinam:
 
@@ -60,8 +60,8 @@ Toda a Igreja Cristã — grega e romana, luterana e reformada — concordou em 
 ## SEÇÃO 3:
 > Assim como Cristo quer que estejamos firmemente convencidos de que haverá um dia de juízo, tanto para dissuadir todos os homens do pecado, quanto para a maior consolação dos piedosos em sua adversidade (6): assim também quer ele que esse dia seja desconhecido dos homens, para que possam sacudir toda a segurança carnal e estar sempre vigilantes, porque não sabem a que hora virá o Senhor; e possam estar sempre preparados para dizer: Vem, Senhor Jesus, vem depressa. Amém (7).
 >
-> - (6) 2Pe 3:11, 14; 2Co 5:10-11; 2Tess 1:5-7; Lc 21:27-28; Rm 8:22-25
-> - (7) Mt 24:36, 42-44; Mc 13:35-37; Lc 12:35-36; Ap 22:20
+> (6) 2Pe 3:11, 14; 2Co 5:10-11; 2Tess 1:5-7; Lc 21:27-28; Rm 8:22-25
+> (7) Mt 24:36, 42-44; Mc 13:35-37; Lc 12:35-36; Ap 22:20
 
 Esta seção ensina:
 

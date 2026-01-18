@@ -3,21 +3,21 @@
 ## SEÇÃO 1
 > Todos os santos que estão unidos a Jesus Cristo, sua Cabeça, pelo seu Espírito e pela fé, têm comunhão com ele em suas graças, sofrimentos, morte, ressurreição e glória (1); e, estando unidos uns aos outros em amor, têm comunhão nos dons e graças uns dos outros (2), e são obrigados à prática de tais deveres, públicos e privados, que conduzam ao seu bem mútuo, tanto no homem interior quanto no exterior (3).
 >
-> - (1) 1 Jo 1:3; Ef 2:5-6; 3:16-18; Jo 1:16; Fp 3:10; Rm 6:5-6; 8:17; 2 Tm 2:12
-> - (2) Ef 4:15-16; 1 Co 3:21-23; 12:7, 12; Cl 2:19
-> - (3) 1 Ts 5:11, 14; Rm 1:11-12, 14; 1 Jo 3:16-18; Gl 6:10
+> (1) 1 Jo 1:3; Ef 2:5-6; 3:16-18; Jo 1:16; Fp 3:10; Rm 6:5-6; 8:17; 2 Tm 2:12
+> (2) Ef 4:15-16; 1 Co 3:21-23; 12:7, 12; Cl 2:19
+> (3) 1 Ts 5:11, 14; Rm 1:11-12, 14; 1 Jo 3:16-18; Gl 6:10
 
 ## SEÇÃO 2
 > Os santos por profissão são obrigados a manter uma santa sociedade e comunhão no culto de Deus e na realização de outros serviços espirituais que tendam à sua edificação mútua (4); bem como no socorro mútuo em coisas externas, de acordo com suas respectivas habilidades e necessidades. Tal comunhão, conforme Deus oferecer oportunidade, deve ser estendida a todos aqueles que, em todos os lugares, invocam o nome do Senhor Jesus (5).
 >
-> - (4) Hb 10:24-25; At 2:42, 46; Is 2:3; 1 Co 11:20
-> - (5) 1 Jo 3:17; 2 Co caps. 8-9; At 2:44-45; 11:29-30
+> (4) Hb 10:24-25; At 2:42, 46; Is 2:3; 1 Co 11:20
+> (5) 1 Jo 3:17; 2 Co caps. 8-9; At 2:44-45; 11:29-30
 
 ## SEÇÃO 3
 > Esta comunhão que os santos têm com Cristo não os torna, de modo algum, participantes da substância de sua Divindade, nem iguais a Cristo em qualquer aspecto; afirmar qualquer uma dessas coisas é ímpio e blasfemo (6). Nem a comunhão de uns com os outros, como santos, retira ou infringe o título ou propriedade que cada homem tem em seus bens e posses (7).
 >
-> - (6) Cl 1:18-19; 1 Co 8:6; Sl 45:6-7; Hb 1:6-9; Jo 1:14; 20:17
-> - (7) Êx 20:15; Ef 4:28; At 5:4
+> (6) Cl 1:18-19; 1 Co 8:6; Sl 45:6-7; Hb 1:6-9; Jo 1:14; 20:17
+> (7) Êx 20:15; Ef 4:28; At 5:4
 
 COMUNHÃO é um intercâmbio mútuo de ofícios entre as partes, que flui de um princípio comum no qual estão unidas. A natureza e o grau da comunhão dependerão da natureza e da intimidade da união da qual ela procede.
 

@@ -3,14 +3,14 @@
 ## SEÇÃO 1
 > Deus, o supremo Senhor e Rei de todo o mundo, ordenou os magistrados civis para estarem, sob ele, sobre o povo, para a sua própria glória e para o bem público; e, para este fim, armou-os com o poder da espada, para a defesa e incentivo daqueles que são bons, e para o castigo dos malfeitores.(1)
 >
-> - (1) Rom. 13:1-4; 1 Ped. 2:13-14
+> (1) Rom. 13:1-4; 1 Ped. 2:13-14
 
 ## SEÇÃO 2
 > É lícito aos cristãos aceitar e exercer o ofício de magistrado, quando para tal forem chamados:(2) em cuja administração, como devem especialmente manter a piedade, a justiça e a paz, de acordo com as leis saudáveis de cada Estado;(3) assim, para esse fim, podem eles licitamente, agora sob o Novo Testamento, fazer guerra, em ocasiões justas e necessárias.(4)
 >
-> - (2) Gên. 41:39-43; Nee. 12:26; 13:15-31; Dan. 2:48-49; Prov. 8:15-16; Rom. 13:1-4
-> - (3) Sal. 2:10-12; 82:3-4; 1 Tim. 2:2; 2 Sam. 23:3; 1 Ped. 2:13
-> - (4) Luc. 3:14; Rom. 13:4; Mat. 8:9-10; Atos 10:1-2
+> (2) Gên. 41:39-43; Nee. 12:26; 13:15-31; Dan. 2:48-49; Prov. 8:15-16; Rom. 13:1-4
+> (3) Sal. 2:10-12; 82:3-4; 1 Tim. 2:2; 2 Sam. 23:3; 1 Ped. 2:13
+> (4) Luc. 3:14; Rom. 13:4; Mat. 8:9-10; Atos 10:1-2
 
 ESTAS seções ensinam o seguinte: --
 
@@ -44,22 +44,22 @@ Magistrados cristãos podem licitamente, sob o Novo Testamento, fazer guerra em 
 ## SEÇÃO 3
 > Os magistrados civis não podem assumir para si a administração da Palavra e dos sacramentos, ou o poder das chaves do reino do céu;(5) nem, minimamente, interferir em questões de fé.(6) Contudo, como pais nutrícios, é dever dos magistrados civis proteger a igreja de nosso Senhor comum, sem dar preferência a qualquer denominação de cristãos sobre as demais, de tal maneira que todas as pessoas eclesiásticas, quaisquer que sejam, gozem de plena, livre e inquestionável liberdade de desempenhar cada parte de suas funções sagradas, sem violência ou perigo.(7) E, como Jesus Cristo designou um governo regular e disciplina em sua igreja, nenhuma lei de qualquer Estado deve interferir, impedir ou dificultar o devido exercício disso, entre os membros voluntários de qualquer denominação de cristãos, de acordo com sua própria profissão e crença.(8) É dever dos magistrados civis proteger a pessoa e o bom nome de todo o seu povo, de maneira tão eficaz que a nenhuma pessoa seja permitido, sob pretexto de religião ou de incredulidade, oferecer qualquer indignidade, violência, abuso ou injúria a qualquer outra pessoa; e providenciar para que todas as assembleias religiosas e eclesiásticas sejam realizadas sem perturbação ou distúrbio.(9)
 >
-> - (5) 2 Crôn. 26:18; Mat. 16:19; 18:17; 1 Cor. 4:1, 12; 12:28-29; Ef. 4:11-12; Rom. 10:15; Heb. 5:4
-> - (6) João 18:36; Atos 5:29; Ef. 4:11-12
-> - (7) Isa. 49:23; Rom. 13:1-6
-> - (8) Sal. 105:15
-> - (9) Rom. 13:4; 1 Tim. 2:2
+> (5) 2 Crôn. 26:18; Mat. 16:19; 18:17; 1 Cor. 4:1, 12; 12:28-29; Ef. 4:11-12; Rom. 10:15; Heb. 5:4
+> (6) João 18:36; Atos 5:29; Ef. 4:11-12
+> (7) Isa. 49:23; Rom. 13:1-6
+> (8) Sal. 105:15
+> (9) Rom. 13:4; 1 Tim. 2:2
 
 ## SEÇÃO 4
 > É dever do povo orar pelos magistrados (10), honrar suas pessoas,(11) pagar-lhes tributos ou outros impostos,(12) obedecer aos seus mandamentos legais e sujeitar-se à sua autoridade por causa da consciência.(13) A incredulidade ou a diferença de religião não anula a autoridade justa e legal do magistrado, nem isenta o povo da devida obediência a ele:(14) da qual as pessoas eclesiásticas não estão isentas,(15) muito menos tem o papa qualquer poder e jurisdição sobre eles em seus domínios, ou sobre qualquer de seu povo; e, menos ainda, para privá-los de seus domínios ou vidas, se ele os julgar hereges, ou sob qualquer outro pretexto.(16)
 >
-> - (10) 1 Tim. 2:1-3
-> - (11) 1 Ped. 2:17
-> - (12) Mat. 22:21; Rom. 13:6-7
-> - (13) Rom. 13:5; Tito 3:1
-> - (14) 1 Ped. 2:13-16
-> - (15) Rom. 13:1; Atos 25:9-11; 2 Ped. 2:1, 10-11; Judas 1:8-11
-> - (16) Mar. 10:42-44; Mat. 23:8-12; 2 Tim. 2:24; 1 Ped. 5:3
+> (10) 1 Tim. 2:1-3
+> (11) 1 Ped. 2:17
+> (12) Mat. 22:21; Rom. 13:6-7
+> (13) Rom. 13:5; Tito 3:1
+> (14) 1 Ped. 2:13-16
+> (15) Rom. 13:1; Atos 25:9-11; 2 Ped. 2:1, 10-11; Judas 1:8-11
+> (16) Mar. 10:42-44; Mat. 23:8-12; 2 Tim. 2:24; 1 Ped. 5:3
 
 Estas seções ensinam que a Igreja e o Estado são ambos instituições divinas, tendo diferentes objetos e esferas de ação, diferentes governos e oficiais e, portanto, embora devendo bons ofícios mútuos, são independentes um do outro. Isso se opõe --
 

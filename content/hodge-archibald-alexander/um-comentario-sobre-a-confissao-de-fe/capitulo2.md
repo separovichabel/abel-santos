@@ -3,47 +3,47 @@
 ## SEÇÃO 1
 > Há um só,(1) vivo e verdadeiro Deus,(2) o qual é infinito em seu ser e perfeição,(3) um espírito puríssimo,(4) invisível,(5) sem corpo, partes,(6) ou paixões;(7) imutável,(8) imenso,(9) eterno,(10) incompreensível,(11) onipotente,(12) sapientíssimo,(13) santíssimo,(14) livre(15) e absoluto;(16) que tudo faz segundo o conselho da sua própria vontade, imutável e mui justa,(17) para a sua própria glória;(18) amantíssimo,(19) gracioso, misericordioso, longânimo, abundante em bondade e verdade, perdoando a iniquidade, a transgressão e o pecado;(20) o galardoador dos que o buscam diligentemente;(21) e contudo, mui justo e terrível em seus juízos,(22) odiando todo o pecado(23) e que de modo algum terá por inocente o culpado.(24)
 >
-> - (1) Dt 6:4; 1 Cor 8:4,6
-> - (2) 1 Tess 1:9; Jer 10:10
-> - (3) Jó 11:7-9; Jó 26:14
-> - (4) Jo 4:24
-> - (5) 1 Tim 1:17
-> - (6) Dt 4:15-16; Jo 4:24, com Lc 24:39
-> - (7) At 14:11,15
-> - (8) Tg 1:17; Ml 3:6
-> - (9) 1 Reis 8:27; Jer 23:23-24
-> - (10) Sl 90:2; 1 Tim 1:17
-> - (11) Sl 145:3
-> - (12) Gn 17:1; Ap 4:8
-> - (13) Rm 16:27
-> - (14) Is 6:3; Ap 4:8
-> - (15) Sl 115:3
-> - (16) Êx 3:14
-> - (17) Ef 1:11
-> - (18) Pv 16:4; Rm 11:36
-> - (19) 1 Jo 4:8,16
-> - (20) Êx 34:6-7
-> - (21) Hb 11:6
-> - (22) Ne 9:32-33
-> - (23) Sl 5:5-6
-> - (24) Na 1:2-3; Êx 34:7
+> (1) Dt 6:4; 1 Cor 8:4,6
+> (2) 1 Tess 1:9; Jer 10:10
+> (3) Jó 11:7-9; Jó 26:14
+> (4) Jo 4:24
+> (5) 1 Tim 1:17
+> (6) Dt 4:15-16; Jo 4:24, com Lc 24:39
+> (7) At 14:11,15
+> (8) Tg 1:17; Ml 3:6
+> (9) 1 Reis 8:27; Jer 23:23-24
+> (10) Sl 90:2; 1 Tim 1:17
+> (11) Sl 145:3
+> (12) Gn 17:1; Ap 4:8
+> (13) Rm 16:27
+> (14) Is 6:3; Ap 4:8
+> (15) Sl 115:3
+> (16) Êx 3:14
+> (17) Ef 1:11
+> (18) Pv 16:4; Rm 11:36
+> (19) 1 Jo 4:8,16
+> (20) Êx 34:6-7
+> (21) Hb 11:6
+> (22) Ne 9:32-33
+> (23) Sl 5:5-6
+> (24) Na 1:2-3; Êx 34:7
 
 ## SEÇÃO 2
 > Deus tem toda a vida,(1) glória,(2) bondade(3) e bem-aventurança(4) em si e de si mesmo; é ele só, para si mesmo, todo-suficiente, não precisando de criatura alguma que tenha feito,(5) nem delas derivando glória alguma,(6) mas somente manifestando a sua própria glória nelas, por elas, para elas e sobre elas. Ele é a única origem de todo o ser: de quem, por quem e para quem são todas as coisas;(7) e tem sobre elas soberano domínio, para fazer por elas, para elas e sobre elas tudo quanto lhe apraz.(8) Todas as coisas estão manifestas e abertas diante dele;(9) o seu conhecimento é infinito, infalível e independente da criatura,(10) de sorte que nada para ele é contingente ou incerto.(11) Ele é santíssimo em todos os seus conselhos, em todas as suas obras e em todos os seus preceitos.(12) A ele são devidos, da parte dos anjos e dos homens, e de qualquer outra criatura, todo o culto, serviço e obediência que ele há por bem exigir deles.(13)
 >
-> - (1) Jo 5:26
-> - (2) At 7:2
-> - (3) Sl 119:68
-> - (4) 1 Tim 6:15; Rm 9:5
-> - (5) At 17:24-25
-> - (6) Jó 22:2-3
-> - (7) Rm 11:36
-> - (8) Ap 4:11; 1 Tim 6:15; Dn 4:25,35
-> - (9) Hb 4:13
-> - (10) Rm 11:33-34; Sl 147:5
-> - (11) At 15:18; Ez 11:5
-> - (12) Sl 145:17; Rm 7:12
-> - (13) Ap 5:12-14
+> (1) Jo 5:26
+> (2) At 7:2
+> (3) Sl 119:68
+> (4) 1 Tim 6:15; Rm 9:5
+> (5) At 17:24-25
+> (6) Jó 22:2-3
+> (7) Rm 11:36
+> (8) Ap 4:11; 1 Tim 6:15; Dn 4:25,35
+> (9) Hb 4:13
+> (10) Rm 11:33-34; Sl 147:5
+> (11) At 15:18; Ez 11:5
+> (12) Sl 145:17; Rm 7:12
+> (13) Ap 5:12-14
 
 Estas seções ensinam as seguintes proposições:
 1. Há apenas um Deus vivo e verdadeiro.
@@ -166,9 +166,9 @@ Os fundamentos de sua soberania são:
 ## SEÇÃO 3
 > Na unidade da Divindade há três Pessoas de uma mesma substância, poder e eternidade: Deus o Pai, Deus o Filho e Deus o Espírito Santo.(1) O Pai não é de ninguém — não é nem gerado, nem procedente; o Filho é eternamente gerado do Pai;(2) o Espírito Santo é eternamente procedente do Pai e do Filho.(3)
 >
-> - (1) 1 Jo 5:7; Mt 3:16-17; Mt 28:19; 2 Cor 13:14
-> - (2) Jo 1:14,18
-> - (3) Jo 15:26; Gal 4:6
+> (1) 1 Jo 5:7; Mt 3:16-17; Mt 28:19; 2 Cor 13:14
+> (2) Jo 1:14,18
+> (3) Jo 15:26; Gal 4:6
 
 Tendo mostrado anteriormente que há apenas um Deus vivo e verdadeiro, e que suas propriedades essenciais abrangem todas as perfeições, esta seção afirma adicionalmente:
 1. Que Pai, Filho e Espírito Santo são cada um igualmente aquele único Deus; e que a essência divina indivisível e todas as perfeições e prerrogativas divinas pertencem a cada um no mesmo sentido e grau.

@@ -3,14 +3,14 @@
 ## SEÇÃO 1
 > O arrependimento para a vida é uma graça evangélica, (1) cuja doutrina deve ser pregada por todo ministro do evangelho, tanto quanto a da fé em Cristo. (2)
 >
-> - (1) Zac. 12:10; Atos 11:18.
-> - (2) Lucas 24:47; Marcos 1:15; Atos 20:21.
+> (1) Zac. 12:10; Atos 11:18.
+> (2) Lucas 24:47; Marcos 1:15; Atos 20:21.
 
 ## SEÇÃO 2
 > Por ele, um pecador, ao ver e sentir não apenas o perigo, mas também a sujeira e a hediondez de seus pecados, como contrários à natureza santa e à lei justa de Deus, e ao compreender a sua misericórdia em Cristo para com os que são penitentes, de tal modo se entristece por seus pecados e os odeia, que se volta de todos eles para Deus, (3) tencionando e esforçando-se para andar com Ele em todos os caminhos de Seus mandamentos. (4)
 >
-> - (3) Ez. 18:30,31; 36:31; Is. 30:22; Sl. 51:4; Jr. 31:18, 19; Jl. 2:12,13; Am. 5:15; Sl. 119:128; 2 Cor. 7:11.
-> - (4) Sl. 119:6,59,106; Lucas 1:6; 2 Reis 23:25.
+> (3) Ez. 18:30,31; 36:31; Is. 30:22; Sl. 51:4; Jr. 31:18, 19; Jl. 2:12,13; Am. 5:15; Sl. 119:128; 2 Cor. 7:11.
+> (4) Sl. 119:6,59,106; Lucas 1:6; 2 Reis 23:25.
 
 A Confissão aborda agora a importante doutrina do arrependimento. Aqui iluminaremos a base e a essência do arrependimento.
 
@@ -54,20 +54,20 @@ Que ele deve ser diligentemente pregado por cada ministro do evangelho é:
 ## SEÇÃO 3
 > Embora o arrependimento não deva ser considerado como uma satisfação pelo pecado, ou qualquer causa do perdão dele, (5) que é o ato da livre graça de Deus em Cristo; (6) contudo, ele é de tal necessidade para todos os pecadores, que ninguém pode esperar o perdão sem ele. (7)
 >
-> - (5) Ez. 36:31,32; 16:61,63.
-> - (6) Os. 14:2,4; Rm. 3:24; Ef. 1:7.
-> - (7) Lucas 13:3,5; Atos 17:30,31.
+> (5) Ez. 36:31,32; 16:61,63.
+> (6) Os. 14:2,4; Rm. 3:24; Ef. 1:7.
+> (7) Lucas 13:3,5; Atos 17:30,31.
 
 ## SEÇÃO 4
 > Assim como não há pecado tão pequeno que não mereça a condenação; (8) assim não há pecado tão grande que possa trazer condenação sobre aqueles que verdadeiramente se arrependem. (9)
 >
-> - (8) Rm. 6:23; 5:12; Mt. 12:36.
-> - (9) Is. 55:7; Rm. 8:1; Is. 1:16,18.
+> (8) Rm. 6:23; 5:12; Mt. 12:36.
+> (9) Is. 55:7; Rm. 8:1; Is. 1:16,18.
 
 ## SEÇÃO 5
 > Os homens não devem se contentar com um arrependimento geral, mas é dever de cada um esforçar-se para se arrepender de seus pecados particulares, particularmente. (10)
 >
-> - (10) Sl. 19:13; Lucas 19:8; 1 Tm. 1:13,15.
+> (10) Sl. 19:13; Lucas 19:8; 1 Tm. 1:13,15.
 
 Estas seções ensinam as seguintes proposições:
 
@@ -108,10 +108,10 @@ Que os homens devam se arrepender não apenas em geral da corrupção de seus co
 ## SEÇÃO 6
 > Como todo homem é obrigado a confessar seus pecados a Deus em particular, orando pelo perdão deles; (11) pelo que, ao abandoná-los, alcançará misericórdia; (12) assim também aquele que escandaliza a seu irmão, ou à Igreja de Cristo, deve estar disposto, por uma confissão particular ou pública e pela tristeza pelo seu pecado, a declarar o seu arrependimento aos que se ofenderam; (13) os quais devem então reconciliar-se com ele e recebê-lo em amor. (14)
 >
-> - (11) Sl. 51:4,5,7,9,14; 32:5,6.
-> - (12) Prov. 28:13; 1 João 1:9.
-> - (13) Tiago 5:16; Lucas 17:3,4; Josué 7:19; Sl. 51.
-> - (14) 2 Cor. 2:8.
+> (11) Sl. 51:4,5,7,9,14; 32:5,6.
+> (12) Prov. 28:13; 1 João 1:9.
+> (13) Tiago 5:16; Lucas 17:3,4; Josué 7:19; Sl. 51.
+> (14) 2 Cor. 2:8.
 
 Esta seção ensina:
 

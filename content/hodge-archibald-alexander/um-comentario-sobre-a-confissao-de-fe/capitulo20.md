@@ -3,15 +3,15 @@
 ## SEÇÃO 1
 > A liberdade que Cristo comprou para os crentes sob o evangelho consiste na sua isenção da culpa do pecado, da ira condenatória de Deus e da maldição da lei moral; (1) e em serem eles livres deste presente mundo perverso, do cativeiro de Satanás e do domínio do pecado; (2) do mal das aflições, do aguilhão da morte, da vitória da sepultura e da condenação eterna; (3) como também no seu livre acesso a Deus (4) e em renderem obediência a ele, não por medo servil, mas por um amor filial e mente voluntária. (5) Tudo isto era comum também aos crentes sob a lei. (6) Mas, sob o novo testamento, a liberdade dos cristãos é ainda mais ampliada na sua isenção do jugo da lei cerimonial a que a igreja judaica estava sujeita; (7) e em maior ousadia de acesso ao trono da graça (8) e em comunicações mais plenas do livre Espírito de Deus, do que os crentes sob a lei comumente participavam. (9)
 >
-> - (1) Tito 2:14; I Tess. 1:10; Gál. 3:13
-> - (2) Gál. 1:4; Col. 1:13; Atos 26:18; Rom. 6:14
-> - (3) Rom. 8:28; Sal. 119:71; II Cor. 4:15-18; I Cor. 15:54-57; Rom. 5:9; 8:1; I Tess. 1:10
-> - (4) Rom. 5:1-2
-> - (5) Rom. 8:14-15; Gál. 4:6; I João 4:18
-> - (6) Gál. 3:8-9, 14; Rom. 4:6-8; I Cor. 10:3-4; Heb. 11:1-40
-> - (7) Gál. 4:1-7; 5:1; Atos 15:10-11
-> - (8) Heb. 4:14-16; 10:19-22
-> - (9) João 7:38-39; Atos 2:17-18; II Cor. 3:8, 13, 17-18; Jer. 31:31-34
+> (1) Tito 2:14; I Tess. 1:10; Gál. 3:13
+> (2) Gál. 1:4; Col. 1:13; Atos 26:18; Rom. 6:14
+> (3) Rom. 8:28; Sal. 119:71; II Cor. 4:15-18; I Cor. 15:54-57; Rom. 5:9; 8:1; I Tess. 1:10
+> (4) Rom. 5:1-2
+> (5) Rom. 8:14-15; Gál. 4:6; I João 4:18
+> (6) Gál. 3:8-9, 14; Rom. 4:6-8; I Cor. 10:3-4; Heb. 11:1-40
+> (7) Gál. 4:1-7; 5:1; Atos 15:10-11
+> (8) Heb. 4:14-16; 10:19-22
+> (9) João 7:38-39; Atos 2:17-18; II Cor. 3:8, 13, 17-18; Jer. 31:31-34
 
 O assunto deste capítulo é aquela liberdade com a qual Cristo liberta o seu povo, a qual é muito diferente daquela liberdade da vontade que discutimos no capítulo 9. Vimos ali que a liberdade da vontade é uma faculdade inalienável e constitucional da alma humana, pela qual ela sempre exerce suas volições conforme lhe apraz, no todo, em qualquer caso dado. Esta liberdade da vontade é essencial à agência livre e é possuída por todos os agentes livres, bons ou maus, caso contrário não poderiam ser considerados responsáveis. A liberdade cristã, por outro lado, implica duas coisas:
     - **(1)** Tal condição espiritual interior da alma que o homem tem pleno poder, através da graça, de desejar e querer como deve fazer em conformidade com a lei de Deus; e
@@ -36,21 +36,21 @@ Em certos aspectos, os crentes sob o Evangelho desfrutam desta liberdade cristã
 ## SEÇÃO 2
 > Somente Deus é Senhor da consciência, (10) e a deixou livre das doutrinas e mandamentos de homens que sejam, em qualquer coisa, contrários à sua Palavra; ou que estejam além dela, em questões de fé ou de culto. (11) De modo que crer em tais doutrinas ou obedecer a tais mandamentos, por motivo de consciência, é trair a verdadeira liberdade de consciência; (12) e a exigência de uma fé implícita e de uma obediência absoluta e cega é destruir a liberdade de consciência e também a razão. (13)
 >
-> - (10) Tiago 4:12; Rom. 14:4, 10; I Cor. 10:29
-> - (11) Atos 4:19, 5:29; I Cor. 7:22-23; Mat. 15:1-6, 9; 23:8-10; II Cor. 1:24
-> - (12) Col. 2:20-23; Gál. 1:10; 2:4-5; 4:9-10; 5:1
-> - (13) Rom. 10:17; Isa. 8:20; Atos 17:11; João 4:22; Apo. 13:12, 16-17; Jer. 8:9; I Pedro 3:15
+> (10) Tiago 4:12; Rom. 14:4, 10; I Cor. 10:29
+> (11) Atos 4:19, 5:29; I Cor. 7:22-23; Mat. 15:1-6, 9; 23:8-10; II Cor. 1:24
+> (12) Col. 2:20-23; Gál. 1:10; 2:4-5; 4:9-10; 5:1
+> (13) Rom. 10:17; Isa. 8:20; Atos 17:11; João 4:22; Apo. 13:12, 16-17; Jer. 8:9; I Pedro 3:15
 
 ## SEÇÃO 3
 > Aqueles que, sob pretexto de liberdade cristã, praticam qualquer pecado ou nutrem qualquer concupiscência, destroem, assim, o fim da liberdade cristã, o qual é que, sendo libertos das mãos de nossos inimigos, possamos servir ao Senhor sem medo, em santidade e justiça perante ele, todos os dias da nossa vida. (14)
 >
-> - (14) Gál. 5:13; I Pedro 2:16; II Pedro 2:19; Rom. 6:15; João 8:34; Lucas 1:74-75
+> (14) Gál. 5:13; I Pedro 2:16; II Pedro 2:19; Rom. 6:15; João 8:34; Lucas 1:74-75
 
 ## SEÇÃO 4
 > E porque os poderes que Deus ordenou, e a liberdade que Cristo comprou, não foram pretendidos por Deus para destruir, mas para mutuamente apoiar e preservar um ao outro, aqueles que, sob pretexto de liberdade cristã, se opuserem a qualquer poder legítimo, ou ao exercício legítimo dele, seja civil ou eclesiástico, resistem à ordenança de Deus. (15) E, pela publicação de tais opiniões, ou manutenção de tais práticas, que sejam contrárias à luz da natureza, ou aos princípios conhecidos do cristianismo (seja em relação à fé, ao culto ou à conversação), ou ao poder da piedade; ou tais opiniões ou práticas errôneas que, ou por sua própria natureza, ou pelo modo de publicá-las ou mantê-las, sejam destrutivas para a paz e ordem externas que Cristo estabeleceu na igreja, eles podem ser legitimamente chamados a prestar contas e ser processados pelas censuras da igreja. (16)
 >
-> - (15) I Pedro 2:13-14, 16; Rom. 13:1-8; Heb. 13:17; I Tess. 5:12-13
-> - (16) Rom. 1:32; 16:17; I Cor. 5:1, 5, 11-13; II João 1:10-11; II Tess. 3:6, 14; I Tim. 1:19-20; 6:3-4; Tito 1:10-11, 13-14; 3:10; Mat. 18:15-17; Apo. 2:2, 14-15, 20
+> (15) I Pedro 2:13-14, 16; Rom. 13:1-8; Heb. 13:17; I Tess. 5:12-13
+> (16) Rom. 1:32; 16:17; I Cor. 5:1, 5, 11-13; II João 1:10-11; II Tess. 3:6, 14; I Tim. 1:19-20; 6:3-4; Tito 1:10-11, 13-14; 3:10; Mat. 18:15-17; Apo. 2:2, 14-15, 20
 
 Estas seções ensinam as seguintes proposições:
 

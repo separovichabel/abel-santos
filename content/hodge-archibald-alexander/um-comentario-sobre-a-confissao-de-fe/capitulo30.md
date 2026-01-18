@@ -3,7 +3,7 @@
 ## SEÇÃO 1:
 > O Senhor Jesus, como Rei e Cabeça da sua Igreja, nela instituiu um governo nas mãos de oficiais da igreja, distinto do magistrado civil (1).
 >
-> - (1) Is 9:6-7; Cl 1:18; 1 Tm 5:17; 1 Tess 5:12; At 20:17, 28; Hb 13:7, 17, 24; Ef 4:11-12; 1 Co 12:28; Mt 28:18-20; Jo 18:36
+> (1) Is 9:6-7; Cl 1:18; 1 Tm 5:17; 1 Tess 5:12; At 20:17, 28; Hb 13:7, 17, 24; Ef 4:11-12; 1 Co 12:28; Mt 28:18-20; Jo 18:36
 
 O princípio designado como Erastianismo, que foi praticamente incorporado em todas as Igrejas Estatais do Antigo Mundo, inclui os seguintes elementos:
 1. Que a Igreja é um órgão do Estado para cumprir uma de suas funções gerais; e, consequentemente, que não há governo da Igreja independente do governo do Estado, mas que seus oficiais, suas leis e sua administração estão, em todas as coisas, sujeitos ao governo civil.
@@ -32,17 +32,17 @@ Embora todos os cristãos, com exceção dos erastianos, concordem com os dois p
 ## SEÇÃO 2:
 > A esses oficiais as chaves do reino do céu são entregues; em virtude das quais eles têm respectivamente o poder de reter e de remitir pecados; de fechar esse reino aos impenitentes, tanto pela Palavra como pelas censuras; e de abri-lo aos pecadores penitentes, pelo ministério do evangelho e pela absolvição das censuras, conforme as circunstâncias o exigirem (2).
 >
-> - (2) Mt 16:19; 18:17-18; Jo 20:21-23; 2 Co 2:6-8
+> (2) Mt 16:19; 18:17-18; Jo 20:21-23; 2 Co 2:6-8
 
 ## SEÇÃO 3:
 > As censuras eclesiásticas são necessárias para recuperar e ganhar os irmãos transgressores, para dissuadir outros de cometerem ofensas semelhantes, para purgar o velho fermento que poderia infectar toda a massa, para vindicar a honra de Cristo e a santa profissão do evangelho, e para evitar a ira de Deus, a qual poderia justamente cair sobre a igreja, se ela permitisse que o seu pacto e os selos dele fossem profanados por pecadores notórios e obstinados (3).
 >
-> - (3) 1 Co 5:1-13; 11:27-34; 1 Tm 1:20; 5:20; Mt 7:6; Jd 1:23
+> (3) 1 Co 5:1-13; 11:27-34; 1 Tm 1:20; 5:20; Mt 7:6; Jd 1:23
 
 ## SEÇÃO 4:
 > Para o melhor alcance desses fins, os oficiais da igreja devem proceder por admoestação, por suspensão do sacramento da Ceia do Senhor por algum tempo e por excomunhão da igreja, segundo a natureza do crime e a demérito da pessoa (4).
 >
-> - (4) 1 Tess 5:12; 2 Tess 3:6, 14-15; 1 Co 5:4-5, 13; Mt 18:17; Tt 3:10
+> (4) 1 Tess 5:12; 2 Tess 3:6, 14-15; 1 Co 5:4-5, 13; Mt 18:17; Tt 3:10
 
 Estas seções ensinam —
 

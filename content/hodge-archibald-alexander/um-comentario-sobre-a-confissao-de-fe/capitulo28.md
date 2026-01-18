@@ -3,24 +3,24 @@
 ## SEÇÃO 1:
 > O batismo é um sacramento do novo testamento, ordenado por Jesus Cristo (1), não apenas para a admissão solene da parte batizada na igreja visível (2); mas também para lhe ser um sinal e selo do pacto da graça (3), de seu enxerto em Cristo (4), da regeneração (5), da remissão dos pecados (6) e de sua entrega a Deus, por meio de Jesus Cristo, para andar em novidade de vida (7). Este sacramento deve, por nomeação do próprio Cristo, ser continuado em sua igreja até o fim do mundo (8).
 >
-> - (1) Mt 28:19
-> - (2) 1 Co 12:13; Gl 3:27-28
-> - (3) Rm 4:11; Cl 2:11-12
-> - (4) Gl 3:27; Rm 6:5
-> - (5) Jo 3:5; Tt 3:5
-> - (6) Mc 1:4; At 2:38; 22:16
-> - (7) Rm 6:3-4
-> - (8) Mt 28:19-20
+> (1) Mt 28:19
+> (2) 1 Co 12:13; Gl 3:27-28
+> (3) Rm 4:11; Cl 2:11-12
+> (4) Gl 3:27; Rm 6:5
+> (5) Jo 3:5; Tt 3:5
+> (6) Mc 1:4; At 2:38; 22:16
+> (7) Rm 6:3-4
+> (8) Mt 28:19-20
 
 ## SEÇÃO 2:
 > O elemento exterior a ser usado neste sacramento é a água, com a qual a parte deve ser batizada, em nome do Pai, e do Filho, e do Espírito Santo, por um ministro do evangelho, legalmente chamado para tal (9).
 >
-> - (9) At 8:36, 38; 10:47; Mt 28:19
+> (9) At 8:36, 38; 10:47; Mt 28:19
 
 ## SEÇÃO 3:
 > A imersão da pessoa na água não é necessária; mas o batismo é retamente administrado por efusão ou aspersão de água sobre a pessoa (10).
 >
-> - (10) Hb 9:10, 13, 19, 21; Mc 7:2-4; Lc 11:38
+> (10) Hb 9:10, 13, 19, 21; Mc 7:2-4; Lc 11:38
 
 NESTAS seções, aprendemos as seguintes proposições:
 
@@ -78,8 +78,8 @@ O desígnio do Batismo é —
 ## SEÇÃO 4:
 > Não apenas aqueles que realmente professam fé e obediência a Cristo (11), mas também os bebês de um ou ambos os pais crentes devem ser batizados (12).
 >
-> - (11) At 2:41; 8:12-13; 16:14-15
-> - (12) Gn 17:7-14; Gl 3:9, 14; Cl 2:11-12; At 2:38-39; Rm 4:11-12; Mt 19:13; 28:19; Mc 10:13-16; Lc 18:15-17; 1 Co 7:14
+> (11) At 2:41; 8:12-13; 16:14-15
+> (12) Gn 17:7-14; Gl 3:9, 14; Cl 2:11-12; At 2:38-39; Rm 4:11-12; Mt 19:13; 28:19; Mc 10:13-16; Lc 18:15-17; 1 Co 7:14
 
 Quanto aos sujeitos do Batismo, nossos Padrões ensinam —
 ### 1.
@@ -112,20 +112,20 @@ Alguns supuseram, uma vez que a membresia na igreja da criança segue a do pai, 
 ## SEÇÃO 5:
 > Embora seja um grande pecado desprezar ou negligenciar esta ordenança (13), contudo, a graça e a salvação não estão tão inseparavelmente ligadas a ela, de modo que ninguém possa ser regenerado ou salvo sem ela (14); ou que todos os que são batizados sejam indubitavelmente regenerados (15).
 >
-> - (13) Gn 17:14; Mt 28:19; At 2:38; veja Lc 7:30
-> - (14) Rm 4:11; At 10:2, 4, 22, 31, 45, 47
-> - (15) At 8:13, 23
+> (13) Gn 17:14; Mt 28:19; At 2:38; veja Lc 7:30
+> (14) Rm 4:11; At 10:2, 4, 22, 31, 45, 47
+> (15) At 8:13, 23
 
 ## SEÇÃO 6:
 > A eficácia do batismo não está ligada àquele momento de tempo em que ele é administrado (16); no entanto, pelo uso correto desta ordenança, a graça prometida não é apenas oferecida, mas realmente exibida e conferida pelo Espírito Santo àqueles (sejam adultos ou crianças) a quem essa graça pertence, segundo o conselho da própria vontade de Deus, no tempo por ele determinado (17).
 >
-> - (16) Jo 3:5, 8
-> - (17) Rm 6:3-6; Gl 3:27; 1 Pe 3:21; At 2:38, 41
+> (16) Jo 3:5, 8
+> (17) Rm 6:3-6; Gl 3:27; 1 Pe 3:21; At 2:38, 41
 
 ## SEÇÃO 7:
 > O sacramento do batismo deve ser administrado apenas uma vez a qualquer pessoa (18).
 >
-> - (18) Rm 6:3-11
+> (18) Rm 6:3-11
 
 Estas seções ensinam:
 

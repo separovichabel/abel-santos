@@ -3,15 +3,15 @@
 ## SEÇÃO 1
 > DEUS, desde toda a eternidade, pelo mui sábio e santo conselho da sua própria vontade, ordenou livre e imutavelmente tudo quanto acontece:(1) todavia, de sorte que nem é Deus o autor do pecado,(2) nem se faz violência à vontade das criaturas, nem é tirada a liberdade ou contingência das causas secundárias, mas antes estabelecidas.(3)
 >
-> - (1) Ef 1:11; Rm 11:33; Hb 6:17; Rm 9:15,18.
-> - (2) Tg 1:13,17; 1 Jo 1:5.
-> - (3) At 2:23; Mt 17:12; At 4:27,28; Jo 19:11; Pv 16:33.
+> (1) Ef 1:11; Rm 11:33; Hb 6:17; Rm 9:15,18.
+> (2) Tg 1:13,17; 1 Jo 1:5.
+> (3) At 2:23; Mt 17:12; At 4:27,28; Jo 19:11; Pv 16:33.
 
 ## SEÇÃO 2
 > AINDA QUE Deus saiba tudo o que pode ou que há de acontecer em todas as condições imagináveis;(4) todavia, ele não decretou coisa alguma por havê-la previsto como futura, ou como aquilo que haveria de acontecer em tais condições.(5)
 >
-> - (4) At 15:18; 1 Sm 23:11,12; Mt 11:21,23.
-> - (5) Rm 9:11,13,16,18.
+> (4) At 15:18; 1 Sm 23:11,12; Mt 11:21,23.
+> (5) Rm 9:11,13,16,18.
 
 Estas Seções afirmam as seguintes proposições:--
 
@@ -82,20 +82,20 @@ Ora, o fato de que uma dada ação livre é certamente futura não é, obviament
 ## SEÇÃO 3
 > PELO decreto de Deus, para manifestação da sua glória, alguns homens e anjos(6) são predestinados para a vida eterna, e outros preordenados para a morte eterna.(7)
 >
-> - (6) 1 Tm 5:21; Mt 25:41.
-> - (7) Rm 9:22,23; Ef 1:5,6; Pv 16:4.
+> (6) 1 Tm 5:21; Mt 25:41.
+> (7) Rm 9:22,23; Ef 1:5,6; Pv 16:4.
 
 ## SEÇÃO 4
 > ESSES anjos e homens, assim predestinados e preordenados, são particular e imutavelmente designados; e o seu número é tão certo e definido, que não pode ser nem aumentado nem diminuído.(8)
 >
-> - (8) 2 Tm 2:19; Jo 13:18.
+> (8) 2 Tm 2:19; Jo 13:18.
 
 ## SEÇÃO 5
 > AQUELES do gênero humano que são predestinados para a vida, Deus, antes que fosse lançado o fundamento do mundo, segundo o seu eterno e imutável propósito e o conselho secreto e beneplácito da sua vontade, os escolheu em Cristo para a glória eterna,(9) puramente por sua livre graça e amor, sem qualquer previsão de fé ou de boas obras, ou de perseverança em qualquer delas, ou de qualquer outra coisa na criatura, como condições ou causas que o movessem a isso;(10) e tudo para louvor da sua gloriosa graça.(11)
 >
-> - (9) Ef 1:4,9,11; Rm 8:30; 2 Tm 1:9; 1 Tess 5:9.
-> - (10) Rm 9:11,13,16; Ef 1:4,9.
-> - (11) Ef 1:6,12.
+> (9) Ef 1:4,9,11; Rm 8:30; 2 Tm 1:9; 1 Tess 5:9.
+> (10) Rm 9:11,13,16; Ef 1:4,9.
+> (11) Ef 1:6,12.
 
 Tendo as seções precedentes afirmado que o decreto eterno, soberano, imutável e incondicional de Deus determina todos os eventos de todas as classes que acontecem, estas seções procedem a afirmar, por meio de especificação, as seguintes proposições:
 
@@ -134,11 +134,11 @@ Isto é expressamente afirmado em Ef 1:5,6,12. No capítulo sobre a Criação, s
 ## SEÇÃO 6
 > ASSIM como Deus destinou os eleitos para a glória, assim também, pelo eterno e mui livre propósito da sua vontade, preordenou todos os meios para isso.(12) Portanto, os que são eleitos, achando-se caídos em Adão, são remidos por Cristo,(13) são eficazmente chamados para a fé em Cristo pelo seu Espírito que opera no tempo devido; são justificados, adotados, santificados(14) e guardados pelo seu poder, mediante a fé, para a salvação.(15) Nem são outros remidos por Cristo, eficazmente chamados, justificados, adotados, santificados e salvos, senão somente os eleitos.(16)
 >
-> - (12) 1 Pe 1:2; Ef 1:4,5; 2:10; 2 Tess 2:13.
-> - (13) 1 Tess 5:9,10; Tt 2:14.
-> - (14) Rm 8:30; Ef 1:5; 2 Tess 2:13.
-> - (15) 1 Pe 1:5.
-> - (16) Jo 17:9; Rm 8:28; Jo 6:64,65; 10:26; 8:47; 1 Jo 2:19.
+> (12) 1 Pe 1:2; Ef 1:4,5; 2:10; 2 Tess 2:13.
+> (13) 1 Tess 5:9,10; Tt 2:14.
+> (14) Rm 8:30; Ef 1:5; 2 Tess 2:13.
+> (15) 1 Pe 1:5.
+> (16) Jo 17:9; Rm 8:28; Jo 6:64,65; 10:26; 8:47; 1 Jo 2:19.
 
 Esta seção afirma:
 
@@ -175,7 +175,7 @@ A doutrina quanto ao desígnio de Deus no sacrifício de Cristo é declarada nov
 ## SEÇÃO 7
 > QUANTO ao resto do gênero humano, aprouve a Deus, segundo o inescrutável conselho da sua própria vontade, pela qual ele concede ou retém a misericórdia, como lhe apraz, para a glória do seu soberano poder sobre as suas criaturas, passar por alto e ordená-los para a desonra e ira por causa do seu pecado, para louvor da sua gloriosa justiça.(17)
 >
-> - (17) Mt 11:25,26; Rm 9:17,18,21,22; 2 Tm 2:19,20; Jd 4; 1 Pe 2:8.
+> (17) Mt 11:25,26; Rm 9:17,18,21,22; 2 Tm 2:19,20; Jd 4; 1 Pe 2:8.
 
 Esta seção ensina as seguintes proposições:
 
@@ -203,10 +203,10 @@ Esta doutrina, como declarada acima, é verdadeira-
 ## SEÇÃO 8
 > A DOUTRINA deste alto mistério da predestinação deve ser tratada com especial prudência e cuidado,(18) para que os homens, atendendo à vontade de Deus revelada na sua Palavra e prestando obediência a ela, possam, pela certeza da sua vocação eficaz, certificar-se da sua eleição eterna.(19) Assim, esta doutrina servirá de motivo de louvor, reverência e admiração de Deus,(20) bem como de humildade, diligência e abundante consolação para todos os que sinceramente obedecem ao Evangelho.(21)
 >
-> - (18) Rm 9:20; 11:33; Dt 29:29.
-> - (19) 2 Pe 1:10.
-> - (20) Ef 1:6; Rm 11:33.
-> - (21) Rm 11:5,6,20; 2 Pe 1:10; Rm 8:33; Lc 10:20.
+> (18) Rm 9:20; 11:33; Dt 29:29.
+> (19) 2 Pe 1:10.
+> (20) Ef 1:6; Rm 11:33.
+> (21) Rm 11:5,6,20; 2 Pe 1:10; Rm 8:33; Lc 10:20.
 
 Esta seção ensina que o alto mistério da predestinação deve ser tratado com especial prudência e cuidado. Esta necessidade surge do fato de que ele é frequentemente abusado e que seu uso adequado é de suma importância.
 

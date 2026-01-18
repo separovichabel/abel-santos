@@ -3,9 +3,9 @@
 ## SEÇÃO 1:
 > Para o melhor governo e maior edificação da igreja, deve haver as assembleias que comumente se chamam sínodos ou concílios (1); e compete aos pastores e outros presbíteros das igrejas particulares, em virtude do seu cargo e do poder que Cristo lhes deu para edificação e não para destruição, designar tais assembleias (2), e reunir-se nelas tantas vezes quantas julgarem conveniente para o bem da igreja (3).
 >
-> - (1) Atos 15:2, 4, 6
-> - (2) Atos 15:1-35
-> - (3) Atos 15:1-35; 20:17
+> (1) Atos 15:2, 4, 6
+> (2) Atos 15:1-35
+> (3) Atos 15:1-35; 20:17
 
 Como vimos no último capítulo, todo o poder da Igreja é conferido por Cristo à Igreja como um todo — não como uma multidão, mas como um corpo organizado. Como organizada, a Igreja consiste em presbíteros ou bispos e o povo, e o povo representado por presbíteros regentes. Isso necessariamente dá origem ao conselho ou presbitério paroquial, consistindo no bispo ou pastor, e nos presbíteros regentes ou representantes do povo. Neste corpo reside todo o poder eclesiástico de toda a congregação. Ele admite candidatos às ordenanças seladoras, exerce o cuidado pastoral e a disciplina sobre os membros, provê a instrução do rebanho e regula o culto público.
 
@@ -29,17 +29,17 @@ Em virtude do princípio de REVISÃO E CONTROLE, cada tribunal de igreja de cada
 ## SEÇÃO 2:
 > Compete aos sínodos e concílios, ministerialmente, decidir controvérsias de fé e casos de consciência; estabelecer regras e direções para a melhor ordem do culto público de Deus e governo de sua igreja; receber queixas em casos de má administração e determiná-las autoritativamente. Se esses decretos e decisões forem consoantes à Palavra de Deus, devem ser recebidos com reverência e submissão, não só pela sua conformidade com a Palavra, mas também pela autoridade mediante a qual são feitos, como sendo uma ordenança de Deus, para isso designada em sua Palavra (4).
 >
-> - (4) Atos 15:15, 19, 24, 27-31; 16:4; Mt 18:17-20
+> (4) Atos 15:15, 19, 24, 27-31; 16:4; Mt 18:17-20
 
 ## SEÇÃO 3:
 > Todos os sínodos ou concílios, desde os tempos dos apóstolos, quer gerais ou particulares, podem errar, e muitos têm errado; portanto, não devem ser feitos regra de fé ou de prática, mas ser usados como auxílio em ambas (5).
 >
-> - (5) Ef 2:20; Atos 17:11; 1 Cor 2:5; 2 Cor 1:24; cf. Is 8:19-20; Mt 15:9
+> (5) Ef 2:20; Atos 17:11; 1 Cor 2:5; 2 Cor 1:24; cf. Is 8:19-20; Mt 15:9
 
 ## SEÇÃO 4:
 > Sínodos e concílios não devem tratar nem decidir nada que não seja eclesiástico, e não devem intermeter-se nos assuntos civis que concernem ao Estado, a não ser por via de humilde petição, em casos extraordinários, ou por via de conselho, para satisfação de consciência, se forem para isso solicitados pelo magistrado civil (6).
 >
-> - (6) Lc 12:13-14; Jo 18:36; Mt 22:21
+> (6) Lc 12:13-14; Jo 18:36; Mt 22:21
 
 Estas seções declaram —
 1. Os diferentes assuntos que vêm diante desses tribunais da Igreja para decisão.

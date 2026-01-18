@@ -3,13 +3,13 @@
 ## SEÇÃO 1
 > Deus deu a Adão uma lei, como um pacto de obras, pela qual o obrigou, bem como a toda a sua posteridade, a uma obediência pessoal, inteira, exata e perpétua; prometeu-lhe a vida sob a condição de seu cumprimento e ameaçou-o com a morte em caso de sua violação; e dotou-o de poder e capacidade para guardá-la. (1)
 >
-> - (1) Gên. 1:26-27; 2:17; Ef. 4:24; Rm. 2:14-15; 5:12, 19; 10:5; Gl. 3:10, 12; Eccl. 7:29
+> (1) Gên. 1:26-27; 2:17; Ef. 4:24; Rm. 2:14-15; 5:12, 19; 10:5; Gl. 3:10, 12; Eccl. 7:29
 
 ## SEÇÃO 2
 > Esta lei, após a sua queda, continuou a ser uma perfeita regra de justiça; e, como tal, foi entregue por Deus no Monte Sinai, em dez mandamentos, e escrita em duas tábuas: (2) os primeiros quatro mandamentos contêm o nosso dever para com Deus; e os outros seis, o nosso dever para com o homem. (3)
 >
-> - (2) Tg. 1:25; 2:8, 10-12; Rm. 3:19; 13:8-9; Dt. 5:32; 10:4; Êx. 34:1
-> - (3) Êx. 30:3-17; Mt. 22:37-40
+> (2) Tg. 1:25; 2:8, 10-12; Rm. 3:19; 13:8-9; Dt. 5:32; 10:4; Êx. 34:1
+> (3) Êx. 30:3-17; Mt. 22:37-40
 
 Estas seções ensinam as seguintes proposições:
 
@@ -61,21 +61,21 @@ A grande regra para interpretar o Decálogo é ter constantemente em mente que e
 ## SEÇÃO 3
 > Além desta lei, comumente chamada moral, aprouve a Deus dar ao povo de Israel, como uma igreja sob idade, leis cerimoniais que continham várias ordenanças típicas, em parte de adoração, prefigurando Cristo, suas graças, ações, sofrimentos e benefícios; (4) e em parte, apresentando diversas instruções de deveres morais. (5) Todas essas leis cerimoniais estão agora revogadas sob o Novo Testamento. (6)
 >
-> - (4) Hb. 10:1; Gl. 4:1-3; Cl. 2:17; Hb. 9:1-28
-> - (5) Lv. 19:9-10, 19, 23, 27; Dt. 24:19-21; veja I Co. 5:7; II Co. 6:17; Jd. 1:23
-> - (6) Cl. 2:14, 16-17; Dn. 9:27; Ef. 2:15-16; Hb. 9:10; At. 10:9-16; 11:2-10
+> (4) Hb. 10:1; Gl. 4:1-3; Cl. 2:17; Hb. 9:1-28
+> (5) Lv. 19:9-10, 19, 23, 27; Dt. 24:19-21; veja I Co. 5:7; II Co. 6:17; Jd. 1:23
+> (6) Cl. 2:14, 16-17; Dn. 9:27; Ef. 2:15-16; Hb. 9:10; At. 10:9-16; 11:2-10
 
 ## SEÇÃO 4
 > A eles também, como um corpo político, ele deu várias leis judiciais, que expiraram juntamente com o Estado daquele povo; não obrigando a mais ninguém agora, além do que a equidade geral delas possa exigir. (7)
 >
-> - (7) Êx. 21:1-23:19; Gên. 49:10 com I Pe. 2:13-14; I Co. 9:8-10
+> (7) Êx. 21:1-23:19; Gên. 49:10 com I Pe. 2:13-14; I Co. 9:8-10
 
 ## SEÇÃO 5
 > A lei moral obriga para sempre a todos, tanto as pessoas justificadas como as demais, à sua obediência; (8) e isso não apenas em relação à matéria nela contida, mas também em respeito à autoridade de Deus, o Criador, que a deu. (9) Nem Cristo, no evangelho, de modo algum dissolve, mas antes fortalece esta obrigação. (10)
 >
-> - (8) Rm. 3:31; 7:25; 13:8-10; I Co. 9:21; Gl. 5:14; Ef. 6:2-3; I Jo. 2:3-4, 7; Rm. 3:20; 7:7-8 e I Jo. 3:4 com Rm. 6:15
-> - (9) Dt. 6:4-5; Êx. 20:11; Rm. 3:19; Tg. 2:8, 10-11; Mt. 19:4-6; Gên. 17:1
-> - (10) Mt. 5:17-19; Rm. 3:31; I Co. 9:21; Lc. 16:17-18
+> (8) Rm. 3:31; 7:25; 13:8-10; I Co. 9:21; Gl. 5:14; Ef. 6:2-3; I Jo. 2:3-4, 7; Rm. 3:20; 7:7-8 e I Jo. 3:4 com Rm. 6:15
+> (9) Dt. 6:4-5; Êx. 20:11; Rm. 3:19; Tg. 2:8, 10-11; Mt. 19:4-6; Gên. 17:1
+> (10) Mt. 5:17-19; Rm. 3:31; I Co. 9:21; Lc. 16:17-18
 
 Estas seções ensinam:
 
@@ -108,22 +108,22 @@ Que as leis judiciais dos judeus cessaram de ter obrigação vinculativa sobre n
 ## SEÇÃO 6
 > Embora os verdadeiros crentes não estejam sob a lei como um pacto de obras, para por ela serem justificados ou condenados; (11) todavia, ela é de grande utilidade tanto para eles como para os outros, visto que, como regra de vida, informando-os da vontade de Deus e de seu dever, ela os dirige e os obriga a andar de acordo com ela; (12) descobrindo também as purificações pecaminosas de sua natureza, corações e vidas; (13) de modo que, examinando-se por ela, possam chegar a uma maior convicção, humilhação e ódio ao pecado, (14) juntamente com uma visão mais clara da necessidade que têm de Cristo e da perfeição de sua obediência. (15) É igualmente útil aos regenerados para refrear suas corrupções, visto que proíbe o pecado; (16) e as suas ameaças servem para mostrar o que até mesmo os seus pecados merecem, e quais aflições nesta vida podem esperar por eles, embora livres da maldição ameaçada na lei. (17) Da mesma forma, as suas promessas mostram-lhes a aprovação de Deus à obediência, e quais bênçãos podem esperar pelo seu cumprimento; (18) embora não como lhes sendo devidas pela lei como um pacto de obras. (19) De modo que o fato de um homem praticar o bem e abster-se do mal, porque a lei incentiva a um e detém do outro, não é evidência de que ele esteja sob a lei e não sob a graça. (20)
 >
-> - (11) Rm. 6:14; 7:4; 8:1, 33; Gl. 2:16; 3:13; 4:4-5; At. 13:38-39
-> - (12) Rm. 7:12, 22, 25; Sl. 119:1-6; I Co. 7:19; Gl. 5:14-23
-> - (13) Rm. 3:20; 7:7, 13
-> - (14) Tg. 1:23-25; Rm. 7:9, 14, 24
-> - (15) Gl. 3:24; Rm. 7:24-25; 8:3-4
-> - (16) Tg. 2:11-12; Sl. 119:101, 104, 128
-> - (17) Ed. 9:13-14; Sl. 89:30-34; Gl. 3:13
-> - (18) Êx. 19:5-6; Dt. 5:33; Lv. 18:5; 26:1-13; Mt. 5:5; 19:17; II Co. 6:16; Ef. 6:2-3; Sl. 19:11; 37:11
-> - (19) Gl. 2:16; Lc. 17:10
-> - (20) Rm. 6:12-15; cf. I Pe. 3:8-12 com Sl. 34:12-16; Hb. 12:28-29
+> (11) Rm. 6:14; 7:4; 8:1, 33; Gl. 2:16; 3:13; 4:4-5; At. 13:38-39
+> (12) Rm. 7:12, 22, 25; Sl. 119:1-6; I Co. 7:19; Gl. 5:14-23
+> (13) Rm. 3:20; 7:7, 13
+> (14) Tg. 1:23-25; Rm. 7:9, 14, 24
+> (15) Gl. 3:24; Rm. 7:24-25; 8:3-4
+> (16) Tg. 2:11-12; Sl. 119:101, 104, 128
+> (17) Ed. 9:13-14; Sl. 89:30-34; Gl. 3:13
+> (18) Êx. 19:5-6; Dt. 5:33; Lv. 18:5; 26:1-13; Mt. 5:5; 19:17; II Co. 6:16; Ef. 6:2-3; Sl. 19:11; 37:11
+> (19) Gl. 2:16; Lc. 17:10
+> (20) Rm. 6:12-15; cf. I Pe. 3:8-12 com Sl. 34:12-16; Hb. 12:28-29
 
 ## SEÇÃO 7
 > Nem os usos da lei acima mencionados são contrários à graça do evangelho, mas concordam docemente com ela; (21) o Espírito de Cristo submetendo e capacitando a vontade do homem a fazer livre e alegremente aquilo que a vontade de Deus, revelada na lei, exige que seja feito. (22)
 >
-> - (21) Rm. 3:31; Gl. 3:21; Tt. 2:11-14
-> - (22) Ez. 36:27; Hb. 8:10 com Jr. 31:33; Sl. 119:35, 47; Rm. 7:22
+> (21) Rm. 3:31; Gl. 3:21; Tt. 2:11-14
+> (22) Ez. 36:27; Hb. 8:10 com Jr. 31:33; Sl. 119:35, 47; Rm. 7:22
 
 Nestas seções afirma-se:
 

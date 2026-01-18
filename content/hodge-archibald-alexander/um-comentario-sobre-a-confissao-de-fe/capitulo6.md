@@ -3,8 +3,8 @@
 ## SEÇÃO 1
 > NOSSOS primeiros pais, sendo seduzidos pela sutileza e tentação de Satanás, pecaram ao comer o fruto proibido. (1) Foi do agrado de Deus, segundo o seu sábio e santo conselho, permitir este seu pecado, havendo proposto ordená-lo para a sua própria glória. (2)
 >
-> - (1) Gn 3:13; 2 Co 11:3.
-> - (2) Rm 11:32.
+> (1) Gn 3:13; 2 Co 11:3.
+> (2) Rm 11:32.
 
 Tendo Deus trazido à existência as almas de Adão e Eva por criação imediata, santas e com conhecimento suficiente de sua vontade, capazes de obediência, mas passíveis de queda, esta seção passa a ensinar que:
 
@@ -45,9 +45,9 @@ Que Deus, desde o princípio, planejou ordenar o pecado de Adão para a sua pró
 ## SEÇÃO 2
 > POR este pecado, eles caíram de sua retidão original e da comunhão com Deus, (3) e assim se tornaram mortos em pecado, (4) e inteiramente corrompidos em todas as faculdades e partes da alma e do corpo. (5)
 >
-> - (3) Gn 3:6-8; Ec 7:29; Rm 3:23.
-> - (4) Gn 2:17; Ef 2:1.
-> - (5) Tt 1:15; Gn 6:5; Jr 17:9; Rm 3:10-18.
+> (3) Gn 3:6-8; Ec 7:29; Rm 3:23.
+> (4) Gn 2:17; Ef 2:1.
+> (5) Tt 1:15; Gn 6:5; Jr 17:9; Rm 3:10-18.
 
 Naturalmente, o homem depende do poder providencial de sustentação de Deus; mas como um ser moral e religioso, ele depende da comunhão íntima e amorosa do Espírito de Deus para a vida espiritual e a ação moral correta. Portanto:
 
@@ -77,11 +77,11 @@ Não se quer dizer que Adão, por este único pecado, se tornou tão mau quanto 
 ## SEÇÃO 4
 > DESTA corrupção original, pela qual ficamos inteiramente indispostos, incapacitados e feitos opostos a todo o bem, (8) e inteiramente inclinados a todo o mal, (9) procedem todas as transgressões atuais. (10)
 >
-> - (6) Gn 1:27,28; 2:16,17; At 17:26; Rm 5:12, 15-19; 1 Co 15:21,22,45,49.
-> - (7) Sl 51:5; Gn 5:3; Jó 14:4; 15:14.
-> - (8) Rm 5:6; 8:7; 7:18; Cl 1:21.
-> - (9) Gn 6:5; 8:21; Rm 3:10-12.
-> - (10) Tg 1:14,15; Ef 2:2,3; Mt 15:19.
+> (6) Gn 1:27,28; 2:16,17; At 17:26; Rm 5:12, 15-19; 1 Co 15:21,22,45,49.
+> (7) Sl 51:5; Gn 5:3; Jó 14:4; 15:14.
+> (8) Rm 5:6; 8:7; 7:18; Cl 1:21.
+> (9) Gn 6:5; 8:21; Rm 3:10-12.
+> (10) Tg 1:14,15; Ef 2:2,3; Mt 15:19.
 
 ### 1.
 Adão foi tanto a cabeça natural quanto a federal de todo o gênero humano, com exceção de Cristo, é claro.
@@ -152,20 +152,20 @@ O que a Confissão ensina sobre a incapacidade pecaminosa do homem para fazer o 
 ## SEÇÃO 5
 > ESTA corrupção da natureza permanece, durante esta vida, naqueles que são regenerados; (11) e, embora seja perdoada e mortificada por meio de Cristo, contudo, tanto ela mesma como todos os seus impulsos são verdadeira e propriamente pecado. (12)
 >
-> - (11) 1 Jo 1:8,10; Rm 7:14,17,18,23; Tg 3:2; Pv 20:9; Ec 7:20.
-> - (12) Rm 7:5,7,8, 25; Gl 5:17.
+> (11) 1 Jo 1:8,10; Rm 7:14,17,18,23; Tg 3:2; Pv 20:9; Ec 7:20.
+> (12) Rm 7:5,7,8, 25; Gl 5:17.
 
 ## SEÇÃO 6
 > TODO pecado, tanto o original como o atual, sendo uma transgressão da justa lei de Deus e a ela contrário, (13) traz, por sua própria natureza, culpa sobre o pecador, (14) pela qual ele fica sujeito à ira de Deus (15) e à maldição da lei, (16) e assim sujeito à morte, (17) com todas as misérias espirituais, (18) temporais (19) e eternas. (20)
 >
-> - (13) 1 Jo 3:4.
-> - (14) Rm 2:15; 3:9,19.
-> - (15) Ef 2:3.
-> - (16) Gl 3:10.
-> - (17) Rm 6:23.
-> - (18) Ef 4:18.
-> - (19) Rm 8:20; Lm 3:39.
-> - (20) Mt 25:41; 2 Tess 1:9.
+> (13) 1 Jo 3:4.
+> (14) Rm 2:15; 3:9,19.
+> (15) Ef 2:3.
+> (16) Gl 3:10.
+> (17) Rm 6:23.
+> (18) Ef 4:18.
+> (19) Rm 8:20; Lm 3:39.
+> (20) Mt 25:41; 2 Tess 1:9.
 
 Estas seções falam da corrupção que permanece nos regenerados, e da culpa ou justa responsabilidade pela punição que se anexa a todo pecado, e das punições que Deus inflige sobre ele.
 

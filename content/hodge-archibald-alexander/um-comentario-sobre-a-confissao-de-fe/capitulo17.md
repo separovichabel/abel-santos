@@ -3,29 +3,29 @@
 ## SEÇÃO 1
 > Aqueles a quem Deus aceitou em seu Bem-amado, chamou eficazmente e santificou por seu Espírito, não podem cair total nem finalmente do estado de graça, mas certamente perseverarão nele até o fim e serão eternamente salvos. (1)
 >
-> - (1) Fil. 1:6; 2 Pedro 1:10; Rom. 8:28-30; João 10:28-29; 1 João 3:9; 5:18; 1 Pedro 1:5, 9
+> (1) Fil. 1:6; 2 Pedro 1:10; Rom. 8:28-30; João 10:28-29; 1 João 3:9; 5:18; 1 Pedro 1:5, 9
 
 ## SEÇÃO 2
 > Esta perseverança dos santos não depende do seu próprio livre-arbítrio, mas da imutabilidade do decreto da eleição, procedendo do amor livre e imutável de Deus Pai; (2) da eficácia do mérito e da intercessão de Jesus Cristo, (3) da permanência do Espírito e da semente de Deus neles (4) e da natureza do pacto da graça: (5) de tudo o que decorre também a sua certeza e infalibilidade. (6)
 >
-> - (2) Sal. 89:3-4, 28-33; 2 Tim. 2:18-19; Jer. 31:3
-> - (3) Heb. 7:25; 9:12-15; 10:10, 14; 13:20-21; 17:11, 24; Rom. 8:33-39; Luc. 22:32
-> - (4) João 14:16-17; 1 João 2:27; 3:9
-> - (5) Jer. 32:40; Sal. 89:34-37; ver Jer. 31:31-34
-> - (6) João 6:38-40; 10:28; 2 Tess. 3:3; 1 João 2:19
+> (2) Sal. 89:3-4, 28-33; 2 Tim. 2:18-19; Jer. 31:3
+> (3) Heb. 7:25; 9:12-15; 10:10, 14; 13:20-21; 17:11, 24; Rom. 8:33-39; Luc. 22:32
+> (4) João 14:16-17; 1 João 2:27; 3:9
+> (5) Jer. 32:40; Sal. 89:34-37; ver Jer. 31:31-34
+> (6) João 6:38-40; 10:28; 2 Tess. 3:3; 1 João 2:19
 
 ## SEÇÃO 3
 > Todavia, eles podem, pelas tentações de Satanás e do mundo, pela prevalência da corrupção que neles resta e pela negligência dos meios de sua preservação, cair em pecados graves; (7) e neles continuar por algum tempo: (8) incorrendo, assim, no desprazer de Deus (9) e entristecendo o seu Santo Espírito, (10) vindo a ser privados de alguma medida de suas graças e confortos, (11) tendo seus corações endurecidos (12) e suas consciências feridas; (13) ferindo e escandalizando a outros (14) e trazendo sobre si mesmos juízos temporais. (15)
 >
-> - (7) Êx. 32:21; Jonas 1:3, 10; Sal. 51:14; Mt. 26:70, 72, 74
-> - (8) 2 Sam. 12:9, 13; Gál. 2:11-14
-> - (9) Núm. 20:12; 2 Sam. 11:27; Is. 64:7, 9
-> - (10) Efé. 4:30
-> - (11) Sal. 51:8, 10, 12; Apoc. 2:4; Mt. 26:75
-> - (12) Is. 63:17
-> - (13) Sal. 32:3-4; 51:8
-> - (14) Gên. 12:10-20; 2 Sam. 12:14; Gál. 2:13
-> - (15) Sal. 89:31-32; 1 Cor. 11:32
+> (7) Êx. 32:21; Jonas 1:3, 10; Sal. 51:14; Mt. 26:70, 72, 74
+> (8) 2 Sam. 12:9, 13; Gál. 2:11-14
+> (9) Núm. 20:12; 2 Sam. 11:27; Is. 64:7, 9
+> (10) Efé. 4:30
+> (11) Sal. 51:8, 10, 12; Apoc. 2:4; Mt. 26:75
+> (12) Is. 63:17
+> (13) Sal. 32:3-4; 51:8
+> (14) Gên. 12:10-20; 2 Sam. 12:14; Gál. 2:13
+> (15) Sal. 89:31-32; 1 Cor. 11:32
 
 Este capítulo ensina as seguintes proposições:
 

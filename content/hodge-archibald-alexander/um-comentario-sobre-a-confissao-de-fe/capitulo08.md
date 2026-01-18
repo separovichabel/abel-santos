@@ -3,15 +3,15 @@
 ## SEÇÃO 1
 > APROUVE a Deus, em seu propósito eterno, escolher e ordenar o Senhor Jesus, seu Filho unigênito, para ser o Mediador entre Deus e o homem;(1) o Profeta,(2) Sacerdote(3) e Rei;(4) o Cabeça e Salvador de sua Igreja;(5) o Herdeiro de todas as coisas;(6) e Juiz do mundo:(7) a quem ele, desde toda a eternidade, deu um povo para ser sua semente(8) e para ser por ele, no tempo, remido, chamado, justificado, santificado e glorificado.(9)
 >
-> - (1) Is 42:1; 1Pe 1:19,20; Jo 3:16; 1Tm 2:5.
-> - (2) At 3:22.
-> - (3) Hb 5:5,6.
-> - (4) Sl 2:6; Lc 1:33.
-> - (5) Ef 5:23.
-> - (6) Hb 1:2.
-> - (7) At 17:31.
-> - (8) Jo 17:6; Sl 22:30; Is 53:10.
-> - (9) 1Tm 2:6; Is 55:4,5; 1Co 1:30.
+> (1) Is 42:1; 1Pe 1:19,20; Jo 3:16; 1Tm 2:5.
+> (2) At 3:22.
+> (3) Hb 5:5,6.
+> (4) Sl 2:6; Lc 1:33.
+> (5) Ef 5:23.
+> (6) Hb 1:2.
+> (7) At 17:31.
+> (8) Jo 17:6; Sl 22:30; Is 53:10.
+> (9) 1Tm 2:6; Is 55:4,5; 1Co 1:30.
 
 Tendo já estabelecido a doutrina da eleição soberana de Deus e a doutrina da aliança da graça entre o Pai e Seu Filho, esta seção ensina que Cristo, como mediador, é tanto Deus quanto homem, exercendo Sua autoridade como profeta, sacerdote e rei. Além disso, Ele é o Cabeça e Salvador de Sua Igreja, Herdeiro de todas as coisas e Juiz do mundo.
 
@@ -87,11 +87,11 @@ Aquele elemento do domínio de Cristo que será exercido em seu julgamento de ho
 ## SEÇÃO 2
 > O Filho de Deus, a segunda pessoa da Trindade, sendo verdadeiro e eterno Deus, de uma só substância e igual ao Pai, no cumprimento dos tempos, tomou sobre si a natureza humana,(10) com todas as propriedades essenciais e enfermidades comuns a ela, contudo sem pecado;(11) sendo concebido pelo poder do Espírito Santo no ventre da Virgem Maria, da substância dela.(12) De sorte que duas naturezas inteiras, perfeitas e distintas, a Divindade e a humanidade, foram inseparavelmente unidas em uma só pessoa, sem conversão, composição ou confusão.(13) Essa pessoa é verdadeiro Deus e verdadeiro homem, contudo um só Cristo, o único Mediador entre Deus e o homem.(14)
 >
-> - (10) Jo 1:1,14; 1Jo 5:20; Fp 2:6; Gl 4:4.
-> - (11) Hb 2:14,16,17; 4:15.
-> - (12) Lc 1:27,31,35; Gl 4:4.
-> - (13) Lc 1:35; Cl 2:9; Rm 9:5; 1Pe 3:18; 1Tm 3:16.
-> - (14) Rm 1:3,4; 1Tm 2:5.
+> (10) Jo 1:1,14; 1Jo 5:20; Fp 2:6; Gl 4:4.
+> (11) Hb 2:14,16,17; 4:15.
+> (12) Lc 1:27,31,35; Gl 4:4.
+> (13) Lc 1:35; Cl 2:9; Rm 9:5; 1Pe 3:18; 1Tm 3:16.
+> (14) Rm 1:3,4; 1Tm 2:5.
 
 O assunto desta seção é a constituição da pessoa do Mediador como o Deus-homem. Tendo provado (cap. 2, s. 3) que Jesus Cristo é o único Deus; a segunda pessoa da Trindade, de uma substância e igual ao Pai, esta seção aprofunda-se na personalidade e naturezas de Cristo.
 
@@ -137,25 +137,25 @@ Embora seja apenas uma pessoa, as naturezas divina e humana em Cristo não estã
 ## SEÇÃO 4
 > ESSE ofício o Senhor Jesus empreendeu mui voluntariamente;(22) para que pudesse desempenhá-lo, nasceu sob a lei(23) e a cumpriu perfeitamente;(24) suportou as mais terríveis aflições imediatamente em sua alma(25) e os mais dolorosos sofrimentos em seu corpo;(26) foi crucificado e morreu;(27) foi sepultado e permaneceu sob o poder da morte, contudo não viu corrupção.(28) Ao terceiro dia, ressuscitou dos mortos,(29) com o mesmo corpo em que sofrera;(30) com o qual também subiu ao céu e lá está sentado à destra de seu Pai,(31) fazendo intercessão;(32) e voltará para julgar os homens e os anjos no fim do mundo.(33)
 >
-> - (15) Sl 45:7; Jo 3:34.
-> - (16) Cl 2:3.
-> - (17) Cl 1:19.
-> - (18) Hb 7:26, Jo 1:14.
-> - (19) At 10:38; Hb 12:24; 7:22.
-> - (20) Hb 5:4,5.
-> - (21) Jo 5:22,27; Mt 28:18; At 2:36.
-> - (22) Sl 40:7,8; Hb 10:5-10; Jo 10:18; Fp 2:8.
-> - (23) Gl 4:4.
-> - (24) Mt 3:15; 5:17.
-> - (25) Mt 26:37,38; Lc 22:44; Mt 27:46.
-> - (26) Mt 26, 27.
-> - (27) Fp 2:8.
-> - (28) At 2:23,24,27; At 13:37; Rm 6:9.
-> - (29) 1Co 15:3-5.
-> - (30) Jo 20:25,27.
-> - (31) Mc 16:19.
-> - (32) Rm 14:9,10; Hb 9:24; 7:25.
-> - (33) Rm 14:9,10; At 1:11: 10:42; Mt 13:40-42; Jd 6; 2Pe 2:4.
+> (15) Sl 45:7; Jo 3:34.
+> (16) Cl 2:3.
+> (17) Cl 1:19.
+> (18) Hb 7:26, Jo 1:14.
+> (19) At 10:38; Hb 12:24; 7:22.
+> (20) Hb 5:4,5.
+> (21) Jo 5:22,27; Mt 28:18; At 2:36.
+> (22) Sl 40:7,8; Hb 10:5-10; Jo 10:18; Fp 2:8.
+> (23) Gl 4:4.
+> (24) Mt 3:15; 5:17.
+> (25) Mt 26:37,38; Lc 22:44; Mt 27:46.
+> (26) Mt 26, 27.
+> (27) Fp 2:8.
+> (28) At 2:23,24,27; At 13:37; Rm 6:9.
+> (29) 1Co 15:3-5.
+> (30) Jo 20:25,27.
+> (31) Mc 16:19.
+> (32) Rm 14:9,10; Hb 9:24; 7:25.
+> (33) Rm 14:9,10; At 1:11: 10:42; Mt 13:40-42; Jd 6; 2Pe 2:4.
 
 Agora, estas seções procedem a tratar do efeito da união hipostática de Cristo sobre sua natureza humana; Sua função única como Deus-Homem Mediador, tendo sido voluntariamente nomeado para este ofício pelo Pai; Seu desempenho das funções mediadoras na humilhação e na exaltação.
 
@@ -242,9 +242,9 @@ Com a apresentação de "seu próprio sangue" (Hb 9:12,24), ele pleiteia por aqu
 ## SEÇÃO 6
 > EMBORA a obra da redenção não fosse realmente realizada por Cristo senão depois da sua encarnação, contudo a virtude, a eficácia e os benefícios dela foram comunicados aos eleitos em todas as eras sucessivamente, desde o princípio do mundo, naquelas promessas, tipos e sacrifícios e por meio deles, nos quais ele foi revelado e designado como a semente da mulher que esmagaria a cabeça da serpente, e como o Cordeiro morto desde o princípio do mundo, sendo ele o mesmo ontem, hoje e para sempre.(36)
 >
-> - (34) Rm 5:19; Hb 9:14,16; 10:14; Ef 5:2; Rm 3:25,26.
-> - (35) Dn 9:24,26; Cl 1:19,20; Ef 1:11,14; Jo 17:2; Hb 9:12,15.
-> - (36) Gl 4:4,5; Gn 3:15; Ap 13:8; Hb 13:8.
+> (34) Rm 5:19; Hb 9:14,16; 10:14; Ef 5:2; Rm 3:25,26.
+> (35) Dn 9:24,26; Cl 1:19,20; Ef 1:11,14; Jo 17:2; Hb 9:12,15.
+> (36) Gl 4:4,5; Gn 3:15; Ap 13:8; Hb 13:8.
 
 Compare o capítulo 11, s. 3: "Cristo, por sua obediência e morte, pagou plenamente a dívida de todos os que são assim justificados e fez por eles, em favor deles, uma satisfação própria, real e plena à justiça de seu Pai."
 
@@ -283,8 +283,8 @@ Isto foi provado extensamente e ilustrado (cap. 7. ss. 5, 6).
 ## SEÇÃO 7
 > CRISTO, na obra de mediação, age segundo ambas as naturezas, fazendo cada natureza o que lhe é próprio;(37) contudo, em razão da unidade da pessoa, aquilo que é próprio de uma natureza é às vezes, na Escritura, atribuído à pessoa denominada pela outra natureza.(38)
 >
-> - (37) Hb 9:14; 1Pe 3:18.
-> - (38) At 20:28; Jo 3:13; 1Jo 3:16.
+> (37) Hb 9:14; 1Pe 3:18.
+> (38) At 20:28; Jo 3:13; 1Jo 3:16.
 
 Sob a seção 2., vimos: (1) Que Jesus de Nazaré era um homem verdadeiro. (2) Que ele era verdadeiro Deus. (3) Que ele era, no entanto, uma única pessoa. (4) Que sua personalidade é eterna e divina, tendo sua natureza humana sido gerada na pessoa preexistente do Filho. (5) Que estas duas naturezas permanecem em uma só pessoa, contudo divindade e humanidade distintas e inalteradas, sem mistura ou confusão. Esta seção procede a afirmar:
 
@@ -305,11 +305,11 @@ Assim, como mostrado acima sob a seção 2., as Escrituras frequentemente dizem 
 ## SEÇÃO 8
 > CRISTO certamente e eficazmente aplica e comunica a redenção a todos aqueles para quem ele a adquiriu;(39) fazendo intercessão por eles;(40) revelando-lhes na Palavra e pela Palavra os mistérios da salvação;(41) persuadindo-os eficazmente pelo seu Espírito a crer e a obedecer; governando os seus corações pela sua Palavra e pelo seu Espírito;(42) vencendo todos os seus inimigos pelo seu onipotente poder e sabedoria, da maneira e pelos meios mais conformes à sua maravilhosa e inescrutável dispensação.(43)
 >
-> - (39) Jo 6:37,39; 10:15,16.
-> - (40) 1Jo 2:1,2; Rm 8:34.
-> - (41) Jo 15:13,15; Ef 1:7-9; Jo 17:6.
-> - (42) Jo 14:16; Hb 12:2; 2Co 4:13; Rm 8:9,14; 15:18,19; Jo 17:17.
-> - (43) Sl 110:1; 1Co 15:25,26; Ml 4:2,3; Cl 2:15.
+> (39) Jo 6:37,39; 10:15,16.
+> (40) 1Jo 2:1,2; Rm 8:34.
+> (41) Jo 15:13,15; Ef 1:7-9; Jo 17:6.
+> (42) Jo 14:16; Hb 12:2; 2Co 4:13; Rm 8:9,14; 15:18,19; Jo 17:17.
+> (43) Sl 110:1; 1Co 15:25,26; Ml 4:2,3; Cl 2:15.
 
 Esta seção ensina:
 

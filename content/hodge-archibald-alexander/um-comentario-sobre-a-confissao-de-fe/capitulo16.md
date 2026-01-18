@@ -3,21 +3,21 @@
 ## SEÇÃO 1
 > Boas obras são apenas aquelas que Deus ordenou em sua santa Palavra, (1) e não aquelas que, sem autoridade desta, são inventadas pelos homens, movidos por um zelo cego ou sob qualquer pretexto de boa intenção. (2)
 >
-> - (1) Mq 6:8; Rom. 12:2; Heb. 13:21
-> - (2) Mat. 15:9; Isa. 29:13; 1 Pedro 1:18; João 16:2; Rom. 10:2; 1 Sam. 15:21-23; Deut. 10:12-13; Col. 2:16-17, 20-23
+> (1) Mq 6:8; Rom. 12:2; Heb. 13:21
+> (2) Mat. 15:9; Isa. 29:13; 1 Pedro 1:18; João 16:2; Rom. 10:2; 1 Sam. 15:21-23; Deut. 10:12-13; Col. 2:16-17, 20-23
 
 ## SEÇÃO 2
 > Estas boas obras, feitas em obediência aos mandamentos de Deus, são os frutos e evidências de uma fé verdadeira e viva: (3) e por elas os crentes manifestam sua gratidão, (4) fortalecem sua segurança, (5) edificam seus irmãos, (6) adornam a profissão do evangelho, (7) tapam a boca dos adversários (8) e glorificam a Deus, (9) de quem são feitura, criados em Cristo Jesus para isso mesmo, (10) para que, tendo o seu fruto para a santificação, tenham por fim a vida eterna. (11)
 >
-> - (3) Tiago 2:18, 22
-> - (4) Sal. 116:12-14; Col. 3:15-17; 1 Pedro 2:9
-> - (5) 1 João 2:3, 5; 2 Pedro 1:5-10
-> - (6) 2 Cor. 9:2; Mat. 5:16; 1 Tim. 4:12
-> - (7) Tito 2:5, 9-12; 1 Tim. 6:1
-> - (8) 1 Pedro 2:15
-> - (9) 1 Pedro 2:12; Fil. 1:11; João 15:8
-> - (10) Ef. 2:10
-> - (11) Rom. 6:22
+> (3) Tiago 2:18, 22
+> (4) Sal. 116:12-14; Col. 3:15-17; 1 Pedro 2:9
+> (5) 1 João 2:3, 5; 2 Pedro 1:5-10
+> (6) 2 Cor. 9:2; Mat. 5:16; 1 Tim. 4:12
+> (7) Tito 2:5, 9-12; 1 Tim. 6:1
+> (8) 1 Pedro 2:15
+> (9) 1 Pedro 2:12; Fil. 1:11; João 15:8
+> (10) Ef. 2:10
+> (11) Rom. 6:22
 
 Estas seções ensinam as seguintes proposições:
 
@@ -49,9 +49,9 @@ Os efeitos e utilidades das boas obras na vida cristã são múltiplos, tais com
 ## SEÇÃO 3
 > A sua capacidade de fazer boas obras não é de modo algum deles mesmos, mas inteiramente do Espírito de Cristo. (12) E para que sejam habilitados para isso, além das graças que já receberam, é necessária uma influência real do mesmo Espírito Santo para operar neles tanto o querer como o realizar, segundo o seu beneplácito; (13) contudo, não devem por isso tornar-se negligentes, como se não estivessem obrigados a cumprir qualquer dever senão mediante um movimento especial do Espírito; mas devem ser diligentes em despertar a graça de Deus que neles há. (14)
 >
-> - (12) João 15:4-6; Rom. 8:4-14; Ezeq. 36:26-27
-> - (13) Fil. 2:13; 4:13; 2 Cor. 3:5; Ef. 3:16
-> - (14) Fil. 2:12; Heb. 6:11-12; 2 Pedro 1:3, 5, 10-11; Isa. 64:7; 2 Tim. 1:6; Atos 26:6-7; Judas 1:20-21
+> (12) João 15:4-6; Rom. 8:4-14; Ezeq. 36:26-27
+> (13) Fil. 2:13; 4:13; 2 Cor. 3:5; Ef. 3:16
+> (14) Fil. 2:12; Heb. 6:11-12; 2 Pedro 1:3, 5, 10-11; Isa. 64:7; 2 Tim. 1:6; Atos 26:6-7; Judas 1:20-21
 
 Como vimos no capítulo 10, na regeneração o Espírito Santo implanta um princípio ou hábito santo permanente na alma, que continua para sempre sendo o germe ou semente de onde procedem todas as afeições graciosas e exercícios santos. No que diz respeito à implantação deste princípio santo permanente pelo Espírito Santo, a alma é passiva. Mas, no instante em que esta nova disposição ou tendência moral é implantada na alma, naturalmente o caráter moral de seus exercícios muda, e a alma torna-se ativa em boas obras, como antes fora em obras más. Mas, como também vimos no capítulo 13, a santificação é uma obra da livre graça de Deus, na qual ele continua graciosamente a sustentar, nutrir e guiar o exercício do hábito permanente da graça que ele implantou na regeneração. O homem regenerado depende da habitação contínua, do impulso e do poder sustentador e habilitador do Espírito Santo em cada ato de obediência no exercício da graça; no entanto, como os atos de obediência para cuja realização o Espírito o impulsiona e habilita são seus próprios atos, segue-se que ele, enquanto busca a orientação e o apoio da graça, deve cooperar ativamente com ela, agindo, como todo agente livre, sob a influência de motivos e de um senso de responsabilidade pessoal. Portanto, esta seção afirma:
 
@@ -62,22 +62,22 @@ Como vimos no capítulo 10, na regeneração o Espírito Santo implanta um princ
 ## SEÇÃO 4
 > Aqueles que, em sua obediência, atingem a maior altura possível nesta vida, estão tão longe de serem capazes de realizar obras de supererrogação e fazer mais do que Deus requer, que ficam aquém de muito do que, por dever, são obrigados a fazer. (15)
 >
-> - (15) Lucas 17:10; Nee. 13:22; Rom. 8:21-25; Gál. 5:17
+> (15) Lucas 17:10; Nee. 13:22; Rom. 8:21-25; Gál. 5:17
 
 ## SEÇÃO 5
 > Não podemos, pelas nossas melhores obras, merecer das mãos de Deus o perdão do pecado ou a vida eterna, devido à grande desproporção entre elas e a glória vindoura; e à distância infinita que há entre nós e Deus, a quem, por meio delas, não podemos nem beneficiar, nem satisfazer a dívida de nossos pecados anteriores, (16) mas quando tivermos feito tudo o que podemos, apenas cumprimos o nosso dever e somos servos inúteis: (17) e porque, sendo elas boas, procedem do seu Espírito; (18) e sendo praticadas por nós, são contaminadas e misturadas com tanta fraqueza e imperfeição, que não podem suportar a severidade do julgamento de Deus. (19)
 >
-> - (16) Rom. 3:20; 4:2, 4, 6; 8:18, 22-24; Ef. 2:8-9; Tito 3:5-7; Sal. 16:2; Jó 22:2-3, 35:7-8
-> - (17) Lucas 17:10
-> - (18) Rom. 8:13-14; Gál. 5:22-23
-> - (19) Isa. 64:6; Gál. 5:17; Rom. 7:15, 18; Sal. 130:3; 143:2
+> (16) Rom. 3:20; 4:2, 4, 6; 8:18, 22-24; Ef. 2:8-9; Tito 3:5-7; Sal. 16:2; Jó 22:2-3, 35:7-8
+> (17) Lucas 17:10
+> (18) Rom. 8:13-14; Gál. 5:22-23
+> (19) Isa. 64:6; Gál. 5:17; Rom. 7:15, 18; Sal. 130:3; 143:2
 
 ## SEÇÃO 6
 > Não obstante, sendo as pessoas dos crentes aceitas por meio de Cristo, as suas boas obras também são aceitas nele; (20) não como se fossem nesta vida inteiramente irrepreensíveis e isentas de culpa à vista de Deus; (21) mas porque ele, olhando para elas em seu Filho, agrada-se em aceitar e premiar aquilo que é sincero, embora acompanhado de muitas fraquezas e imperfeições. (22)
 >
-> - (20) Ef. 1:6; 1 Pedro 2:5; ver Êxo. 28:38; Gên. 4:4; Heb. 11:4
-> - (21) Jó 9:20; Sal. 143:2; 1 João 1:8
-> - (22) Heb. 6:10; 13:20-21; 2 Cor. 8:12; Mat. 25:21, 23; 1 Cor. 3:14; 4:5
+> (20) Ef. 1:6; 1 Pedro 2:5; ver Êxo. 28:38; Gên. 4:4; Heb. 11:4
+> (21) Jó 9:20; Sal. 143:2; 1 João 1:8
+> (22) Heb. 6:10; 13:20-21; 2 Cor. 8:12; Mat. 25:21, 23; 1 Cor. 3:14; 4:5
 
 Estas seções ensinam:
 
@@ -121,12 +121,12 @@ Na dispensação do evangelho, a obra graciosa do crente e a recompensa graciosa
 ## SEÇÃO 7
 > As obras feitas pelos homens não regenerados, embora quanto à matéria possam ser coisas que Deus ordena, e de utilidade tanto para si mesmos como para os outros: (23) contudo, porque não procedem de um coração purificado pela fé; (24) nem são feitas de maneira correta, segundo a Palavra; (25) nem para um fim correto, a glória de Deus, (26) são, portanto, pecaminosas e não podem agradar a Deus, nem tornar o homem apto para receber a graça de Deus: (27) e contudo, a negligência delas é mais pecaminosa e desagradável a Deus. (28)
 >
-> - (23) 2 Reis 10:30-31; 1 Reis 21:27, 29; Lucas 6:32-34; 18:2-7; ver Rom. 13:4
-> - (24) Heb. 11:4, 6; ver Gên. 4:3-5
-> - (25) 1 Cor. 13:3; Isa. 1:12
-> - (26) Mat. 6:2, 5, 16; 1 Cor. 10:31
-> - (27) Prov. 21:27; Ageu 2:14; Tito 1:15; Amós 5:21-22; Marcos 7:6-7; Oséias 1:4; Rom. 9:16; Tito 3:5
-> - (28) Isa. 14:4; 36:3; Mat. 23:23; 25:41-45; ver Rom. 1:21-32
+> (23) 2 Reis 10:30-31; 1 Reis 21:27, 29; Lucas 6:32-34; 18:2-7; ver Rom. 13:4
+> (24) Heb. 11:4, 6; ver Gên. 4:3-5
+> (25) 1 Cor. 13:3; Isa. 1:12
+> (26) Mat. 6:2, 5, 16; 1 Cor. 10:31
+> (27) Prov. 21:27; Ageu 2:14; Tito 1:15; Amós 5:21-22; Marcos 7:6-7; Oséias 1:4; Rom. 9:16; Tito 3:5
+> (28) Isa. 14:4; 36:3; Mat. 23:23; 25:41-45; ver Rom. 1:21-32
 
 Esta seção ensina:
 

@@ -3,21 +3,21 @@
 ## SEÇÃO 1
 > A igreja católica ou universal, que é invisível, consiste no número total dos eleitos que já foram, são ou serão reunidos em um só corpo, sob Cristo, seu Cabeça; e é a esposa, o corpo, a plenitude daquele que enche tudo em todos.(1)
 >
-> - (1) Ef. 1:10, 22-23; 5:23, 27, 32; Cl. 1:18
+> (1) Ef. 1:10, 22-23; 5:23, 27, 32; Cl. 1:18
 
 ## SEÇÃO 2
 > A igreja visível, que também é católica ou universal sob o evangelho (não restrita a uma única nação, como antes sob a lei), consiste em todos aqueles que, em todo o mundo, professam a verdadeira religião;(2) e de seus filhos:(3) e é o reino do Senhor Jesus Cristo,(4) a casa e família de Deus,(5) fora da qual não há possibilidade ordinária de salvação.(6)
 >
-> - (2) 1 Co. 1:2; 12:12-13; Sl. 2:8; Ap. 7:9; Rm. 15:9-12
-> - (3) 1 Co. 7:14; At. 2:39; Gn. 17:7-12; Ez. 16:20-21; Rm. 11:16; veja Gl. 3:7, 9, 14; Rm. 4:12, 16, 24
-> - (4) Mt. 13:47; Is. 9:7; Lc. 1:32-33; At. 2:30-36; Cl. 1:13
-> - (5) Ef. 2:19; 3:15
-> - (6) At. 2:47
+> (2) 1 Co. 1:2; 12:12-13; Sl. 2:8; Ap. 7:9; Rm. 15:9-12
+> (3) 1 Co. 7:14; At. 2:39; Gn. 17:7-12; Ez. 16:20-21; Rm. 11:16; veja Gl. 3:7, 9, 14; Rm. 4:12, 16, 24
+> (4) Mt. 13:47; Is. 9:7; Lc. 1:32-33; At. 2:30-36; Cl. 1:13
+> (5) Ef. 2:19; 3:15
+> (6) At. 2:47
 
 ## SEÇÃO 3
 > A esta igreja católica visível, Cristo deu o ministério, os oráculos e as ordenanças de Deus, para o ajuntamento e aperfeiçoamento dos santos nesta vida, até o fim do mundo: e, por sua própria presença e Espírito, segundo sua promessa, os torna eficazes para esse fim.(7)
 >
-> - (7) 1 Co. 12:28; Ef. 4:11-13; Mt. 28:19-20; Is. 59:12
+> (7) 1 Co. 12:28; Ef. 4:11-13; Mt. 28:19-20; Is. 59:12
 
 A palavra católica significa universal e, portanto, é o título apropriado da verdadeira Igreja de Cristo, vista como um corpo, composto por muitos membros, existindo em diferentes lugares e em diferentes tempos; e é, consequentemente, aplicada de forma muito imprópria àquele corpo corrupto e cismático, a Igreja de Roma.
 
@@ -62,21 +62,21 @@ Estas seções ensinam que fora dos limites desta Igreja visível universal não
 ## SEÇÃO 4
 > Esta igreja católica tem sido às vezes mais, às vezes menos visível.(8) E as igrejas particulares, que são membros dela, são mais ou menos puras, conforme a doutrina do evangelho é ensinada e abraçada, as ordenanças administradas e o culto público realizado com maior ou menor pureza nelas.(9)
 >
-> - (8) Rm. 11:3-5; At. 2:41, 47; 9:31; 18:8-10
-> - (9) At. 2:41-42; 1 Co. 5:6-7; Ap. caps. 2-3
+> (8) Rm. 11:3-5; At. 2:41, 47; 9:31; 18:8-10
+> (9) At. 2:41-42; 1 Co. 5:6-7; Ap. caps. 2-3
 
 ## SEÇÃO 5
 > As igrejas mais puras sob o céu estão sujeitas tanto à mistura quanto ao erro;(10) e algumas degeneraram tanto a ponto de não serem mais igrejas de Cristo, mas sinagogas de Satanás.(11) Não obstante, haverá sempre uma igreja na terra para adorar a Deus segundo a sua vontade.(12)
 >
-> - (10) 1 Co. 13:12; Ap. caps. 2-3; Mt. 13:24-30, 47
-> - (11) Mt. 23:37-39; Rm. 11:18-22
-> - (12) Mt. 16:18; Sl. 45:16-7; 72:17; Mt. 28:19-20; 1 Co. 15:51-52; 1 Ts. 4:17
+> (10) 1 Co. 13:12; Ap. caps. 2-3; Mt. 13:24-30, 47
+> (11) Mt. 23:37-39; Rm. 11:18-22
+> (12) Mt. 16:18; Sl. 45:16-7; 72:17; Mt. 28:19-20; 1 Co. 15:51-52; 1 Ts. 4:17
 
 ## SEÇÃO 6
 > Não há outro cabeça da igreja senão o Senhor Jesus Cristo.(13) Nem pode o papa de Roma, em qualquer sentido, ser cabeça dela;(14) mas é aquele Anticristo, aquele homem do pecado e filho da perdição, que se exalta, na Igreja, contra Cristo e tudo o que se chama Deus.
 >
-> - (13) Cl. 1:18; Ef. 1:22
-> - (14) Mt. 23:8-10; 1 Pedro 5:2-4
+> (13) Cl. 1:18; Ef. 1:22
+> (14) Mt. 23:8-10; 1 Pedro 5:2-4
 
 Tudo o que é ensinado nestas seções segue necessariamente do que verificamos acima quanto à natureza da Igreja visível: --
 

@@ -3,21 +3,21 @@
 ## SEÇÃO 1
 > O matrimônio deve ser entre um homem e uma mulher; a nenhum homem é lícito ter mais de uma esposa, nem a nenhuma mulher mais de um marido, ao mesmo tempo.(1)
 >
-> - (1) Gn 2:24; Mt 19:4-6; Rm 7:3; Pv 2:17
+> (1) Gn 2:24; Mt 19:4-6; Rm 7:3; Pv 2:17
 
 ## SEÇÃO 2
 > O matrimônio foi ordenado para o auxílio mútuo de marido e esposa, (2) para o aumento do gênero humano com uma posteridade legítima e da igreja com uma semente santa;(3) e para a prevenção da impureza.(4)
 >
-> - (2) Gn 2:18; Ef 5:28; 1 Pe 3:7
-> - (3) Gn 1:28; 9:1; Ml 2:15
-> - (4) 1 Co 7:2, 9
+> (2) Gn 2:18; Ef 5:28; 1 Pe 3:7
+> (3) Gn 1:28; 9:1; Ml 2:15
+> (4) 1 Co 7:2, 9
 
 ## SEÇÃO 3
 > É lícito a todo tipo de pessoas casar, desde que sejam capazes de dar seu consentimento com juízo.(5) Contudo, é dever dos cristãos casar somente no Senhor.(6) E, portanto, aqueles que professam a verdadeira religião reformada não devem casar-se com infiéis, papistas ou outros idólatras; nem devem os piedosos estar em jugo desigual, casando-se com aqueles que são notoriamente ímpios em suas vidas ou que mantêm heresias condenáveis.(7)
 >
-> - (5) Hb 13:4; 1 Tm 4:3; 1 Co 7:36-38; Gn 24:57, 58
-> - (6) 1 Co 7:39
-> - (7) Gn 34:14; Ex 34:16; veja 2 Co 6:14; Dt 7:3-4; 1 Rs 11:4; Ne 13:25-27; Ml 2:11-12
+> (5) Hb 13:4; 1 Tm 4:3; 1 Co 7:36-38; Gn 24:57, 58
+> (6) 1 Co 7:39
+> (7) Gn 34:14; Ex 34:16; veja 2 Co 6:14; Dt 7:3-4; 1 Rs 11:4; Ne 13:25-27; Ml 2:11-12
 
 É ensinado nestas seções: --
 
@@ -69,21 +69,21 @@ No entanto, permanece o fato de que os verdadeiros cristãos devem, tanto a Cris
 ## SEÇÃO 4
 > O matrimônio não deve ser dentro dos graus de consanguinidade ou afinidade proibidos pela Palavra.(8) Nem podem tais matrimônios incestuosos jamais se tornarem lícitos por qualquer lei humana ou consentimento das partes, de modo que tais pessoas possam viver juntas como marido e mulher.(9) O homem não pode casar com nenhuma das parentes de sua esposa que seja mais próxima em sangue do que as suas próprias; nem a mulher com os parentes de seu marido que sejam mais próximos em sangue do que os seus próprios.
 >
-> - (8) Lv 18:6-17; 24-30; Lv 20:19; 1 Co 5:1; Am 2:7
-> - (9) Mc 6:18; Lv 18:24-28
+> (8) Lv 18:6-17; 24-30; Lv 20:19; 1 Co 5:1; Am 2:7
+> (9) Mc 6:18; Lv 18:24-28
 
 ## SEÇÃO 5
 > O adultério ou a fornicação cometidos após um contrato, sendo detectados antes do matrimônio, dão justa ocasião à parte inocente para dissolver esse contrato.(10) No caso de adultério após o matrimônio, é lícito à parte inocente requerer o divórcio:(11) e, após o divórcio, casar com outro, como se a parte infratora estivesse morta.(12)
 >
-> - (10) Mt 1:18-20; veja Dt 22:23-24
-> - (11) Mt 5:31-32
-> - (12) Mt 19:9; Rm 7:2-3
+> (10) Mt 1:18-20; veja Dt 22:23-24
+> (11) Mt 5:31-32
+> (12) Mt 19:9; Rm 7:2-3
 
 ## SEÇÃO 6
 > Embora a corrupção do homem seja tal que o inclina a buscar argumentos indevidos para separar aqueles que Deus uniu no matrimônio: contudo, nada senão o adultério, ou tal abandono obstinado que não possa de modo algum ser remediado pela igreja ou pelo magistrado civil, é causa suficiente para dissolver o vínculo matrimonial:(13) no que deve ser observado um processo público e ordenado; e as pessoas envolvidas nele não devem ser deixadas às suas próprias vontades e discrição, em seu próprio caso.(14)
 >
-> - (13) Mt 19:8-9; 1 Co 7:15; Mt 19:6
-> - (14) Dt 24:1-4
+> (13) Mt 19:8-9; 1 Co 7:15; Mt 19:6
+> (14) Dt 24:1-4
 
 Estas seções ensinam a lei divina do matrimônio quanto ao incesto e ao divórcio.
 

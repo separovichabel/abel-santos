@@ -3,10 +3,10 @@
 ## SEÇÃO 1:
 > Os corpos dos homens, após a morte, retornam ao pó e veem a corrupção (1): mas suas almas, que não morrem nem dormem, tendo uma subsistência imortal, retornam imediatamente a Deus que as deu (2): as almas dos justos, sendo então feitas perfeitas em santidade, são recebidas no mais alto dos céus, onde contemplam a face de Deus, em luz e glória, aguardando a plena redenção de seus corpos (3). E as almas dos ímpios são lançadas no inferno, onde permanecem em tormentos e total escuridão, reservadas para o julgamento do grande dia (4). Além desses dois lugares para as almas separadas de seus corpos, a Escritura não reconhece nenhum outro.
 >
-> - (1) Gn 3:19; At 13:36
-> - (2) Lc 23:43; Ec 12:7
-> - (3) Hb 12:23; 2 Co 5:1, 6, 8; Fp 1:23; At 3:21; Ef 4:10; Rm 8:23
-> - (4) Lc 16:23-24; At 1:25; Jd 1:6-7; 1 Pe 3:19
+> (1) Gn 3:19; At 13:36
+> (2) Lc 23:43; Ec 12:7
+> (3) Hb 12:23; 2 Co 5:1, 6, 8; Fp 1:23; At 3:21; Ef 4:10; Rm 8:23
+> (4) Lc 16:23-24; At 1:25; Jd 1:6-7; 1 Pe 3:19
 
 Esta seção ensina —
 
@@ -58,13 +58,13 @@ Esta doutrina é falsa porque —
 ## SEÇÃO 2:
 > No último dia, aqueles que forem encontrados vivos não morrerão, mas serão transformados (5): e todos os mortos serão ressuscitados com os mesmos corpos, e não outros (embora com qualidades diferentes), os quais serão unidos novamente às suas almas para sempre (6).
 >
-> - (5) 1 Tess 4:17; 1 Co 15:51-52
-> - (6) Jo 5:25-29; At 24:15; Jó 19:26-27; Dn 12:2; 1 Co 15:42-44
+> (5) 1 Tess 4:17; 1 Co 15:51-52
+> (6) Jo 5:25-29; At 24:15; Jó 19:26-27; Dn 12:2; 1 Co 15:42-44
 
 ## SEÇÃO 3:
 > Os corpos dos injustos serão, pelo poder de Cristo, ressuscitados para a desonra; os corpos dos justos, pelo seu Espírito, para a honra, e feitos conformes ao seu próprio corpo glorioso (7).
 >
-> - (7) At 24:15; Jo 5:25-29; 1 Co 15:43; Fp 3:21
+> (7) At 24:15; Jo 5:25-29; 1 Co 15:43; Fp 3:21
 
 Estas seções ensinam —
 

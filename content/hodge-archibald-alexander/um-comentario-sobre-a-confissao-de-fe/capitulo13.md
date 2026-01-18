@@ -3,27 +3,27 @@
 ## SEÇÃO 1:
 > Aqueles que são uma vez eficazmente chamados e regenerados, tendo um novo coração e um novo espírito criados neles, são ainda mais santificados, real e pessoalmente, mediante a virtude da morte e ressurreição de Cristo,(1) por sua Palavra e Espírito que neles habitam:(2) o domínio de todo o corpo do pecado é destruído,(3) e as várias concupiscências dele são cada vez mais enfraquecidas e mortificadas;(4) e eles são cada vez mais vivificados e fortalecidos em todas as graças salvadoras,(5) para a prática da verdadeira santidade, sem a qual ninguém verá o Senhor.(6)
 >
-> - (1) 1 Tess. 5:23-24; 2 Tess. 2:13-14; Ez. 36:22-28; Tito 3:5; Atos 20:32; Fp. 3:10; Rm. 6:5-6
-> - (2) Jo. 17:17, 19; Ef. 5:26; Rm. 8:13-14; 2 Tess. 2:13
-> - (3) Rm. 6:6, 14
-> - (4) Gl. 5:24; Rm. 8:13
-> - (5) Cl. 1:10-11; Ef. 3:16-19
-> - (6) 2 Co. 7:1; Cl. 1:28, 4:12; Hb. 12:14
+> (1) 1 Tess. 5:23-24; 2 Tess. 2:13-14; Ez. 36:22-28; Tito 3:5; Atos 20:32; Fp. 3:10; Rm. 6:5-6
+> (2) Jo. 17:17, 19; Ef. 5:26; Rm. 8:13-14; 2 Tess. 2:13
+> (3) Rm. 6:6, 14
+> (4) Gl. 5:24; Rm. 8:13
+> (5) Cl. 1:10-11; Ef. 3:16-19
+> (6) 2 Co. 7:1; Cl. 1:28, 4:12; Hb. 12:14
 
 ## SEÇÃO 2:
 > Esta santificação é em todo o homem;(7) contudo, é imperfeita nesta vida, permanecendo ainda alguns remanescentes da corrupção em cada parte;(8) de onde surge uma guerra contínua e irreconciliável: a carne cobiçando contra o Espírito, e o Espírito contra a carne.(9)
 >
-> - (7) 1 Tess. 5:12; Rm. 12:1-2
-> - (8) 1 Jo. 1:8-10; Rm. 7:14-25; Fp. 3:12
-> - (9) Gl. 5:17
+> (7) 1 Tess. 5:12; Rm. 12:1-2
+> (8) 1 Jo. 1:8-10; Rm. 7:14-25; Fp. 3:12
+> (9) Gl. 5:17
 
 ## SEÇÃO 3:
 > Nesta guerra, embora a corrupção restante possa, por um tempo, prevalecer muito;(10) contudo, através do contínuo suprimento de força do Espírito santificador de Cristo, a parte regenerada vence;(11) e assim, os santos crescem em graça,(12) aperfeiçoando a santidade no temor de Deus.(13)
 >
-> - (10) Rm. 7:23
-> - (11) Rm. 6:14; 1 Jo. 5:4; Ef. 4:15-16; veja Rm. 8:2
-> - (12) 2 Pe. 3:18; 2 Co. 3:18
-> - (13) 2 Co. 7:1
+> (10) Rm. 7:23
+> (11) Rm. 6:14; 1 Jo. 5:4; Ef. 4:15-16; veja Rm. 8:2
+> (12) 2 Pe. 3:18; 2 Co. 3:18
+> (13) 2 Co. 7:1
 
 Este capítulo ensina as seguintes proposições: --
 

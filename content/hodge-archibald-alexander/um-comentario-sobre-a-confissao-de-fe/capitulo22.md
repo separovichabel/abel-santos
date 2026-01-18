@@ -3,29 +3,29 @@
 ## SEÇÃO 1
 > Um juramento lícito é uma parte do culto religioso,(1) no qual, em ocasião justa, a pessoa que jura chama solenemente a Deus como testemunha do que assevera ou promete, e para julgá-la segundo a verdade ou falsidade do que jura.(2)
 >
-> - (1) Dt 10:20; Is 45:23; Rm 14:11; Fp 2:10-11
-> - (2) Êx 20:7; Lv 19:12; Rm 1:9; 2 Co 1:23; 11:31; Gl 1:20; 2 Cr 6:22-23
+> (1) Dt 10:20; Is 45:23; Rm 14:11; Fp 2:10-11
+> (2) Êx 20:7; Lv 19:12; Rm 1:9; 2 Co 1:23; 11:31; Gl 1:20; 2 Cr 6:22-23
 
 ## SEÇÃO 2
 > Somente o nome de Deus é aquele pelo qual os homens devem jurar, e nele deve ser usado com todo temor e reverência santos.(3) Portanto, jurar vã ou temerariamente por esse Nome glorioso e terrível, ou jurar por qualquer outra coisa, é pecaminoso e deve ser abominado.(4) Contudo, como em assuntos de peso e importância, o juramento é autorizado pela Palavra de Deus, tanto no Novo Testamento quanto no Antigo;(5) assim, um juramento lícito, sendo imposto por autoridade lícita em tais assuntos, deve ser prestado.(6)
 >
-> - (3) Dt 6:12; Js 23:7
-> - (4) Êx 20:7; Jr 5:7; Mt 5:33-37; Tg 5:12
-> - (5) Hb 6:16; 2 Co 1:23; Is 65:16
-> - (6) 1 Rs 8:31; Ne 13:25; Ed 10:5
+> (3) Dt 6:12; Js 23:7
+> (4) Êx 20:7; Jr 5:7; Mt 5:33-37; Tg 5:12
+> (5) Hb 6:16; 2 Co 1:23; Is 65:16
+> (6) 1 Rs 8:31; Ne 13:25; Ed 10:5
 
 ## SEÇÃO 3
 > Quem quer que preste um juramento deve considerar devidamente a gravidade de um ato tão solene e, nele, nada declarar senão o que esteja plenamente convencido de ser a verdade:(7) nem pode homem algum obrigar-se por juramento a qualquer coisa senão ao que é bom e justo, e ao que ele assim acredita ser, e ao que é capaz e está resolvido a realizar.(8) Contudo, é pecado recusar um juramento referente a qualquer coisa que seja boa e justa, sendo imposto por autoridade lícita.
 >
-> - (7) Êx 20:7; Lv 19:12; Jr 4:2; Os 10:4
-> - (8) Gn 24:2-9; Ne 5:12-13; Ec 5:2, 5
+> (7) Êx 20:7; Lv 19:12; Jr 4:2; Os 10:4
+> (8) Gn 24:2-9; Ne 5:12-13; Ec 5:2, 5
 
 ## SEÇÃO 4
 > O juramento deve ser prestado no sentido pleno e comum das palavras, sem equívoco ou reserva mental.(9) Ele não pode obrigar ao pecado; mas em qualquer coisa que não seja pecaminosa, uma vez prestado, obriga ao cumprimento, embora cause dano à própria pessoa.(10) Nem deve ser violado, ainda que feito a heréticos ou infiéis.(11)
 >
-> - (9) Jr 4:2; Sl 24:4
-> - (10) 1 Sm 25:22, 32-34; Sl 15:4
-> - (11) Ez 17:16-19; Js 9:18-19; 2 Sm 21:1
+> (9) Jr 4:2; Sl 24:4
+> (10) 1 Sm 25:22, 32-34; Sl 15:4
+> (11) Ez 17:16-19; Js 9:18-19; 2 Sm 21:1
 
 Os assuntos tratados nestas seções são:
 
@@ -74,19 +74,19 @@ Mas um juramento para fazer o que é em si mesmo correto e vinculativo impõe um
 ## SEÇÃO 5
 > O voto é de natureza semelhante ao juramento promissório e deve ser feito com o mesmo cuidado religioso e cumprido com a mesma fidelidade.(12)
 >
-> - (12) Nm 30:2; Is 19:21; Ec 5:4-6; Sl 61:8; 66:13-14
+> (12) Nm 30:2; Is 19:21; Ec 5:4-6; Sl 61:8; 66:13-14
 
 ## SEÇÃO 6
 > Não deve ser feito a criatura alguma, mas somente a Deus:(13) e, para que seja aceito, deve ser feito voluntariamente, por fé e consciência de dever, em gratidão por misericórdia recebida ou para obter o que desejamos, por meio do qual nos obrigamos mais estritamente a deveres necessários ou a outras coisas, na medida e enquanto puderem conduzir adequadamente a esse fim.(14)
 >
-> - (13) Sl 50:14; 76:11; 116:14
-> - (14) Dt 23:21-23; Gn 28:20-22; 1 Sm 1:11; Sl 66:13-14; 132:2-5
+> (13) Sl 50:14; 76:11; 116:14
+> (14) Dt 23:21-23; Gn 28:20-22; 1 Sm 1:11; Sl 66:13-14; 132:2-5
 
 ## SEÇÃO 7
 > Ninguém pode votar fazer algo proibido na Palavra de Deus, ou o que possa impedir qualquer dever nela ordenado, ou o que não esteja em seu próprio poder e para cuja realização não tenha promessa de capacidade da parte de Deus.(15) Nesses aspectos, os votos monásticos papistas de vida celibatária perpétua, pobreza professa e obediência regular, estão tão longe de serem graus de maior perfeição, que são ciladas supersticiosas e pecaminosas, nas quais cristão algum deve se enredar.(16)
 >
-> - (15) At 23:12-14; Mc 6:26; Nm 30:5, 8, 12-13
-> - (16) Mt 19:11-12; 1 Co 7:2, 9; Hb 13:4; Ef 4:28; 1 Tess 4:11-12; 1 Co 7:23
+> (15) At 23:12-14; Mc 6:26; Nm 30:5, 8, 12-13
+> (16) Mt 19:11-12; 1 Co 7:2, 9; Hb 13:4; Ef 4:28; 1 Tess 4:11-12; 1 Co 7:23
 
 O voto é uma promessa feita a Deus. No juramento, as partes são ambos homens, e Deus é invocado como testemunha. No voto, Deus é a parte a quem a promessa é feita. É de natureza semelhante ao juramento, porque somos obrigados a observá-los pelos mesmos motivos — por causa de nossa obrigação para com a verdade e por causa de nossa obrigação de reverenciar a Deus. Votar levianamente em uma ocasião trivial, ou tendo votado, falhar em cumpri-lo, é um ato de profanação a Deus.
 

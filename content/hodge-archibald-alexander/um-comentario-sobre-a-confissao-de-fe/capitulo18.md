@@ -3,19 +3,19 @@
 ## SEÇÃO 1
 > Embora os hipócritas e outros homens não regenerados possam se enganar vãamente com falsas esperanças e presunções carnais de estarem no favor de Deus e em estado de salvação (1) (esperança esta que perecerá): (2) contudo, aqueles que verdadeiramente creem no Senhor Jesus e o amam com sinceridade, esforçando-se para andar em toda a boa consciência diante dele, podem, nesta vida, estar certamente assegurados de que estão no estado de graça (3) e podem regozijar-se na esperança da glória de Deus, esperança esta que jamais os envergonhará. (4)
 >
-> - (1) Miq. 3:11; Deut. 29:19; João 8:41
-> - (2) Amós 9:10; Mat. 7:22-23
-> - (3) 1 João 2:3; 3:14, 18-19, 21, 24; 5:13
-> - (4) Rom. 5:2, 5
+> (1) Miq. 3:11; Deut. 29:19; João 8:41
+> (2) Amós 9:10; Mat. 7:22-23
+> (3) 1 João 2:3; 3:14, 18-19, 21, 24; 5:13
+> (4) Rom. 5:2, 5
 
 ## SEÇÃO 2
 > Esta certeza não é uma mera persuasão conjectural e provável baseada em uma esperança falível; (5) mas uma segurança infalível de fé, fundada na verdade divina das promessas de salvação, (6) na evidência interna daquelas graças às quais essas promessas são feitas, (7) no testemunho do Espírito de adoção que testifica com os nossos espíritos que somos filhos de Deus, (8) Espírito este que é o penhor da nossa herança, pelo qual somos selados para o dia da redenção. (9)
 >
-> - (5) Heb. 6:11, 19
-> - (6) Heb. 6:17-18
-> - (7) 2 Pedro 1:4-11; 1 João 2:3; 3:14; 2 Cor. 1:12
-> - (8) Rom. 8:15-16
-> - (9) Ef. 1:13-14; 4:30; 2 Cor. 1:21-22
+> (5) Heb. 6:11, 19
+> (6) Heb. 6:17-18
+> (7) 2 Pedro 1:4-11; 1 João 2:3; 3:14; 2 Cor. 1:12
+> (8) Rom. 8:15-16
+> (9) Ef. 1:13-14; 4:30; 2 Cor. 1:21-22
 
 Estas seções ensinam as seguintes proposições:
 
@@ -57,18 +57,18 @@ Alguns sustentaram que a passagem ensina que o Espírito Santo, de alguma maneir
 ## SEÇÃO 3
 > Esta segurança infalível não pertence de tal modo à essência da fé que um verdadeiro crente não possa esperar muito tempo e lutar com muitas dificuldades antes de ser participante dela: (10) contudo, sendo habilitado pelo Espírito a conhecer as coisas que lhe são livremente dadas por Deus, ele pode, sem revelação extraordinária, no uso correto dos meios ordinários, alcançá-la. (11) E, portanto, é dever de cada um dar toda a diligência para tornar firme a sua vocação e eleição, (12) para que assim seu coração possa ser dilatado em paz e gozo no Espírito Santo, em amor e gratidão a Deus, e em força e alegria nos deveres da obediência, frutos próprios desta segurança; (13) longe está ela de inclinar os homens ao relaxamento. (14)
 >
-> - (10) 1 João 5:13
-> - (11) 1 Cor. 2:12; 1 João 4:13; Heb. 6:11-12; Ef. 3:17-19
-> - (12) 2 Pedro 1:10
-> - (13) Rom. 5:1-2, 5; 14:17; 15:13; Ef. 1:3-4; Sal. 4:6-7; 119:32
-> - (14) 1 João 1:6-7; 2:1-2; 3:2-3; Rom. 6:1-2; 8:1, 12; Tito 2:11-12, 14; 2 Cor. 7:1; Sal. 130:4
+> (10) 1 João 5:13
+> (11) 1 Cor. 2:12; 1 João 4:13; Heb. 6:11-12; Ef. 3:17-19
+> (12) 2 Pedro 1:10
+> (13) Rom. 5:1-2, 5; 14:17; 15:13; Ef. 1:3-4; Sal. 4:6-7; 119:32
+> (14) 1 João 1:6-7; 2:1-2; 3:2-3; Rom. 6:1-2; 8:1, 12; Tito 2:11-12, 14; 2 Cor. 7:1; Sal. 130:4
 
 ## SEÇÃO 4
 > Os verdadeiros crentes podem ter a segurança de sua salvação de diversas maneiras abalada, diminuída e interrompida; como, por negligência em preservá-la, por cair em algum pecado especial que fere a consciência e entristece o Espírito; por alguma tentação súbita ou veemente, pelo fato de Deus retirar a luz de seu rosto, permitindo que mesmo aqueles que o temem andem em trevas e não tenham luz: (15) contudo, nunca estão totalmente desprovidos daquela semente de Deus e vida de fé, daquele amor de Cristo e dos irmãos, daquela sinceridade de coração e consciência do dever, a partir dos quais, pela operação do Espírito, esta segurança pode, no tempo devido, ser revivida; (16) e pelos quais, entretanto, são sustentados para não caírem em total desespero. (17)
 >
-> - (15) Sal. 31:22; 51:8, 12, 14; 77:1-10; Ef. 4:30-31; Mat. 26:69-72 e Lucas 22:31-44
-> - (16) 1 João 3:9; Lucas 22:32; Sal. 51:8, 12; 73:15
-> - (17) Miq. 7:7-9; Jer. 32:40; Isa. 54:7-14; 2 Cor. 4:8-10
+> (15) Sal. 31:22; 51:8, 12, 14; 77:1-10; Ef. 4:30-31; Mat. 26:69-72 e Lucas 22:31-44
+> (16) 1 João 3:9; Lucas 22:32; Sal. 51:8, 12; 73:15
+> (17) Miq. 7:7-9; Jer. 32:40; Isa. 54:7-14; 2 Cor. 4:8-10
 
 Estas seções ensinam:
 

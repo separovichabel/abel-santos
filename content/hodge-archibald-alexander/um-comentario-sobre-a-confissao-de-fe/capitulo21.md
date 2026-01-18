@@ -3,15 +3,15 @@
 ## SEÇÃO 1
 > A luz da natureza mostra que há um Deus que tem senhorio e soberania sobre tudo; que é bom e faz bem a todos, e que, portanto, deve ser temido, amado, louvado, invocado, crido e servido de todo o coração, de toda a alma e de todas as forças. (1) Mas o modo aceitável de adorar o verdadeiro Deus é instituído por ele mesmo e tão limitado pela sua própria vontade revelada, que ele não pode ser adorado segundo as imaginações e dispositivos dos homens, ou sugestões de Satanás, sob qualquer representação visível, ou qualquer outro modo não prescrito na Santa Escritura. (2)
 >
-> - (1) Rm 1:20; Sl 19:1-4a; 50:6; 86:8-10; 89:5-7; 95:1-6; 97:6; 104:1-35; 145:9-12; At 14:17; Dt 6:4-5
-> - (2) Dt 4:15-20; 12:32; Mt 4:9-10; 15:9; At 17:23-25; Êx 20:4-6, Jo 4:23-24; Cl 2:18-23
+> (1) Rm 1:20; Sl 19:1-4a; 50:6; 86:8-10; 89:5-7; 95:1-6; 97:6; 104:1-35; 145:9-12; At 14:17; Dt 6:4-5
+> (2) Dt 4:15-20; 12:32; Mt 4:9-10; 15:9; At 17:23-25; Êx 20:4-6, Jo 4:23-24; Cl 2:18-23
 
 ## SEÇÃO 2
 > O culto religioso deve ser prestado a Deus, o Pai, o Filho e o Espírito Santo; e a ele só; (3) não a anjos, santos ou qualquer outra criatura: (4) e, desde a queda, não sem um Mediador; nem pela mediação de qualquer outro senão de Cristo somente. (5)
 >
-> - (3) Jo 5:23; Mt 28:19; 2Co 13:14; Ef 3:14; Ap 5:11-14; At 10:25-26
-> - (4) Cl 2:18; Ap 19:10; Rm 1:25
-> - (5) Jo 14:6; 1Tm 2:5; Ef 2:18; Cl 3:17
+> (3) Jo 5:23; Mt 28:19; 2Co 13:14; Ef 3:14; Ap 5:11-14; At 10:25-26
+> (4) Cl 2:18; Ap 19:10; Rm 1:25
+> (5) Jo 14:6; 1Tm 2:5; Ef 2:18; Cl 3:17
 
 Estas seções ensinam:
 
@@ -68,21 +68,21 @@ As objeções a todo este sistema são:
 ## SEÇÃO 3
 > A oração, com ações de graças, sendo uma parte especial do culto religioso, (6) é por Deus exigida de todos os homens: (7) e, para que seja aceita, deve ser feita em nome do Filho, (8) com a ajuda do seu Espírito, (9) segundo a sua vontade, (10) com entendimento, reverência, humildade, fervor, fé, amor e perseverança; (11) e, se for vocal, em uma língua conhecida. (12)
 >
-> - (6) Fp 4:6; 1Tm 2:1; Cl 4:2
-> - (7) Sl 65:2; 67:3; 96:7-8; 148:11-13; Is 55:6-7
-> - (8) Jo 14:13-14; 1Pe 2:5
-> - (9) Rm 8:26; Ef 6:18
-> - (10) 1Jo 5:14
-> - (11) Sl 47:7; Ec 5:1-2; Hb 12:28; Gn 18:27; Tg 1:6-7; 5:16; Mc 11:24; Mt 6:12, 14-15; Cl 4:2; Ef 6:18
-> - (12) 1Co 14:14
+> (6) Fp 4:6; 1Tm 2:1; Cl 4:2
+> (7) Sl 65:2; 67:3; 96:7-8; 148:11-13; Is 55:6-7
+> (8) Jo 14:13-14; 1Pe 2:5
+> (9) Rm 8:26; Ef 6:18
+> (10) 1Jo 5:14
+> (11) Sl 47:7; Ec 5:1-2; Hb 12:28; Gn 18:27; Tg 1:6-7; 5:16; Mc 11:24; Mt 6:12, 14-15; Cl 4:2; Ef 6:18
+> (12) 1Co 14:14
 
 ## SEÇÃO 4
 > A oração deve ser feita por coisas lícitas; (13) e por todos os tipos de homens vivos, ou que viverão futuramente: (14) mas não pelos mortos, (15) nem por aqueles de quem se saiba que pecaram o pecado para a morte. (16)
 >
-> - (13) 1Jo 5:14, 16; Jo 15:7
-> - (14) 1Tm 2:1-2; Jo 17:20; 2Sm 7:29; 2Cr 6:14-42
-> - (15) Lc 16:25-26; Is 57:1-2; Sl 73:24; 2Co 5:8, 10; Fp 1:21-24; Ap 14:13
-> - (16) 1Jo 5:16
+> (13) 1Jo 5:14, 16; Jo 15:7
+> (14) 1Tm 2:1-2; Jo 17:20; 2Sm 7:29; 2Cr 6:14-42
+> (15) Lc 16:25-26; Is 57:1-2; Sl 73:24; 2Co 5:8, 10; Fp 1:21-24; Ap 14:13
+> (16) 1Jo 5:16
 
 Nossa Confissão, tendo estabelecido a verdade geral quanto ao objeto a quem o culto religioso deve ser prestado, e quanto à fonte do nosso conhecimento de sua natureza e métodos adequados, procede agora a declarar mais particularmente o que as Escrituras ensinam sobre este assunto.
 
@@ -119,27 +119,27 @@ Mas se não existe purgatório, como será mostrado no capítulo 32, não pode h
 ## SEÇÃO 5
 > A leitura das Escrituras com temor reverente, (17) a sã pregação (18) e a conscienciosa audição da Palavra, em obediência a Deus, com entendimento, fé e reverência, (19) o cantar salmos com graça no coração; (20) bem como a devida administração e digna recepção dos sacramentos instituídos por Cristo, são todas partes do culto religioso ordinário de Deus: (21) além de juramentos religiosos, (22) votos, (23) jejuns solenes (24) e ações de graças em ocasiões especiais, (25) que devem ser usados em seus tempos e estações próprios, de maneira santa e religiosa. (26)
 >
-> - (17) Lc 4:16-17; At 15:21; Cl 4:16; 1Tess 5:27; Ap 1:3
-> - (18) 2Tm 4:2; At 5:42
-> - (19) Tg 1:22; At 10:33; Mt 13:19; Hb 4:2; Is 66:2
-> - (20) Cl 3:16; Ef 5:19; Tg 5:13; 1Co 14:15
-> - (21) Mt 28:19; 1Co 11:23-29; At 2:42
-> - (22) Dt 6:13; Ne 10:29; 2Co 1:23
-> - (23) Sl 116:14; Is 19:21; Ec 5:4-5
-> - (24) Jl 2:12; Et 4:16; Mt 9:15; At 14:23
-> - (25) Êx 15:1-21; Sl 107:1-43; Ne 12:27-43; Et 9:20-22
-> - (26) Hb 12:28.
+> (17) Lc 4:16-17; At 15:21; Cl 4:16; 1Tess 5:27; Ap 1:3
+> (18) 2Tm 4:2; At 5:42
+> (19) Tg 1:22; At 10:33; Mt 13:19; Hb 4:2; Is 66:2
+> (20) Cl 3:16; Ef 5:19; Tg 5:13; 1Co 14:15
+> (21) Mt 28:19; 1Co 11:23-29; At 2:42
+> (22) Dt 6:13; Ne 10:29; 2Co 1:23
+> (23) Sl 116:14; Is 19:21; Ec 5:4-5
+> (24) Jl 2:12; Et 4:16; Mt 9:15; At 14:23
+> (25) Êx 15:1-21; Sl 107:1-43; Ne 12:27-43; Et 9:20-22
+> (26) Hb 12:28.
 
 ## SEÇÃO 6
 > Nem a oração, nem qualquer outra parte do culto religioso, sob o evangelho, está agora restrita a, ou tornada mais aceitável por qualquer lugar em que seja realizada, ou para o qual se dirija: (27) mas Deus deve ser adorado em todos os lugares, (28) em espírito e em verdade; (29) tanto em famílias particulares (30) diariamente, (31) e em segredo, cada um por si; (32) quanto, de modo mais solene, nas assembleias públicas, as quais não devem ser descuidadas ou voluntariamente negligenciadas ou abandonadas, quando Deus, por sua Palavra ou providência, a elas convoca. (33)
 >
-> - (27) Jo 4:21
-> - (28) Ml 1:11; 1Tm 2:8
-> - (29) Jo 4:23-24
-> - (30) Jr 10:25; Dt 6:6-7; Jó 1:5; 2Sm 6:18, 20
-> - (31) Mt 6:11; veja Jó 1:5
-> - (32) Mt 6:6; 16-18; Ne 1:4-11; Dn 9:3-4a
-> - (33) Is 56:6-7; Hb 10:25; Sl 84:1-12; 100:4; 122:1, Lc 4:16; At 2:42; 13:42, 44
+> (27) Jo 4:21
+> (28) Ml 1:11; 1Tm 2:8
+> (29) Jo 4:23-24
+> (30) Jr 10:25; Dt 6:6-7; Jó 1:5; 2Sm 6:18, 20
+> (31) Mt 6:11; veja Jó 1:5
+> (32) Mt 6:6; 16-18; Ne 1:4-11; Dn 9:3-4a
+> (33) Is 56:6-7; Hb 10:25; Sl 84:1-12; 100:4; 122:1, Lc 4:16; At 2:42; 13:42, 44
 
 Estas seções procedem a detalhar as diferentes formas pelas quais Deus exige que o adoremos sob a presente dispensação. Estes são os atos de culto regulares e os ocasionais. O culto regular de Deus deve ser conduzido na assembleia pública, na família privada e pessoalmente em segredo. O culto a Deus na assembleia pública deve consistir na leitura, pregação e audição da Palavra; oração, cântico de salmos; e a administração e recepção dos sacramentos por ele instituídos. Na Palavra, lida ou devidamente pregada, Deus fala conosco, e nós o adoramos ouvindo com reverência, atenção diligente, auto-aplicação e obediência. Na oração e no cântico de louvor, dirigimos a Deus os afetos santos, desejos e ações de graças inspirados em nossos corações pelo seu Espírito Santo. Nos sacramentos, Deus comunga e entra em pacto com nossas almas, e nós comungamos e entramos em pacto com ele. E a aceitabilidade deste culto não depende de modo algum, como os ritualistas imaginam, da santidade do lugar em que é prestado ou da direção para a qual é dirigido. A dispensação em que o culto era limitado a lugares, pessoas e estações sagradas foi abolida por nosso Senhor, como vimos nos capítulos 7 e 19, e como Cristo ensina claramente à mulher de Samaria. Jo 4:20-24. Mas sua aceitação depende de:
     - **(1)** Ser acompanhado e fundamentado na verdade pura e inalterada da Palavra de Deus;
@@ -161,16 +161,16 @@ Os modos ocasionais pelos quais Deus pode ser adorado em épocas apropriadas sã
 ## SEÇÃO 7
 > Como é lei da natureza que, em geral, uma devida proporção de tempo seja reservada para o culto de Deus; assim, em sua Palavra, por um mandamento positivo, moral e perpétuo, que obriga a todos os homens em todas as épocas, ele designou particularmente um dia em sete para ser um descanso (sábado), mantido santo para ele: (34) o qual, desde o princípio do mundo até a ressurreição de Cristo, foi o último dia da semana, (35) e, desde a ressurreição de Cristo, foi mudado para o primeiro dia da semana, que, na Escritura, é chamado de Dia do Senhor, (36) e deve ser continuado até o fim do mundo como o descanso cristão (sábado cristão). (37)
 >
-> - (34) Êx 20:8-11; Is 56:2-7
-> - (35) Gn 2:2-3; 1Co 16:1-2; At 20:7
-> - (36) Ap 1:10
-> - (37) Mt 5:17-18; Mc 2:27-28; Rm 13:8-10; Tg 2:8-12
+> (34) Êx 20:8-11; Is 56:2-7
+> (35) Gn 2:2-3; 1Co 16:1-2; At 20:7
+> (36) Ap 1:10
+> (37) Mt 5:17-18; Mc 2:27-28; Rm 13:8-10; Tg 2:8-12
 
 ## SEÇÃO 8
 > Este descanso é então mantido santo para o Senhor, quando os homens, após uma devida preparação de seus corações e ordenação de seus negócios comuns de antemão, não apenas observam um descanso santo, durante todo o dia, de suas próprias obras, palavras e pensamentos sobre seus empregos e recreações mundanas, (38) mas também se ocupam, todo o tempo, nos exercícios públicos e privados de seu culto, e nos deveres de necessidade e misericórdia. (39)
 >
-> - (38) Êx 16:23, 25-26, 29-30; 20:8; 31:15-17; Is 58:13-14; Ne 13:15-22
-> - (39) Is 58:13-14; Lc 4:16; Mt 12:1-13; Mc 3:1-5
+> (38) Êx 16:23, 25-26, 29-30; 20:8; 31:15-17; Is 58:13-14; Ne 13:15-22
+> (39) Is 58:13-14; Lc 4:16; Mt 12:1-13; Mc 3:1-5
 
 No capítulo 19, vimos que as diferentes leis de Deus, quando classificadas de acordo com suas respectivas bases ou razões, poderiam ser agrupadas da seguinte forma:
     - **(1)** Aquelas que têm sua base na natureza divina e, portanto, são universais e imutáveis.

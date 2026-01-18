@@ -3,20 +3,20 @@
 ## SEÇÃO 1:
 > Os sacramentos são santos sinais e selos da aliança da graça (1), imediatamente instituídos por Deus (2), para representar Cristo e seus benefícios; e para confirmar nosso interesse nele (3): como também para estabelecer uma diferença visível entre os que pertencem à igreja e o restante do mundo (4); e solenemente engajá-los ao serviço de Deus em Cristo, de acordo com a sua Palavra (5).
 >
-> - (1) Rm 4:11; Gn 17:7, 10, 11
-> - (2) Mt 28:19; 1 Co 11:23
-> - (3) Rm 6:3-4; Cl 2:12; 1 Co 10:16; 11:25-26; Gl 3:27
-> - (4) Êx 12:48; Gn 34:14; 1 Co 10:21
-> - (5) Rm 6:3-4; Gl 3:27; 1 Pe 3:21; 1 Co 5:7-8; 10:16
+> (1) Rm 4:11; Gn 17:7, 10, 11
+> (2) Mt 28:19; 1 Co 11:23
+> (3) Rm 6:3-4; Cl 2:12; 1 Co 10:16; 11:25-26; Gl 3:27
+> (4) Êx 12:48; Gn 34:14; 1 Co 10:21
+> (5) Rm 6:3-4; Gl 3:27; 1 Pe 3:21; 1 Co 5:7-8; 10:16
 
 ## SEÇÃO 2:
 > Há, em cada sacramento, uma relação espiritual, ou união sacramental, entre o sinal e a coisa significada: de onde vem a ocorrer que os nomes e efeitos de um são atribuídos ao outro (6).
 >
-> - (6) Gn 17:10; Mt 26:27-28; 1 Co 10:16-18
+> (6) Gn 17:10; Mt 26:27-28; 1 Co 10:16-18
 
 > CATECISMO MAIOR, p. 168.-- Quais são as partes de um sacramento? -- As partes de um sacramento são duas; uma, um sinal externo e sensível, usado de acordo com a própria designação de Cristo; a outra, uma graça interna e espiritual por ele significada. (7)
 >
-> - (7) Mt 3:11; 1 Pe 3:21; Rm 2:28-29.
+> (7) Mt 3:11; 1 Pe 3:21; Rm 2:28-29.
 
 A palavra "sacramento" não ocorre nas Escrituras. Em seu uso clássico, designava qualquer coisa que vinculasse ou trouxesse obrigações, como uma quantia em dinheiro dada em penhor, ou um juramento, e especialmente o juramento de lealdade militar.
 
@@ -60,9 +60,9 @@ Sendo os sacramentos selos da aliança da graça — ao mesmo tempo penhores da 
 ## SEÇÃO 3:
 > A graça que é exibida nos sacramentos ou por meio deles, quando corretamente utilizados, não é conferida por qualquer poder neles existente; nem a eficácia de um sacramento depende da piedade ou intenção de quem o administra (7): mas depende da obra do Espírito (8) e da palavra da instituição, a qual contém, junto com um preceito que autoriza o seu uso, uma promessa de benefício aos que dignamente o recebem (9).
 >
-> - (7) Rm 2:28-29; 1 Pe 3:21
-> - (8) 1 Co 12:13
-> - (9) Mt 26:26-28; 28:19-20; Lc 22:19-20; 1 Co 11:26
+> (7) Rm 2:28-29; 1 Pe 3:21
+> (8) 1 Co 12:13
+> (9) Mt 26:26-28; 28:19-20; Lc 22:19-20; 1 Co 11:26
 
 Tendo afirmado que os sacramentos realmente conferem a graça que representam aos destinatários dignos, nossa Confissão nesta seção passa a proteger esta importante verdade do abuso, mostrando cuidadosamente do que esta eficácia transmissora de graça dos sacramentos não depende, e do que ela depende.
 
@@ -79,7 +79,7 @@ Os romanistas admitem que a eficácia dos sacramentos não depende da piedade pe
 ## SEÇÃO 4:
 > Há apenas dois sacramentos ordenados por Cristo, nosso Senhor, no Evangelho; a saber, o batismo e a Ceia do Senhor: nenhum dos quais pode ser administrado por ninguém, senão por um ministro da Palavra legalmente ordenado (10).
 >
-> - (10) Mt 28:19; 1 Co 4:1; 11:20, 23; Ef 4:11-12
+> (10) Mt 28:19; 1 Co 4:1; 11:20, 23; Ef 4:11-12
 
 Como vimos, a palavra "sacramento" foi usada de forma muito indefinida na Igreja primitiva para incluir qualquer rito religioso que tivesse um significado espiritual latente. Uma proeminência era sempre concedida ao Batismo e à Ceia do Senhor, como formando uma classe por si mesmos; mas o número de ordenanças às quais o termo "sacramento" era aplicado variava em diferentes épocas e em diferentes lugares, de dois a doze. Finalmente, o número sete foi sugerido durante o século XII e determinado autoritariamente pelo Concílio de Florença, 1439, e pelo Concílio de Trento, 1562. Estes são: Batismo, Confirmação, Ceia do Senhor, Penitência, Extrema-Unção, Ordens e Matrimônio. Para provar que "há apenas dois sacramentos ordenados por Cristo, nosso Senhor, no evangelho — a saber, o Batismo e a Ceia do Senhor" — basta mostrar que os outros cinco chamados sacramentos reivindicados pelos romanistas não pertencem à mesma classe de ordenanças do Batismo e da Ceia do Senhor; e fazemos isso aplicando a definição de sacramento dada acima. Assim — Penitência, Confirmação e Extrema-Unção não são instituições divinas em nenhum sentido.
 
@@ -90,7 +90,7 @@ Nossa Confissão também acrescenta que ninguém tem o direito de administrar os
 ## SEÇÃO 5:
 > Os sacramentos do Antigo Testamento, quanto às coisas espirituais por eles significadas e exibidas, eram, em substância, os mesmos do Novo (11).
 >
-> - (11) 1 Co 10:1-4; Rm 4:11; Cl 2:11-12
+> (11) 1 Co 10:1-4; Rm 4:11; Cl 2:11-12
 
 Vimos, sob o capítulo 7, seções 5 e 6, que as dispensações antiga e nova eram apenas dois modos diferentes nos quais a única e imutável aliança da graça era administrada e suas bênçãos distribuídas. Os selos sacramentais da aliança devem, portanto, ser essencialmente os mesmos outrora e agora. A diferença é —
 1. Que eles eram mais prospectivos e típicos outrora, e que são mais comemorativos agora. Eles significavam uma graça a ser revelada outrora; eles significam uma graça já revelada agora.

@@ -3,13 +3,13 @@
 ## SEÇÃO 1
 > DEUS, o grande Criador de todas as coisas, sustenta,(1) dirige, dispõe e governa todas as criaturas, ações e coisas,(2) desde as maiores até as mínimas,(3) por sua sapientíssima e santa providência,(4) conforme a sua infalível presciência(5) e o livre e imutável conselho da sua própria vontade,(6) para o louvor da glória da sua sabedoria, poder, justiça, bondade e misericórdia.(7)
 >
-> - (1) Hb 1:3.
-> - (2) Dn 4:34,35; Sl 135:6; At 17:25,26,28; Jó 38:, 39:, 40:, 41:
-> - (3) Mt 10:29-31.
-> - (4) Pv 15:3; Sl 104:24; 145:17.
-> - (5) At 15:18; Sl 94:8-11.
-> - (6) Ef 1:11; Sl 33:10,11.
-> - (7) Is 63:14; Ef 3:10; Rm 9:17; Gn 45:7; Sl 145:7.
+> (1) Hb 1:3.
+> (2) Dn 4:34,35; Sl 135:6; At 17:25,26,28; Jó 38:, 39:, 40:, 41:
+> (3) Mt 10:29-31.
+> (4) Pv 15:3; Sl 104:24; 145:17.
+> (5) At 15:18; Sl 94:8-11.
+> (6) Ef 1:11; Sl 33:10,11.
+> (7) Is 63:14; Ef 3:10; Rm 9:17; Gn 45:7; Sl 145:7.
 
 Visto que o propósito eterno e imutável de Deus predeterminou certamente tudo o que acontece, segue-se que ele deve executar seu próprio propósito não apenas em suas obras de criação, mas igualmente em seu controle contínuo de todas as suas criaturas e de todas as suas ações. Esta seção, portanto, ensina:
 
@@ -70,16 +70,16 @@ Que o controle providencial de todas as coisas por Deus é a execução consiste
 ## SEÇÃO 2
 > EMBORA, em relação à presciência e ao decreto de Deus, a causa primária, todas as coisas aconteçam imutável e infalivelmente;(8) todavia, pela mesma providência, ele ordena que elas ocorram de acordo com a natureza das causas segundas, quer necessária, livre ou contingentemente.(9)
 >
-> - (8) At 2:23.
-> - (9) Gn 8:22; Jr 31:35; Ex 21:13; Dt 19:5; 1 Rs 22:28,34; Is 10:6,7.
+> (8) At 2:23.
+> (9) Gn 8:22; Jr 31:35; Ex 21:13; Dt 19:5; 1 Rs 22:28,34; Is 10:6,7.
 
 ## SEÇÃO 3
 > DEUS, em sua providência comum, faz uso de meios,(10) todavia ele é livre para operar sem eles,(11) sobre eles(12) e contra eles,(13) conforme lhe apraz.
 >
-> - (10) At 27:31,44; Is 55:10,11; Os 2:21,22.
-> - (11) Os 1:7; Mt 4:4; Jó 34:10.
-> - (12) Rm 4:19-21.
-> - (13) 2 Rs 6:6; Dn 3:27.
+> (10) At 27:31,44; Is 55:10,11; Os 2:21,22.
+> (11) Os 1:7; Mt 4:4; Jó 34:10.
+> (12) Rm 4:19-21.
+> (13) 2 Rs 6:6; Dn 3:27.
 
 Estas seções ensinam a doutrina de que o propósito de Deus é eficaz e consistente, efetuado por meio de instrumentos (causas secundárias sujeitas ao Seu controle), e que Ele possui o poder de efetuar Seu propósito diretamente e por meio de Sua própria energia.
 
@@ -114,11 +114,11 @@ Que Deus possui o poder de efetuar seus fins imediatamente, sem a intervenção 
 ## SEÇÃO 4
 > O poder onipotente, a sabedoria inescrutável e a bondade infinita de Deus tanto se manifestam em sua providência, que esta se estende até à primeira queda e a todos os outros pecados de anjos e homens,(14) e isso não por uma mera permissão,(15) mas por uma tal que tem junta consigo uma sapientíssima e poderosa limitação,(16) e outros meios de os ordenar e governar, em uma multiforme dispensação, para os seus próprios e santos fins;(17) todavia, de tal modo que a pecaminosidade desses pecados procede apenas da criatura e não de Deus; o qual, sendo santíssimo e justíssimo, não é, nem pode ser, o autor ou aprovador do pecado.(18)
 >
-> - (14) Rm 11:32-34; 2 Sm 24:1; 1 Cr 21:1; 1 Rs 22:22,23; 1 Cr 10:4,13,14; 2 Sm 16:10; At 2:23; 4:27,28.
-> - (15) At 14:16.
-> - (16) Sl 76:10; 2 Rs 19:28.
-> - (17) Gn 50:20; Is 10:6,7,12.
-> - (18) Tg 1:13,14,17; 1 Jo 2:16.
+> (14) Rm 11:32-34; 2 Sm 24:1; 1 Cr 21:1; 1 Rs 22:22,23; 1 Cr 10:4,13,14; 2 Sm 16:10; At 2:23; 4:27,28.
+> (15) At 14:16.
+> (16) Sl 76:10; 2 Rs 19:28.
+> (17) Gn 50:20; Is 10:6,7,12.
+> (18) Tg 1:13,14,17; 1 Jo 2:16.
 
 Esta seção não faz tentativa de explicar a natureza daquelas ações providenciais de Deus que estão envolvidas na origem do pecado no universo moral e no controle das ações voluntárias de suas criaturas na execução de seus propósitos. Ela simplesmente declara os fatos importantes a respeito da relação de sua providência com os pecados de suas criaturas que são revelados na Escritura. Estes pontos são—
 
@@ -135,23 +135,23 @@ A providência de Deus, em vez de causar o pecado ou aprová-lo, está constante
 ## SEÇÃO 5
 > O Deus sapientíssimo, justíssimo e gracioso muitas vezes deixa por algum tempo seus próprios filhos entregues a multiformes tentações e à corrupção dos seus próprios corações, para castigá-los pelos seus pecados anteriores ou para lhes descobrir a força oculta da corrupção e a farsa dos seus corações, a fim de que eles sejam humilhados;(19) e para os elevar a uma dependência de apoio nele mais íntima e constante, e para os tornar mais vigilantes contra todas as futuras ocasiões de pecado, e para vários outros fins justos e santos.(20)
 >
-> - (19) 2 Cr 32:25,26,31; 2 Sm 24:1.
-> - (20) 2 Co 12:7-9; Sl 73; 77:1,10,12; Mc 14:66, até o fim; Jo 21:15-17.
+> (19) 2 Cr 32:25,26,31; 2 Sm 24:1.
+> (20) 2 Co 12:7-9; Sl 73; 77:1,10,12; Mc 14:66, até o fim; Jo 21:15-17.
 
 ## SEÇÃO 6
 > Quanto aos homens perversos e ímpios, a quem Deus, como justo juiz, por pecados anteriores, cega e endurece,(21) dele não só retém a sua graça, pela qual poderiam ter sido iluminados em seus entendimentos e trabalhados em seus corações;(22) mas às vezes também lhes retira os dons que já tinham,(23) e os expõe a tais objetos que a sua corrupção torna ocasiões de pecado;(24) e, além disso, os entrega às suas próprias concupiscências, às tentações do mundo e ao poder de Satanás:(25) de onde vem o endurecerem-se eles mesmos, mesmo sob os mesmos meios que Deus usa para o amolecimento de outros.(26)
 >
-> - (21) Rm 1:24,26,28; 11:7,8.
-> - (22) Dt 29:4.
-> - (23) Mt 13:12; 25:29.
-> - (24) Dt 2:30; 2 Rs 8:12,13.
-> - (25) Sl 81:11,12; 2 Ts 2:10-12.
-> - (26) Ex 7:3; 8:15,32; 2 Co 2:15,16; Is 8:14; 1 Pe 2:7,8; Is 6:9,10; At 28:26,27.
+> (21) Rm 1:24,26,28; 11:7,8.
+> (22) Dt 29:4.
+> (23) Mt 13:12; 25:29.
+> (24) Dt 2:30; 2 Rs 8:12,13.
+> (25) Sl 81:11,12; 2 Ts 2:10-12.
+> (26) Ex 7:3; 8:15,32; 2 Co 2:15,16; Is 8:14; 1 Pe 2:7,8; Is 6:9,10; At 28:26,27.
 
 ## SEÇÃO 7
 > Como a providência de Deus se estende, em geral, a todas as criaturas, assim, de um modo muito especial, ela cuida da sua Igreja e dispõe todas as coisas para o bem dela.(27)
 >
-> - (27) 1 Tm 4:10; Am 9:8,9; Rm 8:28; Is 43:3-5,14.
+> (27) 1 Tm 4:10; Am 9:8,9; Rm 8:28; Is 43:3-5,14.
 
 Vimos que o governo providencial de Deus, como a execução através do tempo de seu propósito eterno e imutável, forma um sistema conectado e compreende todas as coisas criadas e todas as suas ações. Em perfeita consistência com isso, estas seções prosseguem ensinando:
 

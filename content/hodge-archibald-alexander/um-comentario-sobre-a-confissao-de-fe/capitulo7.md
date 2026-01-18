@@ -3,14 +3,14 @@
 ## SEÇÃO 1
 > A distância entre Deus e a criatura é tão grande que, embora as criaturas racionais lhe devam obediência como seu Criador, elas nunca poderiam ter qualquer fruição dele como sua bem-aventurança e recompensa, senão por alguma voluntária condescendência da parte de Deus, a qual ele se agradou em expressar por meio de um pacto.(1)
 >
-> - (1) Is. 40:13-17; Jó 9:32,33; 1 Sm. 2:25; Sl. 113:5,6; 100:2,3; Jó 22:2,3; 35:7,8; Lc. 17:10; At. 17:24,25.
+> (1) Is. 40:13-17; Jó 9:32,33; 1 Sm. 2:25; Sl. 113:5,6; 100:2,3; Jó 22:2,3; 35:7,8; Lc. 17:10; At. 17:24,25.
 
 ## SEÇÃO 2
 > O primeiro pacto feito com o homem foi um pacto de obras,(2) no qual a vida foi prometida a Adão e, nele, à sua posteridade,(3) sob a condição de perfeita e pessoal obediência.(4)
 >
-> - (2) Gl. 2:12.
-> - (3) Rm. 10:5; 5:12-20.
-> - (4) Gn. 2:17; Gl. 3:10.
+> (2) Gl. 2:12.
+> (3) Rm. 10:5; 5:12-20.
+> (4) Gn. 2:17; Gl. 3:10.
 
 Aqui chegamos ao dever que uma criatura inteligente deve ao seu Criador, que é essencial e inalienável ao ser da criatura. Além disso, o desfrute do Criador pela criatura é inteiramente uma questão de graça soberana, manifestada ao homem por meio das promessas condicionais (pactos) de Deus — a primeira das quais dizia respeito a Adão, na qual a promessa era a vida e a condição era a obediência perfeita e pessoal.
 
@@ -68,10 +68,10 @@ Esta morte é uma condição de pecado e miséria crescentes, resultantes da exc
 ## SEÇÃO 4
 > Este pacto da graça é frequentemente expresso na Escritura pelo nome de testamento, em referência à morte de Jesus Cristo, o testador, e à herança eterna, com todas as coisas que a ela pertencem, nele legadas.(8)
 >
-> - (5) Gl. 3:21; Rm. 8:3; 3:20,21; Gn. 3:15; Is. 42:6.
-> - (6) Mc. 16:15,16; Jo. 3:16; Rm. 10:6,9; Gl. 3:11.
-> - (7) Ez. 36:26,27; Jo. 6:44,45.
-> - (8) Hb. 9:15-17; 7:22; Lc. 22:20; 1 Co. 11:25.
+> (5) Gl. 3:21; Rm. 8:3; 3:20,21; Gn. 3:15; Is. 42:6.
+> (6) Mc. 16:15,16; Jo. 3:16; Rm. 10:6,9; Gl. 3:11.
+> (7) Ez. 36:26,27; Jo. 6:44,45.
+> (8) Hb. 9:15-17; 7:22; Lc. 22:20; 1 Co. 11:25.
 
 Uma vez que Adão perdeu para si e para toda a sua raça a promessa original de vida sob a condição de obediência perfeita, e incorreu na penalidade de morte ligada à desobediência, segue-se que, se a antiga constituição for deixada sem suplemento ou modificação, o homem está perdido. Se a humanidade deve ser salva, deve haver uma nova e graciosa intervenção da parte de Deus. E se Deus intervém para salvar os homens, deve ser sobre um plano definido, e sob certas condições definitivamente proclamadas e cumpridas com precisão. Isto é, um novo pacto deve ser introduzido, tornando a vida alcançável para aqueles que hão de ser salvos em condições diferentes das oferecidas na constituição precedente. A questão, então, relaciona-se ao que é revelado nas Escrituras quanto às partes a quem a promessa é feita, e as condições sobre as quais ela está suspensa.
 
@@ -132,16 +132,16 @@ A presente administração deste pacto por Cristo, sob um aspecto, evidentemente
 ## SEÇÃO 6
 > Sob o evangelho, quando Cristo, a substância,(13) foi manifestado, as ordenanças nas quais este pacto é dispensado são a pregação da Palavra e a administração dos sacramentos do Batismo e da Ceia do Senhor;(14) as quais, embora sejam poucas em número e administradas com mais simplicidade e menos glória externa, todavia nelas ele é apresentado com mais plenitude, evidência e eficácia espiritual,(15) a todas as nações, tanto judeus como gentios;(16) e é chamado o Novo Testamento.(17) Não há, portanto, dois pactos da graça diferentes em substância, mas um e o mesmo sob várias dispensações.(18)
 >
-> - (9) 2 Co. 3:6-9.
-> - (10) Hb. 8:, 9:, 10:; Rm. 4:11; Cl. 2:11,12; 1 Co. 5:7.
-> - (11) 1 Co. 10:1-4; Hb. 11:13; Jo. 8:56.
-> - (12) Gl. 3:7-9, 14.
-> - (13) Cl. 2:17.
-> - (14) Mt. 28:19,20; 1 Co. 11:23-25.
-> - (15) Hb. 12:22-27; Jr. 31:33,34.
-> - (16) Mt. 28:19; Ef. 2:15-19.
-> - (17) Lc. 22:20.
-> - (18) Gl. 3:14,16; At. 15:11; Rm. 3:21-23,30; Sl. 32:1; Rm. 4:3,6,16,17,23,24; Hb. 13:8.
+> (9) 2 Co. 3:6-9.
+> (10) Hb. 8:, 9:, 10:; Rm. 4:11; Cl. 2:11,12; 1 Co. 5:7.
+> (11) 1 Co. 10:1-4; Hb. 11:13; Jo. 8:56.
+> (12) Gl. 3:7-9, 14.
+> (13) Cl. 2:17.
+> (14) Mt. 28:19,20; 1 Co. 11:23-25.
+> (15) Hb. 12:22-27; Jr. 31:33,34.
+> (16) Mt. 28:19; Ef. 2:15-19.
+> (17) Lc. 22:20.
+> (18) Gl. 3:14,16; At. 15:11; Rm. 3:21-23,30; Sl. 32:1; Rm. 4:3,6,16,17,23,24; Hb. 13:8.
 
 Estas seções nos ensinam sobre o pacto da graça conforme ele se manifestou tanto na antiga quanto na nova dispensação.
 

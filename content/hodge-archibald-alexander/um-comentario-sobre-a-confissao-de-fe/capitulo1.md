@@ -1,14 +1,14 @@
 # Capítulo 1: Das Sagradas Escrituras
 
 ## SEÇÃO 1
-> Ainda que a luz da natureza e as obras da criação e da providência manifestem de tal modo a bondade, a sabedoria e o poder de Deus, que tornam os homens inescusáveis, todavia não são suficientes para dar aquele conhecimento de Deus e da sua vontade, que é necessário para a salvação. Por isso, aprouve ao Senhor, em diversos tempos e de diferentes modos, revelar-se e declarar à sua Igreja aquela sua vontade; e depois, para melhor preservação e propagação da verdade, e para o estabelecimento e conforto mais seguro da Igreja contra a corrupção da carne e a malícia de Satanás e do mundo, foi igualmente servido fazê-la escrever toda. Isto torna a Escritura Sagrada indispensável, tendo cessado aqueles antigos modos de Deus revelar a sua vontade ao seu povo.
+> Ainda que a luz da natureza e as obras da criação e da providência manifestem de tal modo a bondade, a sabedoria e o poder de Deus, que tornam os homens inescusáveis (1), todavia não são suficientes para dar aquele conhecimento de Deus e da sua vontade, que é necessário para a salvação (2). Por isso, aprouve ao Senhor, em diversos tempos e de diferentes modos, revelar-se e declarar à sua Igreja aquela sua vontade (3); e depois, para melhor preservação e propagação da verdade, e para o estabelecimento e conforto mais seguro da Igreja contra a corrupção da carne e a malícia de Satanás e do mundo, foi igualmente servido fazê-la escrever toda (4). Isto torna a Escritura Sagrada indispensável (5), tendo cessado aqueles antigos modos de Deus revelar a sua vontade ao seu povo (5).
 >
-> - (1) Rom 2:14-15; Rom 1:19-20; Sl 19:1-3; Rom 1:32, com cap. 2:1.
-> - (2) 1 Cor 1:21; 1 Cor 2:13-14
-> - (3) Heb 1:1
-> - (4) Prov 22:19-21; Lucas 1:3-4; Rom 15:4; Mat 4:4,7,10; Isa 8:19-20
-> - (5) 2 Tim 3:15; 2 Ped 1:19
-> - (6) Heb 1:1-2
+> (1) Rom 2:14-15; Rom 1:19-20; Sl 19:1-3; Rom 1:32, com cap. 2:1.
+> (2) 1 Cor 1:21; 1 Cor 2:13-14
+> (3) Heb 1:1
+> (4) Prov 22:19-21; Lucas 1:3-4; Rom 15:4; Mat 4:4,7,10; Isa 8:19-20
+> (5) 2 Tim 3:15; 2 Ped 1:19
+> (6) Heb 1:1-2
 
 Esta seção afirma as seguintes proposições:
 
@@ -78,14 +78,15 @@ Para as questões relativas às Sagradas Escrituras como contendo a totalidade d
 > Do Novo Testamento:
 > Os Evangelhos segundo Mateus, Marcos, Lucas, João, Os Atos dos Apóstolos, As Epístolas de Paulo aos Romanos, Coríntios I, Coríntios II, Gálatas, Efésios, Filipenses, Colossenses, Tessalonicenses I, Tessalonicenses II, A Timóteo I, A Timóteo II, A Tito, A Filemom, A Epístola aos Hebreus, A Epístola de Tiago, A primeira e segunda Epístolas de Pedro, A primeira, segunda e terceira Epístolas de João, A Epístola de Judas, O Apocalipse de João.
 >
-> Todos os quais foram dados por inspiração de Deus para serem a regra de fé e de vida.
+> Todos os quais foram dados por inspiração de Deus para serem a regra de fé e de vida (7).
 >
-> - (1) Lucas 16:29,31; Ef 2:20; Ap 22:18-19; 2 Tim 3:16
+> (7) Lucas 16:29,31; Ef 2:20; Ap 22:18-19; 2 Tim 3:16
 >
 ## SEÇÃO 3
-> Os livros geralmente chamados Apócrifos, não sendo de inspiração divina, não fazem parte do cânon da Escritura; não têm, por isso, autoridade alguma na Igreja de Deus, nem devem ser de qualquer modo aprovados, ou usados, senão como outros escritos humanos.
+> Os livros geralmente chamados Apócrifos, não sendo de inspiração divina, não fazem parte do cânon da Escritura; não têm, por isso, autoridade alguma na Igreja de Deus, nem devem ser de qualquer modo aprovados, ou usados, senão como outros escritos humanos (8).
 >
-> - (1) Lucas 24:27,44; Rom 3:2; 2 Ped 1:21
+> (8) Lucas 24:27,44; Rom 3:2; 2 Ped 1:21
+
 Estas seções afirmam as seguintes proposições:
 1. Que o cânon completo da Escritura abrange, nas duas grandes divisões do Antigo e do Novo Testamento, todos os livros específicos aqui nomeados.
 2. Que os livros comumente chamados Apócrifos não fazem parte desse cânon e devem ser considerados como não tendo mais autoridade do que quaisquer outros escritos humanos.
@@ -145,15 +146,15 @@ O fato de as Escrituras serem assim inspiradas é provado porque elas o afirmam 
 6. Eles afirmaram possuir o Espírito, em cumprimento da promessa de Cristo, Atos 2:33; 15:28; 1 Tes 1:5; — falar como profetas de Deus, 1 Cor 4:1; 1 Tes 4:8; — falar com autoridade plenária, 1 Cor 2:13; 2 Cor 13:2-4; Gal 1:8-9. Eles colocam seus escritos em pé de igualdade com as Escrituras do Antigo Testamento. 2 Ped 3:16; 1 Tes 5:27.
 
 ## SEÇÃO 4
-> A autoridade da Escritura Sagrada, razão pela qual deve ser crida e obedecida, não depende do testemunho de qualquer homem ou igreja, mas inteiramente de Deus (que é a própria verdade), seu autor; e, portanto, deve ser recebida, porque é a Palavra de Deus.
+> A autoridade da Escritura Sagrada, razão pela qual deve ser crida e obedecida, não depende do testemunho de qualquer homem ou igreja, mas inteiramente de Deus (que é a própria verdade), seu autor; e, portanto, deve ser recebida, porque é a Palavra de Deus. (9)
 >
-> - (1) 2 Ped 1:19,21; 2 Tim 3:16; 1 João 5:9; 1 Tes 2:13
+> (9) 2 Ped 1:19,21; 2 Tim 3:16; 1 João 5:9; 1 Tes 2:13
 
 ## SEÇÃO 5
-> Pelo testemunho da Igreja podemos ser movidos e induzidos a um alto e reverente apreço pela Escritura Sagrada; e a excelência do conteúdo, a eficácia da doutrina, a majestade do estilo, a harmonia de todas as partes, o escopo do todo (que é dar a Deus toda a glória), a plena revelação que faz do único caminho da salvação do homem, as suas muitas outras excelências incomparáveis e a sua completa perfeição, são argumentos pelos quais ela abundantemente se evidencia ser a Palavra de Deus; contudo, a nossa plena persuasão e certeza da sua infalível verdade e divina autoridade provêm da operação interna do Espírito Santo, que pelo testemunho da Palavra e com a Palavra testifica em nossos corações.
+> Pelo testemunho da Igreja podemos ser movidos e induzidos a um alto e reverente apreço pela Escritura Sagrada; (10) e a excelência do conteúdo, a eficácia da doutrina, a majestade do estilo, a harmonia de todas as partes, o escopo do todo (que é dar a Deus toda a glória), a plena revelação que faz do único caminho da salvação do homem, as suas muitas outras excelências incomparáveis e a sua completa perfeição, são argumentos pelos quais ela abundantemente se evidencia ser a Palavra de Deus; contudo, a nossa plena persuasão e certeza da sua infalível verdade e divina autoridade provêm da operação interna do Espírito Santo, que pelo testemunho da Palavra e com a Palavra testifica em nossos corações. (11)
 >
-> - (1) 1 Tim 3:15
-> - (2) 1 João 2:20,27; João 16:13-14; 1 Cor 2:10-12; Isa 59:21
+> (10) 1 Tim 3:15
+> (11) 1 João 2:20,27; João 16:13-14; 1 Cor 2:10-12; Isa 59:21
 
 Esta seção ensina as seguintes proposições:
 1. Que a autoridade das Escrituras inspiradas não repousa sobre o testemunho da Igreja, mas diretamente sobre Deus.
@@ -171,11 +172,11 @@ Isso faz parte das evidências do Cristianismo consideradas sob a seção i. As 
 As Escrituras para o homem não regenerado são como a luz para o cego. Elas podem ser sentidas como os raios do sol são sentidos pelo cego, mas não podem ser plenamente vistas. O Espírito Santo abre os olhos cegos e dá a devida sensibilidade ao coração enfermo; e assim a certeza vem com a evidência da experiência espiritual. Quando regenerado pela primeira vez, ele começa a submeter as Escrituras ao teste da experiência; e quanto mais avança, mais prova que elas são verdadeiras, e mais descobre sua amplitude e plenitude ilimitadas, e sua adaptação evidentemente planejada a todas as necessidades humanas sob todas as condições possíveis.
 
 ## SEÇÃO 6
-> Todo o conselho de Deus concernente a todas as coisas necessárias para a glória dele e para a salvação, fé e vida do homem, ou é expressamente declarado na Escritura, ou por uma consequência boa e necessária pode ser deduzido dela; à qual nada, em tempo algum, se deve acrescentar, seja por novas revelações do Espírito, seja por tradições de homens. Reconhecemos, entretanto, ser necessária a iluminação interna do Espírito de Deus para a compreensão salvadora das coisas reveladas na Palavra, e que há algumas circunstâncias, quanto ao culto de Deus e ao governo da Igreja, comuns às ações e sociedades humanas, as quais devem ser ordenadas pela luz da natureza e pela prudência cristã, segundo as regras gerais da Palavra, que sempre devem ser observadas.
+> Todo o conselho de Deus concernente a todas as coisas necessárias para a glória dele e para a salvação, fé e vida do homem, ou é expressamente declarado na Escritura, ou por uma consequência boa e necessária pode ser deduzido dela; à qual nada, em tempo algum, se deve acrescentar, seja por novas revelações do Espírito, seja por tradições de homens. (12) Reconhecemos, entretanto, ser necessária a iluminação interna do Espírito de Deus para a compreensão salvadora das coisas reveladas na Palavra, (13) e que há algumas circunstâncias, quanto ao culto de Deus e ao governo da Igreja, comuns às ações e sociedades humanas, as quais devem ser ordenadas pela luz da natureza e pela prudência cristã, segundo as regras gerais da Palavra, que sempre devem ser observadas. (14)
 >
-> - (1) 2 Tim 3:15-17; Gal 1:8-9; 2 Tes 2
-> - (2) João 6:45; 1 Cor 2:9-12
-> - (3) 1 Cor 11:13-14; 1 Cor 14:26,40
+> (12) 2 Tim 3:15-17; Gal 1:8-9; 2 Tes 2
+> (13) João 6:45; 1 Cor 2:9-12
+> (14) 1 Cor 11:13-14; 1 Cor 14:26,40
 
 Esta seção ensina as seguintes proposições:
 1. As Escrituras inspiradas do Antigo e Novo Testamentos são uma regra completa de fé e prática: elas abrangem a totalidade de qualquer revelação sobrenatural que Deus agora faz aos homens, e são abundantemente suficientes para todas as necessidades práticas de homens ou comunidades.
@@ -210,10 +211,10 @@ Esta necessidade não resulta de qualquer falta de completude ou clareza na reve
 Esta liberdade, é claro, é permitida apenas dentro dos limites da interpretação estrita dos princípios ensinados na Palavra, e na aplicação legítima desses princípios, e se aplica à regulação da vida prática do indivíduo e da Igreja, em ajustes detalhados às mudanças de circunstâncias.
 
 ## SEÇÃO 7
-> Nem todas as coisas na Escritura são igualmente claras em si mesmas, nem igualmente compreensíveis por todos; todavia, as coisas que precisam ser conhecidas, cridas e observadas para a salvação, estão tão claramente expostas e abertas em um ou outro lugar da Escritura, que não só os doutos, mas ainda os indoutos, no devido uso dos meios ordinários, podem alcançar uma compreensão suficiente delas.
+> Nem todas as coisas na Escritura são igualmente claras em si mesmas, nem igualmente compreensíveis por todos; (15) todavia, as coisas que precisam ser conhecidas, cridas e observadas para a salvação, estão tão claramente expostas e abertas em um ou outro lugar da Escritura, que não só os doutos, mas ainda os indoutos, no devido uso dos meios ordinários, podem alcançar uma compreensão suficiente delas. (16)
 >
-> - (1) 2 Ped 3:16
-> - (2) Sl 119:105,130
+> (15) 2 Ped 3:16
+> (16) Sl 119:105,130
 
 Esta seção afirma:
 1. Que as Escrituras são, em tal sentido, perspícuas que tudo o que é necessário para o homem saber, a fim de sua salvação ou para sua orientação prática no dever, pode ser aprendido nelas; e
@@ -231,14 +232,14 @@ Que a doutrina protestante sobre este assunto é verdadeira, é provado:
 - **e.** A experiência provou uniformemente a verdade da doutrina protestante. Aquelas Igrejas que mais fielmente disseminaram as Escrituras no vernáculo entre a massa do povo conformaram-se mais inteiramente ao sentido claro e certo de seu ensino na fé e na prática; enquanto aquelas Igrejas que as trancaram nas mãos de um sacerdócio afastaram-se delas no mais alto grau, tanto na letra quanto no espírito.
 
 ## SEÇÃO 8
-> O Velho Testamento em Hebraico (língua nativa do antigo povo de Deus) e o Novo Testamento em Grego (a língua que, no tempo em que foi escrito, era a mais vulgarmente conhecida entre as nações), sendo inspirados imediatamente por Deus e, pelo seu singular cuidado e providência, conservados puros em todos os séculos, são por isso autênticos; de sorte que, em todas as controvérsias religiosas, a Igreja deve finalmente apelar para eles. Mas, porque estas línguas originais não são conhecidas de todo o povo de Deus, que tem direito às Escrituras e interesse nelas, e que é ordenado a lê-las e a esquadrinhá-las no temor de Deus, elas devem ser traduzidas para a língua vulgar de cada nação onde quer que cheguem, para que, habitando a Palavra de Deus abundantemente em todos, possam eles adorá-lo de modo aceitável e possuam esperança pela paciência e conforto das Escrituras.
+> O Velho Testamento em Hebraico (língua nativa do antigo povo de Deus) e o Novo Testamento em Grego (a língua que, no tempo em que foi escrito, era a mais vulgarmente conhecida entre as nações), sendo inspirados imediatamente por Deus e, pelo seu singular cuidado e providência, conservados puros em todos os séculos, são por isso autênticos; (17) de sorte que, em todas as controvérsias religiosas, a Igreja deve finalmente apelar para eles. (18) Mas, porque estas línguas originais não são conhecidas de todo o povo de Deus, que tem direito às Escrituras e interesse nelas, e que é ordenado a lê-las e a esquadrinhá-las no temor de Deus, (19) elas devem ser traduzidas para a língua vulgar de cada nação onde quer que cheguem, (20) para que, habitando a Palavra de Deus abundantemente em todos, possam eles adorá-lo de modo aceitável (21) e possuam esperança pela paciência e conforto das Escrituras. (22)
 >
-> - (1) Mat 5:18
-> - (2) Isa 8:20; Atos 15:15
-> - (3) João 5:39,46
-> - (4) 1 Cor 14:6,9,11-12,24,27-28
-> - (5) Col 3:16
-> - (6) Rom 15:4
+> (17) Mat 5:18
+> (18) Isa 8:20; Atos 15:15
+> (19) João 5:39,46
+> (20) 1 Cor 14:6,9,11-12,24,27-28
+> (21) Col 3:16
+> (22) Rom 15:4
 
 Esta seção ensina:
 1. Que, tendo o Antigo Testamento sido originalmente escrito em hebraico e o Novo Testamento em grego — que eram as línguas comuns do grande corpo da Igreja em seus respectivos períodos — as Escrituras nessas línguas são a regra absoluta de fé e o apelo final em todas as controvérsias.
@@ -251,14 +252,14 @@ O verdadeiro texto das escrituras antigas é verificado por meio de uma colaçã
 3. Traduções antigas para outras línguas. As principais delas são o Pentateuco Samaritano, que os samaritanos herdaram das dez tribos; a Septuaginta grega, 285 a.C.; a Peshitta ou versão siríaca antiga, 100 d.C.; a Vulgata latina de Jerônimo, 385 d.C.; a Copta do século V, e outras de menor valor crítico.
 
 ## SEÇÃO 9
-> A regra infalível de interpretação da Escritura é a própria Escritura; e, portanto, quando há questão sobre o verdadeiro e pleno sentido de qualquer lugar da Escritura (sentido que não é múltiplo, mas único), esse lugar deve ser estudado e compreendido por outros lugares que falem mais claramente.
+> A regra infalível de interpretação da Escritura é a própria Escritura; e, portanto, quando há questão sobre o verdadeiro e pleno sentido de qualquer lugar da Escritura (sentido que não é múltiplo, mas único), esse lugar deve ser estudado e compreendido por outros lugares que falem mais claramente. (23)
 >
-> - (1) 2 Ped 1:20-21; Atos 15:15-16
+> (23) 2 Ped 1:20-21; Atos 15:15-16
 
 ## SEÇÃO 10
-> O Juiz Supremo, pelo qual todas as controvérsias religiosas têm de ser determinadas e por quem serão examinados todos os decretos de concílios, opiniões de antigos escritores, doutrinas de homens e espíritos particulares, e em cuja sentença devemos firmar-nos, não pode ser outro senão o Espírito Santo falando na Escritura.
+> O Juiz Supremo, pelo qual todas as controvérsias religiosas têm de ser determinadas e por quem serão examinados todos os decretos de concílios, opiniões de antigos escritores, doutrinas de homens e espíritos particulares, e em cuja sentença devemos firmar-nos, não pode ser outro senão o Espírito Santo falando na Escritura. (24)
 >
-> - (1) Mat 22:29,31; Ef 2:20 com Atos 28:25
+> (24) Mat 22:29,31; Ef 2:20 com Atos 28:25
 
 Estas seções ensinam:
 1. Que a única "regra" verdadeira e infalível para a interpretação da Escritura é a própria Escritura.

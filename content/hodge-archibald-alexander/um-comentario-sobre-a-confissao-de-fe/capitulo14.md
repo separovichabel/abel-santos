@@ -3,10 +3,10 @@
 ## SEÇÃO 1
 > A graça da fé, pela qual os eleitos são habilitados a crer para a salvação de suas almas, (1) é a obra do Espírito de Cristo em seus corações, (2) e é ordinariamente operada pelo ministério da Palavra, (3) pela qual também, e pela administração dos sacramentos e pela oração, ela é aumentada e fortalecida. (4)
 >
-> - (1) Tito 1:1; Hb 10:39
-> - (2) 1 Co 12:3; Jo 3:5; 6:44-45, 65; Tito 3:5; Ef 2:8; Fp 1:29; 2 Pe 1:1; veja 1 Pe 1:2
-> - (3) Mt 28:19-20; Rm 10:14, 17; 1 Co 1:21
-> - (4) 1 Pe 2:2; At 20:32; Rm 1:16-17; Mt 28:19; veja At 2:38; 1 Co 10:16; 11:23-29; Lc 17:5; Fp 4:6-7
+> (1) Tito 1:1; Hb 10:39
+> (2) 1 Co 12:3; Jo 3:5; 6:44-45, 65; Tito 3:5; Ef 2:8; Fp 1:29; 2 Pe 1:1; veja 1 Pe 1:2
+> (3) Mt 28:19-20; Rm 10:14, 17; 1 Co 1:21
+> (4) 1 Pe 2:2; At 20:32; Rm 1:16-17; Mt 28:19; veja At 2:38; 1 Co 10:16; 11:23-29; Lc 17:5; Fp 4:6-7
 
 Fé, no sentido mais geral da palavra, é o assentimento da mente à verdade daquilo de que não temos uma cognição imediata; conhecimento é a percepção da verdade daquilo de que temos uma cognição imediata. No entanto, a fé exige e repousa sobre evidências tão absolutamente quanto o conhecimento. Ela não difere da razão como o racional difere do irracional, nem do conhecimento como a convicção daquilo que está provado difere da presunção daquilo que não está provado. A fé, como o próprio conhecimento, exige evidência, e difere de acordo com a evidência em diferentes casos, desde a mais ínfima probabilidade até a certeza mais garantida. Temos conhecimento direto de que o livro que temos em mãos preenche uma certa porção do espaço; temos fé que o espaço ainda se estende ilimitado além da estrela mais distante vista pelo telescópio. Um é conhecimento e o outro é fé, mas a fé é tão certa quanto o conhecimento. Conhecemos a existência e os atributos da cidade em que habitamos; cremos na existência e nos atributos da antiga Atenas ou da moderna Yeddo pelo testemunho de homens. Conhecemos as propriedades da natureza humana; cremos nas propriedades das diversas pessoas da Trindade pelo testemunho de Deus. Em cada caso, a fé é tão racional e tão certa quanto o conhecimento. A fé, em muitas de suas milhares de formas, é exercida espontaneamente por todos os homens. Os processos mais comuns do pensamento e da ação humana, individual ou associada, seriam impossíveis sem ela. Quando fundamentada em evidência legítima, ela leva à segurança absoluta. Ela tem sua raiz na razão, à qual sempre se conforma, quando legítima. Mas ela alcança além da razão e eleva a mente à contemplação das verdades mais altas e enobrecedoras.
 
@@ -35,11 +35,11 @@ Vimos acima, sob o capítulo 13., que a santificação é uma obra progressiva d
 ## SEÇÃO 2
 > Por esta fé, o cristão crê ser verdade tudo o que é revelado na Palavra, pela autoridade do próprio Deus que nela fala; (5) e age de modo diferente sobre o que cada passagem particular nela contém; rendendo obediência aos mandamentos, (6) tremendo diante das ameaças, (7) e abraçando as promessas de Deus para esta vida e para a que há de vir. (8) Mas os principais atos da fé salvadora são o aceitar, receber e descansar somente em Cristo para a justificação, santificação e vida eterna, em virtude do pacto da graça. (9)
 >
-> - (5) 2 Pe 1:20-21; Jo 4:42; 1 Ts 2:13; 1 Jo 5:9-10; At 24:14
-> - (6) Sl 119:10-11, 48, 97-98, 167-168; Jo 14:15
-> - (7) Esdras 9:4; Is 66:2; Hb 4:1
-> - (8) Hb 11:13; 1 Tm 4:8
-> - (9) Jo 1:12; At 15:11, 16:31; Gl 2:20; 2 Tm 1:9-10
+> (5) 2 Pe 1:20-21; Jo 4:42; 1 Ts 2:13; 1 Jo 5:9-10; At 24:14
+> (6) Sl 119:10-11, 48, 97-98, 167-168; Jo 14:15
+> (7) Esdras 9:4; Is 66:2; Hb 4:1
+> (8) Hb 11:13; 1 Tm 4:8
+> (9) Jo 1:12; At 15:11, 16:31; Gl 2:20; 2 Tm 1:9-10
 
 Esta seção ensina:
 
@@ -70,10 +70,10 @@ Aquele ato específico de fé salvadora que une a Cristo, e é a única condiç�
 ## SEÇÃO 3
 > Esta fé é diferente em graus, fraca ou forte; (10) pode ser muitas vezes e de muitas maneiras assaltada e enfraquecida, mas alcança a vitória: (11) crescendo em muitos até a obtenção de uma plena certeza, através de Cristo, (12) que é tanto o autor como o consumador da nossa fé. (13)
 >
-> - (10) Hb 5:13-14; Rm 4:19-20; 14:1-2; Mt 6:30; 8:10
-> - (11) Lc 22:31-32; Ef 6:16; 1 Jo 5:4-5
-> - (12) Hb 6:11-12; 10:22; Cl 2:2
-> - (13) Hb 12:2
+> (10) Hb 5:13-14; Rm 4:19-20; 14:1-2; Mt 6:30; 8:10
+> (11) Lc 22:31-32; Ef 6:16; 1 Jo 5:4-5
+> (12) Hb 6:11-12; 10:22; Cl 2:2
+> (13) Hb 12:2
 
 Nesta seção afirma-se:
 

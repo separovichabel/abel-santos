@@ -3,7 +3,7 @@
 ## SEÇÃO 1:
 > Nossa Senhor Jesus, na noite em que foi traído, instituiu o sacramento do seu corpo e sangue, chamado Ceia do Senhor, para ser observado em sua igreja até o fim do mundo, para lembrança perpétua do sacrifício de si mesmo em sua morte; o selar de todos os benefícios da mesma aos verdadeiros crentes, seu nutrimento espiritual e crescimento nele, seu compromisso ulterior em todos os deveres que lhe devem; e para ser um vínculo e penhor da sua comunhão com ele e uns com os outros, como membros do seu corpo místico (1).
 >
-> - (1) 1Co 10:16-17, 21; 11:23-26; 12:13
+> (1) 1Co 10:16-17, 21; 11:23-26; 12:13
 
 ESTA seção nos ensina —
 1. Sobre o tempo em que, e a pessoa por quem, a Ceia do Senhor foi instituída.
@@ -31,33 +31,33 @@ Quanto ao propósito da Ceia do Senhor, o ensino de nossos Símbolos de Fé pode
 ## SEÇÃO 2:
 > Neste sacramento, Cristo não é oferecido a seu Pai, nem se faz qualquer sacrifício real para remissão de pecados dos vivos ou dos mortos (2); mas apenas uma comemoração daquela oferta única de si mesmo, feita por ele mesmo na cruz, uma única vez; e uma oblação espiritual de todo o louvor possível a Deus por esse sacrifício (3): de modo que o sacrifício papista da missa (como o chamam) é o mais abominável insulto ao único sacrifício de Cristo, a única propiciação por todos os pecados dos seus eleitos (4).
 >
-> - (2) Hb 9:22, 25-26, 28; 10:10-14
-> - (3) 1Co 11:24-26; Mt 26:26-27; Lc 22:19-20
-> - (4) Hb 7:23-24, 27; 10:11-12, 14, 18
+> (2) Hb 9:22, 25-26, 28; 10:10-14
+> (3) 1Co 11:24-26; Mt 26:26-27; Lc 22:19-20
+> (4) Hb 7:23-24, 27; 10:11-12, 14, 18
 
 ## SEÇÃO 3:
 > O Senhor Jesus, nesta ordenança, designou seus ministros para declararem sua palavra de instituição ao povo; para orarem e abençoarem os elementos pão e vinho, separando-os assim do uso comum para o sagrado; e para tomarem e partirem o pão, tomarem o cálice e (comungando eles também) darem ambos aos comungantes (5); mas a ninguém que não esteja presente na congregação (6).
 >
-> - (5) Mt 26:26-28; Mc 14:22-24; Lc 22:19-20; 1Co 10:16-17; 11:23-27
-> - (6) At 20:7; 1Co 11:20
+> (5) Mt 26:26-28; Mc 14:22-24; Lc 22:19-20; 1Co 10:16-17; 11:23-27
+> (6) At 20:7; 1Co 11:20
 
 ## SEÇÃO 4:
 > Missas particulares, ou o recebimento deste sacramento por um sacerdote ou qualquer outra pessoa sozinha (7); bem como a negação do cálice ao povo (8), a adoração dos elementos, o elevá-los ou levá-los em procissão para serem adorados e o reservá-los para qualquer pretenso uso religioso; são tudo contrário à natureza deste sacramento e à instituição de Cristo (9).
 >
-> - (7) 1Co 10:16
-> - (8) Mt 26:27-28; Mc 14:23; 1Co 11:25-29
-> - (9) Mt 15:9
+> (7) 1Co 10:16
+> (8) Mt 26:27-28; Mc 14:23; 1Co 11:25-29
+> (9) Mt 15:9
 
 ## SEÇÃO 5:
 > Os elementos externos neste sacramento, devidamente separados para os usos ordenados por Cristo, têm tal relação com ele crucificado que, verdadeira mas apenas sacramentalmente, são às vezes chamados pelos nomes das coisas que representam, a saber, o corpo e o sangue de Cristo (10); embora, em substância e natureza, continuem a ser verdadeira e apenas pão e vinho, como eram antes (11).
 >
-> - (10) Mt 26:26-28
-> - (11) 1Co 11:26-28; Mt 26:29
+> (10) Mt 26:26-28
+> (11) 1Co 11:26-28; Mt 26:29
 
 ## SEÇÃO 6:
 > A doutrina que mantém a mudança da substância do pão e do vinho na substância do corpo e do sangue de Cristo (comumente chamada transubstanciação) pela consagração de um sacerdote ou por qualquer outro meio, é repugnante não só à Escritura, mas até ao senso comum e à razão; destrói a natureza do sacramento e tem sido, e é, a causa de muitas superstições; sim, de grosseiras idolatrias (12).
 >
-> - (12) At 3:21; 1Co 11:24-26; Lc 24:6, 39
+> (12) At 3:21; 1Co 11:24-26; Lc 24:6, 39
 
 A forma como as declarações feitas nestas seções são apresentadas é mais negativa do que positiva — destinada mais a se opor a certos erros romanistas e ritualistas do que a fazer uma simples declaração da verdadeira doutrina do sacramento. Os erros que aqui são combatidos são —
 1. A doutrina da transubstanciação, ou a mudança de toda a substância do pão e do vinho no corpo, sangue, alma e divindade do Senhor Jesus.
@@ -90,14 +90,14 @@ Esta doutrina é falsa porque — (a) Não é ensinada em nenhum lugar na Escrit
 ## SEÇÃO 7:
 > Os que recebem dignamente, participando externamente dos elementos visíveis neste sacramento (13), recebem então também, interiormente pela fé, real e verdadeiramente, não carnal e corporalmente, mas espiritualmente, a Cristo crucificado e todos os benefícios da sua morte, e dele se alimentam: não estando o corpo e o sangue de Cristo, corporal ou carnalmente, em, com ou sob o pão e o vinho; contudo, estão tão real, mas espiritualmente, presentes à fé dos crentes naquela ordenança, como os próprios elementos estão aos seus sentidos externos (14).
 >
-> - (13) 1Co 11:28
-> - (14) 1Co 10:16; veja 1Co 10:3-4
+> (13) 1Co 11:28
+> (14) 1Co 10:16; veja 1Co 10:3-4
 
 ## SEÇÃO 8:
 > Embora homens ignorantes e ímpios recebam os elementos externos neste sacramento, contudo não recebem a coisa significada por eles; mas, por sua vinda indigna, tornam-se culpados do corpo e do sangue do Senhor, para sua própria condenação. Portanto, todas as pessoas ignorantes e ímpias, como são ineptas para gozar comunhão com ele, assim são indignas da mesa do Senhor; e não podem, sem grande pecado contra Cristo, enquanto permanecerem tais, participar destes santos mistérios (15), ou ser a eles admitidas (16).
 >
-> - (15) 1Co 10:21; 11:27-29; 2Co 6:14-16
-> - (16) 1Co 5:6-7, 13; 2Tess 3:6, 14-15; Mt 7:6
+> (15) 1Co 10:21; 11:27-29; 2Co 6:14-16
+> (16) 1Co 5:6-7, 13; 2Tess 3:6, 14-15; Mt 7:6
 
 Estas seções ensinam a doutrina reformada quanto à relação que subsiste na Ceia do Senhor entre o sinal e a graça significada; isto é, quanto à natureza da presença de Cristo no sacramento, e o sentido em que, consequentemente, se diz que o receptor digno se alimenta do corpo e do sangue do Senhor. Esta doutrina reformada pode ser declarada como segue:
 

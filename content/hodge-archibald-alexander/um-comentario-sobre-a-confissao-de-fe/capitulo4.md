@@ -3,9 +3,9 @@
 ## SEÇÃO 1
 > APROUVE a Deus o Pai, o Filho e o Espírito Santo,(1) para a manifestação da glória do seu eterno poder, sabedoria e bondade,(2) no princípio, criar, ou fazer do nada, o mundo e tudo o que nele há, tanto visível quanto invisível, no espaço de seis dias, e tudo muito bom.(3)
 >
-> - (1) Hb 1:2; Jo 1:2,3; Gn 1:2; Jó 26:13; 33:4.
-> - (2) Rm 1:20; Jr 10:12; Sl 104:24; 33:5,6.
-> - (3) Gn 1:1-31; Hb 11:3; Cl 1:16; At 17:24.
+> (1) Hb 1:2; Jo 1:2,3; Gn 1:2; Jó 26:13; 33:4.
+> (2) Rm 1:20; Jr 10:12; Sl 104:24; 33:5,6.
+> (3) Gn 1:1-31; Hb 11:3; Cl 1:16; At 17:24.
 
 Esta seção ensina que a matéria não é autoexistente; que Deus criou o universo visível *ex nihilo* (do nada) em seis dias, sendo tudo muito bom, para a manifestação de Sua própria glória.
 
@@ -65,14 +65,14 @@ Esta é obviamente uma questão da mais alta importância. Visto que o fim princ
 ## SEÇÃO 2
 > DEPOIS de haver feito todas as outras criaturas, Deus criou o homem, macho e fêmea,(4) com almas racionais e imortais,(5) dotadas de conhecimento, justiça e verdadeira santidade, segundo a sua própria imagem,(6) tendo a lei de Deus escrita em seus corações(7) e poder para cumpri-la,(8) mas com a possibilidade de transgredir, sendo deixados à liberdade da sua própria vontade, a qual era sujeita a mudança.(9) Além dessa lei escrita em seus corações, receberam o preceito de não comerem da árvore do conhecimento do bem e do mal;(10) enquanto o guardaram, foram felizes em sua comunhão com Deus e tiveram domínio sobre as criaturas.(11)
 >
-> - (4) Gn 1:27.
-> - (5) Gn 2:7; Ec 12:7; Lc 23:43; Mt 10:28.
-> - (6) Gn 1:26; Cl 3:10; Ef 4:24.
-> - (7) Rm 2:14,15.
-> - (8) Ec 7:29.
-> - (9) Gn 3:6; Ec 7:29.
-> - (10) Gn 2:17; 3:8-11,23.
-> - (11) Gn 1:26,28.
+> (4) Gn 1:27.
+> (5) Gn 2:7; Ec 12:7; Lc 23:43; Mt 10:28.
+> (6) Gn 1:26; Cl 3:10; Ef 4:24.
+> (7) Rm 2:14,15.
+> (8) Ec 7:29.
+> (9) Gn 3:6; Ec 7:29.
+> (10) Gn 2:17; 3:8-11,23.
+> (11) Gn 1:26,28.
 
 Voltamo-nos nesta seção para a criação imediata do homem por Deus.
 
