@@ -1,7 +1,7 @@
 # Capítulo 9: Do Livre-Arbítrio
 
 ## SEÇÃO I: 
-> Deus dotou a vontade do homem com aquela liberdade natural, que ela nem é forçada, nem, por qualquer necessidade absoluta da natureza, determinada para o bem ou para o mal.[1]
+> Deus dotou a vontade do homem com aquela liberdade natural, que ela nem é forçada, nem, por qualquer necessidade absoluta da natureza, determinada para o bem ou para o mal.(1)
 
 > Textos de Prova Bíblica
 >
@@ -25,7 +25,7 @@ Que a segunda visão, que supõe que um homem possui o poder de escolher sem res
 **4.** Se a alma humana tivesse o poder de agir assim, independentemente de toda a sua condição interior intelectual e emocional no momento, tal ação não poderia ser prevista nem controlada por Deus, nem influenciada pelos homens, e tal exercício do poder volitivo seria absolutamente fortuito. Não sustentaria nenhuma relação certa com o caráter do agente. Cristo ensinou, em oposição a isso, que a ação humana é determinada pelo caráter do agente tão certamente quanto a natureza do fruto é determinada pela natureza da árvore da qual ele brota; e que a única maneira de mudar o caráter da ação é mudar o caráter permanente ou a tendência moral e o hábito do coração do agente. Mt. 7:16-20; 12:33-35.
 
 ## SEÇÃO II: 
-> O homem, em seu estado de inocência, tinha liberdade e poder de querer e fazer aquilo que era bom e bem-aprazível a Deus;[2] mas, contudo, mutavelmente, de sorte que pudesse cair dela.[3]
+> O homem, em seu estado de inocência, tinha liberdade e poder de querer e fazer aquilo que era bom e bem-aprazível a Deus;(2) mas, contudo, mutavelmente, de sorte que pudesse cair dela.(3)
 
 > Textos de Prova Bíblica
 >
@@ -33,7 +33,7 @@ Que a segunda visão, que supõe que um homem possui o poder de escolher sem res
 > (3) Gên. 2:16-17; 3:6, 17
 
 ## SEÇÃO III: 
-> O homem, pela sua queda num estado de pecado, perdeu totalmente toda a habilidade da vontade para qualquer bem espiritual que acompanhe a salvação;[4] de sorte que, como homem natural, sendo inteiramente avesso a esse bem[5] e morto no pecado,[6] não é capaz, por sua própria força, de se converter ou de se preparar para isso.[7]
+> O homem, pela sua queda num estado de pecado, perdeu totalmente toda a habilidade da vontade para qualquer bem espiritual que acompanhe a salvação;(4) de sorte que, como homem natural, sendo inteiramente avesso a esse bem(5) e morto no pecado,(6) não é capaz, por sua própria força, de se converter ou de se preparar para isso.(7)
 
 > Textos de Prova Bíblica
 >
@@ -43,7 +43,7 @@ Que a segunda visão, que supõe que um homem possui o poder de escolher sem res
 > (7) João 3:3, 5-6; 6:44, 65; I Cor. 2:14; Tito 3:3-5
 
 ## SEÇÃO IV: 
-> Quando Deus converte um pecador e o transfere para o estado de graça, ele o liberta da sua escravidão natural sob o pecado;[8] e, somente por sua graça, o habilita a livremente querer e fazer aquilo que é espiritualmente bom;[9] contudo, de tal modo que, por razão da sua corrupção remanescente, ele não quer perfeitamente, nem somente, o que é bom, mas também quer o que é mau.[10]
+> Quando Deus converte um pecador e o transfere para o estado de graça, ele o liberta da sua escravidão natural sob o pecado;(8) e, somente por sua graça, o habilita a livremente querer e fazer aquilo que é espiritualmente bom;(9) contudo, de tal modo que, por razão da sua corrupção remanescente, ele não quer perfeitamente, nem somente, o que é bom, mas também quer o que é mau.(10)
 
 > Textos de Prova Bíblica
 >
@@ -52,7 +52,7 @@ Que a segunda visão, que supõe que um homem possui o poder de escolher sem res
 > (10) Gál. 5:17; Rom. 7:14-25; I João 1:8, 10
 
 ## SEÇÃO V: 
-> A vontade do homem é feita perfeita e imutavelmente livre apenas para o bem, somente no estado de glória.[11]
+> A vontade do homem é feita perfeita e imutavelmente livre apenas para o bem, somente no estado de glória.(11)
 
 > Textos de Prova Bíblica
 >
