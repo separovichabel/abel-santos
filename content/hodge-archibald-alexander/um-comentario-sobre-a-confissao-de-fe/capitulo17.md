@@ -74,7 +74,6 @@ O fundamento desta perseverança certa não reside de modo algum no livre-arbít
 ### 3.
 O conteúdo da terceira proposição ensinada neste capítulo deve ser examinado cuidadosamente em conexão com os textos de prova anexados às várias cláusulas. Eles não precisam ser mais ilustrados por nós, uma vez que tudo o que neles está contido é uma questão de sentido claro e de experiência universal. Observe os casos de Davi (2 Sam. 11:2-4; Sal. 51) e de Pedro (Luc. 22:54-62). A perseverança dos crentes na graça é operada pelo Espírito Santo, não independentemente de, mas através do livre-arbítrio do próprio homem. Portanto, é um dever tanto quanto uma graça. A graça dela deve ser pregada para o encorajamento dos diligentes. O dever e a absoluta necessidade dela para a salvação devem ser pregados para despertar os preguiçosos e para aumentar o senso de obrigação sentido por todos.
 
----
 ## PERGUNTAS
 
 1. Qual é a primeira proposição ensinada neste capítulo?

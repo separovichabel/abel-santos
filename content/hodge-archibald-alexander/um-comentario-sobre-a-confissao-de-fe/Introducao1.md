@@ -106,54 +106,54 @@ As Confissões Reformadas são muito numerosas, embora todas concordem substanci
 
 ## PERGUNTAS
 
-- 1. Qual é o único padrão de fé absoluto e essencialmente autoritativo?
-- 2. De onde todos os Credos humanos derivam sua autoridade?
-- 3. Sobre quem repousa a necessidade e obrigação de reunir tudo o que a Escritura ensina sobre qualquer assunto, e de ajustar seu ensino sobre um assunto com todos os outros elementos do sistema da verdade?
-- 4. É melhor para um homem formar essas opiniões sem ou com a assistência do grande corpo de seus companheiros cristãos?
-- 5. Em que forma as opiniões da grande massa da Igreja Cristã sobre esses assuntos foram expressas e preservadas?
-- 6. Qual é então o primeiro grande propósito para o qual os Credos e Confissões são úteis?
-- 7. Qual é o segundo grande fim?
-- 8. Qual é o terceiro?
-- 9. Qual é o quarto?
-- 10. Em que base, e até que ponto a matéria dessas Confissões obriga as consciências dos homens?
-- 11. A quem e em que base a forma dessas Confissões obriga?
-- 12. Quais são os termos sob os quais os membros privados são admitidos à Igreja?
-- 13. Quais são os termos sob os quais pregadores e governantes são admitidos ao ofício na Igreja?
-- 14. Por que os termos devem ser tão diferentes nos dois casos?
-- 15. Quando, e por qual corpo representativo de nossa Igreja, a Confissão e os Catecismos de Westminster foram adotados pela primeira vez como nosso padrão de fé?
-- 16. Leia o ato de adoção.
-- 17. Leia a ação do Sínodo Geral, aprovada em A.D. 1788.
-- 18. A que classe de tópicos todos os Credos anteriores à Reforma se referem?
-- 19. Qual é a origem do que é comumente chamado de Credo dos Apóstolos?
-- 20. Ele sempre teve um lugar em nosso Catecismo?
-- 21. Leia-o.
-- 22. Quando e por quais Concílios o Credo Niceno foi produzido?
-- 23. Leia-o.
-- 24. Que tendências heréticas opostas, a respeito da Pessoa de Cristo, surgiram posteriormente na Igreja?
-- 25. Qual foi a data e o propósito do Credo do Concílio de Éfeso?
-- 26. Qual foi a data e o propósito do Credo do Concílio de Calcedônia?
-- 27. Qual foi a origem do Credo falsamente atribuído ao grande Atanásio?
-- 28. Leia a parte dele que se refere à Pessoa de Cristo.
-- 29. Quais são os padrões doutrinários da Igreja de Roma?
-- 30. Qual é o caráter da teologia que eles ensinam?
-- 31. Quando, por que e em que divisões a Igreja da Idade Média se separou?
-- 32. Quais países estão abrangidos nos limites da Igreja Grega?
-- 33. Quais são os padrões doutrinários da Igreja Grega?
-- 34. Em que duas grandes divisões as igrejas da Reforma se separaram?
-- 35. Qual é a característica comum das igrejas luteranas?
-- 36. Qual é a característica comum das igrejas reformadas?
-- 37. Quais igrejas pertencem à família luterana?
-- 38. Qual é o nome, data e origem de seu principal padrão de fé universalmente recebido?
-- 39. Quais são seus outros livros simbólicos?
-- 40. Qual é a origem, propósito e caráter da Fórmula de Concórdia, e em que estima ela é tida?
-- 41. Quais igrejas estão abrangidas na família reformada ou calvinista?
-- 42. Que relato é dado aqui sobre a Segunda Confissão Helvética?
-- 43. Que relato é dado aqui sobre o Catecismo de Heidelberg?
-- 44. De quais igrejas ele é o padrão credenciado?
-- 45. O que é dito aqui sobre os Trinta e Nove Artigos da Igreja da Inglaterra?
-- 46. Por quem, onde, quando e com que propósito o Sínodo de Dort foi convocado?
-- 47. Por quais partes ele era composto?
-- 48. Em que estima seus "Cânones" têm sido tidos, e de quais igrejas eles são o padrão?
-- 49. De quais igrejas a Confissão e os Catecismos de Westminster são o padrão de fé?
-- 50. Até que ponto eles foram adotados pelos congregacionalistas da Inglaterra?
-- 51. Em que ocasiões e até que ponto eles foram adotados pelos congregacionalistas da Nova Inglaterra?
+1. Qual é o único padrão de fé absoluto e essencialmente autoritativo?
+2. De onde todos os Credos humanos derivam sua autoridade?
+3. Sobre quem repousa a necessidade e obrigação de reunir tudo o que a Escritura ensina sobre qualquer assunto, e de ajustar seu ensino sobre um assunto com todos os outros elementos do sistema da verdade?
+4. É melhor para um homem formar essas opiniões sem ou com a assistência do grande corpo de seus companheiros cristãos?
+5. Em que forma as opiniões da grande massa da Igreja Cristã sobre esses assuntos foram expressas e preservadas?
+6. Qual é então o primeiro grande propósito para o qual os Credos e Confissões são úteis?
+7. Qual é o segundo grande fim?
+8. Qual é o terceiro?
+9. Qual é o quarto?
+10. Em que base, e até que ponto a matéria dessas Confissões obriga as consciências dos homens?
+11. A quem e em que base a forma dessas Confissões obriga?
+12. Quais são os termos sob os quais os membros privados são admitidos à Igreja?
+13. Quais são os termos sob os quais pregadores e governantes são admitidos ao ofício na Igreja?
+14. Por que os termos devem ser tão diferentes nos dois casos?
+15. Quando, e por qual corpo representativo de nossa Igreja, a Confissão e os Catecismos de Westminster foram adotados pela primeira vez como nosso padrão de fé?
+16. Leia o ato de adoção.
+17. Leia a ação do Sínodo Geral, aprovada em A.D. 1788.
+18. A que classe de tópicos todos os Credos anteriores à Reforma se referem?
+19. Qual é a origem do que é comumente chamado de Credo dos Apóstolos?
+20. Ele sempre teve um lugar em nosso Catecismo?
+21. Leia-o.
+22. Quando e por quais Concílios o Credo Niceno foi produzido?
+23. Leia-o.
+24. Que tendências heréticas opostas, a respeito da Pessoa de Cristo, surgiram posteriormente na Igreja?
+25. Qual foi a data e o propósito do Credo do Concílio de Éfeso?
+26. Qual foi a data e o propósito do Credo do Concílio de Calcedônia?
+27. Qual foi a origem do Credo falsamente atribuído ao grande Atanásio?
+28. Leia a parte dele que se refere à Pessoa de Cristo.
+29. Quais são os padrões doutrinários da Igreja de Roma?
+30. Qual é o caráter da teologia que eles ensinam?
+31. Quando, por que e em que divisões a Igreja da Idade Média se separou?
+32. Quais países estão abrangidos nos limites da Igreja Grega?
+33. Quais são os padrões doutrinários da Igreja Grega?
+34. Em que duas grandes divisões as igrejas da Reforma se separaram?
+35. Qual é a característica comum das igrejas luteranas?
+36. Qual é a característica comum das igrejas reformadas?
+37. Quais igrejas pertencem à família luterana?
+38. Qual é o nome, data e origem de seu principal padrão de fé universalmente recebido?
+39. Quais são seus outros livros simbólicos?
+40. Qual é a origem, propósito e caráter da Fórmula de Concórdia, e em que estima ela é tida?
+41. Quais igrejas estão abrangidas na família reformada ou calvinista?
+42. Que relato é dado aqui sobre a Segunda Confissão Helvética?
+43. Que relato é dado aqui sobre o Catecismo de Heidelberg?
+44. De quais igrejas ele é o padrão credenciado?
+45. O que é dito aqui sobre os Trinta e Nove Artigos da Igreja da Inglaterra?
+46. Por quem, onde, quando e com que propósito o Sínodo de Dort foi convocado?
+47. Por quais partes ele era composto?
+48. Em que estima seus "Cânones" têm sido tidos, e de quais igrejas eles são o padrão?
+49. De quais igrejas a Confissão e os Catecismos de Westminster são o padrão de fé?
+50. Até que ponto eles foram adotados pelos congregacionalistas da Inglaterra?
+51. Em que ocasiões e até que ponto eles foram adotados pelos congregacionalistas da Nova Inglaterra?

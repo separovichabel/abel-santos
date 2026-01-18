@@ -83,7 +83,6 @@ Nesta seção afirma-se:
 
 Como todos os pontos levantados nesta seção são retomados e discutidos detalhadamente no capítulo 18, sobre "A Certeza da Graça e da Salvação", adiaremos o que temos a dizer sobre o assunto até chegarmos àquele lugar.
 
----
 ## PERGUNTAS
 
 1. Qual é o sentido mais geral da palavra "fé"?

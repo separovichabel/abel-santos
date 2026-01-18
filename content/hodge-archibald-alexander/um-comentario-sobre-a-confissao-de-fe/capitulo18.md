@@ -111,7 +111,6 @@ Visto que esta segurança repousa sobre a consciência de experiências de graç
 ### 4.
 Visto que o verdadeiro crente pode cair em pecado, mas nunca pode cair totalmente da graça, é evidente por si mesmo, como ensinado nestas seções, que ele pode perder o exercício da plena segurança, mas que não pode perder o princípio do qual ela brota; e que, portanto, através da bênção de Deus sobre o uso diligente dos meios apropriados, ela pode ser fortalecida quando enfraquecida e recuperada quando perdida.
 
----
 ## PERGUNTAS
 
 1. Qual é a primeira proposição ensinada nas seções 1 e 2?

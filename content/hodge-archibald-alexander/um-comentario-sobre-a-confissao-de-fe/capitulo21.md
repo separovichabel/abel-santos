@@ -204,7 +204,6 @@ Quanto à observância do descanso cristão, a regra geral óbvia é que ele dev
 
 Uma vez que Deus designou o descanso para ser um dia em sete, devemos consagrar o dia todo, sem redução ou alienação, aos propósitos planejados; isto é, ao descanso do trabalho mundano, ao culto de Deus e à instrução religiosa de nossos semelhantes. Devemos ser diligentes em usar o dia todo para esses propósitos, e evitar, e, tanto quanto em nós couber, levar nossos semelhantes a evitar, tudo o que impede a aplicação mais proveitosa do dia aos seus fins adequados. E nada deve ter permissão para interferir nesta consagração do dia, exceto as exigências evidentes e razoáveis de necessidade, no que diz respeito aos nossos próprios interesses, e de misericórdia, no que diz respeito às necessidades de nossos semelhantes e dos animais dependentes.
 
----
 ## PERGUNTAS
 
 1. Qual é a primeira proposição ensinada nas seções primeira e segunda?

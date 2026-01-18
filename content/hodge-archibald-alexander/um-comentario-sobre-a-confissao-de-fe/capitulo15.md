@@ -128,7 +128,6 @@ A Igreja Católica Romana historicamente ensinou que, como elemento de penitênc
 
 Esta é uma perversão óbvia do mandamento bíblico de confessar. Eles nos ordenam simplesmente a confessar nossas faltas uns aos outros. Não há uma palavra sequer dita sobre confissão a um sacerdote na Bíblia. O crente, ao contrário, tem acesso imediato a Cristo, e a Deus por meio de Cristo (1 Tm. 2:5; Jo. 14:6; 5:40; Mt. 11:28), e é ordenado a confessar seus pecados imediatamente a Deus. (1 João 1:9.) Nenhuma função sacerdotal é jamais atribuída ao ministério cristão no Novo Testamento. O poder do perdão absoluto do pecado pertence somente a Deus (Mt. 9:2-6), é incomunicável em sua própria natureza e nunca foi concedido a nenhuma classe de homens como um fato. A autoridade de ligar ou desligar que Cristo confiou à sua Igreja foi entendida pelos apóstolos, como é evidente pela sua prática, como simplesmente transmitindo o poder de declarar as condições nas quais Deus perdoa o pecado; e, de acordo com essa declaração, de admitir ou excluir homens das ordenanças seladoras.
 
----
 ## PERGUNTAS
 
 1. Qual é a primeira verdade ensinada na primeira e segunda seções?

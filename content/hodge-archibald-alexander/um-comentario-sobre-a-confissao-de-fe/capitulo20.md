@@ -95,7 +95,6 @@ A liberdade cristã é também limitada pelos deveres mútuos que devemos uns ao
 ### 5. e 6.
 Visto que tanto a Igreja quanto o Estado são instituições divinas, segue-se necessariamente que a autoridade dos oficiais de cada um, quando agem legitimamente dentro de suas respectivas esferas, representa a autoridade de Deus e obriga o cristão à obediência por motivo de consciência. Segue-se também que tanto o magistrado civil quanto os tribunais eclesiásticos devem ter o direito de exigir obediência por um modo de disciplina apropriado a ambas as esferas de autoridade. Estes assuntos, contudo, surgem apropriadamente sob os capítulos 23, 25 e 30.
 
----
 ## PERGUNTAS
 
 1. Qual é o assunto deste capítulo?

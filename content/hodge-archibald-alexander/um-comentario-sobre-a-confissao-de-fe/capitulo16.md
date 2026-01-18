@@ -139,7 +139,6 @@ Há também uma distinção óbvia entre um ato visto em si mesmo abstratamente 
 
 3. No entanto, Deus fica mais desagradado com a negligência deles em cumprir esses deveres ordenados do que com o fato de eles os cumprirem pecaminosamente como pecadores. Essas obras feitas por homens não regenerados são ordenadas por Deus e, portanto, são seus deveres obrigatórios. Seu pecado não reside em fazê-las, mas em sua atitude pessoal de rebelião e na ausência de motivos e objetivos adequados. Se negligenciassem fazê-las, a negligência seria adicionada aos outros fundamentos de condenação, que permaneceriam os mesmos. Estas coisas deveriam fazer, sem omitir os preceitos mais importantes da lei. Os atos amáveis de um rebelde devem envolver elementos de rebelião e, no entanto, ele seria mais condenável sem eles do que com eles.
 
----
 ## PERGUNTAS
 
 1. O que é ensinado na primeira e segunda seções como as características essenciais de toda obra verdadeiramente boa?

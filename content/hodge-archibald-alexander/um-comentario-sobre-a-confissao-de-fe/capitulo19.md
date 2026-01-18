@@ -135,7 +135,6 @@ Nestas seções afirma-se:
     - **(3)** Com relação aos pecadores incorrigíveis, a lei é útil para refrear as explosões de suas paixões malignas, para tornar sua desobediência inescusável, para vindicar a justiça de Deus em sua condenação e para tornar seus casos um aviso para os outros. 1 Tm. 1:9; Rm. 1:20; 2:15; Jo. 3:18, 3.
     - **(4)** Em relação aos homens regenerados, a lei continua a ser indispensável como o instrumento do Espírito Santo na obra de sua santificação. Ela permanece para eles como um padrão inflexível de justiça, ao qual sua natureza e suas ações devem corresponder. Mostra-lhes a extensão de suas obrigações para com Cristo e o quanto ainda estão distantes de terem alcançado aquilo para o qual foram alcançados por Cristo Jesus. Assim, tende a estabelecer no regenerado o hábito da convicção do pecado e do arrependimento e fé. Suas ameaças e suas promessas apresentam motivos que detêm do pecado e asseguram a graça, conduzindo assim a alma adiante para aquele alcance abençoado quando a lei de Deus soberanamente imposta se tornará a lei espontânea de nossos espíritos e, consequentemente, aquela lei régia da liberdade da qual Tiago fala. Tg. 1:25; 2:8, 12. Veja C. Maior, qs. 94-97.
 
----
 ## PERGUNTAS
 
 1. Qual é a primeira proposição ensinada nas duas primeiras seções?
