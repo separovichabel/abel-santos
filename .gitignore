@@ -1,4 +1,4 @@
-transformer/venv/
+venv/
 transformer/inputs/*
 .env
 site/
