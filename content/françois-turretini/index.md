@@ -11,3 +11,15 @@
 - [Capítulo 6](a-necessaria-secessao/de_necessaria_secessione_capitulo_06.md)
 - [Capítulo 7](a-necessaria-secessao/de_necessaria_secessione_capitulo_07.md)
 - [Capítulo 8](a-necessaria-secessao/de_necessaria_secessione_capitulo_08.md)
+
+## Versao moderna
+
+- [Prefácio](a-necessaria-secessao/moderna/de_necessaria_secessione_prefacio.md)
+- [Capítulo 1](a-necessaria-secessao/moderna/de_necessaria_secessione_capitulo_01.md)
+- [Capítulo 2](a-necessaria-secessao/moderna/de_necessaria_secessione_capitulo_02.md)
+- Capítulo 3
+- Capítulo 4
+- Capítulo 5
+- Capítulo 6
+- Capítulo 7
+- [Capítulo 8](a-necessaria-secessao/moderna/de_necessaria_secessione_capitulo_08.md)
