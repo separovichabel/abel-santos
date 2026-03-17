@@ -1,4 +1,4 @@
-# François Turretini
+# Francis Turretini
 
 ## A NECESSIDADE DA NOSSA SEPARAÇÃO DA IGREJA ROMANA E A IMPOSSIBILIDADE DE SINCRETISMO COM ELA.
 
@@ -13,6 +13,7 @@
 - [Capítulo 8 - Na qual se resolvem as Objeções](A_NECESSIDADE_DA_NOSSA_SEPARAÇÃO_DA_IGREJA_ROMANA/08.md)
 
 **DEZ DISPUTAS DIVERSAS**
+
 - [Prefácio - Carta ao leitor](A_NECESSIDADE_DA_NOSSA_SEPARAÇÃO_DA_IGREJA_ROMANA/09.md)
 - [Capitulo 1 - Sobre o Livro da Vida.](A_NECESSIDADE_DA_NOSSA_SEPARAÇÃO_DA_IGREJA_ROMANA/10.md)
 - [Capitulo 2 - 1ª Disputa sobre a Autoridade da Sagrada Escritura contra os Pontifícios. ](A_NECESSIDADE_DA_NOSSA_SEPARAÇÃO_DA_IGREJA_ROMANA/11.md)

@@ -7,7 +7,7 @@ Meu nome é Abel Santos, e esse site é o meu catálogo de conteúdos traduzidos
 - [Segunda Confissão de Fé Helvética](heinrich-bullinger/segunda-confissao-helvetica/index.md)
 - [Confissão de Fé de Westminster](assembleia-westminster/confissao-de-fé/indice.md)
 - [Credo Apostólico, Nicêno e Atanasiano](credos/credos.md)
-- [François Turretini](françois-turretini/index.md)
+- [Francis Turretini](françois-turretini/index.md)
 - [Joseph Caryl](joseph-caryl/index.md)
 
 ## Licença
