@@ -1,0 +1,4 @@
+# D E C A S DISPUTATIONUM MISCELLANEARUM,
+Variis Temporibus Habitarum,
+*QUARUM CATALOGUM SEQUENS*
+Pagina exhibet.
