@@ -1,0 +1,66 @@
+site_name: Abel Santos [Staging]
+site_description: Site de conteudos traduzidos por Abel Santos.
+site_author: Abel S. C. Santos
+site_url: https://staging.abelsantos.com.br
+
+theme:
+  name: material
+  language: pt-BR
+  logo: icon-sm.png
+  favicon: icon-sm.png
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+  palette:
+    scheme: default
+    primary: indigo
+    accent: indigo
+
+plugins:
+  - search
+  - i18n:
+      docs_structure: folder
+      languages:
+        - locale: pt
+          default: true
+          name: Português
+          build: true
+        - locale: en
+          name: English
+          build: true
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/separovichabel/abel-santos
+  alternate:
+    - name: Português
+      link: ./
+      lang: pt
+    - name: English
+      link: en/
+      lang: en
+
+use_directory_urls: false
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - tables
+  - admonition
+  - codehilite
+  - footnotes
+  - pymdownx.superfences
+  - pymdownx.details
+  - attr_list
+  - md_in_html
+
+nav:
+  - Conteúdo: index.md
+  - Termos: TERMOS.md
+
+docs_dir: content
+site_dir: site

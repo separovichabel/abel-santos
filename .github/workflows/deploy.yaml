@@ -1,12 +1,16 @@
-name: ci 
+name: ci
 on:
   push:
     branches:
       - main
+      - staging
+
 permissions:
   contents: write
+
 jobs:
-  deploy:
+  deploy-production:
+    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -17,12 +21,40 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: 3.x
-      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
+      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
       - uses: actions/cache@v4
         with:
           key: mkdocs-material-${{ env.cache_id }}
-          path: ~/.cache 
+          path: ~/.cache
           restore-keys: |
             mkdocs-material-
       - run: pip install mkdocs-material mkdocs-static-i18n==1.2.3 pymdown-extensions
       - run: mkdocs gh-deploy --force
+
+  deploy-staging:
+    if: github.ref == 'refs/heads/staging'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Configure Git Credentials
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+      - uses: actions/setup-python@v5
+        with:
+          python-version: 3.x
+      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
+      - uses: actions/cache@v4
+        with:
+          key: mkdocs-material-staging-${{ env.cache_id }}
+          path: ~/.cache
+          restore-keys: |
+            mkdocs-material-staging-
+      - run: pip install mkdocs-material mkdocs-static-i18n==1.2.3 pymdown-extensions
+      - name: Deploy to staging repository
+        run: |
+          mkdocs gh-deploy --force \
+            --config-file mkdocs-staging.yml \
+            --remote-name origin \
+            --remote-branch gh-pages \
+            --remote-repository https://x-access-token:${{ secrets.STAGING_DEPLOY_TOKEN }}@github.com/separovichabel/abel-santos-staging.git
