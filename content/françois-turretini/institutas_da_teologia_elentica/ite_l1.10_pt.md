@@ -1,0 +1,43 @@
+# QUESTÃO X.
+
+*Deve-se permitir à razão humana o juízo de contradição em assuntos de Fé?* Afirmativo.
+
+**Ocasião da Questão.**
+
+I. Esta controvérsia também é debatida entre nós e os luteranos, principalmente os Ubiquitários, aos quais, visto que costumamos objetar que a opinião deles sobre a *polytopia* [multipresença] ou *pantonychia* [presença em todo lugar] do Corpo de Cristo é contraditória, costumam retrucar que o Juízo de contradição nos artigos de fé não pertence à Razão, mas à Sagrada Escritura (Osiand. Enchirid. Calvin. c. i. q. 3; Mænzerus no Elencho errorum Sadeelis ad Arg. 6; Stegmanus em Photin. disp. 2. q. 3). Por isso, Meisnerus (quest. metaph. 3, contra Calvin.) diz que aquele axioma — "Contraditórios são prorsus impossíveis porque é impossível que a mesma coisa seja e não seja" — é perigosíssimo nas coisas divinas. Para manter o estado da questão, devem-se distinguir aqui três coisas: a razão que julga, o princípio a partir do qual o juízo é formado e a norma de consequência pela qual o juízo é formado. 1. Por Razão entende-se aqui não a cega e depravada pelo pecado, mas a restaurada e iluminada pelo Espírito Santo. 2. Os Princípios são axiomas, não conhecidos pela natureza ou estabelecidos por autoridade humana, mas transmitidos na Escritura. 3. A Norma pela qual a razão é dirigida e confirmada ao extrair e aplicar a verdade da Escritura são as regras de boa consequência inseridas por Deus na criatura racional. Ora, tal Norma não é a Norma da própria verdade, que é somente a Palavra de Deus e a primeira verdade normal, mas apenas a Norma de consequência, por cuja intervenção se conhece e discerne com maior certeza o que se segue do verdadeiro e o que não se segue.
+
+**Estado da Questão.**
+
+II. Não se pergunta se a Razão pode alcançar os Mistérios da fé por si mesma; pois ninguém nega que muitos deles superam em muito a capacidade da razão. Mas pergunta-se se ela pode conhecer a contradição de proposições, a qual não pode ser discernida senão pelas leis da natureza e da razão. 2. Não se pergunta sobre o Juízo de decisão absoluto e ilimitado, mas sobre o Juízo de discrição, que é limitado e vinculado à Palavra, e que sempre deve ser provado a partir dela (1 Tes. v. 21; 1 Jo. iv. 1); o qual, se nem sempre serve para a convicção alheia, é suficiente para a própria.
+
+III. Assim, pois, estabelecemos: O juízo de contradição pertence à razão, mas: 1. suposta sempre a revelação e sua verdade por si mesma digna de fé. 2. Organicamente e ministerialmente, não despoticamente e por autoridade. 3. Com exigência à própria Escritura, que se interpreta suficientemente a si mesma e não requer nenhum intérprete fora de si para que seu sentido seja estabelecido. E assim, a Razão iluminada pelo Espírito Santo através da Palavra pode, a partir da própria Palavra e segundo as regras de boa e necessária consequência, considerar e julgar como as partes da doutrina se coadunam entre si, e o que delas se segue ou não.
+
+**Prova-se que o Juízo de contradição compete à Razão.**
+
+IV. As razões são: 1. Porque a Escritura prescreve este juízo mais de uma vez (Mt. vii. 15 e xvi. 6; Col. iii. 8; 1 Tessal. v. 21; Hebr. v. 14). 2. Os exemplos dos Santos o confirmam, como os Bereanos (At. xvii. 11) e os Coríntios (1 Cor. x. 15). 3. O fim da Escritura o ensina, que é a perfeição do Homem de Deus no conhecimento da verdade e na convicção das contradições (1 Tim. iii. 16; Tit. i. 9), o qual não pode ser obtido sem ele. 4. O uso da razão o demonstra, pois assim como a ela pertence o conhecimento da afirmação ou negação de proposições e a doutrina da contradição, assim também o juízo desta lhe diz respeito; e se isto não for estabelecido, abre-se uma porta larguíssima para todo tipo de heréticos e fanáticos impingirem suas ficções e monstros de opiniões, e nunca poderá haver qualquer contradição verdadeira.
+
+**Fontes das Soluções.**
+
+V. Embora este juízo seja feito pelo homem subjetivamente, não deve, contudo, ser considerado humano — como se fosse conjeturado à maneira dos homens, originalmente a partir de raciocínios ou afetos humanos —, mas Divino, pois é proferido pela luz e pelo afeto do Espírito Santo; sentido em que Paulo diz em 1 Cor. ii. 14 que o homem espiritual julga todas as coisas, a saber, espiritualmente, pela luz da graça, não pela razão animal.
+
+VI. A Razão não pode julgar o poder de Deus a partir de princípios naturais; mas nada impede que o julgue a partir da Palavra (Mt. xix. 26; 2 Tim. i. 12; Sal. cxv. 3). Assim, o juízo de contradição é perigoso quanto à razão cega, quando julga a partir de princípios corruptos; mas nós falamos da razão iluminada, pronunciando a partir da Palavra.
+
+VII. A razão deve ser cativada (2 Cor. x. 5) na medida em que se exalta contra Cristo e seu Evangelho, mas pode ser ouvida quando lhe serve e é julgada a partir dele.
+
+VIII. As trevas do engenho humano não impedem que a sã razão possa julgar a verdade das conexões e, assim, a contradição. Admitimos que ela não pode julgar a verdade das sentenças, visto que a ignora por si mesma e que deve ser buscada na Lei e no Testemunho; mas não se segue daí que não possa julgar a contradição das enunciações, das opiniões e das interpretações que os homens formam acerca desses mistérios.
+
+IX. A Razão não pode julgar apenas sobre a contradição direta e formal, que consiste nos mesmos termos e na afirmação e negação expressas, mas também sobre a indireta e implícita, que é deduzida por consequência necessária: como esta: "O Sangue de Cristo nos purifica de todo pecado, logo não existe Purgatório"; "Cristo subiu aos céus, logo não está em todo lugar".
+
+X. Para conhecer a contradição, não é necessário conhecer distintamente as próprias coisas e sua essência, mas basta que se conheça a verdade das conexões, a partir das quais se pode facilmente proferir juízo sobre a contradição da proposição.
+
+XI. Embora muitas coisas pareçam contraditórias para vários homens, sem o serem de fato; não se segue que para homens que usam bem a razão e sentem retamente pareça ser tal o que não é.
+
+XII. Uma coisa é falar da razão sã e regenerada em abstrato; outra, da mesma em concreto, conforme está neste ou naquele sujeito corrupto. Atribuímos o juízo à razão não no último sentido, mas apenas no primeiro.
+
+XIII. Uma coisa é tirar da razão todo juízo e estabelecer que não se deve crer nela categoricamente; outra é que não se deve crer apenas naquilo que a razão conhece, mas que na perfeição da escola devem ser aprendidas aquelas coisas que a razão não pode transmitir nem alcançar. Não dizemos o primeiro, mas o segundo.
+
+XIV. Embora o Juízo de contradição em coisas de fé seja permitido à razão, não se segue que o intelecto humano se torne a regra da potência divina, como se Deus não pudesse realizar mais do que a razão humana pode conceber. Pois uma coisa é algo poder ser feito por Deus acima da natureza e do conceito humano, o que é dito mui verdadeiramente em Efésios iii. 20; outra coisa, porém, é ser contra a natureza e os princípios da luz natural, o que é falsíssimo. Nem assim a potência de Deus é limitada à regra do nosso intelecto, mas nossa mente julga, a partir da Palavra, o que, conforme a natureza da coisa estabelecida por Deus, deve ser dito possível ou impossível.
+
+XV. A Razão não pode julgar a potência de Deus de modo a compreendê-la plenamente, ou para considerar impossíveis coisas que estão acima da natureza, ou para introduzir algo na Teologia sob o pretexto da potência divina, a menos que antes conste sobre isso pela Palavra; muito menos para que, quando a Palavra de Deus estabelece algo certa e claramente, recorra à onipotência de Deus para subvertê-lo. Mas julgamos bem da Potência de Deus na medida em que a examinamos em relação à natureza das coisas e à Sua Palavra; de modo que algo seja chamado impossível e contraditório não porque pareça tal a este ou àquele, mas porque é tal na realidade, por repugnar à natureza da coisa e à verdade revelada na Palavra.
+
+XVI. Uma coisa é a razão poder ser Juíza do falso, do contraditório e do que repugna tanto aos princípios universalíssimos da razão quanto à revelação — por exemplo, na matéria da Transubstanciação, Ubiquidade, Adoração de criaturas e semelhantes. Outra coisa é a Razão dever ser Juíza e norma do verdadeiro revelado, e um teste probatório daquilo que está elevadíssimo acima da sua esfera, que foi entregue por Deus, cujos pensamentos transcendem imensamente os humanos, e que quer que a razão seja levada cativa à obediência da fé (2 Cor. x. 5). Negamos o último, mas afirmamos o primeiro.

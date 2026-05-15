@@ -2,3 +2,4 @@
 
 - [**A NECESSIDADE DA NOSSA SEPARAÇÃO DA IGREJA ROMANA E A IMPOSSIBILIDADE DE SINCRETISMO COM ELA.**](./A_NECESSIDADE_DA_NOSSA_SEPARAÇÃO_DA_IGREJA_ROMANA/index.md)
 - [**A SATISFAÇÃO DE CRISTO**](./a_satisfacao_de_cristo/index.md)
+- [**INSTITUTAS DA TEOLOGIA ELÊNTICA**](./institutas_da_teologia_elentica/index.md)
