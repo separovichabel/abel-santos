@@ -31,6 +31,9 @@ plugins:
           name: English
           build: true
 
+extra_css:
+  - stylesheets/extra.css
+
 extra:
   generator: false
   social:

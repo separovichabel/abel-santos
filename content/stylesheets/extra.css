@@ -1,0 +1,125 @@
+/* ===== GRID DE CAPAS ===== */
+
+.book-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  gap: 28px;
+  margin: 36px 0 48px;
+}
+
+/* ===== CAPA — OPÇÃO A (Tipográfica Clássica) ===== */
+
+.book-cover {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 2 / 3;
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 28px 20px;
+  cursor: pointer;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  box-shadow: 4px 6px 20px rgba(0, 0, 0, 0.4);
+  text-decoration: none !important;
+  overflow: hidden;
+}
+
+/* reflexo suave na capa */
+.book-cover::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(160deg, rgba(255, 255, 255, 0.07) 0%, transparent 55%);
+  pointer-events: none;
+}
+
+/* lombada esquerda */
+.book-cover::after {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; bottom: 0;
+  width: 12px;
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.4), transparent);
+  border-radius: 3px 0 0 3px;
+  pointer-events: none;
+}
+
+.book-cover:hover {
+  transform: translateY(-7px) rotate(0.4deg);
+  box-shadow: 8px 18px 36px rgba(0, 0, 0, 0.5);
+}
+
+.book-cover .ba-author {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 0.58rem;
+  font-weight: 600;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.6);
+  margin-bottom: 14px;
+  text-align: center;
+  line-height: 1.5;
+}
+
+.book-cover .ba-rule,
+.book-cover .ba-rule-bottom {
+  width: 36px;
+  height: 1px;
+  background: rgba(255, 255, 255, 0.35);
+  flex-shrink: 0;
+}
+
+.book-cover .ba-rule {
+  margin-bottom: 16px;
+}
+
+.book-cover .ba-rule-bottom {
+  margin-bottom: 14px;
+}
+
+.book-cover .ba-title {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 0.95rem;
+  font-weight: 400;
+  color: #ffffff;
+  text-align: center;
+  line-height: 1.45;
+  letter-spacing: 0.01em;
+  flex: 1;
+  display: flex;
+  align-items: center;
+}
+
+.book-cover .ba-publisher {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 0.5rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.35);
+  text-align: center;
+}
+
+/* ===== CORES POR AUTOR ===== */
+
+.ba-calvino     { background: linear-gradient(145deg, #1a2744, #0d1829); }
+.ba-turretini   { background: linear-gradient(145deg, #3d1f1f, #200f0f); }
+.ba-hodge       { background: linear-gradient(145deg, #1f3d2a, #0f2016); }
+.ba-bullinger   { background: linear-gradient(145deg, #2d2416, #18130a); }
+.ba-westminster { background: linear-gradient(145deg, #162d3d, #0a1820); }
+.ba-credos      { background: linear-gradient(145deg, #2d2d2d, #111111); }
+.ba-caryl       { background: linear-gradient(145deg, #2d1640, #160b20); }
+
+/* ===== RESPONSIVIDADE ===== */
+
+@media (max-width: 480px) {
+  .book-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 18px;
+  }
+
+  .book-cover .ba-title {
+    font-size: 0.82rem;
+  }
+}
