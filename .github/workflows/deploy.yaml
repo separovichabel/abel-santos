@@ -28,7 +28,7 @@ jobs:
           path: ~/.cache
           restore-keys: |
             mkdocs-material-
-      - run: pip install mkdocs-material mkdocs-static-i18n==1.2.3 pymdown-extensions
+      - run: pip install mkdocs-material mkdocs-static-i18n==1.2.3 pymdown-extensions mkdocs-macros-plugin
       - run: mkdocs gh-deploy --force
 
   deploy-staging:
@@ -50,7 +50,7 @@ jobs:
           path: ~/.cache
           restore-keys: |
             mkdocs-material-staging-
-      - run: pip install mkdocs-material mkdocs-static-i18n==1.2.3 pymdown-extensions
+      - run: pip install mkdocs-material mkdocs-static-i18n==1.2.3 pymdown-extensions mkdocs-macros-plugin
       - name: Deploy to staging repository
         run: |
           mkdocs gh-deploy --force \

@@ -20,6 +20,7 @@ theme:
 
 plugins:
   - search
+  - macros
   - i18n:
       docs_structure: folder
       languages:
@@ -36,6 +37,35 @@ extra_css:
 
 extra:
   generator: false
+  books:
+    - title: "Comentário sobre a Confissão de Fé de Westminster"
+      author: "A. A. Hodge"
+      color: "#1f3d2a"
+      url: "hodge-archibald-alexander/um-comentario-sobre-a-confissao-de-fe/index.html"
+    - title: "Coleção de Obras"
+      author: "João Calvino"
+      color: "#1a2744"
+      url: "joao-calvino/index.html"
+    - title: "Segunda Confissão de Fé Helvética"
+      author: "Heinrich Bullinger"
+      color: "#2d2416"
+      url: "heinrich-bullinger/segunda-confissao-helvetica/index.html"
+    - title: "Confissão de Fé de Westminster"
+      author: "Assembleia de Westminster"
+      color: "#162d3d"
+      url: "assembleia-westminster/confissao-de-fé/indice.html"
+    - title: "Credo Apostólico, Nicêno e Atanasiano"
+      author: "Credos Históricos"
+      color: "#2d2d2d"
+      url: "credos/credos.html"
+    - title: "Coleção de Obras"
+      author: "Francis Turretini"
+      color: "#3d1f1f"
+      url: "françois-turretini/index.html"
+    - title: "Exposição do Livro de Jó"
+      author: "Joseph Caryl"
+      color: "#2d1640"
+      url: "joseph-caryl/index.html"
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/separovichabel/abel-santos

@@ -101,16 +101,6 @@
   text-align: center;
 }
 
-/* ===== CORES POR AUTOR ===== */
-
-.ba-calvino     { background: linear-gradient(145deg, #1a2744, #0d1829); }
-.ba-turretini   { background: linear-gradient(145deg, #3d1f1f, #200f0f); }
-.ba-hodge       { background: linear-gradient(145deg, #1f3d2a, #0f2016); }
-.ba-bullinger   { background: linear-gradient(145deg, #2d2416, #18130a); }
-.ba-westminster { background: linear-gradient(145deg, #162d3d, #0a1820); }
-.ba-credos      { background: linear-gradient(145deg, #2d2d2d, #111111); }
-.ba-caryl       { background: linear-gradient(145deg, #2d1640, #160b20); }
-
 /* ===== RESPONSIVIDADE ===== */
 
 @media (max-width: 480px) {
