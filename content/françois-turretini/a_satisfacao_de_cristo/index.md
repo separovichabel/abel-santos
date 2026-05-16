@@ -1,19 +1,33 @@
-# A Satisfação de Crsito
+# A Satisfação de Cristo
 
-- [01](01.md)
-- [02](02.md)
-- [03](03.md)
-- [04](04.md)
-- [05](05.md)
-- [06](06.md)
-- [07](07.md)
-- [08](08.md)
-- [09](09.md)
-- [10](10.md)
-- [11](11.md)
-- [12](12.md)
-- [13](13.md)
-- [14](14.md)
-- [15](15.md)
-- [16](16.md)
-- [17](17.md)
+## Prefácio
+
+- [Ao Leitor](01.md)
+- [Prefácio (continuação)](02.md)
+
+## Necessidade da Satisfação
+
+- [Disputa I — Sobre a Necessidade da Satisfação de Cristo](03.md)
+- [Disputa II — Sobre a Necessidade da Satisfação de Cristo](04.md)
+
+## Verdade da Satisfação
+
+- [Disputa III — Primeira Sobre a Verdade da Satisfação de Cristo](05.md)
+- [Disputa IV — Segunda Sobre a Verdade da Satisfação de Cristo](06.md)
+- [Disputa V — Terceira Sobre a Verdade da Satisfação de Cristo](07.md)
+- [Disputa VI — Quarta Sobre a Verdade da Satisfação de Cristo: Agonia e Deserção](08.md)
+- [Disputa VII — Quinta Sobre a Verdade da Satisfação de Cristo: Abandono e Morte](09.md)
+- [Disputa VIII — Sexta Sobre a Verdade da Satisfação de Cristo](10.md)
+- [Disputa IX — Sétima Sobre a Verdade da Satisfação de Cristo](11.md)
+- [Disputa X — Oitava Sobre a Verdade da Satisfação de Cristo](12.md)
+- [Disputa X (Segunda Parte) — Sobre a Veracidade da Satisfação de Cristo](13.md)
+
+## Perfeição da Satisfação
+
+- [Disputa XI — Primeira Sobre a Perfeição da Satisfação de Cristo](14.md)
+- [Disputa XII — Segunda Sobre a Perfeição da Satisfação de Cristo](15.md)
+
+## Disputas Adicionais
+
+- [Disputa Sobre o Círculo Pontifício](16.md)
+- [Exercício Textual: Concórdia de Paulo e Tiago no Artigo da Justificação](17.md)
